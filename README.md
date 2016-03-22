@@ -12,5 +12,5 @@ contains some basic scripts.
 ## 3. chromeExt
 currently creating my chrome extension that can get all the addresses of webpages that are currently open in chrome
 
--**
+--------------------------------------------
 FEEL FREE TO USE ANY OF MY WORK
