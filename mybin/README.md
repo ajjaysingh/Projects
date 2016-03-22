@@ -18,3 +18,5 @@ Scripts I use for fun and efficiency
 + **python2a.py**
 
     start the preinstalled mac python2 as I've installed anaconda and cannot run the original directly. PS I know I could have written just /usr/bin/python but just for experimenting sake created a 2 line script for that.
+------------------------------------------------------------
+*FEEL FREE TO USE ANY OF MY WORK*
