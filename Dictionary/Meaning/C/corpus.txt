@@ -1,0 +1,23 @@
+                                                                                      CORPUS                                                                                      
+  SHORT        A corpus is a collection of writings. If you tend to never throw anything away, you might have your entire school corpus, from your first scribbled words to
+               your high school English essays.
+  LONG         The written works of an author, or from one specific time period, can be called a corpus if they're gathered together into a collection or talked about as a
+               group. You could discuss the corpus of Dr. Seuss, for example. Corpus sounds a little like corpse, and that's no coincidence; corpus means
+               "body" in Latin, and though it's come to mean specifically "body of work," the two words are closely related.
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+     >         The bond was set during an appearance this week before a federal magistrate judge in Corpus Christi.
+     >         On Tuesday, her lawyer Ambiga, accompanied by Chin’s three sons, filed a habeas corpus application seeking her release.
+     >         But brain scans soon after birth showed excess fluid and abnormalities in his cortex and corpus callosum, which separates the two hemispheres.
+     >         But Corpus Christi is the much larger of the two cities, a tourism destination, currently undergoing a huge industrial growth spurt.
+     >         He also expressed plans to suspend the writ of habeas corpus to strengthen his anti-drug campaign and suppress “rebellion” in Mindanao.
+
+ 1   A Collection Of Written Texts, Especially The Entire Works Of A Particular Author Or A Body Of Writing On A Particular Subject.
+	 Eg.  "The Darwinian Corpus"
+	 Eg.  "His Work Has No Parallel In The Whole Corpus Of Renaissance Poetry"
+	 Synonyms:  collection , compilation , body , entity , whole , 
+
+ 2   A Collection Of Written Or Spoken Material In Machine-Readable Form, Assembled For The Purpose Of Linguistic Research.
+
+ 3   The Main Body Or Mass Of A Structure.
+
+ 4   The Central Part Of The Stomach, Between The Fundus And The Antrum.

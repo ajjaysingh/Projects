@@ -1,0 +1,2 @@
+>AppleScript to display an alert in a separate window
+    osascript -e 'tell app "System Events" to display alert "Build Completed" message "The checkout and build have completed."'

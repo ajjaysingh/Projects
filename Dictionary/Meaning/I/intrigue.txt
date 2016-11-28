@@ -1,0 +1,36 @@
+                                                                                     INTRIGUE                                                                                     
+  SHORT        An intrigue is a secret plot. If you ever become the monarch of a small island kingdom, keep watch for signs of any intrigue against you.
+  LONG         Intrigue comes from the Latin verb intricare,  to entangle, and is related to intricate. It can be a noun, meaning underhanded plot, or a verb for the act of
+               plotting. Agents of two opposing powers intrigue against each other. In the late nineteenth century it also came to mean the feeling of
+               curiosity or interest. If someone's ideas intrigue you, you want to know more about them.
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+     >         But he is intrigued by the possibility that Amazon might offer a version of PostgreSQL, a database service popular with big companies.
+     >         Three new books have arrived, ideal for those still intrigued by the Cold War in all its permutations.
+     >         Maybe this is the pendulum swinging back, or maybe it’s just an intriguing start for a promising writer.
+     >         Using real-time digital data to derive these insights is intriguing, yet top-line figures such as numbers of searches or mentions are rarely illuminating.
+     >         Many physicians are actively drawn to a particular bodily fluid, intrigued by its unique diagnostic mysteries.
+
+ 1   Arouse The Curiosity Or Interest Of; Fascinate.
+	 Eg.  "I Was Intrigued By Your Question"
+	 Eg.  "Other People'S Houses Always Intrigued Her"
+	 Eg.  "A Wealth Of Intriguing Stories Appear In This Book"
+	 Synonyms:  interest , fascinate , attract , draw , lure , 
+	 Antonyms:  bore , 
+
+ 2   Make Secret Plans To Do Something Illicit Or Detrimental To Someone.
+	 Eg.  "Henry And Louis Intrigued With The Local Nobles"
+	 Eg.  "The Ministers Were Intriguing For Their Own Gains"
+	 Synonyms:  plot , conspire , scheme , manoeuvre , connive , 
+
+ 3   The Secret Planning Of Something Illicit Or Detrimental.
+	 Eg.  "The Cabinet Was A Nest Of Intrigue"
+	 Eg.  "The Intrigue That Accompanied The Selection Of A New Leader"
+	 Synonyms:  planning , conspiracy , collusion , conniving , scheming , 
+
+ 4   A Secret Love Affair.
+	 Eg.  Plural Noun: Intrigues
+	 Eg.  "The King'S Intrigues With His Nobles' Wives"
+	 Synonyms:  affair , liaison , amour , fling , flirtation , 
+
+ 5   A Mysterious Or Fascinating Quality.
+	 Eg.  "Within The Region'S Borders Is A Wealth Of Interest And Intrigue"

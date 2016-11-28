@@ -10,14 +10,15 @@
 import os
 from os import path
 
+os.chdir('/Users/chaser/Projects/mybin')
 file_list = os.listdir("/Users/chaser/Projects/mybin")
 
 file_list = filter(path.isfile, file_list)
 
-os.chdir('/Users/chaser/Projects/mybin')
 count = 1
 print 'SCRIPTS'
 for files in file_list:
+    os.chdir('/Users/chaser/Projects/mybin')
     head = open(files, 'r')
     description = ''#head.readline()
     for line in head:

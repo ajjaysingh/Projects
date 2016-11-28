@@ -4,7 +4,7 @@
 # Author			: Ajay
 # Date				: 2016-Mar-22
 #==================================================
-
+# add purpose like to  what course or site the code is related to and the usage i.e how to run the file whether it requires some cmd line args
 
 
 import os
@@ -29,11 +29,12 @@ division = '==================================================' # 50
 shebang_choice = 1
 shebang_choice = raw_input('\nDo you want to add shebang(/usr/bin/python) to this file?\nPress 1 for YES (DEFAULT)\nPress 2 for NO\n: ')
 shebang = '/usr/bin/python'
-version_choice = raw_input('\nPress 1 for Python 2.7\nPress 2 for Python 3\n: ')
-version = 2.7
-if int(version_choice) == 2:
-    version = 3
-    shebang = '/Library/Frameworks/Python.framework/Versions/3.4/bin/python3'
+if int(shebang_choice) == 1:
+    version_choice = raw_input('\nPress 2 for Python 2.7\nPress 3 for Python 3\n: ')
+    version = 2.7
+    if int(version_choice) == 3:
+        version = 3
+        shebang = '/Library/Frameworks/Python.framework/Versions/3.4/bin/python3'
 
 date = strftime("%Y-%m-%d")
 
@@ -51,7 +52,9 @@ try:
     file.write('\n# Description\t\t: ' + description)
     file.write('\n# Author\t\t\t: ' + Author_Name)
     file.write('\n# Date\t\t\t\t: ' + date)
-    file.write('\n# Python Version\t: ' + str(version))
+    print "asssss"
+    if int(shebang_choice) == 1:
+        file.write('\n# Python Version\t: ' + str(version))
     file.write('\n#' + division)
     file.write('\n\n\n')
 
