@@ -233,9 +233,11 @@ def getGoogleResponse(word, driver):
     everyThing = final_soup.select("div.lr_dct_ent")
     # print(everyThing)
     if everyThing == []:
-        raiseDefinitionException(final_soup, word) # we need to pass word to this also because sometimes the word will be changed.
-    trans = getHindi(driver)
-    return [everyThing, word, trans]
+        return [everyThing, word, final_soup.find("span", {"class":"Y0NH2b CLPzrc"})] # Alternate definitions provided by google search (for example words like Odyssey, Zero sum game, etc.).
+        # In such a case we return the alternate definition in the trans field, print it out and exit.
+    else:
+        trans = getHindi(driver)
+        return [everyThing, word, trans]
 
 
 def extractHindi(translations):
@@ -416,12 +418,19 @@ def findWordIfAlreadyScrapped(word, fileName, wordToSave):
             driver = webdriver.Chrome(chromedriver)
             sys.stdout = Logger(fileName)
             [definitionElement, word, trans] = getGoogleResponse(word, driver) # word will contain the word returned from search.
-            vocabResults(word)
-            # print(definitionElement)
-            # print("there")
-            extractFromGoogleElement(definitionElement)
-            extractHindi(trans)
-            extractOrigin(definitionElement)
+            if definitionElement == []:
+                # print("trans :", trans )
+                columns = shutil.get_terminal_size().columns
+                print(color.getMagenta(word.upper().center(columns)))
+                print("\n\tDefinition:")
+                print(printAligned("\t", ".".join(trans.text.split(".")[1:])))
+            else:
+                vocabResults(word)
+                # print(definitionElement)
+                # print("there")
+                extractFromGoogleElement(definitionElement)
+                extractHindi(trans)
+                extractOrigin(definitionElement)
             # print("here")
             # exit(5)
             driver.quit()
@@ -436,6 +445,7 @@ def findWordIfAlreadyScrapped(word, fileName, wordToSave):
             # print(">>!!!!>>")
         except NoDefinition as e:
             try:
+                # print("Its in wiki")
                 vocabResults(e.word)
                 print("\n\tWiki Definition:")
                 print(printAligned("\t", e.msg))
@@ -448,10 +458,15 @@ def findWordIfAlreadyScrapped(word, fileName, wordToSave):
                 if wordGiven != e.word:
                     changeFileNameIfSearchNotSame(fileName, wordGiven, e.word)
             except:
+                # print("Its in wiki")
                 sys.stdout =sys.__stdout__
                 os.system('rm ' + fileName.replace(" ", "\\ "))
                 driver.quit()
         except:
+            # for words like Odyssey the exception is returning here.
+            # print("never went to wiki")
+            # try:
+            # except:
             sys.stdout =sys.__stdout__
             os.system('rm ' + fileName.replace(" ", "\\ "))
             driver.quit()
