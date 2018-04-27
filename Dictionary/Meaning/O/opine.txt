@@ -1,16 +1,24 @@
-                                                                                      OPINE                                                                                       
-  SHORT        The verb opine is used when someone speaks up and expresses an opinion. You might opine that dogs are highly preferable to cats.
-  LONG         Whenever you have something to say about a subject, you have the option to opine about it or keep your mouth shut. Movie critics opine about the best films of
+[35m                                                                                      OPINE                                                                                       [0m
+[91m        SHORT  The verb opine is used when someone speaks up and expresses an opinion. You might opine that dogs are highly preferable to cats.[0m
+[36m         LONG  Whenever you have something to say about a subject, you have the option to opine about it or keep your mouth shut. Movie critics opine about the best films of
                the year, and kindergarten kids opine that they'd rather not take a nap. Opine can also describe what you suppose will happen, like when you
-               opine that school lunches will improve because of the new cook. The Latin opinari, or have an opinion, is the root of opine.
+               opine that school lunches will improve because of the new cook. The Latin opinari, or have an opinion, is the root of opine.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         As Albert Camus opined, every act of rebellion is both against and for something.
-     >         Others opined that the 74-year-old “Queen of Soul” had earned the right to sing the anthem for as long as she wanted.
-     >         Three years after Liston's death in 1970, the New York Times opined that heavyweight boxing missed his "frightening sense of evil".
-     >         A recently unearthed video shows a much younger Trump opining on Citizen Kane.
-     >         Some of those views “would seem to outflank even Israeli Prime Minister Benjamin Netanyahu,” the Forward, a Jewish newspaper, recently opined.
+[3m             > And on In My Mind, he opines, "I'm better off being alone".[0m
+[3m             > Trump just opined the government needs a “good” shutdown in September to “fix mess.”[0m
+[3m             > He also opined that anything less than a capital sentence would declare “open season on babies in Lexington County”.[0m
+[3m             > Worst affected, the Communist Party’s premier mouthpiece opined,...[0m
+[3m             > “We are not opining on whether public schools or charter schools are better for the education of children,” wrote Associate Justice Richard D. Fybel.[0m
 
- 1   Hold And State As One'S Opinion.
-	 Eg.  "‘The Man Is A Genius,’ He Opined"
-	 Eg.  "The Headmistress Opined That The Outing Would Make A Nice Change"
-	 Synonyms:  suggest , submit , advance , propose , venture , 
+[35mOpine[0m[36m /ə(ʊ)ˈpʌɪn/,[0m [91m[3mverb formal[0m[0m | verb: opine; 3rd person present: opines; past tense: opined; past participle: opined; gerund or present participle: opining
+          • [37mhold and state as one's opinion.[0m
+	   "‘The man is a genius,’ he opined"
+  	   [3msynonyms:[0m suggest, submit, advance, propose, venture, volunteer, put forward, moot, propound, posit, air, hazard, say, declare, observe, comment, remark ;  think,
+                     believe, consider, maintain, imagine, be of the view, be of the opinion, reckon, guess, estimate, conjecture, fancy, suspect, feel,
+                     have a/the feeling, assume, presume, take it, suppose, expect, gather ;  contend, be convinced, be of the conviction, reason,
+                     deduce, conclude, theorize, hypothesize, take as a hypothesis ;  allow ;  ween
+		    "the headmistress opined that the outing would make a nice change"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mविचार करना[0m    [31mराय होना[0m  
+     [31mसमझना[0m        [31mसोचना[0m   
+   [31mमान लेना[0m      [31mविचारना[0m  

@@ -1,28 +1,28 @@
-                                                                                      TANDEM                                                                                      
-  SHORT        Tandem describes an arrangement where people or animals are in formation, one behind the other. Couples attached at the hip sometimes like to ride tandem
-               bicycles, which allow two people to pedal the same bike. How cute.
-  LONG         In 1785, tandem first came into existence as a noun meaning “carriage pulled by horses harnessed one behind the other.” About a hundred years later, people
+[35m                                                                                      TANDEM                                                                                      [0m
+[91m        SHORT  Tandem describes an arrangement where people or animals are in formation, one behind the other. Couples attached at the hip sometimes like to ride tandem
+               bicycles, which allow two people to pedal the same bike. How cute.[0m
+[36m         LONG  In 1785, tandem first came into existence as a noun meaning “carriage pulled by horses harnessed one behind the other.” About a hundred years later, people
                started to use tandem to refer to bicycles with two seats. This type of bicycle has two sets of pedals and two seats, but only one set of
                wheels. To transform tandem into an adverb, just stick in in front of it. "In tandem" can just mean "together" — like two departments working
-               in tandem on a project.
+               in tandem on a project.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Tandem drug-price increases for other ailments have prompted lawmakers to call for investigations into potential collusion.
-     >         Liberty means freedom, and it essentially involves letting the horses run loose while at the same time encouraging them to move in tandem.
-     >         For most of the overtime period, however, Anthony and Porzingis worked in tandem to keep the Knicks within distance of that picturesque moment.
-     >         An optional torque vectoring system pulses the inside rear brake caliper in tandem with the rear differential for increased stability.
-     >         “But that doesn’t mean that we have to automatically allow Japanese interest rates to increase in tandem.”
+[3m             > Speaking in Kiev, Petro O. Poroshenko, the Ukrainian president, noted that this would be the last year Ukraine celebrated Victory Day in tandem with Russia.[0m
+[3m             > But what does the way they then spread across the internet tell us about the way hackers and political movements work in tandem?[0m
+[3m             > These books are companion pieces, and they deserve to be read in tandem.[0m
+[3m             > But 20 years later, the content of Wallace’s books, scrutinised in tandem with his readership, leaves the work vulnerable to similar questions.[0m
+[3m             > In an era when lines rarely stay together long, the tandem of Getzlaf and Perry endured enough for them to be dubbed The Twins.[0m
 
- 1   A Bicycle With Seats And Pedals For Two Riders, One Behind The Other.
-
- 2   A Carriage Driven By Two Animals Harnessed One In Front Of The Other.
-
- 3   A Group Of Two People Or Machines Working Together.
-	 Eg.  "The Giants Had The Greatest Pitching Tandem In Baseball History"
-
- 4   With Two Or More Horses Harnessed One Behind Another.
-	 Eg.  "I Rode Tandem To Paris"
-
- 5   Alongside Each Other; Together.
-
- 6   Having Two Things Arranged One In Front Of The Other.
-	 Eg.  "A Tandem Trailer"
+[35mTandem[0m[36m /ˈtandəm/,[0m [91m[3mnoun[0m[0m | noun: tandem; plural noun: tandems
+      [32m1.[0m [37ma bicycle with seats and pedals for two riders, one behind the other.[0m
+          • [37ma carriage driven by two animals harnessed one in front of the other.[0m
+          • [37ma group of two people or machines working together.[0m
+	   "the Giants had the greatest pitching tandem in baseball history"
+    [91m[3madverb[0m[0m | adverb: tandem
+      [32m1.[0m [37mwith two or more horses harnessed one behind another.[0m
+	   "I rode tandem to Paris"
+          • [37malongside each other; together.[0m
+    [91m[3madjective[0m[0m | adjective: tandem
+      [32m1.[0m [37mhaving two things arranged one in front of the other.[0m
+	   "a tandem trailer"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mटंडेमवाला[0m     [31mटंडेम[0m     [31mटमटम गाडी[0m 

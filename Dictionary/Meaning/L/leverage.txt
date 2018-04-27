@@ -1,35 +1,37 @@
-                                                                                     LEVERAGE                                                                                     
-  SHORT        If you have leverage, you hold the advantage in a situation or the stronger position in a contest, physical or otherwise.
-  LONG         The lever is a tool for getting more work done with less physical force. With the right leverage, you might be able to lift a heavy box. This refers to non-
+[35m                                                                                     LEVERAGE                                                                                     [0m
+[91m        SHORT  If you have leverage, you hold the advantage in a situation or the stronger position in a contest, physical or otherwise.[0m
+[36m         LONG  The lever is a tool for getting more work done with less physical force. With the right leverage, you might be able to lift a heavy box. This refers to non-
                physical situations too: the power to move or influence others is also leverage. Since your boss has the power to fire you, that's a lot of
-               leverage to get you to do what he wants. If your friend owes you a favor, you have leverage to get a favor of your own.
+               leverage to get you to do what he wants. If your friend owes you a favor, you have leverage to get a favor of your own.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The prospect of Hillary Clinton being elected president gave Kerry some leverage, because she was expected to pursue a more hawkish Syria policy, officials
-               said.
-     >         Democrats can leverage that reality to their advantage.
-     >         Mexico, though, was using its diplomatic tools more to gain leverage with the United States than to pursue Cuba-style policies.
-     >         He has some leverage: Mexican non-co-operation on trade, drugs and migrants could hurt the United States.
-     >         Specifically, he focuses on the “leverage ratio” of tangible equity to total assets plus off-balance-sheet exposures.
+[3m             > Rep. Nancy Pelosi said China was using “brutal tactics” and economic leverage to crush Tibetan calls for autonomy.[0m
+[3m             > State investments in the Housing Trust Fund leverage local, federal and private resources so that every dollar invested attracts four additional dollars.[0m
+[3m             > It is one of several projects that are leveraging remote-sensing data and modern computer-learning algorithms to chart human settlements around the globe with
+               unprecedented precision.[0m
+[3m             > “The greater the coverage, the more efficient the brand, the greater the negotiating leverage with whoever the network operator is.”[0m
+[3m             > The apology stops short of admitting that the company was leveraging Kushner’s role in the White House and his relationship to the president, his father-in-
+               law.[0m
 
- 1   The Exertion Of Force By Means Of A Lever.
-	 Eg.  "My Spade Hit Something Solid That Wouldn'T Respond To Leverage"
-	 Eg.  "The Long Handles Provide Increased Leverage"
-	 Synonyms:  grip , purchase , hold , grasp , contact , 
+[35mLeverage[0m[36m /ˈliːv(ə)rɪdʒ,ˈlɛv(ə)rɪdʒ/,[0m [91m[3mnoun[0m[0m | noun: leverage
+      [32m1.[0m [37mthe exertion of force by means of a lever.[0m
+	   "my spade hit something solid that wouldn't respond to leverage"
+  	   [3msynonyms:[0m grip, purchase, hold, grasp ;  contact, attachment, support, anchorage, force, strength ;  resistance, friction
+		    "the long handles provide increased leverage"
+          • [37mmechanical advantage gained by leverage.[0m
+	   "use a metal bar to increase the leverage"
+          • [37mthe power to influence a person or situation.[0m
+	   "the right wing had lost much of its political leverage in the Assembly"
+  	   [3msynonyms:[0m influence, power, authority, weight, sway, control, say, ascendancy, dominance, advantage, pressure, edge, standing, prestige, rank ;  pull, clout,
+                     muscle, teeth, beef
+		    "the high levels of unionization gave workers significant leverage in workplace negotiations"
 
- 2   Mechanical Advantage Gained By Leverage.
-	 Eg.  "Use A Metal Bar To Increase The Leverage"
+      [32m2.[0m [37mthe ratio of a company's loan capital (debt) to the value of its ordinary shares (equity); gearing.[0m
+          • [37mthe use of credit or borrowed capital to increase the earning potential of shares.[0m
+    [91m[3mverb[0m[0m | verb: leverage; 3rd person present: leverages; past tense: leveraged; past participle: leveraged; gerund or present participle: leveraging
+      [32m1.[0m [37muse borrowed capital for (an investment), expecting the profits made to be greater than the interest payable.[0m
+	   "a leveraged takeover bid"
 
- 3   The Power To Influence A Person Or Situation.
-	 Eg.  "The Right Wing Had Lost Much Of Its Political Leverage In The Assembly"
-	 Eg.  "The High Levels Of Unionization Gave Workers Significant Leverage In Workplace Negotiations"
-	 Synonyms:  influence , power , authority , weight , sway , 
-
- 4   The Ratio Of A Company'S Loan Capital (Debt) To The Value Of Its Ordinary Shares (Equity); Gearing.
-
- 5   The Use Of Credit Or Borrowed Capital To Increase The Earning Potential Of Shares.
-
- 6   Use Borrowed Capital For (An Investment), Expecting The Profits Made To Be Greater Than The Interest Payable.
-	 Eg.  "A Leveraged Takeover Bid"
-
- 7   Use (Something) To Maximum Advantage.
-	 Eg.  "The Organization Needs To Leverage Its Key Resources"
+      [32m2.[0m [37muse (something) to maximum advantage.[0m
+	   "the organization needs to leverage its key resources"
+        [31m[4m[34mnoun[0m[0m[0m                [31m[4m[34m[0m[0m[0m        
+               [31mउत्तोलन[0m                             [31mशक्ति[0m              

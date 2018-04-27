@@ -1,20 +1,25 @@
-                                                                                    DETENTION                                                                                     
-  SHORT        Detention is a word for confinement or imprisonment, usually for a short time. It's also a punishment where children must stay after school.
-  LONG         If you're in detention, you probably did something wrong: you're being confined against your will. The police hold people in detention, and so do military
+[35m                                                                                    DETENTION                                                                                     [0m
+[91m        SHORT  Detention is a word for confinement or imprisonment, usually for a short time. It's also a punishment where children must stay after school.[0m
+[36m         LONG  If you're in detention, you probably did something wrong: you're being confined against your will. The police hold people in detention, and so do military
                forces. Usually, detention is a short period of confinement, like if someone is arrested and then released. Also, the word is commonly used for
                an after-school punishment for children who have to stay in detention instead of going home. One thing is true of both kinds of detention: no
-               one wants to be there.
+               one wants to be there.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Many of those who have been caught up in the citizenship drive who cannot prove their lineage are languishing in detention centers.
-     >         Above all, Trump’s hard-line position on immigration seems certain to fill detention centers, one of the biggest money spinners for private-prison operators.
-     >         Investigators previously announced the detentions of 13 people after the accident.
-     >         Detentions are a fixture of school life, but do they really improve behaviour?
-     >         There had been no explanation of the reason for her detention, it added, and no comment from Turkish officials.
+[3m             > She spent more than a month in an Alabama detention facility until being released, thanks to campaigning on her behalf.[0m
+[3m             > FBI agents arrested her Tuesday in Mississippi and she remains in custody there pending a detention hearing.[0m
+[3m             > Americans in North Korea “are at serious risk of arrest and long-term detention under North Korea’s system of law enforcement,” the travel warning states.[0m
+[3m             > It also lets detention facilities hold families longer, which advocates say furthers children’s psychological harm.[0m
+[3m             > The three are being held at the Montgomery County Detention Center.[0m
 
- 1   The Action Of Detaining Someone Or The State Of Being Detained In Official Custody.
-	 Eg.  "The Fifteen People Arrested Were Still In Police Detention"
-	 Eg.  "She Was Released After Spending Over A Year In Police Detention"
-	 Synonyms:  custody , imprisonment , confinement , incarceration , captivity , 
-
- 2   The Punishment Of Being Kept In School After Hours.
-	 Eg.  "Teachers Were Divided As To The Effectiveness Of Detention"
+[35mDetention[0m[36m /dɪˈtɛnʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: detention; plural noun: detentions
+          • [37mthe action of detaining someone or the state of being detained in official custody.[0m
+	   "the fifteen people arrested were still in police detention"
+  	   [3msynonyms:[0m custody, imprisonment, confinement, incarceration, internment, captivity, restraint, arrest, house arrest, remand, committal ;  quarantine ;  duress,
+                     durance ;  detainment
+		    "she was released after spending over a year in police detention"
+          • [37mthe punishment of being kept in school after hours.[0m
+	   "teachers were divided as to the effectiveness of detention"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mनिरोध[0m         [31mहिरासत[0m    
+    [31mनज़रबंदी[0m        [31mनजरबंदी[0m   
+      [31mअवरोध[0m      [31mनिवारक निरोध[0m 

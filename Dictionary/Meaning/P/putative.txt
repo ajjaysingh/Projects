@@ -1,15 +1,22 @@
-                                                                                     PUTATIVE                                                                                     
-  SHORT        You might be the putative leader of your lacrosse team, even if someone else holds the title of captain.  Putative means to be known as something by
-               reputation, or assumed to be something, or generally accepted.
-  LONG         Every once in a while, a putative planet is reported in the news, which we get very excited about and which usually turns out to be an illusion. But in 2005,
+[35m                                                                                     PUTATIVE                                                                                     [0m
+[91m        SHORT  You might be the putative leader of your lacrosse team, even if someone else holds the title of captain.  Putative means to be known as something by
+               reputation, or assumed to be something, or generally accepted.[0m
+[36m         LONG  Every once in a while, a putative planet is reported in the news, which we get very excited about and which usually turns out to be an illusion. But in 2005,
                an astronomer discovered what appears to be a new planet beyond Neptune. But is this putative planet for real? There is always some
-               doubt––something not quite official––about putative things.
+               doubt––something not quite official––about putative things.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Don’t we want to raise a child without the impulse to terrorize any lifelike thing, regardless of its putative ontology?
-     >         The putative class action combines two lawsuits filed in early 2014 by individuals and businesses affected by the 2013 lane closures.
-     >         Always heartening to see the putative experts get it wrong.
-     >         I think, on the basis of the putative headlines pomposity alone, we should be gland it never saw the light of day.
-     >         A putative friend once told me, “If you eat endangered fish, I won’t be friends with you anymore.”
+[3m             > In another exchange, Cooper pressed Conway about the putative reason for the firing.[0m
+[3m             > In our day, beliefs about Indians’ inherent simplicity and innocence refer mainly to their putative lack of impact on the environment.[0m
+[3m             > The practice, putatively aimed at identifying ineligible voters, stemmed from a controversial Ohio law that civil rights advocates considered a vestige of Jim
+               Crow.[0m
+[3m             > The headline writers or the putative war victims?[0m
+[3m             > He added, according to a VentureBeat writer, “I only own a mattress,” and then expounded upon the putative correlation between youth and creative power.[0m
 
- 1   Generally Considered Or Reputed To Be.
-	 Eg.  "The Putative Father Of Her Children"
+[35mPutative[0m[36m /ˈpjuːtətɪv/,[0m [91m[3madjective[0m[0m | adjective: putative
+          • [37mgenerally considered or reputed to be.[0m
+	   "the putative father of her children"
+  [31m[4m[34m[0m[0m[0m
+   [31mकल्पित[0m 
+  [31mविख्यात[0m 
+   [31mखयाली[0m  
+   [31mमशहूर[0m  

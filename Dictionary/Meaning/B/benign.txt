@@ -1,38 +1,40 @@
-                                                                                      BENIGN                                                                                      
-  SHORT        Someone or something that is benign is gentle, kind, mild, or unharmful: a benign soul wouldn't hurt a fly.
-  LONG         Benign describes a range of qualities, all of them positive. When talking about a person, it means "gentle." In reference to weather or climate, it means
+[35m                                                                                      BENIGN                                                                                      [0m
+[91m        SHORT  Someone or something that is benign is gentle, kind, mild, or unharmful: a benign soul wouldn't hurt a fly.[0m
+[36m         LONG  Benign describes a range of qualities, all of them positive. When talking about a person, it means "gentle." In reference to weather or climate, it means
                "mild." In some other contexts, it simply means "not harmful"; you might speak of "a benign tumor" or "an environmentally benign chemical." The
                word comes from a Latin root benignus meaning "well born," but the implied meaning is "kind" or "pleasant" — it's hard to get mad at someone
-               who has a benign disposition.
+               who has a benign disposition.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Caitlin was only a baby when she developed a benign tumour on the side of her face.
-     >         The book seems, on its face, to be a relatively benign imploration towards politeness.
-     >         He more closely resembled the Spanish colonial governor-generals, many of whom were benign autocrats, than the sanguinary military leaders of the 20th
-               century.
-     >         This sequel to “Nobody’s Fool,” set 10 years later in the same upstate New York town, presents engaging characters and benign humor.
-     >         But the local effects of importing Western might are not always benign.
+[3m             > The Nazis would show off Theresienstadt to visiting Red Cross officials and dignitaries to suggest that their camps were relatively benign.[0m
+[3m             > China’s leaders insist that its influence is entirely benign, a global exercise in what they call “win-win cooperation.”[0m
+[3m             > Be wary whenever a federal agency issues a professedly benign regulation.[0m
+[3m             > But there was a significant link between alcohol consumption and more benign arrhythmias.[0m
+[3m             > Her attorney, Shannon Smith, insists that Nagarwala conducted a benign religious ritual that involved no mutilation.[0m
 
- 1   Gentle And Kind.
-	 Eg.  "His Benign But Firm Manner"
-	 Eg.  "He Adopted A Benign Grandfatherly Role"
-	 Synonyms:  kindly , kind , warm-hearted , good-natured , friendly , 
-	 Antonyms:  unfriendly , hostile , 
+[35mBenign[0m[36m /bɪˈnʌɪn/,[0m [91m[3madjective[0m[0m | adjective: benign
+      [32m1.[0m [37mgentle and kind.[0m
+	   "his benign but firm manner"
+  	   [3msynonyms:[0m kindly, kind, warm-hearted, good-natured, friendly, warm, affectionate, agreeable, amiable, good-humoured, genial, congenial, cordial, approachable,
+                     tender, tender-hearted, soft-hearted, gentle, sympathetic, compassionate, caring, considerate, thoughtful, helpful, well disposed,
+                     obliging, accommodating, generous, big-hearted, unselfish, benevolent, gracious, liberal, indulgent ;  benignant
+		    "he adopted a benign grandfatherly role"
+  	   [3mantonyms:[0m unfriendly, hostile
+          • [37m(of a climate or environment) mild and favourable.[0m
+	   "the climate becomes more benign as we move nearer to the Black Sea"
+  	   [3msynonyms:[0m temperate, mild, gentle, clement, calm, balmy, pleasant, agreeable, soft, soothing, refreshing ;  healthy, health-giving, wholesome, salubrious
+                     favourable, advantageous, beneficial ;  helpful, propitious, auspicious, lucky, opportune, fortunate, providential, encouraging,
+                     benevolent, conducive ;  right, good
+		    "the climate becomes more benign nearer to the Black Sea"
+  	   [3mantonyms:[0m harsh, unhealthy, unfavourable
+          • [37mnot harmful to the environment.[0m
+	   "the cycle as a benign form of transport"
 
- 2   (Of A Climate Or Environment) Mild And Favourable.
-	 Eg.  "The Climate Becomes More Benign As We Move Nearer To The Black Sea"
-	 Eg.  "The Climate Becomes More Benign Nearer To The Black Sea"
-	 Eg.  "The Lizard Has A Chance Of Survival If Its Environment Is Benign"
-	 Synonyms:  temperate , mild , gentle , clement , calm , 
-	 Antonyms:  harsh , unhealthy , unfavourable , 
-
- 3   Not Harmful To The Environment.
-	 Eg.  "The Cycle As A Benign Form Of Transport"
-
- 4   (Of A Disease) Not Harmful In Effect.
-	 Eg.  "A Benign Condition"
-
- 5   (Of A Tumour) Not Malignant.
-	 Eg.  "Benign Growths"
-	 Eg.  "He Had Surgery To Remove A Benign Tumour"
-	 Synonyms:  harmless , non-malignant , non-cancerous , non-dangerous , innocent , 
-	 Antonyms:  malignant , 
+      [32m2.[0m [37m(of a disease) not harmful in effect.[0m
+	   "a benign condition"
+          • [37m(of a tumour) not malignant.[0m
+	   "benign growths"
+  	   [3msynonyms:[0m harmless, non-malignant, non-cancerous, non-dangerous, innocent ;  curable, remediable, treatable, removable ;  benignant
+		    "he had surgery to remove a benign tumour"
+  	   [3mantonyms:[0m malignant
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+  [31mसौम्य[0m   [31mअच्छा[0m 

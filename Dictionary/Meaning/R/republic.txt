@@ -1,25 +1,19 @@
-                                               REPUBLIC                                               
-  SHORT        If you live in a republic, then you live in a country with a leader freely and
-               democratically elected by the people, as opposed to a dictatorship
-               or monarchy.
-  LONG         Ancient Rome, before it started declining and falling all over the place, was a
-               republic, and so is the United States. Republics have what are
-               termed "republican" forms of government — not to be confused with
-               Republican-with-a-big-R, as in the American political party. If you
-               live in a "Banana Republic" you probably live in a tiny Caribbean
-               island run by a dictator. Or you're spending too much time at the
-               mall.
-                                      EXAMPLES FROM VOCABULARY:                                       
-     >         The former banana republic is now proudly sovereign.
-     >         Batista fled to the Dominican Republic  as the new year arrived.
-     >         In fact, it goes back to the founding of the republic.
-     >         Each of the contestants came armed with a plan of how they would develop the
-               republic over the coming years.
-     >         The UK must seek and the EU must support a "generous special status" for Northern
-               Ireland post Brexit, says the Republic of Ireland's opposition
-               leader.
+[35m                                                                                     REPUBLIC                                                                                     [0m
+[91m        SHORT  If you live in a republic, then you live in a country with a leader freely and democratically elected by the people, as opposed to a dictatorship or monarchy.[0m
+[36m         LONG  Ancient Rome, before it started declining and falling all over the place, was a republic, and so is the United States. Republics have what are termed
+               "republican" forms of government — not to be confused with Republican-with-a-big-R, as in the American political party. If you live in a
+               "Banana Republic" you probably live in a tiny Caribbean island run by a dictator. Or you're spending too much time at the mall.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Their visit to the Republic of Ireland, which followed a two-day stay in Northern Ireland, is at the request of the British government.[0m
+[3m             > He added that the remainder of places on the Republic on the Move's list would be filled in the days ahead.[0m
+[3m             > That is understood to refer to how customs controls will be enforced between Northern Ireland and the Republic of Ireland.[0m
+[3m             > Prince Charles and the Duchess of Cornwall last visited Northern Ireland and the Republic of Ireland last May.[0m
+[3m             > The number of blank and voided ballots was a record for France’s Fifth Republic, founded in 1958.[0m
 
- 1   A State In Which Supreme Power Is Held By The People And Their Elected Representatives, And Which Has An Elected Or Nominated President Rather Than A Monarch.
-
- 2   A Group With A Certain Equality Between Its Members.
-	 Eg.  "The Community Of Scholars And The Republic Of Learning"
+[35mRepublic[0m[36m /rɪˈpʌblɪk/,[0m [91m[3mnoun[0m[0m | noun: republic; plural noun: republics
+          • [37ma state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a
+            monarch.[0m
+          • [37ma group with a certain equality between its members.[0m
+	   "the community of scholars and the republic of learning"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m    [31m[4m[34madjective[0m[0m[0m
+        [31mगणराज्य[0m               [31mरिपब्लिक[0m        [31mप्रजातंत्र राज्य का[0m 

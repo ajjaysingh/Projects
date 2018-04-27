@@ -1,18 +1,24 @@
-                                                                                     IMPASSE                                                                                      
-  SHORT        When two huge semi trailers met face-to-face on a one-lane mountain road, the drivers jumped out of their cabs and exclaimed, "We're at an impasse! We can't
-               move forward — we can only reverse and go back in the direction from which we came."
-  LONG         If you investigate impasse a little more closely, you'll discover passer, the French word for to pass. The im- prefix is a negative, meaning that there's no
+[35m                                                                                     IMPASSE                                                                                      [0m
+[91m        SHORT  When two huge semi trailers met face-to-face on a one-lane mountain road, the drivers jumped out of their cabs and exclaimed, "We're at an impasse! We can't
+               move forward — we can only reverse and go back in the direction from which we came."[0m
+[36m         LONG  If you investigate impasse a little more closely, you'll discover passer, the French word for to pass. The im- prefix is a negative, meaning that there's no
                way any passing is going to occur. It's impossible. An impasse is any situation in which the parties involved can't, or won't, move forward or
                make any sort of progress. Either they are literally stuck, like two big trucks trying to pass each other on a narrow road, or they are
-               figuratively stuck, as in two politicians who are unable to reach an agreement on a new policy.
+               figuratively stuck, as in two politicians who are unable to reach an agreement on a new policy.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “The film is a protest against what sometimes seems a hopeless impasse for women in Hollywood.”
-     >         The impasse sets up a potential legal dispute between the city and East End that could jeopardize the purchase.
-     >         I’ve compiled a few alternative movie marathons that you can indulge in when the unavoidable streaming impasse hits your holiday celebration.
-     >         With the two campaigns at an impasse, the Dec. 2 debate was scrapped.
-     >         The first challenge is to find a way out of the Ukraine impasse.
+[3m             > Facing an impasse on how to fund roads, Republican legislative leaders are contemplating pulling transportation funding from the state budget to pass it
+               separately.[0m
+[3m             > When the series returned to TD Garden with both teams at a 2-2 impasse, the Celtics played freely and fiercely.[0m
+[3m             > These resolutions were rejected by the Democratic-controlled Senate, which led to a budget impasse.[0m
+[3m             > They reported back to the judge later that they were still at an impasse.[0m
+[3m             > Yet the appearance of impasse, stand-off and potentially insuperable difficulty is often an essential part of any serious arbitration.[0m
 
- 1   A Situation In Which No Progress Is Possible, Especially Because Of Disagreement; A Deadlock.
-	 Eg.  "The Current Political Impasse"
-	 Eg.  "The Negotiations Seemed To Have Reached An Impasse"
-	 Synonyms:  deadlock , dead end , stalemate , checkmate , stand-off , 
+[35mImpasse[0m[36m /amˈpɑːs,ˈampɑːs/,[0m [91m[3mnoun[0m[0m | noun: impasse; plural noun: impasses
+          • [37ma situation in which no progress is possible, especially because of disagreement; a deadlock.[0m
+	   "the current political impasse"
+  	   [3msynonyms:[0m deadlock, dead end, stalemate, checkmate, stand-off ;  standstill, halt, stop, stoppage, full stop
+		    "the negotiations seemed to have reached an impasse"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mगतिरोध[0m     [31mजटिल समस्या[0m 
+  [31mकठिन स्थिति[0m     [31mगत्यवरोध[0m  
+    [31mबन्द गली[0m     [31mविकटस्थिति[0m 

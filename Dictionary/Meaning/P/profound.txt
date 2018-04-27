@@ -1,41 +1,46 @@
-                                                                                     PROFOUND                                                                                     
-  SHORT        When you need a word that's deeper than "deep," consider profound.
-  LONG         Profundus meant literally "deep" in Latin, and profound had the same meaning when it entered English in the 14th century. But even then, it also meant
+[35m                                                                                     PROFOUND                                                                                     [0m
+[91m        SHORT  When you need a word that's deeper than "deep," consider profound.[0m
+[36m         LONG  Profundus meant literally "deep" in Latin, and profound had the same meaning when it entered English in the 14th century. But even then, it also meant
                "figuratively deep" — that is, very great or intense: "The new laws have had a profound impact." Of people, it means "very knowledgeable or
-               insightful," but sometimes if a person tries to sound profound they're really just giving you superficial knowledge dressed up with big words.
+               insightful," but sometimes if a person tries to sound profound they're really just giving you superficial knowledge dressed up with big words.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “That could potentially be I guess the profound moment, or kind of one of the highlights of the trip,” Taylor said.
-     >         A swift-moving portrait of the artist as a young man, it describes the profound ripening of his artistic and moral consciousness.
-     >         Mr. Castro’s initial response to the attacks was remarkably conciliatory, and he expressed his “profound grief and sadness for the American people.”
-     >         For more than half a century, Obama recalled, the relationship “was marked by discord and profound political disagreements.”
-     >         “For nearly six decades, the relationship between the United States and Cuba was marked by discord and profound political disagreements,” he continued.
+[3m             > “The consequences proved profound,” writes the historian Ira Katznelson in his perfectly titled book, “When Affirmative Action Was White.”[0m
+[3m             > Ms Le Pen hailed a "historic result" but admitted the need for "profound transformation" before the parliamentary elections.[0m
+[3m             > It’s a quietly profound statement and, in a way, it unites all these recent accounts from the front line of the operating theatre.[0m
+[3m             > Rather, there’s a profound tension between an uneasy, divided national mood and a prime minister and party seemingly gliding back to power.[0m
+[3m             > King’s College London Dental Institute, citing a survey of 11,000 patients, claims that a profound fear of dentistry:[0m
 
- 1   (Of A State, Quality, Or Emotion) Very Great Or Intense.
-	 Eg.  "Profound Feelings Of Disquiet"
-	 Eg.  "A Sigh Of Profound Relief"
-	 Eg.  "The Implications Of This Discovery Are Profound"
-	 Synonyms:  heartfelt , intense , keen , great , extreme , 
-	 Antonyms:  superficial , mild , 
+[35mProfound[0m[36m /prəˈfaʊnd/,[0m [91m[3madjective[0m[0m | adjective: profound; comparative adjective: profounder; superlative adjective: profoundest
+      [32m1.[0m [37m(of a state, quality, or emotion) very great or intense.[0m
+	   "profound feelings of disquiet"
+  	   [3msynonyms:[0m heartfelt, intense, keen, great, very great, extreme, sincere, earnest, deep, deepest, deeply felt, wholehearted, acute, overpowering, overwhelming,
+                     deep-seated, deep-rooted, fervent, ardent  far-reaching, radical, extensive, exhaustive, thoroughgoing, sweeping, life-changing
+		    "a sigh of profound relief"
+  	   [3mantonyms:[0m superficial, mild
+          • [37m(of a disease or disability) very severe.[0m
+	   "a case of profound liver failure"
 
- 2   (Of A Disease Or Disability) Very Severe.
-	 Eg.  "A Case Of Profound Liver Failure"
+      [32m2.[0m [37m(of a person or statement) having or showing great knowledge or insight.[0m
+	   "a profound philosopher"
+  	   [3msynonyms:[0m wise, learned, clever, intelligent, with/showing great knowledge, knowledgeable, intellectual, scholarly, sage, sagacious, erudite, discerning,
+                     penetrating, perceptive, astute, thoughtful, full of insight, insightful, percipient, perspicacious, philosophical, deep ;  sapient
+		    "a profound analysis of the problems"
+  	   [3mantonyms:[0m superficial, stupid
+          • [37m(of a subject or idea) demanding deep study or thought.[0m
+	   "expressing profound truths in simple language"
+  	   [3msynonyms:[0m complex, abstract, deep, weighty, serious, difficult ;  abstruse, recondite, esoteric, metaphysical, impenetrable, unfathomable, mysterious, obscure,
+                     dark
+		    "expressing profound truths in simple language"
 
- 3   (Of A Person Or Statement) Having Or Showing Great Knowledge Or Insight.
-	 Eg.  "A Profound Philosopher"
-	 Eg.  "A Profound Analysis Of The Problems"
-	 Synonyms:  wise , learned , clever , intelligent , knowledgeable , 
-	 Antonyms:  superficial , stupid , 
-
- 4   (Of A Subject Or Idea) Demanding Deep Study Or Thought.
-	 Eg.  "Expressing Profound Truths In Simple Language"
-	 Eg.  "Expressing Profound Truths In Simple Language"
-	 Synonyms:  complex , abstract , deep , weighty , serious , 
-
- 5   Very Deep.
-	 Eg.  "Profound Crevasses"
-
- 6   The Deepest Part Of Something, Especially The Ocean.
-	 Eg.  "Nor Billowy Surge Disturbs The Vast Profound"
-
- 7   Profound Quality.
-	 Eg.  "Her Work Is An Often Eerie Mix Of The Banal And The Profound"
+      [32m3.[0m [37mvery deep.[0m
+	   "profound crevasses"
+    [91m[3mnoun literary[0m[0m | noun: profound
+      [32m1.[0m [37mthe deepest part of something, especially the ocean.[0m
+	   "nor billowy surge disturbs the vast profound"
+          • [37mprofound quality.[0m
+	   "her work is an often eerie mix of the banal and the profound"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mगहरा[0m              [31mगहन[0m            [31mसमुंदर[0m     
+      [31mगम्भीर[0m           [31mअत्यंत[0m           [31mसमुद्र[0m     
+       [31mअगाध[0m            [31mप्रगाढ़[0m           [31mसागर[0m      
+         [31m[0m                [31mपरम[0m           [31mअथाह गढ़ा[0m   

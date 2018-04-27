@@ -1,39 +1,39 @@
-                                                                                      BATTER                                                                                      
-  SHORT        To batter is to beat repeatedly, as if one boxer were clobbering another with blows.
-  LONG         Batter is one of those words with many meanings that seem entirely unrelated to each other. You can batter by hitting again and again, but there's also a
+[35m                                                                                      BATTER                                                                                      [0m
+[91m        SHORT  To batter is to beat repeatedly, as if one boxer were clobbering another with blows.[0m
+[36m         LONG  Batter is one of those words with many meanings that seem entirely unrelated to each other. You can batter by hitting again and again, but there's also a
                batter in baseball — the guy who's holding a bat and waiting for the pitcher to throw the ball. Yet another meaning is the batter you mix up
-               when you're making muffins, using eggs, flour, milk, and sugar. They all come from the same Latin root word, battuere, "to beat or strike."
+               when you're making muffins, using eggs, flour, milk, and sugar. They all come from the same Latin root word, battuere, "to beat or strike."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Bernie people are battering the Democrats with “if only’s” and “I told you so’s.”
-     >         Other equipment, like battering rams and riot helmets and shields, are still available under the program but require more justification to obtain them.
-     >         There’s a glimmer of good news in the battered market for personal computers: The PC isn’t dead yet.
-     >         Closer relations with the United States have helped, and backsliding on the thaw could further weaken Cuba's economy, already battered by low commodity
-               prices.
-     >         The officers also told dispatchers that the woman was heavily battered.
+[3m             > Authorities say the preliminary findings will guide them as they repair the battered spillways.[0m
+[3m             > Urias threw first-pitch strikes to only 13 of the 22 batters he faced.[0m
+[3m             > When he walked the first batter he faced on four pitches, closer Bud Norris began to throw in the bullpen.[0m
+[3m             > Urias responded by retiring the next three batters.[0m
+[3m             > Correa’s shot bounced off the batter’s eye in straightaway center field.[0m
 
- 1   Strike Repeatedly With Hard Blows.
-	 Eg.  "A Prisoner Was Battered To Death With A Table Leg"
-	 Eg.  "He Battered His Opponent Into Submission"
-	 Eg.  "The Storm Had Severely Battered The Pier"
-	 Synonyms:  pummel , pound , buffet , belabour , thrash , 
+[35mBatter[0m[36m /ˈbatə/,[0m [91m[3mverb[0m[0m | verb: batter; 3rd person present: batters; past tense: battered; past participle: battered; gerund or present participle: battering
+          • [37mstrike repeatedly with hard blows.[0m
+	   "a prisoner was battered to death with a table leg"
+  	   [3msynonyms:[0m pummel, pound, rain blows on, buffet, belabour, thrash, beat up, abuse ;  hit, strike, beat, smack, assault, attack, thump, lash, aim blows at ;  whack,
+                     clout, wallop, bash, clobber, bop, biff, sock, deck, plug, knock about/around, knock into the middle of next week, beat the living
+                     daylights out of, give someone a good hiding, lay into, lace into, do over, rough up  damage, injure, hurt, harm, impair, mar, spoil
+                     ;  destroy, demolish, crush, shatter, smash, ruin ;  total, trash
+		    "he battered his opponent into submission"
+          • [37msubject (one's spouse, partner, or child) to repeated violence and assault.[0m
+	   noun: battering
+          • [37mcensure, criticize, or defeat severely or thoroughly.[0m
+	   "the film took a battering from critics"
+[35mBatter[0m[36m /ˈbatə/,[0m [91m[3mnoun[0m[0m | noun: batter; plural noun: batters
+      [32m1.[0m [37ma semi-liquid mixture of flour, egg, and milk or water, used for making pancakes or for coating food before frying.[0m
+	   "pancake batter"
+          • [37ma mixture of ingredients for a cake.[0m
 
- 2   Subject (One'S Spouse, Partner, Or Child) To Repeated Violence And Assault.
-	 Eg.  Noun: Battering
-	 Eg.  "Outrage At Wife-Battering And Child Abuse"
-
- 3   Censure, Criticize, Or Defeat Severely Or Thoroughly.
-	 Eg.  "The Film Took A Battering From Critics"
-
- 4   A Semi-Liquid Mixture Of Flour, Egg, And Milk Or Water, Used For Making Pancakes Or For Coating Food Before Frying.
-	 Eg.  "Pancake Batter"
-
- 5   A Mixture Of Ingredients For A Cake.
-
- 6   A Damaged Area Of Metal Type Or A Printing Block.
-
- 7   (In Various Sports, Especially Baseball) A Player Who Is Batting.
-
- 8   A Gradual Backwards Slope In A Wall Or Similar Structure.
-	 Eg.  "The Batter Is An Inch In For Every Foot Of Height"
-
- 9   (Of A Wall) Have A Receding Slope.
+      [32m2.[0m [37ma damaged area of metal type or a printing block.[0m
+[35mBatter[0m[36m /ˈbatə/,[0m [91m[3mnoun[0m[0m | noun: batter; plural noun: batters
+          • [37m(in various sports, especially baseball) a player who is batting.[0m
+[35mBatter[0m[36m /ˈbatə/,[0m [91m[3mnoun[0m[0m | noun: batter; plural noun: batters
+      [32m1.[0m [37ma gradual backwards slope in a wall or similar structure.[0m
+	   "the batter is an inch in for every foot of height"
+    [91m[3mverb[0m[0m | verb: batter; 3rd person present: batters; past tense: battered; past participle: battered; gerund or present participle: battering
+      [32m1.[0m [37m(of a wall) have a receding slope.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+    [31mबल्लेबाज[0m       [31mमारनेवाला[0m        [31mमारना[0m    

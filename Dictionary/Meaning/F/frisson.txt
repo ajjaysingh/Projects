@@ -1,14 +1,17 @@
-                                                                                     FRISSON                                                                                      
-  SHORT        A frisson is a thrilling shiver. Some people love roller coasters so much that they feel a frisson of excitement just looking at one.
-  LONG         You're just as likely to feel a frisson whether you're scared or excited; its meaning lies directly between thrill and fear. When you hear a scary sound in
+[35m                                                                                     FRISSON                                                                                      [0m
+[91m        SHORT  A frisson is a thrilling shiver. Some people love roller coasters so much that they feel a frisson of excitement just looking at one.[0m
+[36m         LONG  You're just as likely to feel a frisson whether you're scared or excited; its meaning lies directly between thrill and fear. When you hear a scary sound in
                the basement late at night, and open the door to investigate, you might feel a frisson of fear as you start to descend the steps. The Latin
-               root is frigere, "to be cold," and while a frisson is certainly shivery, its source is a thrill rather than a chill.
+               root is frigere, "to be cold," and while a frisson is certainly shivery, its source is a thrill rather than a chill.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Near the entrance to “Frisson,” Carol Rubin’s show at the Washington Studio School, is a painting of two fighting dogs.
-     >         Even so, there is a frisson whenever a fictional relationship spills off the edges of the screen like ale into an overfilled tankard.
-     >         But tonight for the first time they were in New York City, where mixed martial arts is newly legalized, adding an extra frisson of excitement.
-     >         It was a journey into the unknown, with a frisson of danger added.
-     >         It captures the frisson felt in contemplating the act, but resisting it.
+[3m             > When Amazon announced, this week, a new screen-enabled Echo, and a feature to let Echos act as phones, I experienced another frisson of possibility.[0m
+[3m             > The lack of celebrity frisson isn’t necessarily a bad thing, she said.[0m
+[3m             > The James S Brady Press Briefing Room at the White House was crammed as usual but there was an extra frisson of suspense.[0m
+[3m             > This feeling, common to many Jane-ites of my acquaintance, is a reactionary frisson, not a real step away from liberalism.[0m
+[3m             > And many young people in attendance reveled in the alt-right’s rebellious frisson of fascism.[0m
 
- 1   A Sudden Strong Feeling Of Excitement Or Fear; A Thrill.
-	 Eg.  "A Frisson Of Excitement"
+[35mFrisson[0m[36m /ˈfriːsã,ˈfrɪsɒn/,[0m [91m[3mnoun[0m[0m | noun: frisson; plural noun: frissons
+          • [37ma sudden strong feeling of excitement or fear; a thrill.[0m
+	   "a frisson of excitement"
+  [31m[4m[34m[0m[0m[0m
+  [31mfrisson[0m 

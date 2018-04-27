@@ -1,21 +1,24 @@
-                                                                                     STUBBLE                                                                                      
-  SHORT        Stubble is the prickly hair that grows back after being shaved. You might find stubble on a man's chin or on a woman's leg.
-  LONG         Stubble is a very specific kind of hair: hair that's been shaved but has grown back a little bit after a few days. On a man's face, stubble isn't quite a
+[35m                                                                                     STUBBLE                                                                                      [0m
+[91m        SHORT  Stubble is the prickly hair that grows back after being shaved. You might find stubble on a man's chin or on a woman's leg.[0m
+[36m         LONG  Stubble is a very specific kind of hair: hair that's been shaved but has grown back a little bit after a few days. On a man's face, stubble isn't quite a
                beard yet: the hair is short. Stubble feels rough, and it can be itchy. Although some men like the stubble look, most men usually go one way or
-               the other: grow out a beard or shave the stubble off. You can also have stubble anywhere hair has been shaved.
+               the other: grow out a beard or shave the stubble off. You can also have stubble anywhere hair has been shaved.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “Hair looks good; stubble looks good,” Mr. Ford said.
-     >         Only the dusting of grey stubble on his head gives away his age.
-     >         Beards were trimmed down to stubble or sliced off cleanly with straight razors.
-     >         Bolstered by a Southern sturdiness and a bit of rock ’n’ roll stubble, Russell’s piano-driven songs often took on church-like tones.
-     >         Farmers who cannot afford equipment that allows them to replant without burning leftover stubble need more help.
+[3m             > Is the designer suit and manicured stubble of a continental boss more appealing than the duvet coat of his English counterpart?[0m
+[3m             > The roots were almost a foot long, like a stubble of whiskers.[0m
+[3m             > In this area, fields of corn stubble are favored.[0m
+[3m             > His curly hair, with streaks of gray, is combed back, and salt-and-pepper stubble defines his face.[0m
+[3m             > A man in plaid with stubble followed a woman with a topknot and a chambray shirt into the bathroom.[0m
 
- 1   The Cut Stalks Of Cereal Plants Left Sticking Out Of The Ground After The Grain Is Harvested.
-	 Eg.  "Fields Of Yellow Stubble"
-	 Eg.  "A Field Of Stubble"
-	 Synonyms:  straw , 
+[35mStubble[0m[36m /ˈstʌb(ə)l/,[0m [91m[3mnoun[0m[0m | noun: stubble
+      [32m1.[0m [37mthe cut stalks of cereal plants left sticking out of the ground after the grain is harvested.[0m
+	   "fields of yellow stubble"
+  	   [3msynonyms:[0m stalks, straw
+		    "a field of stubble"
 
- 2   Short, Stiff Hairs Growing On A Man'S Face When He Has Not Shaved For A While.
-	 Eg.  "She Ran Her Fingers Over The Dark Stubble On His Cheeks"
-	 Eg.  "A Weather-Beaten Face Covered In Grey Stubble"
-	 Synonyms:  hair , facial hair , beard , five o'clock shadow , 
+      [32m2.[0m [37mshort, stiff hairs growing on a man's face when he has not shaved for a while.[0m
+	   "she ran her fingers over the dark stubble on his cheeks"
+  	   [3msynonyms:[0m bristles, whiskers, designer stubble, hair, facial hair, beard ;  five o'clock shadow
+		    "a weather-beaten face covered in grey stubble"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+        [31mखूंटी[0m                [31mचारा[0m       

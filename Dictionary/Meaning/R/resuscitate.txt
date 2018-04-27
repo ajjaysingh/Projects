@@ -1,23 +1,31 @@
-                                                                                   RESUSCITATE                                                                                    
-  SHORT        To resuscitate is to revive a person who has lost consciousness. In recent years it's become important for people to learn CPR so that they might resuscitate
-               someone who loses consciousness, and many schools and hospitals offer classes in CPR.
-  LONG         The Latin word suscitāre, "to raise," combines with re-, "again," to create the base of the verb resuscitate. Through the years, methods of resuscitation have
+[35m                                                                                   RESUSCITATE                                                                                    [0m
+[91m        SHORT  To resuscitate is to revive a person who has lost consciousness. In recent years it's become important for people to learn CPR so that they might resuscitate
+               someone who loses consciousness, and many schools and hospitals offer classes in CPR.[0m
+[36m         LONG  The Latin word suscitāre, "to raise," combines with re-, "again," to create the base of the verb resuscitate. Through the years, methods of resuscitation have
                advanced to the current sophisticated and effective levels of cardiopulmonary resuscitation, or CPR, and defibrillation paddles that can shock
                a heart back to life. In fact, some patients nowadays ask to sign a "do not resuscitate" (DNR) order to allow them to die without medical
-               interventions like resuscitation.
+               interventions like resuscitation.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The company says emergency responders tried to resuscitate him at the scene.
-     >         Resuscitating interest in Off Broadway shows is the point of Encores!
-     >         Rescue workers found Parish at the base of the waterfall, but said they could not resuscitate him.
-     >         “There was no sense of having to resuscitate something. It was just like it was meant to continue.”
-     >         None of the six officers present attempted to resuscitate Garner.
+[3m             > I resuscitated a ratty pink sweater to wear to Planned Parenthood rallies.[0m
+[3m             > Police say patrons attempted to resuscitate her after she was found unresponsive in the pool.[0m
+[3m             > Candidates for an artificial womb, he said, would be “infants that would currently not be resuscitated.”[0m
+[3m             > While Trump promises to resuscitate our physical infrastructure—roads, airports, and bridges—he angles to gut our cultural infrastructure, by nixing public
+               arts programs.[0m
+[3m             > She was pronounced dead 15 minutes later after attempts by jail staff to resuscitate her.[0m
 
- 1   Revive (Someone) From Unconsciousness Or Apparent Death.
-	 Eg.  "An Ambulance Crew Tried To Resuscitate Him"
-	 Eg.  "Medics Tried To Resuscitate Him"
-	 Synonyms:  revive , rescue , save , 
-
- 2   Make (Something) Active Or Vigorous Again.
-	 Eg.  "Measures To Resuscitate The Ailing Economy"
-	 Eg.  "Measures To Resuscitate The Economy"
-	 Synonyms:  revive , resurrect , restore , regenerate , revitalize , 
+[35mResuscitate[0m[36m /rɪˈsʌsɪteɪt/,[0m [91m[3mverb[0m[0m | verb: resuscitate; 3rd person present: resuscitates; past tense: resuscitated; past participle: resuscitated; gerund or present participle: resuscitating
+          • [37mrevive (someone) from unconsciousness or apparent death.[0m
+	   "an ambulance crew tried to resuscitate him"
+  	   [3msynonyms:[0m bring round, revive, bring back, bring (back) to life, bring someone (back) to their senses, bring back to consciousness, rescue, save, bring back from
+                     the edge of death ;  give artificial respiration to, give the kiss of life to, give cardiac massage to, defibrillate
+		    "medics tried to resuscitate him"
+          • [37mmake (something) active or vigorous again.[0m
+	   "measures to resuscitate the ailing economy"
+  	   [3msynonyms:[0m revive, resurrect, restore, regenerate, revitalize, breathe new life into, give the kiss of life to, give a new lease of life to, reinvigorate, renew,
+                     awaken, wake up, rejuvenate, stimulate, re-establish, reinstitute, relaunch ;  renovate
+		    "measures to resuscitate the economy"
+   [31m[4m[34m[0m[0m[0m  
+    [31mपुनर्जीवित करना[0m   
+    [31mपुनर्जीवित होना[0m   
+  [31mफिर से सक्रिय बनाना[0m 
+    [31mफिर से चालू करना[0m  

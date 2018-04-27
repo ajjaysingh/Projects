@@ -1,38 +1,43 @@
-                                                                                    PREJUDICE                                                                                     
-  SHORT        If you have a negative attitude towards someone based on race or ethnicity rather than personal experience, you might be accused of prejudice.
-  LONG         Prejudice is remarkably similar to its Latin root in form and meaning; the Latin praejudicium means "judgment in advance." A racial prejudice is a negative
+[35m                                                                                    PREJUDICE                                                                                     [0m
+[91m        SHORT  If you have a negative attitude towards someone based on race or ethnicity rather than personal experience, you might be accused of prejudice.[0m
+[36m         LONG  Prejudice is remarkably similar to its Latin root in form and meaning; the Latin praejudicium means "judgment in advance." A racial prejudice is a negative
                attitude towards a group of people based on race — not on direct knowledge or experience. If you prejudice someone, you cause them to have a
                negative attitude towards someone else. Lawyers are not allowed to bring certain types of evidence such as rumors into a trial because it might
-               prejudice the jury.
+               prejudice the jury.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Many people are familiar with the term homophobia – dislike of or prejudice against people who are homosexual.
-     >         According to Thomas, Silicon Valley is losing black and Latino employees either because of prejudice, or because technical recruiters aren’t looking in the
-               right places.
-     >         And they demand that we briefly put aside our own beliefs and prejudices and listen to someone else’s.
-     >         Sessions has been accused of racist comments – he denies any racial prejudice – while Flynn tweeted in February: “Fear of Muslims is RATIONAL.”
-     >         We are better than our prejudices, and stronger than our fears.
+[3m             > It’s important when prejudices are unwelcome — for example, in auditions.[0m
+[3m             > These issues are not merely about tribal racial prejudices; they are about class.[0m
+[3m             > “The battle for us, in short, does not lie against crusted prejudice,” he wrote, “but against the chaos of a new freedom.”[0m
+[3m             > Understanding those origins required parsing the individual choices and prejudices of millions of citizens.[0m
+[3m             > Downer was not immune to fear or prejudice; but nor did empathy allow it to devour him.[0m
 
- 1   Preconceived Opinion That Is Not Based On Reason Or Actual Experience.
-	 Eg.  "English Prejudice Against Foreigners"
-	 Eg.  "Male Prejudices About Women"
-	 Synonyms:  preconception , 
+[35mPrejudice[0m[36m /ˈprɛdʒʊdɪs/,[0m [91m[3mnoun[0m[0m | noun: prejudice; plural noun: prejudices
+      [32m1.[0m [37mpreconceived opinion that is not based on reason or actual experience.[0m
+	   "English prejudice against foreigners"
+  	   [3msynonyms:[0m preconceived idea, preconception, preconceived notion ;  prejudgement
+		    "male prejudices about women"
+          • [37mdislike, hostility, or unjust behaviour deriving from preconceived and unfounded opinions.[0m
+	   "accusations of racial prejudice"
+  	   [3msynonyms:[0m bigotry, bias, partisanship, partiality, intolerance, discrimination, a jaundiced eye, preference, one-sidedness, unfairness, inequality, inequity ;
+                     racism, racialism, anti-Semitism, chauvinism, sexism, ageism, heterosexism, classism, fattism ;  Jim Crowism
+		    "he claimed that his opponents were motivated by prejudice"
 
- 2   Dislike, Hostility, Or Unjust Behaviour Deriving From Preconceived And Unfounded Opinions.
-	 Eg.  "Accusations Of Racial Prejudice"
-	 Eg.  "He Claimed That His Opponents Were Motivated By Prejudice"
-	 Synonyms:  bigotry , bias , partisanship , partiality , intolerance , 
+      [32m2.[0m [37mharm or injury that results or may result from some action or judgement.[0m
+	   "prejudice resulting from delay in the institution of the proceedings"
+  	   [3msynonyms:[0m detriment, harm, disadvantage, damage, injury, hurt, impairment, loss ;  disbenefit
+		    "without prejudice to the interests of other countries"
+    [91m[3mverb[0m[0m | verb: prejudice; 3rd person present: prejudices; past tense: prejudiced; past participle: prejudiced; gerund or present participle: prejudicing
+      [32m1.[0m [37mgive rise to prejudice in (someone); make biased.[0m
+	   "the statement might prejudice the jury"
+  	   [3msynonyms:[0m bias, influence, sway, predispose, make biased, make partial, make partisan, colour, poison, jaundice, warp, twist, slant, distort ;  prepossess
+		    "it was felt that the article would prejudice the jury"
 
- 3   Harm Or Injury That Results Or May Result From Some Action Or Judgement.
-	 Eg.  "Prejudice Resulting From Delay In The Institution Of The Proceedings"
-	 Eg.  "Without Prejudice To The Interests Of Other Countries"
-	 Synonyms:  detriment , harm , disadvantage , damage , injury , 
-
- 4   Give Rise To Prejudice In (Someone); Make Biased.
-	 Eg.  "The Statement Might Prejudice The Jury"
-	 Eg.  "It Was Felt That The Article Would Prejudice The Jury"
-	 Synonyms:  bias , influence , sway , predispose , colour , 
-
- 5   Cause Harm To (A State Of Affairs).
-	 Eg.  "Delay Is Likely To Prejudice The Child'S Welfare"
-	 Eg.  "This Could Prejudice His Chances Of Victory In The November Election"
-	 Synonyms:  damage , injure , harm , hurt , mar , 
+      [32m2.[0m [37mcause harm to (a state of affairs).[0m
+	   "delay is likely to prejudice the child's welfare"
+  	   [3msynonyms:[0m damage, be detrimental to, be prejudicial to, be disadvantageous to, injure, harm, hurt, mar, spoil, impair, undermine, be deleterious to, hinder,
+                     compromise, drive a nail into the coffin of
+		    "this could prejudice his chances of victory in the November election"
+   [31m[4m[34mnoun[0m[0m[0m       [31m[4m[34m[0m[0m[0m       [31m[4m[34mverb[0m[0m[0m  
+          [31mपक्षपात[0m               [31mप्रतिकूल प्रभाव[0m             [31mपक्षपात करना[0m      
+            [31mहानि[0m            [31mपूर्वाग्रह उत्पन्न करना[0m          [31mहानि करना[0m        
+         [31mपूर्वधारणा[0m          [31mप्रतिकूल प्रभाव डालना[0m         [31mक्षति पहुंचाना[0m     

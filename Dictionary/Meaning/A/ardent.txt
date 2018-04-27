@@ -1,21 +1,27 @@
-                                                                                      ARDENT                                                                                      
-  SHORT        If you are ardent, you are passionate about something. A pop star's ardent admirers might go so crazy at his concert that they faint from excitement.
-  LONG         Ardent is most often used to modify words like supporter, fan, advocate, admirer, and defender — but also opponent. Although you can either ardently support
+[35m                                                                                      ARDENT                                                                                      [0m
+[91m        SHORT  If you are ardent, you are passionate about something. A pop star's ardent admirers might go so crazy at his concert that they faint from excitement.[0m
+[36m         LONG  Ardent is most often used to modify words like supporter, fan, advocate, admirer, and defender — but also opponent. Although you can either ardently support
                or oppose something, support is by far the more common use. The word literally means "burning" or "glowing" — it's from Latin ardere, "to
                burn." In poetic use, the word is sometimes used to mean "glowing," as Alexander Pope did in his 1718 translation of Homer's Iliad: "From rank
-               to rank she darts her ardent eyes."
+               to rank she darts her ardent eyes."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But they are perhaps most ardent about their support for school choice, leading a movement to promote vouchers and charter schools for years.
-     >         A significant number of Mr. Trump’s most ardent supporters live in sparsely populated areas where school choice is logistically unlikely.
-     >         But not even his most ardent admirers would have had him down as a future leader of Her Majesty's opposition.
-     >         Some of Trump’s shifts also have the potential to spark a backlash from his most ardent supporters.
-     >         At least 20,000 people donated to Planned Parenthood in the name of Vice President-elect Mike Pence, an ardent opponent of abortion rights.
+[3m             > Like Trump’s Secretary of Education Betsy DeVos, Hastings is an ardent, longtime advocate for charters and a major donor to charter causes.[0m
+[3m             > Still, there are some sights that would trouble even the most ardent of United fans.[0m
+[3m             > But incentivizing the murder of civilians is barbarism, and it happens to offer a career path for ardent and enterprising Palestinians.[0m
+[3m             > The Senate’s “renegade” rogue Republicans John McCain and Lindsey Graham — ardent foes of Mr. Trump during the campaign — commended him for his warrior
+               bluster.[0m
+[3m             > Asked how she dealt with pressure, Ms. Yellen described herself as an “ardent believer” in the importance of a good night’s sleep.[0m
 
- 1   Very Enthusiastic Or Passionate.
-	 Eg.  "An Ardent Supporter Of The Conservative Cause"
-	 Eg.  "An Ardent Feminist"
-	 Synonyms:  passionate , avid , impassioned , fervent , fervid , 
-	 Antonyms:  half-hearted , 
+[35mArdent[0m[36m /ˈɑːd(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: ardent
+      [32m1.[0m [37mvery enthusiastic or passionate.[0m
+	   "an ardent supporter of the conservative cause"
+  	   [3msynonyms:[0m passionate, avid, impassioned, fervent, fervid, zealous, wholehearted, eager, vehement, intense, fierce, fiery, flaming, emotional, hot-blooded ;
+                     earnest, sincere ;  enthusiastic, keen, committed, dedicated, assiduous ;  mad keen
+		    "an ardent feminist"
+  	   [3mantonyms:[0m half-hearted
 
- 2   Burning; Glowing.
-	 Eg.  "The Ardent Flames"
+      [32m2.[0m [37mburning; glowing.[0m
+	   "the ardent flames"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mउत्साही[0m    [31mतीव्र[0m  
+   [31mउत्कट[0m    [31mप्रचण्ड[0m 

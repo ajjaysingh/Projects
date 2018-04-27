@@ -1,53 +1,66 @@
-                                                                                    RECKONING                                                                                     
-  SHORT        A reckoning is a calculation or number you estimate. You might say, "By my reckoning, there are now seventeen kids in the bouncy house, which might be a few
-               too many."
-  LONG         The act of counting or tallying can be called a reckoning, and so can a person's opinion on something. You could describe an ancient astronomer's reckoning
+[35m                                                                                    RECKONING                                                                                     [0m
+[91m        SHORT  A reckoning is a calculation or number you estimate. You might say, "By my reckoning, there are now seventeen kids in the bouncy house, which might be a few
+               too many."[0m
+[36m         LONG  The act of counting or tallying can be called a reckoning, and so can a person's opinion on something. You could describe an ancient astronomer's reckoning
                that the Earth was at the center of the universe or your own reckoning that guests should never stay more than three days. The Old English
-               gerecenian is the root of reckoning, to count, recount, or relate.
+               gerecenian is the root of reckoning, to count, recount, or relate.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “It has prevented a really honest reckoning of the Cuban revolution and its price.”
-     >         The New York Times has done some public reckoning with Walter Duranty’s pro-Stalin reporting on the Soviet Union in the 1930s.
-     >         History suggested that Stamford Bridge might be a test too far, and what felt like a week of reckoning duly delivered two heavyweight blows.
-     >         “Your day of reckoning has arrived,” the letter states, according to CAIR-LA.
-     >         Meanwhile, Brierley was still reckoning with how he felt while watching his story be turned into a film.
+[3m             > Courtney Woods, a student who will earn a master’s degree in education policy and management, framed the event as a form of racial reckoning.[0m
+[3m             > And so younger evangelicals are now, I think, starting to really ... it’s a day of reckoning.[0m
+[3m             > It is the kind of political reckoning that many American suburbs may soon confront, if they haven’t already.[0m
+[3m             > And then, for the festival organizers, the legal and financial reckoning began.[0m
+[3m             > It may seem strange to yoke the élite ritual of a TED talk to a high-risk reckoning with inflamed religiosity in a war zone.[0m
 
- 1   The Action Or Process Of Calculating Or Estimating Something.
-	 Eg.  "The Sixth, Or By Another Reckoning Eleventh, Earl Of Mar"
-	 Eg.  "By The Judge'S Reckoning, This Comes To Close On $2 Million"
-	 Synonyms:  calculation , estimation , computation , summation , counting , 
+[35mReckoning[0m[36m /ˈrɛk(ə)nɪŋ/,[0m [91m[3mnoun[0m[0m | noun: reckoning; noun: the reckoning
+      [32m1.[0m [37mthe action or process of calculating or estimating something.[0m
+	   "the sixth, or by another reckoning eleventh, Earl of Mar"
+  	   [3msynonyms:[0m calculation, estimation, computation, working out, summation, counting ;  addition, total, tally, score
+		    "by the judge's reckoning, this comes to close on $2 million"
+          • [37ma person's opinion or judgement.[0m
+	   "by ancient reckoning, bacteria are plants"
+  	   [3msynonyms:[0m opinion, view, judgement, evaluation, way of thinking, estimate, estimation, appraisal, consideration
+		    "by her reckoning, it was high time her luck changed"
+          • [37ma bill or account, or its settlement.[0m
+	   plural noun: reckonings
 
- 2   A Person'S Opinion Or Judgement.
-	 Eg.  "By Ancient Reckoning, Bacteria Are Plants"
-	 Eg.  "By Her Reckoning, It Was High Time Her Luck Changed"
-	 Synonyms:  opinion , view , judgement , evaluation , estimate , 
+      [32m2.[0m [37mthe avenging or punishing of past mistakes or misdeeds.[0m
+	   "the fear of being brought to reckoning"
+  	   [3msynonyms:[0m retribution, fate, doom, nemesis, judgement, punishment, what is coming to someone
+		    "the terrible reckoning that he deserved"
 
- 3   A Bill Or Account, Or Its Settlement.
-	 Eg.  Plural Noun: Reckonings
+      [32m3.[0m [37mcontention for a place in a team or among the winners of a contest.[0m
+	   "he has hit the sort of form which could thrust him into the reckoning"
+[35mReckon[0m[36m /ˈrɛk(ə)n/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: reckoning
+      [32m1.[0m [37mestablish by calculation.[0m
+	   "his debts were reckoned at £300,000"
+  	   [3msynonyms:[0m calculate, compute, work out, put a figure on, figure, number, quantify ;  count (up), add up, total, tally ;  tot up
+		    "the cost to the company was reckoned at £6,000"
+          • [37minclude someone or something in (a class or group).[0m
+	   "the society can reckon among its members males of the royal blood"
+  	   [3msynonyms:[0m include, count, number ;  consider to be, deem to be, regard as, look on as, take to be
+		    "Anselm reckoned Hugh among his friends"
 
- 4   The Avenging Or Punishing Of Past Mistakes Or Misdeeds.
-	 Eg.  "The Fear Of Being Brought To Reckoning"
-	 Eg.  "The Terrible Reckoning That He Deserved"
-	 Synonyms:  retribution , fate , doom , nemesis , judgement , 
+      [32m2.[0m [37mbe of the opinion.[0m
+	   "he reckons that the army should pull out entirely"
+  	   [3msynonyms:[0m believe, think, be of the opinion, be of the view, be convinced, suspect, dare say, have an idea, have a feeling, imagine, fancy, guess, suppose, assume,
+                     surmise, conjecture, consider ;  figure ;  ween
+		    "I reckon she had her eye on him from the start"
+          • [37mconsider or regard in a specified way.[0m
+	   "the event was reckoned a failure"
+  	   [3msynonyms:[0m regard as, consider, judge, hold to be, view, think of as, look on as ;  deem, rate, evaluate, gauge, count, estimate ;  repute
+		    "category A prisoners are reckoned the most dangerous"
+          • [37mhave a specified view or opinion of.[0m
+	   "‘What do you reckon on this place?’ she asked"
+          • [37mrate highly.[0m
+	   "I don't reckon his chances"
 
- 5   Contention For A Place In A Team Or Among The Winners Of A Contest.
-	 Eg.  "He Has Hit The Sort Of Form Which Could Thrust Him Into The Reckoning"
-
- 6   Establish By Calculation.
-	 Eg.  "His Debts Were Reckoned At £300,000"
-	 Eg.  "The Cost To The Company Was Reckoned At £6,000"
-	 Synonyms:  calculate , compute , figure , number , quantify , 
-
- 7   Include Someone Or Something In (A Class Or Group).
-	 Eg.  "The Society Can Reckon Among Its Members Males Of The Royal Blood"
-	 Eg.  "Anselm Reckoned Hugh Among His Friends"
-	 Synonyms:  include , count , number , 
-
- 8   Be Of The Opinion.
-	 Eg.  "He Reckons That The Army Should Pull Out Entirely"
-	 Eg.  "I Reckon She Had Her Eye On Him From The Start"
-	 Synonyms:  believe , think , suspect , imagine , fancy , 
-
- 9   Consider Or Regard In A Specified Way.
-	 Eg.  "The Event Was Reckoned A Failure"
-	 Eg.  "Category A Prisoners Are Reckoned The Most Dangerous"
-	 Synonyms:  consider , judge , view , deem , rate , 
+      [32m3.[0m [37mrely on or be sure of.[0m
+	   "they had reckoned on a day or two more of privacy"
+          • [37mexpect to do a particular thing.[0m
+	   "I reckon to get away by two-thirty"
+  	   [3msynonyms:[0m expect, anticipate, hope to, be looking to ;  count on, rely on, depend on, bank on, calculate on, be sure of, trust in, take for granted, take as read ;
+                     figure on
+		    "when I spend that much I reckon to get good value for money"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mगणना[0m         [31mसंगणना[0m   

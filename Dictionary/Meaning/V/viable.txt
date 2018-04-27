@@ -1,28 +1,32 @@
-                                                                                      VIABLE                                                                                      
-  SHORT        When something is viable, it has the ability to grow or function properly. A viable seed can develop into a plant, while a viable company has the resources to
-               succeed.
-  LONG         The adjective viable refers to something able to function properly and even grow. It is made up of the Latin roots vita which means "life," and the ending
+[35m                                                                                      VIABLE                                                                                      [0m
+[91m        SHORT  When something is viable, it has the ability to grow or function properly. A viable seed can develop into a plant, while a viable company has the resources to
+               succeed.[0m
+[36m         LONG  The adjective viable refers to something able to function properly and even grow. It is made up of the Latin roots vita which means "life," and the ending
                -able which means "to be possible." In terms of science or botany, when a plant is viable it can live and flourish in an environment such as a
                cactus in the desert. Consider also the Wright brothers, who were the first to develop a viable airplane after many tries and spectacular
-               failures.
+               failures.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         It’s living proof that urban renewal is not only viable, but one of the best uses of taxpayer moneys.
-     >         That ignores practical issues such as whether an insurer in Houston can set up a viable network of doctors in New York.
-     >         There are sound reasons to believe that lying is not a viable strategy in the long run.
-     >         The business model could not be made "financially viable", the management team said on winding up.
-     >         They become an even less viable investments as they deteriorate, Mr. Mallach said.
+[3m             > The legislation removes those restrictions and leaves it to doctors to determine whether a fetus is viable.[0m
+[3m             > Meal deliveries may never be a viable way to eat all the time, but they work as a reboot to the system.[0m
+[3m             > But he said if biomass crops are only viable when planted over wide areas, they may end up as another challenge to farmland wildlife.[0m
+[3m             > But is it a viable alternative to the standard method of restricting calories consumed daily?[0m
+[3m             > “It’s unacceptable,” she said, “closing this without a viable alternative for five years.”[0m
 
- 1   Capable Of Working Successfully; Feasible.
-	 Eg.  "The Proposed Investment Was Economically Viable"
-	 Eg.  "The Committee Came Forward With The Only Viable Solution"
-	 Synonyms:  workable , feasible , practicable , practical , applicable , 
-	 Antonyms:  impracticable , 
-
- 2   (Of A Seed Or Spore) Able To Germinate.
-	 Eg.  "Most Clones Can Produce Thousands Of Viable Seeds"
-
- 3   (Of A Plant, Animal, Or Cell) Capable Of Surviving Or Living Successfully, Especially Under Particular Environmental Conditions.
-	 Eg.  "The Largest And Most Viable Population Of This Endangered Vetch"
-
- 4   (Of A Fetus Or Unborn Child) Able To Live After Birth.
-	 Eg.  "What If The Fetus Were Viable?"
+[35mViable[0m[36m /ˈvʌɪəb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: viable
+          • [37mcapable of working successfully; feasible.[0m
+	   "the proposed investment was economically viable"
+  	   [3msynonyms:[0m workable, feasible, practicable, practical, applicable, usable, manageable, operable, operational, possible, within the bounds/realms of possibility,
+                     within reach, within reason, likely, achievable, attainable, accomplishable, realizable, reasonable, sensible, realistic, logical,
+                     useful, of use, serviceable, suitable, expedient, effective, valid, tenable ;  sound, well advised, well thought out, well grounded,
+                     judicious, level-headed, wise ;  doable
+		    "the committee came forward with the only viable solution"
+  	   [3mantonyms:[0m impracticable
+          • [37m(of a seed or spore) able to germinate.[0m
+	   "most clones can produce thousands of viable seeds"
+          • [37m(of a plant, animal, or cell) capable of surviving or living successfully, especially under particular environmental conditions.[0m
+	   "the largest and most viable population of this endangered vetch"
+          • [37m(of a fetus or unborn child) able to live after birth.[0m
+	   "what if the fetus were viable?"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34madjective[0m[0m[0m
+       [31mव्यवहार्य[0m        [31mबड़े जीवर्नबल का[0m  
+        [31mजीवक्षम[0m        [31mबड़ी जीवन-शक्ति का[0m 

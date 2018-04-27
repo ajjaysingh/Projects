@@ -1,18 +1,23 @@
-                                                                                      EVICT                                                                                       
-  SHORT        Use the verb evict to say that a tenant is being forced to move out of his home, usually through legal action. If you don't pay your rent, eventually your
-               landlord will evict you.
-  LONG         Evict became part of the English language back in the 1530s. Based on the Latin word evincere, meaning "recover property, overcome and expel, conquer," even
+[35m                                                                                      EVICT                                                                                       [0m
+[91m        SHORT  Use the verb evict to say that a tenant is being forced to move out of his home, usually through legal action. If you don't pay your rent, eventually your
+               landlord will evict you.[0m
+[36m         LONG  Evict became part of the English language back in the 1530s. Based on the Latin word evincere, meaning "recover property, overcome and expel, conquer," even
                then it had a legal process attached to it. Before you evict someone, you have to complete official paperwork, though some landlords may
-               succeed in evicting tenants without following the legal steps.
+               succeed in evicting tenants without following the legal steps.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The agency previously had said it would not evict protesters due to free speech reasons.
-     >         But the evicted families have resettled in another vacant plot of land near the river not too far away.
-     >         “Do not demolish us, do not evict us. We do not know were we would go.”
-     >         Roberts and dozens of other disenrolled members who live on tribal land could now be evicted from their homes.
-     >         The ultimate goal is the same: Evict the Sunni extremist group Islamic State from the country.
+[3m             > Officials and developers deemed the burial grounds to be more valuable to the living, and they launched a decades-long campaign to evict the dead.[0m
+[3m             > Forty people a day are evicted in Milwaukee; each day in New York City brings 60 marshal evictions.[0m
+[3m             > The new law will now allow local officials to evict residents if there is contamination from the use of certain hazardous chemicals.[0m
+[3m             > An evicted 100-year-old woman recently became a symbol of gentrification.[0m
+[3m             > The team’s response — evicting the racist and banning him permanently from Fenway — was forceful and swift.[0m
 
- 1   Expel (Someone) From A Property, Especially With The Support Of The Law.
-	 Eg.  "A Single Mother And Her Children Have Been Evicted From Their Home"
-	 Eg.  "The Police Moved In And Evicted The Squatters"
-	 Synonyms:  expel , eject , oust , remove , dislodge , 
-	 Antonyms:  admit , 
+[35mEvict[0m[36m /ɪˈvɪkt/,[0m [91m[3mverb[0m[0m | verb: evict; 3rd person present: evicts; past tense: evicted; past participle: evicted; gerund or present participle: evicting
+          • [37mexpel (someone) from a property, especially with the support of the law.[0m
+	   "a single mother and her children have been evicted from their home"
+  	   [3msynonyms:[0m expel, eject, oust, remove, dislodge, turn out, put out, force out, throw out, throw out on the streets, throw out on one's ear, drum out, drive out ;
+                     dispossess, expropriate ;  chuck out, kick out, boot out, heave out, bounce, give someone the (old) heave-ho, throw someone out on
+                     their ear, show someone the door ;  turf out ;  give someone the bum's rush ;  defenestrate ;  out
+		    "the police moved in and evicted the squatters"
+  	   [3mantonyms:[0m admit
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mनिकालना[0m        [31mबेदख़ल करना[0m  

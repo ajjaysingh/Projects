@@ -1,24 +1,32 @@
-                                                                                     PERTURB                                                                                      
-  SHORT        To perturb is to bug or bother someone by confusing them or throwing them off balance. You can try, but it's almost impossible to perturb the guards outside
-               Buckingham Palace.
-  LONG         If you're having trouble getting used to the word perturb, you're in luck! It's similar in meaning to  the verb "disturb." That's right, to perturb is to
+[35m                                                                                     PERTURB                                                                                      [0m
+[91m        SHORT  To perturb is to bug or bother someone by confusing them or throwing them off balance. You can try, but it's almost impossible to perturb the guards outside
+               Buckingham Palace.[0m
+[36m         LONG  If you're having trouble getting used to the word perturb, you're in luck! It's similar in meaning to  the verb "disturb." That's right, to perturb is to
                disturb, but in a way that suggests you're throwing it off its usual path or routine. The movie Born Free truly perturbed widespread views
                about animals—people suddenly started seeing them as individuals. If you stare at a person you don't know, it won't be long before you perturb
-               them.
+               them.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         You can stop at being right, though, and skip feeling perturbed.
-     >         “The death is so high, we are really perturbed,” he said on Sunday in a telephone interview.
-     >         Finally persuaded to take a few questions, Marshall often affixes reporters with a perturbed, blue-eyed stare.
-     >         Such regions might bind to other proteins tightly and without specificity through hydrophobic interactions or perturb or integrate, in part, with membranes.
-     >         Trump seemed particularly perturbed by JayZ’s appearance, accusing the rapper and business mogul of using language that was worse than his own during the
-               concert.
+[3m             > But Russia is not free, and Mr. Putin hardly seems perturbed.[0m
+[3m             > But they weren’t perturbed by the prospect of buying a home a mile away from the nearest Metro station.[0m
+[3m             > The image in the meme, already popular in China, is a visibly perturbed yellow bird, apparently representing Mr. Trump.[0m
+[3m             > Students and parents alike were equally perturbed by the peculiar assignment.[0m
+[3m             > Some people were perturbed when Rentberry - a website that runs rental auctions - launched last year.[0m
 
- 1   Make (Someone) Anxious Or Unsettled.
-	 Eg.  "They Were Perturbed By Her Capricious Behaviour"
-	 Eg.  "David'S Appearance Perturbed His Parents"
-	 Eg.  "She Didn'T Seem Perturbed At The Noises Around Her"
-	 Synonyms:  worry , upset , unsettle , disturb , concern , 
-	 Antonyms:  reassure , unperturbed , calm , composed , 
+[35mPerturb[0m[36m /pəˈtəːb/,[0m [91m[3mverb[0m[0m | verb: perturb; 3rd person present: perturbs; past tense: perturbed; past participle: perturbed; gerund or present participle: perturbing
+      [32m1.[0m [37mmake (someone) anxious or unsettled.[0m
+	   "they were perturbed by her capricious behaviour"
+  	   [3msynonyms:[0m worry, upset, unsettle, disturb, concern, trouble, make anxious, make uneasy, make fretful, disquiet ;  discompose, disconcert, discomfit, unnerve,
+                     alarm, bother, distress, dismay, gnaw at, agitate, fluster, ruffle, discountenance, exercise ;  rattle, faze ;  pother  upset,
+                     worried, unsettled, disturbed, concerned, troubled, anxious, ill at ease, uneasy, fretful, disquieted ;  disconcerted, discomposed,
+                     unnerved, alarmed, bothered, distressed, dismayed, apprehensive, nervous, restless, agitated, flustered, ruffled, shaken, flurried,
+                     discountenanced, uncomfortable ;  twitchy, rattled, fazed, discombobulated ;  antsy ;  unquiet
+		    "David's appearance perturbed his parents"
+  	   [3mantonyms:[0m reassure, unperturbed, calm, composed
 
- 2   Subject (A System, Moving Object, Or Process) To An Influence Tending To Alter Its Normal Or Regular State Or Path.
-	 Eg.  "Nuclear Weapons Could Be Used To Perturb The Orbit Of An Asteroid"
+      [32m2.[0m [37msubject (a system, moving object, or process) to an influence tending to alter its normal or regular state or path.[0m
+	   "nuclear weapons could be used to perturb the orbit of an asteroid"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mघबड़ा देना[0m      [31mबेचैन करना[0m  
+   [31mव्याकुल करना[0m       [31mघबराना[0m    
+   [31mव्यग्र करना[0m      [31mघबरा देना[0m   
+   [31mउपद्रव करना[0m      [31mबाधा डालना[0m  

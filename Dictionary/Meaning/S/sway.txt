@@ -1,39 +1,44 @@
-                                                                                       SWAY                                                                                       
-  SHORT        Back and forth...back and forth...back and forth...are you sea-sick yet? The sway, or rocking motion, of a boat is too much for many stomachs.
-  LONG         People can sway if they're dizzy, tilting from side to side as they walk. On a windy day you can see trees swaying and bending in the wind. Swaying is usually
+[35m                                                                                       SWAY                                                                                       [0m
+[91m        SHORT  Back and forth...back and forth...back and forth...are you sea-sick yet? The sway, or rocking motion, of a boat is too much for many stomachs.[0m
+[36m         LONG  People can sway if they're dizzy, tilting from side to side as they walk. On a windy day you can see trees swaying and bending in the wind. Swaying is usually
                a gentle motion, but if you're easily swayed, you're in trouble. That means you're easily influenced by others. People of power often "hold
-               sway" over their followers, controlling them with the seeming ease of the breeze.
+               sway" over their followers, controlling them with the seeming ease of the breeze.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Voters, like the selection committee, are not swayed by the Nittany Lions 24-21 home victory over the Buckeyes in October.
-     >         Among those who fell under Mr. Castro’s sway was Américo Martín, a one-time confidant of the Cuban leader and a former guerrilla chief from Venezuela.
-     >         He often leads foreign delegations, but it is unclear how much sway he has with the military.
-     >         That broke the ice and women swayed to the beat.
-     >         In international relations, meanwhile, zero-sum attitudes toward Great Power politics appear to hold increasing sway.
+[3m             > “I think Comey’s remark about being ‘mildly nauseous’ about swaying the election is what sealed the deal.[0m
+[3m             > Trump was frustrated when Comey revealed in Senate testimony the breadth of the counterintelligence investigation into Russia’s effort to sway the 2016 U.S.
+               presidential election.[0m
+[3m             > Friends hold as much sway these days as trained experts.[0m
+[3m             > The Lost Tribes theory held sway until the nineteenth century, when it was challenged by events.[0m
+[3m             > He just swayed side to side, his full weight against the pillar.[0m
 
- 1   Move Or Cause To Move Slowly Or Rhythmically Backwards And Forwards Or From Side To Side.
-	 Eg.  "He Swayed Slightly On His Feet"
-	 Eg.  "The Curtains Were Swaying In The Breeze"
-	 Eg.  "She Swayed On Her Feet And The Doctor Put Out A Hand To Steady Her"
-	 Eg.  "His Thoughts Sway Constantly Between The Desire To Go On And The Desire To Settle Down"
-	 Synonyms:  swing , shake , oscillate , rock , undulate , 
+[35mSway[0m[36m /sweɪ/,[0m [91m[3mverb[0m[0m | verb: sway; 3rd person present: sways; past tense: swayed; past participle: swayed; gerund or present participle: swaying
+      [32m1.[0m [37mmove or cause to move slowly or rhythmically backwards and forwards or from side to side.[0m
+	   "he swayed slightly on his feet"
+  	   [3msynonyms:[0m swing, shake, oscillate, rock, undulate, move from side to side, move to and fro, move back and forth  stagger, wobble, rock, lurch, reel, roll, list,
+                     stumble, pitch, keel, veer, swerve  waver, fluctuate, vacillate, oscillate, alternate, vary, see-saw, yo-yo, equivocate, hesitate,
+                     shilly-shally, go from one extreme to the other ;  hum and haw ;  wobble, blow hot and cold
+		    "the curtains were swaying in the breeze"
 
- 2   Control Or Influence (A Person Or Course Of Action).
-	 Eg.  "He'S Easily Swayed By Other People"
-	 Eg.  "A Lot Of People Are Swayed By The Media"
-	 Synonyms:  influence , affect , bias , persuade , convert , 
+      [32m2.[0m [37mcontrol or influence (a person or course of action).[0m
+	   "he's easily swayed by other people"
+  	   [3msynonyms:[0m influence, affect, bias, persuade, prevail on, bring round, talk round, win over, convert ;  manipulate, bend, mould ;  nobble
+		    "a lot of people are swayed by the media"
+          • [37mrule; govern.[0m
+	   "now let the Lord forever reign and sway us as he will"
+  	   [3msynonyms:[0m rule, govern, dominate, control, direct, guide
+		    "she mustn't allow herself to be swayed by emotion"
+    [91m[3mnoun[0m[0m | noun: sway
+      [32m1.[0m [37ma rhythmical movement from side to side.[0m
+	   "the easy sway of her hips"
+  	   [3msynonyms:[0m swing, sweep, wave, roll, shake, movement, oscillation, undulation
+		    "the slow, easy sway of her hips"
 
- 3   Rule; Govern.
-	 Eg.  "Now Let The Lord Forever Reign And Sway Us As He Will"
-	 Eg.  "She Mustn'T Allow Herself To Be Swayed By Emotion"
-	 Synonyms:  rule , govern , dominate , control , direct , 
-
- 4   A Rhythmical Movement From Side To Side.
-	 Eg.  "The Easy Sway Of Her Hips"
-	 Eg.  "The Slow, Easy Sway Of Her Hips"
-	 Synonyms:  swing , sweep , wave , roll , shake , 
-
- 5   Rule; Control.
-	 Eg.  "The Country Was Under The Sway Of Rival Warlords"
-	 Eg.  "The Province Passed Under The Sway Of The Franks"
-	 Eg.  "Parliament Is Increasingly Under The Sway Of Dogmatists"
-	 Synonyms:  jurisdiction , rule , government , sovereignty , dominion , 
+      [32m2.[0m [37mrule; control.[0m
+	   "the country was under the sway of rival warlords"
+  	   [3msynonyms:[0m jurisdiction, rule, government, sovereignty, dominion, control, command, power, authority, ascendancy, domination, mastery  control, domination, power,
+                     authority, supremacy, influence, leadership, direction, leverage ;  pull, clout
+		    "the province passed under the sway of the Franks"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mबोलबाला[0m          [31mहिलाना[0m          [31mशपथ लेना[0m    
+       [31mदेलन[0m             [31mडोलना[0m         [31mशपथ दिलाना[0m   
+      [31mप्रभाव[0m         [31mएक ओर झुकना[0m    [31mशपथपूर्वक कहना[0m 

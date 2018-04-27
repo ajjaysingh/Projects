@@ -1,23 +1,28 @@
-                                                                                     STRIDENT                                                                                     
-  SHORT        Something that's strident is loud, grating, and obnoxious. Your roommate's strident laughter as he watches cartoons late into the night might inspire you to
-               buy a pair of ear plugs.
-  LONG         Strident is related to the Latin word strix , meaning "screech owl." This is a kind of owl that doesn't hoot. It screeches in a strident way. Strident can
+[35m                                                                                     STRIDENT                                                                                     [0m
+[91m        SHORT  Something that's strident is loud, grating, and obnoxious. Your roommate's strident laughter as he watches cartoons late into the night might inspire you to
+               buy a pair of ear plugs.[0m
+[36m         LONG  Strident is related to the Latin word strix , meaning "screech owl." This is a kind of owl that doesn't hoot. It screeches in a strident way. Strident can
                also describe the forceful expression of an unpopular opinion. Don't confuse strident with striding, which means walking quickly with a wide
-               step. If you're angry at your brother, you might come striding into his room and begin making a strident case for why he has done you wrong.
+               step. If you're angry at your brother, you might come striding into his room and begin making a strident case for why he has done you wrong.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Cuban-American politicians who have based their careers on a strident opposition to Mr. Castro also celebrated and expressed hope for change.
-     >         This consensus included even officials who had been among the agreement’s strident critics.
-     >         Martina Navratilova has been one of the most strident proclaimers of the importance of sound to her tennis.
-     >         “My talk certainly was strident, and it definitely was about getting a rise out of people and expressing excitement,” he said.
-     >         It just felt like those strident strings outlining those melodies just made it work better.
+[3m             > But will India's strident regional space diplomacy yield results?[0m
+[3m             > Of course he didn’t say that explicitly since it would require backtracking on the university’s strident declaration that it would never do such a thing.[0m
+[3m             > Le Pen’s speech was short and strident, peppered with her trademark emotive adjectives: “savage globalization,” “arrogant elites,” “big money.”[0m
+[3m             > “Where are your battles, your monuments, martyrs?” asks the voice of a metropolitan skeptic — and the poet’s strident answer is “the sea.”[0m
+[3m             > And for Ting, who turned 81 in January, it would be a vindication, a final retort to his strident critics.[0m
 
- 1   (Of A Sound) Loud And Harsh; Grating.
-	 Eg.  "His Voice Had Become Increasingly Strident"
-	 Eg.  "A Strident Voice Interrupted The Consultation"
-	 Synonyms:  harsh , raucous , rough , grating , rasping , 
-	 Antonyms:  soft , dulcet , 
+[35mStrident[0m[36m /ˈstrʌɪd(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: strident
+      [32m1.[0m [37m(of a sound) loud and harsh; grating.[0m
+	   "his voice had become increasingly strident"
+  	   [3msynonyms:[0m harsh, raucous, rough, grating, rasping, jarring, loud, stentorian, shrill, screeching, piercing, ear-piercing ;  unmelodious, unmusical, discordant,
+                     dissonant, unharmonious ;  stridulous, stridulant, stridulatory, stentorious
+		    "a strident voice interrupted the consultation"
+  	   [3mantonyms:[0m soft, dulcet
+          • [37manother term for sibilant.[0m
 
- 2   Another Term For Sibilant.
-
- 3   Presenting A Point Of View, Especially A Controversial One, In An Excessively Forceful Way.
-	 Eg.  "Public Pronouncements On The Crisis Became Less Strident"
+      [32m2.[0m [37mpresenting a point of view, especially a controversial one, in an excessively forceful way.[0m
+	   "public pronouncements on the crisis became less strident"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+        [31mकठोर[0m               [31mतेज़[0m       
+     [31mश्रुतिकठोर[0m         [31mचरचरानेवाला[0m   
+   [31mसुनने में कड़ा[0m          [31mएकटक[0m       

@@ -1,24 +1,31 @@
-                                                                                    DISCLOSURE                                                                                    
-  SHORT        If you make a disclosure, you reveal information not previously known — either because it's new information or because it's been kept secret. Disclosure of
-               new evidence at a trial could reveal that the accused is innocent of the crime.
-  LONG         The noun disclosure derives from the Old French word desclos, meaning "open, exposed, plain, explicit." If you make a disclosure, you put something out in the
+[35m                                                                                    DISCLOSURE                                                                                    [0m
+[91m        SHORT  If you make a disclosure, you reveal information not previously known — either because it's new information or because it's been kept secret. Disclosure of
+               new evidence at a trial could reveal that the accused is innocent of the crime.[0m
+[36m         LONG  The noun disclosure derives from the Old French word desclos, meaning "open, exposed, plain, explicit." If you make a disclosure, you put something out in the
                open, usually information that was formally secret. After the disclosure of your huge credit card debt, your parents might make you get a job.
                The disclosure that nicotine is really addictive has motivated many people to quit smoking. The disclosure of one coworker's salary to another
-               could lead to bitter jealousy.
+               could lead to bitter jealousy.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Public Disclosure Commission, the state’s election watchdog agency, needs a more generous, yet independent, source of money to conduct its business.
-     >         “In at least one of those instances, during a well-child exam, they disclosed some additional injuries which led to additional disclosures,” he said.
-     >         According to financial disclosure statements, he also has reported receiving rental income from Press Forge, a large metal forging and manufacturing facility.
-     >         Within a year, Virginia lawmakers passed a real-estate disclosure law that the industry hailed as a major step forward.
-     >         “It should not be left as a moral or personal decision,” said Ms. Amor, adding that more disclosure should be mandatory.
+[3m             > It also highlights how federal laws governing disclosures of foreign influence in American politics are only as strong as they’re enforced.[0m
+[3m             > “As such, it is potentially illegal and unconstitutional, and will likely chill protected disclosures of waste, fraud, and abuse.”[0m
+[3m             > The difference matters because Flynn’s foreign business relationships and the veracity of his disclosures are under scrutiny by congressional, military and
+               intelligence inquiries.[0m
+[3m             > The FBI said at the time that Mr. McCabe complied with disclosure rules.[0m
+[3m             > The disclosures included “Collateral Murder”, the footage of a US Apache helicopter attack in Baghdad in which two Reuters journalists and other civilians
+               were killed.[0m
 
- 1   The Action Of Making New Or Secret Information Known.
-	 Eg.  "A Judge Ordered The Disclosure Of The Government Documents"
-	 Eg.  "She Was Acutely Embarrassed By This Unexpected Disclosure"
-	 Eg.  "The Unauthorized Disclosure Of Official Information"
-	 Synonyms:  revelation , declaration , announcement , news , report , 
-	 Antonyms:  concealment , 
-
- 2   A Fact, Especially A Secret, That Is Made Known.
-	 Eg.  Plural Noun: Disclosures
-	 Eg.  "The Government'S Disclosures About Missile Programmes"
+[35mDisclosure[0m[36m /dɪsˈkləʊʒə/,[0m [91m[3mnoun[0m[0m | noun: disclosure
+          • [37mthe action of making new or secret information known.[0m
+	   "a judge ordered the disclosure of the government documents"
+  	   [3msynonyms:[0m revelation, surprising fact, divulgence, declaration, announcement, news, report ;  exposé, leak ;  admission, confession  publishing, broadcasting ;
+                     revelation, revealing, making known, communication, divulging, divulgence ;  release, uncovering, unveiling, exposure ;  leakage ;
+                     discovery ;  divulgation
+		    "she was acutely embarrassed by this unexpected disclosure"
+  	   [3mantonyms:[0m concealment
+          • [37ma fact, especially a secret, that is made known.[0m
+	   plural noun: disclosures
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mप्रकटीकरण[0m         [31mखोलना[0m     
+      [31mप्रकटन[0m       [31mभेद प्रकाशन[0m  
+     [31mउद्घाटन[0m         [31mपरदाफ़ाश[0m   
+  [31mरहस्योद्‍घाटन[0m      [31mभंडाफोड़[0m   

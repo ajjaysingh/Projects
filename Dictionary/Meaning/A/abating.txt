@@ -1,26 +1,30 @@
-                                                                                     ABATING                                                                                      
-  SHORT        Something that abates becomes fewer or less intense. Your enthusiasm for skiing might abate after falling off a ski lift and getting a mouthful of snow.
-  LONG         Abate comes from the Old French verb abattre, "to beat down," and means to reduce or become less intense or numerous. As an intransitive verb, it is often
+[35m                                                                                     ABATING                                                                                      [0m
+[91m        SHORT  Something that abates becomes fewer or less intense. Your enthusiasm for skiing might abate after falling off a ski lift and getting a mouthful of snow.[0m
+[36m         LONG  Abate comes from the Old French verb abattre, "to beat down," and means to reduce or become less intense or numerous. As an intransitive verb, it is often
                used with something physically, emotionally, or figuratively violent, as in "the flood of fan mail began to abate." Using it transitively, if
-               you take measures to abate pollution or noise, you reduce them. Pronounce abate with the stress on the second syllable (uh-BATE).
+               you take measures to abate pollution or noise, you reduce them. Pronounce abate with the stress on the second syllable (uh-BATE).[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The fallout from the scandal shows no sign of abating, with South Korea witnessing the largest protests since pro-democracy demonstrations of the 1980s.
-     >         But there are few signs that discounts are abating.
-     >         But confusion showed no signs of abating, with investors awaiting the articulation of Mr. Trump’s agenda.
-     >         The pain at Concordia International shows no signs of abating.
-     >         In his opposition, he set off a political and cultural firestorm that shows no signs of abating.
+[3m             > Despite dozens of people being killed in protest-related violence, the demonstrations show little sign of abating.[0m
+[3m             > Trump repeatedly dismisses the story as “fake news,” but the investigations show no sign of abating anytime soon.[0m
+[3m             > The narrowing gap in death rates first emerged at the start of this century, and it shows no signs of abating.[0m
+[3m             > European airlines are catching a break amid signs a sharp fall in ticket prices is abating, but rising oil prices are damping enthusiasm.[0m
+[3m             > And our curiosity about how much she’s in on the joke is in danger of abating.[0m
 
- 1   (Of Something Unpleasant Or Severe) Become Less Intense Or Widespread.
-	 Eg.  "The Storm Suddenly Abated"
-	 Eg.  "Thankfully, The Storm Had Abated"
-	 Synonyms:  subside , lessen , decrease , diminish , moderate , 
-	 Antonyms:  intensify , 
-
- 2   Make (Something) Less Intense.
-	 Eg.  "Nothing Abated His Crusading Zeal"
-
- 3   Reduce Or Remove (A Nuisance).
-	 Eg.  "This Action Would Not Have Been Sufficient To Abate The Odour Nuisance"
-	 Eg.  "Energy Efficiency May Be The Quickest Way To Abate Emissions Of Carbon Dioxide"
-	 Synonyms:  decrease , lessen , diminish , reduce , lower , 
-	 Antonyms:  increase , 
+[35mAbate[0m[36m /əˈbeɪt/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: abating
+          • [37m(of something unpleasant or severe) become less intense or widespread.[0m
+	   "the storm suddenly abated"
+  	   [3msynonyms:[0m subside, die down/away/out, drop off/away, lessen, ease (off), let up, decrease, diminish, moderate, decline, fade, dwindle, slacken, recede, cool off,
+                     tail off, peter out, taper off, wane, ebb, relent, desist, weaken, become weaker, come to an end ;  remit
+		    "thankfully, the storm had abated"
+  	   [3mantonyms:[0m intensify
+          • [37mmake (something) less intense.[0m
+	   "nothing abated his crusading zeal"
+          • [37mreduce or remove (a nuisance).[0m
+	   "this action would not have been sufficient to abate the odour nuisance"
+  	   [3msynonyms:[0m decrease, lessen, diminish, reduce, lower, moderate, ease, soothe, relieve, dampen, calm, tone down, alleviate, mitigate, mollify, allay, assuage,
+                     palliate, temper, appease, attenuate
+		    "energy efficiency may be the quickest way to abate emissions of carbon dioxide"
+  	   [3mantonyms:[0m increase
+  [31m[4m[34m[0m[0m[0m
+  [31mabating[0m 

@@ -1,31 +1,34 @@
-                                                                                      STRATA                                                                                      
-  SHORT        A stratum is a layer of something, whether abstract, like a social stratum composed of only billionaires, or physical, like the different strata (that’s the
-               plural version) of clouds that an airplane passes through.
-  LONG         Stratum comes from the Latin meaning "something that has been laid down," like asphalt or a bedsheet, but we generally use it to describe layers of something.
+[35m                                                                                      STRATA                                                                                      [0m
+[91m        SHORT  A stratum is a layer of something, whether abstract, like a social stratum composed of only billionaires, or physical, like the different strata (that’s the
+               plural version) of clouds that an airplane passes through.[0m
+[36m         LONG  Stratum comes from the Latin meaning "something that has been laid down," like asphalt or a bedsheet, but we generally use it to describe layers of something.
                If you go into geology, you will probably investigate different strata of the soil. If you start out in life poor and try to become rich, you
-               are trying to get into a different social stratum.
+               are trying to get into a different social stratum.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         There’s no complaining about this strata, because it is anything but bland.
-     >         If the 12th Man brings his vegetarian girlfriend to brunch, she might enjoy the breakfast strata.
-     >         Deprivation in lower societal strata "could eventually have cascaded up through the system," destabilizing large farms dependent on tithes and labor from
-               small ones.
-     >         Preheat the oven to 350 degrees; unwrap the strata and let it sit for 15 minutes or so.
-     >         There was a time when the two were friends, sharing a transactional relationship a decade ago that exemplified a strata of New York City.
+[3m             > And while inequality may be widening, the proportion of households in the upper-income strata rose to 15 percent from 13 percent.[0m
+[3m             > Solar developer Strata Solar uses drones with infrared cameras to survey the more than 1 gigawatt of solar projects after they’re operating.[0m
+[3m             > Across social strata, Pakistani society is deeply conservative and superstitious.[0m
+[3m             > Call your Senators and Representatives today -- this is real and the consequences will be weighty and felt across all strata of our society.[0m
+[3m             > If Marvin Lewis keeps his job after this season he’ll enter the Fisher strata of being completely, an inexplicably, untouchable.[0m
 
- 1   Plural Form Of Stratum.
+[35mStrata[0m[36m /ˈstrɑːtə/,[0m [91m[3m[0m[0m
+          • [37mplural form of stratum.[0m
+[35mStratum[0m[36m /ˈstrɑːtəm,ˈstreɪtəm/,[0m [91m[3mnoun[0m[0m
+	plural noun: strata
+      [32m1.[0m [37ma layer or a series of layers of rock in the ground.[0m
+	   "a stratum of flint"
+  	   [3msynonyms:[0m layer, vein, seam, lode, bed ;  stratification, thickness, sheet, lamina
+		    "a stratum of flint"
+          • [37ma thin layer within any structure.[0m
+	   "thin strata of air"
 
- 2   A Layer Or A Series Of Layers Of Rock In The Ground.
-	 Eg.  "A Stratum Of Flint"
-	 Eg.  "A Stratum Of Flint"
-	 Synonyms:  layer , vein , seam , lode , bed , 
-
- 3   A Thin Layer Within Any Structure.
-	 Eg.  "Thin Strata Of Air"
-
- 4   A Level Or Class To Which People Are Assigned According To Their Social Status, Education, Or Income.
-	 Eg.  "Members Of Other Social Strata"
-	 Eg.  "A Particular Stratum Of Society"
-	 Synonyms:  level , class , echelon , rank , grade , 
-
- 5   A Group Into Which Members Of A Population Are Divided In Stratified Sampling.
-	 Eg.  "Allocation Of Sample Units To Strata"
+      [32m2.[0m [37ma level or class to which people are assigned according to their social status, education, or income.[0m
+	   "members of other social strata"
+  	   [3msynonyms:[0m level, class, echelon, rank, grade, station, gradation ;  group, set, bracket ;  caste ;  estate, sphere
+		    "a particular stratum of society"
+          • [37ma group into which members of a population are divided in stratified sampling.[0m
+	   "allocation of sample units to strata"
+  [31m[4m[34mnoun[0m[0m[0m
+   [31mस्तर[0m 
+  [31mपरतें[0m 
+   [31mतहें[0m 

@@ -1,49 +1,49 @@
-                                                                                      SURGE                                                                                       
-  SHORT        A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. Although a surge offers a fluid image, anything can experience a sudden surge,
-               including emotions, political support, or an angry mob.
-  LONG         The original Latin word surgere, meaning “to spring up or rise,” serves as the basis for the word surge, which refers to a great sudden growth or swelling.
+[35m                                                                                      SURGE                                                                                       [0m
+[91m        SHORT  A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. Although a surge offers a fluid image, anything can experience a sudden surge,
+               including emotions, political support, or an angry mob.[0m
+[36m         LONG  The original Latin word surgere, meaning “to spring up or rise,” serves as the basis for the word surge, which refers to a great sudden growth or swelling.
                If you are watching a sad movie and you experience a sudden surge of emotion, do you quietly reach for a tissue, pretend something's in your
                eye, or simply weep and sob with reckless abandon.  Yeah, me too.  Christmas shopping can be dangerous when there is a surge of interest in one
-               toy and desperate shoppers surge into stores trying to grab it up.
+               toy and desperate shoppers surge into stores trying to grab it up.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         For several years they had been witnessing a surge of European tourists.
-     >         Mobile and electronic payments have surged, and cash-free, app-based taxi services and online grocery markets have seen a dramatic increase in customers.
-     >         But they believed in sacrifice, and they probably imagined that they could muddle through somehow, borne aloft by my mother’s surging triumphalism.
-     >         Matt Barkley, starting for the injured Jay Cutler, led the late surge.
-     >         Bean is kicking it up a notch as demand continues to surge for its iconic boot.
+[3m             > OIL: Benchmark U.S. crude oil was up 46 cents, or 1 percent, at $47.79 per barrel in New York after surging $1.45 on Wednesday.[0m
+[3m             > The stock surged nearly five-fold since April 7, a day before the company first received a $95.63 per share takeover bid from AT&T Inc.[0m
+[3m             > These investments surged in the third quarter just as the U.S. regulatory crackdown began to bite, Thomson Reuters data shows.[0m
+[3m             > The shares of the U.S. wireless carriers surged Wednesday, as investors bet a deal may finally happen under the Trump administration’s looser regulatory
+               climate.[0m
+[3m             > The surge in investment, which some analysts say is far...[0m
 
- 1   A Sudden Powerful Forward Or Upward Movement, Especially By A Crowd Or By A Natural Force Such As The Tide.
-	 Eg.  "Flooding Caused By Tidal Surges"
-	 Eg.  "A Surge Of Water"
-	 Eg.  "He Took One Look At The Surge Of Sea And Lowered Clouds"
-	 Synonyms:  gush , rush , outpouring , stream , flow , 
+[35mSurge[0m[36m /səːdʒ/,[0m [91m[3mnoun[0m[0m | noun: surge; plural noun: surges
+      [32m1.[0m [37ma sudden powerful forward or upward movement, especially by a crowd or by a natural force such as the tide.[0m
+	   "flooding caused by tidal surges"
+  	   [3msynonyms:[0m gush, rush, outpouring, stream, flow, sweep ;  efflux  swell, swelling, heaving, billowing, rolling, roll, bulging, eddying, swirling, tide
+		    "a surge of water"
+          • [37ma sudden large increase, typically a temporary one.[0m
+	   "the firm predicted a 20% surge in sales"
+  	   [3msynonyms:[0m sudden increase, rise, growth, upswing, upsurge, escalation, jump, leap, boost
+		    "a surge in oil production"
+          • [37ma major deployment of military forces to reinforce those already in a particular area.[0m
+          • [37ma powerful rush of an emotion or feeling.[0m
+	   "Sophie felt a surge of anger"
+  	   [3msynonyms:[0m rush, blast, storm, torrent, blaze, outburst, eruption
+		    "he felt a sudden surge of anger"
+          • [37ma sudden marked increase in voltage or current in an electric circuit.[0m
+    [91m[3mverb[0m[0m | verb: surge; 3rd person present: surges; past tense: surged; past participle: surged; gerund or present participle: surging
+      [32m1.[0m [37m(of a crowd or a natural force) move suddenly and powerfully forward or upward.[0m
+	   "the journalists surged forward"
+  	   [3msynonyms:[0m gush, rush, stream, flow, burst, pour, cascade, spill, overflow, brim over, well, sweep, spout, spurt, jet, spew, discharge, roll, whirl ;  seethe,
+                     swarm, crowd  rise, swell, heave, billow, roll, eddy, swirl
+		    "contaminated water surged into people's homes"
+          • [37mincrease suddenly and powerfully.[0m
+	   "shares surged to a record high"
+  	   [3msynonyms:[0m increase suddenly, rise, grow, escalate, jump, leap, boost
+		    "the Dow Jones index surged 47.63 points"
+          • [37m(of an emotion or feeling) affect someone powerfully and suddenly.[0m
+	   "indignation surged up within her"
+          • [37m(of an electric voltage or current) increase suddenly.[0m
 
- 2   A Sudden Large Increase, Typically A Temporary One.
-	 Eg.  "The Firm Predicted A 20% Surge In Sales"
-	 Eg.  "A Surge In Oil Production"
-	 Synonyms:  rise , growth , upswing , upsurge , escalation , 
-
- 3   A Major Deployment Of Military Forces To Reinforce Those Already In A Particular Area.
-
- 4   A Powerful Rush Of An Emotion Or Feeling.
-	 Eg.  "Sophie Felt A Surge Of Anger"
-	 Eg.  "He Felt A Sudden Surge Of Anger"
-	 Synonyms:  rush , blast , storm , torrent , blaze , 
-
- 5   A Sudden Marked Increase In Voltage Or Current In An Electric Circuit.
-
- 6   (Of A Crowd Or A Natural Force) Move Suddenly And Powerfully Forward Or Upward.
-	 Eg.  "The Journalists Surged Forward"
-	 Eg.  "Contaminated Water Surged Into People'S Homes"
-	 Eg.  "The Sea Surged In The Storm"
-	 Synonyms:  gush , rush , stream , flow , burst , 
-
- 7   Increase Suddenly And Powerfully.
-	 Eg.  "Shares Surged To A Record High"
-	 Eg.  "The Dow Jones Index Surged 47.63 Points"
-	 Synonyms:  rise , grow , escalate , jump , leap , 
-
- 8   (Of An Emotion Or Feeling) Affect Someone Powerfully And Suddenly.
-	 Eg.  "Indignation Surged Up Within Her"
-
- 9   (Of An Electric Voltage Or Current) Increase Suddenly.
+      [32m2.[0m [37m(of a rope, chain, or windlass) slip back with a jerk.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mमहोर्मि[0m          [31mलहर[0m         [31mलहर उठना[0m   
+      [31mरेला[0m           [31mतरङ्ग[0m      [31mहिलोरे मारना[0m 
+      [31mआवेश[0m           [31mहिलोर[0m         [31mउमड़ना[0m    

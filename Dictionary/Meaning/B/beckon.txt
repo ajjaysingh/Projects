@@ -1,25 +1,28 @@
-                                                                                      BECKON                                                                                      
-  SHORT        To beckon is to use a physical gesture to call someone over to you. Universally recognized gestures used to beckon include crooking the finger or nodding the
-               head to  invite someone over.
-  LONG         We get the word beckon from the Old English gebecnian, meaning "to make a mute sign," which comes from bēacen, meaning "a sign or beacon."  (Remember that
+[35m                                                                                      BECKON                                                                                      [0m
+[91m        SHORT  To beckon is to use a physical gesture to call someone over to you. Universally recognized gestures used to beckon include crooking the finger or nodding the
+               head to  invite someone over.[0m
+[36m         LONG  We get the word beckon from the Old English gebecnian, meaning "to make a mute sign," which comes from bēacen, meaning "a sign or beacon."  (Remember that
                "beacon" is a noun while  beckon is a verb).  When you beckon to someone, you give them a physical sign to "come here."  Figuratively, an ice
-               cream sundae might beckon you, calling you away from your diet.
+               cream sundae might beckon you, calling you away from your diet.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The shattered, uninhabitable remains of the road to safety did not look like beckoning anyone home any time soon.
-     >         A third goal beckoned moments later as Moses and Costa again combined to cause unease in the visiting defence.
-     >         Its repeating, futuristic images — a blond princess beckoning to a frog in a golden crown — appeared to allude to the story of the Frog Prince.
-     >         For the Democrats, the road back — from tribalism at home and universalism abroad — beckons.
-     >         It’s trendy: A monthly night market of artisan crafts beckons outsiders to check out the Commerce Street neighborhood.
+[3m             > If not, a first season outside Europe’s elite competition since the Frenchman’s arrival in 1996 beckons.[0m
+[3m             > The vortex beckons, and in the long term, it might even be irresistible.[0m
+[3m             > A league and European double beckons too, 59 years after they last managed one.[0m
+[3m             > They beckon from TV screens, represent ancient rites, exhume themselves like zombie Eurydices.[0m
+[3m             > The zonal competition of Euro Africa Zone 1 beckons once again for the British team in February next year.[0m
 
- 1   Make A Gesture With The Hand, Arm, Or Head To Encourage Or Instruct Someone To Approach Or Follow.
-	 Eg.  "Miranda Beckoned To Adam"
-	 Eg.  "The Guard Beckoned To Benny"
-	 Synonyms:  gesture , signal , wave , gesticulate , motion , 
-
- 2   Summon (Someone) By Beckoning To Them.
-	 Eg.  "He Beckoned Cameron Over"
-
- 3   Appear Attractive Or Inviting.
-	 Eg.  "The Going Is Tough And Soft Options Beckon"
-	 Eg.  "The Moorland And Miles Of Coastal Path Beckon Many Walkers"
-	 Synonyms:  entice , invite , tempt , coax , lure , 
+[35mBeckon[0m[36m /ˈbɛk(ə)n/,[0m [91m[3mverb[0m[0m | verb: beckon; 3rd person present: beckons; past tense: beckoned; past participle: beckoned; gerund or present participle: beckoning
+          • [37mmake a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow.[0m
+	   "Miranda beckoned to Adam"
+  	   [3msynonyms:[0m gesture, signal, wave, gesticulate, make a gesture, motion, nod, call
+		    "the guard beckoned to Benny"
+          • [37msummon (someone) by beckoning to them.[0m
+	   "he beckoned Cameron over"
+          • [37mappear attractive or inviting.[0m
+	   "the going is tough and soft options beckon"
+  	   [3msynonyms:[0m entice, invite, tempt, coax, lure, charm, attract, draw, pull (in), bring in, call, allure, interest, fascinate, engage, enchant, captivate, persuade,
+                     induce, catch the eye of
+		    "the moorland and miles of coastal path beckon many walkers"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mसंकेत से बुलाना[0m      [31mसंकेत करना[0m   
+  [31mइशारे से बुलाना[0m      [31mआँख मारना[0m    

@@ -1,21 +1,25 @@
-                                                                                      AMISS                                                                                       
-  SHORT        When things are out of their proper places or not happening the way they should, we say they are amiss. And remember, amiss is as good as a mile.
-  LONG         The word amiss can be used as an adverb, as in the sentence, "I spoke amiss." Or you could use it as an adjective, as when you think something is wrong or
+[35m                                                                                      AMISS                                                                                       [0m
+[91m        SHORT  When things are out of their proper places or not happening the way they should, we say they are amiss. And remember, amiss is as good as a mile.[0m
+[36m         LONG  The word amiss can be used as an adverb, as in the sentence, "I spoke amiss." Or you could use it as an adjective, as when you think something is wrong or
                missing — "Something in the room is amiss." Either way, amiss refers to something that is wrong, off the mark, or "missed" (note the
                connection). Once in a while, the word amiss can imply that something fishy or foul has taken place. In Hamlet, when Marcellus said, "Something
-               is rotten in the state of Denmark," he might as well have said, "Something in Denmark is amiss."
+               is rotten in the state of Denmark," he might as well have said, "Something in Denmark is amiss."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         So does this amount to a double dose of goalkeeping heroics and therefore bad luck, or is there something amiss with United’s finishing ability?
-     >         They tease each other and profess their love, but you can see in their sad eyes that something’s amiss.
-     >         But those who have worked with him say that Trump’s delegating requires extreme loyalty, and if anything goes amiss, the boss will explode.
-     >         But those who gave the photo a closer look - using the handy zoom feature provided - thought something was amiss.
-     >         That admission is a rarity; most of the time, Trump refuses to concede that anything is amiss.
+[3m             > The Wellcome Trust, for example, is concerned that “something seems amiss”.[0m
+[3m             > Journalists from around the world began massing outside Buckingham Palace early in the morning watching for any sign that something was amiss.[0m
+[3m             > But something’s amiss in this second novel: It’s stagnant rather than suspenseful.[0m
+[3m             > Fearing something was amiss, they flagged the case up to police.[0m
+[3m             > The state said it was a routine execution lasting about 15 minutes, but critics said something was amiss.[0m
 
- 1   Not Quite Right; Inappropriate Or Out Of Place.
-	 Eg.  "There Was Something Amiss About His Calculations"
-	 Eg.  "An Inspection Revealed Nothing Amiss"
-	 Synonyms:  wrong , awry , faulty , defective , unsatisfactory , 
-	 Antonyms:  right , 
-
- 2   Wrongly Or Inappropriately.
-	 Eg.  "The Prime Minister May Have Constructed His Cabinet A Little Amiss"
+[35mAmiss[0m[36m /əˈmɪs/,[0m [91m[3madjective[0m[0m | adjective: amiss
+      [32m1.[0m [37mnot quite right; inappropriate or out of place.[0m
+	   "there was something amiss about his calculations"
+  	   [3msynonyms:[0m wrong, awry, faulty, out of order, defective, unsatisfactory, incorrect, untoward, adrift, astray, inappropriate, improper, unsuitable
+		    "an inspection revealed nothing amiss"
+  	   [3mantonyms:[0m right, in order
+    [91m[3madverb[0m[0m | adverb: amiss
+      [32m1.[0m [37mwrongly or inappropriately.[0m
+	   "the prime minister may have constructed his cabinet a little amiss"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34madverb[0m[0m[0m
+        [31mगलत[0m            [31mबेतुका[0m       [31mअनुचित रूप में[0m 
+      [31mअनुचित[0m            [31mग़लत[0m        [31mअशुद्ध रूप में[0m 

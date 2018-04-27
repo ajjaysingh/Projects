@@ -1,33 +1,37 @@
-                                                                                      LIABLE                                                                                      
-  SHORT        If you drive into someone's fence, you’ll probably be held liable — legally responsible — for fixing it. Liable can also mean “likely,” usually with something
-               unpleasant: "If you don't brush your teeth, they're liable to fall out."
-  LONG         When liable refers to legal responsibility, it's used with "for": "You're liable for the court costs" (meaning you have to pay them). When liable means
+[35m                                                                                      LIABLE                                                                                      [0m
+[91m        SHORT  If you drive into someone's fence, you’ll probably be held liable — legally responsible — for fixing it. Liable can also mean “likely,” usually with something
+               unpleasant: "If you don't brush your teeth, they're liable to fall out."[0m
+[36m         LONG  When liable refers to legal responsibility, it's used with "for": "You're liable for the court costs" (meaning you have to pay them). When liable means
                "likely," it's with "to": "If you build your house on that cliff, it's liable to fall into the river," or "That part of town is liable to
-               mudslides." Don't confuse liable with libel, which is a legal term for slander, or saying something false and damaging about someone.
+               mudslides." Don't confuse liable with libel, which is a legal term for slander, or saying something false and damaging about someone.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         PennDOT spokesman Greg Penny says drivers could get confused and the township could be liable if the coloring causes a crash.
-     >         They may find a sponsor and apply for residents’ permits as foreigners, but if refused they are liable to be arrested for overstaying.
-     >         Impostors who wear military medals they are not entitled to should be liable to criminal charges, MPs say.
-     >         The charges against them concern falsifying documents and human trafficking, making them liable for up to two years in prison.
-     >         UK taxpayers could be liable for a North Sea decommissioning bill of £75bn, according to a new study.
+[3m             > A French interior ministry official declined to comment, citing French rules which bar any commentary liable to influence an election.[0m
+[3m             > But there will be disputes over how much of all of this the UK is actually liable for.[0m
+[3m             > Each of you is responsible for paying the rent, and each of you is liable for the other’s actions.[0m
+[3m             > How much G.M. might be liable for is hard to calculate.[0m
+[3m             > Non-essential sectors such as national parks are liable to be closed and programs such as federally funded medical research will grind to a halt.[0m
 
- 1   Responsible By Law; Legally Answerable.
-	 Eg.  "The Credit-Card Company Is Liable For Any Breach Of Contract"
-	 Eg.  "He Held The Defendants Liable For Negligence"
-	 Synonyms:  responsible , accountable , answerable , blameworthy , culpable , 
-	 Antonyms:  exempt , unaccountable , 
+[35mLiable[0m[36m /ˈlʌɪəb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: liable
+      [32m1.[0m [37mresponsible by law; legally answerable.[0m
+	   "the credit-card company is liable for any breach of contract"
+  	   [3msynonyms:[0m responsible, legally responsible, accountable, answerable, chargeable, blameworthy, at fault, culpable, subject, guilty, faulty, censurable
+		    "he held the defendants liable for negligence"
+  	   [3mantonyms:[0m exempt, unaccountable
+          • [37msubject by law to.[0m
+	   "non-resident trustees are liable to the basic rate of tax"
 
- 2   Subject By Law To.
-	 Eg.  "Non-Resident Trustees Are Liable To The Basic Rate Of Tax"
-
- 3   Likely To Do Or To Be Something.
-	 Eg.  "Patients Were Liable To Faint If They Stood Up Too Suddenly"
-	 Eg.  "My Income Is Liable To Fluctuate Wildly"
-	 Synonyms:  likely , disposed , apt , prone , given , 
-	 Antonyms:  unlikely , 
-
- 4   Likely To Experience (Something Undesirable).
-	 Eg.  "Areas Liable To Flooding"
-	 Eg.  "You Are More Liable To Injury When You Exercise Infrequently"
-	 Synonyms:  open , prone , subject , susceptible , vulnerable , 
-	 Antonyms:  immune , above , 
+      [32m2.[0m [37mlikely to do or to be something.[0m
+	   "patients were liable to faint if they stood up too suddenly"
+  	   [3msynonyms:[0m likely, inclined, tending, disposed, apt, predisposed, prone, given ;  on the cards
+		    "my income is liable to fluctuate wildly"
+  	   [3mantonyms:[0m unlikely
+          • [37mlikely to experience (something undesirable).[0m
+	   "areas liable to flooding"
+  	   [3msynonyms:[0m exposed, open, prone, subject, susceptible, vulnerable, in danger of, at risk of, at the mercy of
+		    "you are more liable to injury when you exercise infrequently"
+  	   [3mantonyms:[0m immune, above
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mउत्तरदायी[0m      [31mदायी[0m   
+  [31mजिम्मेदार[0m      [31mभागी[0m   
+   [31mजवाबदेह[0m      [31mदेनदार[0m  
+     [31mअधीन[0m          [31m[0m     

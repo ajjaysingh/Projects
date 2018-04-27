@@ -1,28 +1,31 @@
-                                                                                     RESPITE                                                                                      
-  SHORT        A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the
-               intensity.
-  LONG         Respite may look like it rhymes with despite, but this word has a stress on its first syllable (RES-pit).  It comes from the Latin word respectus, meaning
+[35m                                                                                     RESPITE                                                                                      [0m
+[91m        SHORT  A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the
+               intensity.[0m
+[36m         LONG  Respite may look like it rhymes with despite, but this word has a stress on its first syllable (RES-pit).  It comes from the Latin word respectus, meaning
                refuge, but we almost always use respite to describe a time, not a place, of relief. If you've been fighting with your partner, a visit from a
-               friend might offer a brief respite from the argument, but the fight will pick up again when she leaves.
+               friend might offer a brief respite from the argument, but the fight will pick up again when she leaves.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But others said it was at least a respite from politics.
-     >         Soon children and adults were dancing, enjoying a rare respite from South Sudan’s festering conflict.
-     >         The outlook for family finances is a "grim picture" with little respite from measures announced in the Autumn Statement, a think tank has said.
-     >         It’s the sort of show you watch when the real world gets dark and you need a respite.
-     >         The chancellor is offering some partial respite by changing the so-called taper rate.
+[3m             > He positions himself as a respite from the more obvious cruelties inflicted by Serena Joy.[0m
+[3m             > The space seems intended as an idyllic respite from the “chaos” of the previous room, but instead looks as tired as its premise.[0m
+[3m             > For Mower, 57, the haircut from Stone offers a bit of respite.[0m
+[3m             > Perhaps that’s why Thursday felt like a respite.[0m
+[3m             > Khaled’s sweet young daughters provide respite, but their presence also increases a sense of dread.[0m
 
- 1   A Short Period Of Rest Or Relief From Something Difficult Or Unpleasant.
-	 Eg.  "The Refugee Encampments Will Provide Some Respite From The Suffering"
-	 Eg.  "The Thought Of A Brief Respite Was Tempting"
-	 Synonyms:  rest , break , breathing space , interval , intermission , 
-
- 2   A Short Delay Permitted Before An Unpleasant Obligation Is Met Or A Punishment Is Carried Out.
-	 Eg.  "A Letter Of Licence, By Which Creditors Agreed To Postpone Claims, Brought Only Temporary Respite"
-	 Eg.  "Granting Respite From Debts Was A Means Of Encouraging Men To Serve In The Army"
-	 Synonyms:  postponement , deferment , delay , stay , reprieve , 
-
- 3   Postpone (A Sentence, Obligation, Etc.).
-	 Eg.  "The Execution Was Only Respited A Few Months"
-
- 4   Grant A Respite To (Someone, Especially A Person Condemned To Death).
-	 Eg.  "Some Poor Criminal … From The Gibbet Or The Wheel, Respited For A Day"
+[35mRespite[0m[36m /ˈrɛspʌɪt,ˈrɛspɪt/,[0m [91m[3mnoun[0m[0m | noun: respite
+      [32m1.[0m [37ma short period of rest or relief from something difficult or unpleasant.[0m
+	   "the refugee encampments will provide some respite from the suffering"
+  	   [3msynonyms:[0m rest, break, breathing space, interval, intermission, interlude, recess, lull, pause, time out, hiatus, halt, stop, stoppage, cessation, discontinuation,
+                     standstill ;  relief, relaxation, repose ;  breather, let-up
+		    "the thought of a brief respite was tempting"
+          • [37ma short delay permitted before an unpleasant obligation is met or a punishment is carried out.[0m
+	   "a Letter of Licence, by which creditors agreed to postpone claims, brought only temporary respite"
+  	   [3msynonyms:[0m postponement, deferment, delay, stay, stay of execution, reprieve, remission, suspension, adjournment, moratorium ;  continuance
+		    "granting respite from debts was a means of encouraging men to serve in the army"
+    [91m[3mverb[0m[0m | verb: respite; 3rd person present: respites; past tense: respited; past participle: respited; gerund or present participle: respiting
+      [32m1.[0m [37mpostpone (a sentence, obligation, etc.).[0m
+	   "the execution was only respited a few months"
+          • [37mgrant a respite to (someone, especially a person condemned to death).[0m
+	   "some poor criminal … from the gibbet or the wheel, respited for a day"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mराहत[0m             [31mमोहलत[0m            [31mटालना[0m     
+       [31mविराम[0m          [31mस्थगितकरण[0m        [31mटाल देना[0m    

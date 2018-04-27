@@ -1,31 +1,36 @@
-                                                                                    SECTARIAN                                                                                     
-  SHORT        Sectarian is a word to describe something having to do with smaller groups or sects. Sectarian violence, for example, would describe violence that has erupted
-               between conflicting groups or sects.
-  LONG         Sectarian, as a noun, is a member of a group with a particular set of interests. If you're a religious sectarian, you are loyal to a particular religious sect
-               or group. Unfortunately, there are not many places in the world where sectarian strife and conflict do not exist.
+[35m                                                                                    SECTARIAN                                                                                     [0m
+[91m        SHORT  Sectarian is a word to describe something having to do with smaller groups or sects. Sectarian violence, for example, would describe violence that has erupted
+               between conflicting groups or sects.[0m
+[36m         LONG  Sectarian, as a noun, is a member of a group with a particular set of interests. If you're a religious sectarian, you are loyal to a particular religious sect
+               or group. Unfortunately, there are not many places in the world where sectarian strife and conflict do not exist.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Khowaja said a sectarian motive is possible behind the attack.
-     >         Importantly, they agreed both nations are being exploited by sectarian interlocutors, including Iran and Saudi Arabia.
-     >         Many Sunnis consider the paramilitaries to be sectarian militia and accuse them of having carried out abuses in Sunni areas recaptured from Islamic State.
-     >         Not every combatant shares the government’s optimism that sectarian reconciliation can happen here.
-     >         Sunnis severely distrust the militias after documented cases of sectarian revenge killings and abuse of people accused of being Islamic State supporters.
+[3m             > Lebanese leaders remain committed to containing sectarian tensions exacerbated by six years of war in Syria.[0m
+[3m             > The Central African Republic descended into sectarian conflict in 2013, when Muslim rebels overthrew the Christian president.[0m
+[3m             > It is also was no surprise that the deputy crown prince framed the conflict in expressly sectarian terms.[0m
+[3m             > The batwara dream ballet arises when Dubey’s grandmother invokes India’s great sectarian split as a way to warn her grandson against such division.[0m
+[3m             > Beleaguered Copts say their community is at risk not only from IS, but also from sectarian tensions and long-standing discrimination.[0m
 
- 1   Denoting Or Concerning A Sect Or Sects.
-	 Eg.  "The City'S Traditional Sectarian Divide"
-
- 2   (Of An Action) Carried Out On The Grounds Of Membership Of A Sect, Denomination, Or Other Group.
-	 Eg.  "Sectarian Killings"
-
- 3   Rigidly Following The Doctrines Of A Sect Or Other Group.
-	 Eg.  "The Sectarian Bolshevism Advocated By Moscow"
-	 Eg.  "Years Of Sectarian Violence"
-	 Synonyms:  factional , schismatic , clannish , partisan , parti pris , 
-	 Antonyms:  tolerant , liberal , broad-minded , 
-
- 4   A Member Of A Sect.
-	 Eg.  "A Jewish Sectarian Who Preached The Redemption Of The Gentiles"
-	 Eg.  "He Was Attacked By Sectarians Within The World Of Modern Art"
-	 Synonyms:  separatist , dissenter , dissident , nonconformist , renegade , 
-
- 5   A Person Who Rigidly Follows The Doctrines Of A Sect Or Other Group.
-	 Eg.  "He Became A Target As A Sectarian Who Had Apparently Denounced One Liberal-Minded Reformer As ‘Degenerate’"
+[35mSectarian[0m[36m /sɛkˈtɛːrɪən/,[0m [91m[3madjective[0m[0m | adjective: sectarian
+      [32m1.[0m [37mdenoting or concerning a sect or sects.[0m
+	   "the city's traditional sectarian divide"
+          • [37m(of an action) carried out on the grounds of membership of a sect, denomination, or other group.[0m
+	   "sectarian killings"
+          • [37mrigidly following the doctrines of a sect or other group.[0m
+	   "the sectarian Bolshevism advocated by Moscow"
+  	   [3msynonyms:[0m factional, schismatic, cliquish, clannish, partisan, parti pris ;  denominational ;  doctrinaire, dogmatic, extreme, fanatical, rigid, inflexible,
+                     bigoted, hidebound, narrow-minded
+		    "years of sectarian violence"
+  	   [3mantonyms:[0m tolerant, liberal, broad-minded
+    [91m[3mnoun[0m[0m | noun: sectarian; plural noun: sectarians
+      [32m1.[0m [37ma member of a sect.[0m
+	   "a Jewish sectarian who preached the redemption of the Gentiles"
+  	   [3msynonyms:[0m separatist, dissenter, dissident, nonconformist, free thinker, renegade, recusant, schismatic, revisionist ;  unbeliever, sceptic, agnostic, atheist,
+                     non-theist ;  zealot, Young Turk, extremist, radical, activist, militant ;  bigot, dogmatist, partisan, devotee
+		    "he was attacked by sectarians within the world of modern art"
+          • [37ma person who rigidly follows the doctrines of a sect or other group.[0m
+	   "he became a target as a sectarian who had apparently denounced one liberal-minded reformer as ‘degenerate’"
+   [31m[4m[34madjective[0m[0m[0m        [31m[4m[34m[0m[0m[0m           [31m[4m[34mnoun[0m[0m[0m    
+          [31mसांप्रदायिक[0m                   [31mसाम्प्रदायिक[0m                   [31mकट्टरपंथी[0m          
+           [31mसंप्रदायिक[0m                    [31mसम्प्रदाय[0m                    [31mसंप्रदायवादी[0m        
+  [31mकिसी विशेष मत या पंथ-संबंधी[0m          [31mविशेष सम्बन्धी[0m                   [31mविधर्मी[0m           
+         [31mविधर्म-संबंधी[0m           [31mसाम्प्रदायिक भाव रखनेवाला[0m               [31mपाषंडी[0m           

@@ -1,23 +1,32 @@
-                                                                                     DISQUIET                                                                                     
-  SHORT        If you feel a sense of disquiet, you're worried or anxious about something. Disquiet at the dinner table means that everyone feels upset or on edge.
-  LONG         You can use the word disquiet as a noun or a verb. A feeling of disquiet might fill you as you walk slowly through a truly spooky haunted house. You can also
+[35m                                                                                     DISQUIET                                                                                     [0m
+[91m        SHORT  If you feel a sense of disquiet, you're worried or anxious about something. Disquiet at the dinner table means that everyone feels upset or on edge.[0m
+[36m         LONG  You can use the word disquiet as a noun or a verb. A feeling of disquiet might fill you as you walk slowly through a truly spooky haunted house. You can also
                say that a low, frightening sound coming from the room ahead disquiets you. The word dates from the 1500s, a combination of dis, "lack of" or
-               "not" in Latin, and quiet, from the Latin root quietus, "calm, at rest, or free from exertion."
+               "not" in Latin, and quiet, from the Latin root quietus, "calm, at rest, or free from exertion."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In Baltimore, the issue of waived consent has disquieting social implications.
-     >         Surely the same folks who dispense so much good will and satisfying food can solve a problem like disquiet.
-     >         There has been disquiet over issues such as opening new grammar schools and welfare changes.
-     >         The scale of the drone campaign, and the human cost of it, made government secrecy even more disquieting.
-     >         The interpretation has caused profound disquiet within Hong Kong, and particular consternation within the legal community.
+[3m             > Other times, it served as a base for my phone, as if it were in conversation with the disquieting tweets I scrolled through.[0m
+[3m             > Analysts are doubtful that ANC lawmakers would vote with the opposition to topple Zuma, despite disquiet about him in sections of the party.[0m
+[3m             > Sunna sat up in alarm and glanced at him, disquiet in her eyes.[0m
+[3m             > Thus she entered what she calls in her disquieting new book, a “netherworld of… rigged investigations and closed door hearings”.[0m
+[3m             > But perhaps the most disquieting explanation for the ubiquity of the term is that it tells us something we want to believe.[0m
 
- 1   A Feeling Of Worry Or Unease.
-	 Eg.  "Public Disquiet About Animal Testing"
-	 Eg.  "There Has Been Grave Disquiet About The State Of The Prisons"
-	 Synonyms:  unease , worry , anxiety , distress , concern , 
-	 Antonyms:  calm , 
-
- 2   Make (Someone) Worried Or Uneasy.
-	 Eg.  "She Felt Disquieted At The Lack Of Interest The Girl Had Shown"
-	 Eg.  "I Was So Disquieted By The Book That I Finished It That Evening"
-	 Synonyms:  perturb , agitate , upset , disturb , unnerve , 
-	 Antonyms:  calm , 
+[35mDisquiet[0m[36m /dɪsˈkwʌɪət/,[0m [91m[3mnoun[0m[0m | noun: disquiet; plural noun: disquiets
+      [32m1.[0m [37ma feeling of worry or unease.[0m
+	   "public disquiet about animal testing"
+  	   [3msynonyms:[0m unease, uneasiness, worry, anxiety, anxiousness, distress, concern ;  unrest, disquietude, inquietude ;  perturbation, consternation, upset, malaise ;
+                     alarm, anguish, fear, fright, dread, panic, angst ;  nervousness, agitation, restlessness, fretfulness, jitteriness ;  foreboding,
+                     trepidation
+		    "there has been grave disquiet about the state of the prisons"
+  	   [3mantonyms:[0m calm
+    [91m[3mverb[0m[0m | verb: disquiet; 3rd person present: disquiets; past tense: disquieted; past participle: disquieted; gerund or present participle: disquieting
+      [32m1.[0m [37mmake (someone) worried or uneasy.[0m
+	   "she felt disquieted at the lack of interest the girl had shown"
+  	   [3msynonyms:[0m perturb, agitate, upset, disturb, unnerve, unsettle, discompose, disconcert, ruffle, startle ;  make uneasy, worry, make anxious ;  trouble, bother,
+                     concern, distress, alarm, appal, frighten, panic, make fretful, make restless, vex
+		    "I was so disquieted by the book that I finished it that evening"
+  	   [3mantonyms:[0m calm
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mबेचैनी[0m            [31mबेचैन[0m         [31mबेचैन करना[0m   
+       [31mचिंता[0m            [31mअशांत[0m        [31mव्याकुल करना[0m  
+      [31mपरेशानी[0m         [31mडांवांडोल[0m       [31mपरेशान करना[0m  
+      [31mघबराहट[0m        [31mकष्ट देनेवाला[0m   [31mशांति भंग करना[0m 

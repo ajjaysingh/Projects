@@ -1,24 +1,27 @@
-                                                                                     IMPETUS                                                                                      
-  SHORT        An impetus is the force behind something, whether it's a boulder rolling down a hill or a person making a decision.
-  LONG         Very little would get done if there were no such thing as an impetus: an impetus is some kind of force that gets something or somebody moving. If you push a
+[35m                                                                                     IMPETUS                                                                                      [0m
+[91m        SHORT  An impetus is the force behind something, whether it's a boulder rolling down a hill or a person making a decision.[0m
+[36m         LONG  Very little would get done if there were no such thing as an impetus: an impetus is some kind of force that gets something or somebody moving. If you push a
                car that's out of gas, you're the impetus that's getting it moving. An impetus doesn't have to be physical. Advertisers hope their commercials
-               will be an impetus to buy the product.
+               will be an impetus to buy the product.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Ultimately, he decided, engaging with Cubans, first, and Cuba second would spread a desire and impetus for freedom, ignoring whether President Castro acted in
-               kind.
-     >         And, they argue, unless the government commits to a firm date for a nuclear phase-out, there will be no economic impetus to invest in renewables.
-     >         The election victory of Trump, who is set to take over as U.S. president on Jan. 20, only seems to have added impetus.
-     >         Perhaps some of the impetus behind corporal punishment is that many teachers and principals are like many of today’s parents - stressed, fed-up, tired and
-               angry.
-     >         Ms. Simons said the impetus for the institute evolved from a brainstorming workshop about “what we might do to help move the needle in science.”
+[3m             > The impetus is an itch to rethink old orders of merit in art history.[0m
+[3m             > Nudges from the two men may also provide the impetus for a gallery to apply.[0m
+[3m             > The impetus for the two theaters started in 2013, when the State, the city’s only movie theater at the time, closed its doors.[0m
+[3m             > Still, he dismissed the suggestion that he was the impetus for Trump’s swift action on taxes.[0m
+[3m             > “This was kind of impetus for the We Are Golf group,” Mona said.[0m
 
- 1   The Force Or Energy With Which A Body Moves.
-	 Eg.  "Hit The Booster Coil Before The Flywheel Loses All Its Impetus"
-	 Eg.  "The Flywheel Lost All Its Impetus"
-	 Synonyms:  momentum , propulsion , impulsion , drive , thrust , 
-
- 2   Something That Makes A Process Or Activity Happen Or Happen More Quickly.
-	 Eg.  Plural Noun: Impetuses
-	 Eg.  "The Ending Of The Cold War Gave New Impetus To Idealism"
-	 Eg.  "New Products Were Introduced To Give The Sales Force Fresh Impetus"
-	 Synonyms:  motivation , stimulus , incitement , incentive , inducement , 
+[35mImpetus[0m[36m /ˈɪmpɪtəs/,[0m [91m[3mnoun[0m[0m | noun: impetus
+          • [37mthe force or energy with which a body moves.[0m
+	   "hit the booster coil before the flywheel loses all its impetus"
+  	   [3msynonyms:[0m momentum, propulsion, impulsion, impelling force, motive force, driving force, drive, thrust, continuing motion ;  energy, force, power, push, steam,
+                     strength
+		    "the flywheel lost all its impetus"
+          • [37msomething that makes a process or activity happen or happen more quickly.[0m
+	   plural noun: impetuses
+  	   [3msynonyms:[0m motivation, stimulus, incitement, incentive, inducement, inspiration, encouragement, boost ;  urging, pressing, goading, spurring, prodding ;  a shot in
+                     the arm
+		    "new products were introduced to give the sales force fresh impetus"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mप्रोत्साहन[0m     [31mप्रेरणा[0m   
+      [31mगति[0m           [31mआवेग[0m    
+     [31mसंवेग[0m         [31mशक्ति[0m    

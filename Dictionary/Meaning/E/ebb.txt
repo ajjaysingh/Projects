@@ -1,30 +1,35 @@
-                                                                                       EBB                                                                                        
-  SHORT        When something ebbs, it is declining, falling, or flowing away. The best time to look for sea creatures in tidal pools is when the tide is on the ebb —
-               meaning it has receded from the shore.
-  LONG         Ebb is often used in the phrase, "ebb and flow," referring to the cyclical changing of the tides from low to high and back to low again. This sense of
+[35m                                                                                       EBB                                                                                        [0m
+[91m        SHORT  When something ebbs, it is declining, falling, or flowing away. The best time to look for sea creatures in tidal pools is when the tide is on the ebb —
+               meaning it has receded from the shore.[0m
+[36m         LONG  Ebb is often used in the phrase, "ebb and flow," referring to the cyclical changing of the tides from low to high and back to low again. This sense of
                cyclical change can also be applied to other things. If you want to make money investing, you have to weather the ebb and flow of the stock
-               market.
+               market.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         There’s so much focus on the ebbs and flows of a developing team.
-     >         But activists say that while the administration’s support for human rights ebbed, they could still engage with U.S. diplomats and raise their concerns.
-     >         I started when I was younger, but now I have an understanding of the ebbs and flows.
-     >         The flimsy talk of “Anglosphere” values will probably ebb away as the incoming American president makes Britain feel ever-more European.
-     >         Sam’s dating life ebbs and flows, but never takes up more than a peripheral place in her life.
+[3m             > “The Bureau’s reputation is at a low ebb because of Comey’s decisions,” the magazine said in an editorial.[0m
+[3m             > It ebbs when she is with her children, only to rise when she is alone.[0m
+[3m             > It said momentum was continuing to ebb, with the number of enquiries from potential buyers also flat.[0m
+[3m             > “We believe there are 52 seasons in a year,” said the chef, looking forward to the ebb and flow of ingredients harvested in his region.[0m
+[3m             > But an ebbing of support for the environmental party means that coalition is likely to break up.[0m
 
- 1   The Movement Of The Tide Out To Sea.
-	 Eg.  "The Tide Was On The Ebb"
-	 Eg.  "The Rocks Were Revealed By The Ebb Of The Tide"
-	 Synonyms:  retreat , 
+[35mEbb[0m[36m /ɛb/,[0m [91m[3mnoun[0m[0m | noun: ebb
+      [32m1.[0m [37mthe movement of the tide out to sea.[0m
+	   "the tide was on the ebb"
+  	   [3msynonyms:[0m receding, going out, flowing back, retreat, retreating, drawing back, abating, subsiding ;  retrocession
+		    "the rocks were revealed by the ebb of the tide"
+    [91m[3mverb[0m[0m | verb: ebb; 3rd person present: ebbs; past tense: ebbed; past participle: ebbed; gerund or present participle: ebbing
+      [32m1.[0m [37m(of tidewater) move away from the land; recede.[0m
+	   "the tide began to ebb"
+  	   [3msynonyms:[0m recede, go out, retreat, flow back, draw back, fall back, fall away, abate, subside ;  retrocede
+		    "the tide ebbed in the afternoon"
+  	   [3mantonyms:[0m come in
 
- 2   (Of Tidewater) Move Away From The Land; Recede.
-	 Eg.  "The Tide Began To Ebb"
-	 Eg.  "The Tide Ebbed In The Afternoon"
-	 Synonyms:  recede , retreat , abate , subside , retrocede , 
-	 Antonyms:  
-
- 3   (Of An Emotion Or Quality) Gradually Decrease.
-	 Eg.  "My Enthusiasm Was Ebbing Away"
-	 Eg.  "His Courage Began To Ebb"
-	 Eg.  "They Welcomed The Ebb Of The Fighting"
-	 Synonyms:  diminish , dwindle , wane , decline , flag , 
-	 Antonyms:  increase , intensify , intensification , 
+      [32m2.[0m [37m(of an emotion or quality) gradually decrease.[0m
+	   "my enthusiasm was ebbing away"
+  	   [3msynonyms:[0m diminish, dwindle, wane, fade away, melt away, peter out, decline, die away, die down, die out, flag, let up, lessen, decrease, weaken, dissolve,
+                     disappear, come to an end ;  deteriorate, decay, degenerate ;  remit  abatement, subsiding, easing, waning, dwindling, petering out,
+                     dying away, dying down, dying out, fading away, de-escalation, decrease, decline, diminution, diminishing, lessening
+		    "his courage began to ebb"
+  	   [3mantonyms:[0m increase, intensify, intensification
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mभाटा[0m          [31mभाटा आना[0m          [31mघटती[0m     
+       [31mउतार[0m          [31mउतर जाना[0m          [31mक्षय[0m     

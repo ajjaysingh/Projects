@@ -1,38 +1,39 @@
-                                                                                      GLEAM                                                                                       
-  SHORT        A gleam is a bright flash of light. If you were lost on a dark, stormy night, you'd be hugely relieved to see the gleam of a roadside diner's sign up ahead.
-  LONG         Use the verb gleam when something is shining as if it were wet or glinting with light. Your new toothpaste might make your teeth so white that they gleam. You
+[35m                                                                                      GLEAM                                                                                       [0m
+[91m        SHORT  A gleam is a bright flash of light. If you were lost on a dark, stormy night, you'd be hugely relieved to see the gleam of a roadside diner's sign up ahead.[0m
+[36m         LONG  Use the verb gleam when something is shining as if it were wet or glinting with light. Your new toothpaste might make your teeth so white that they gleam. You
                can also describe an emotion that appears briefly as a gleam, like a gleam of hope. And as you hatch a plan to toilet-paper the neighbor's
-               yard, mischief might gleam in your eyes.
+               yard, mischief might gleam in your eyes.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The dancers weave in and out of the gleaming ice, taking its measure.
-     >         Naturally, there’s a cameo by her husband, Vince Gill, who brings a silvery gleam to “Baby, It’s Cold Outside.”
-     >         It is a futuristic extravaganza of gleaming modernist high-rises, gated villa compounds and yacht marinas.
-     >         But its gleaming surfaces are missing something underneath.
-     >         And what is “the twilight’s last gleaming,” other than something that rhymes with “gallanting streaming”?
+[3m             > Here and there gleamed the waxy red boles of madrone.[0m
+[3m             > A good spell more simmering, and the result is a rich and fortifying broth with a sheen of fat gleaming invitingly on the surface.[0m
+[3m             > “He talks about how gleaming the machine is, and there’s a picture of it,” she said.[0m
+[3m             > But the song sounds gleaming and jubilant, layered and polished like the studio extravaganzas of Fleetwood Mac in its “Tusk” era.[0m
+[3m             > L.A. got a gleaming skyline, while income and racial disparities became more evident.[0m
 
- 1   Shine Brightly, Especially With Reflected Light.
-	 Eg.  "Light Gleamed On The China Cats"
-	 Eg.  "The New Brass Nameplate Gleamed In The Moonlight"
-	 Synonyms:  shine , glimmer , glint , glitter , shimmer , 
-
- 2   (Of A Smooth Surface Or Object) Reflect Light Because Well Polished.
-	 Eg.  "Victor Buffed The Glass Until It Gleamed"
-
- 3   (Of An Emotion Or Quality) Be Expressed Through The Brightness Of A Person'S Eyes.
-	 Eg.  "Affection Gleamed In Her Large Green Eyes"
-
- 4   A Faint Or Brief Light, Especially One Reflected From Something.
-	 Eg.  "The Gleam Of A Silver Tray"
-	 Eg.  "A Gleam Of Light"
-	 Eg.  "The Gleam Of Polished Brass"
-	 Synonyms:  glimmer , glint , shimmer , glow , twinkle , 
-
- 5   A Brief Or Faint Instance Of A Quality Or Emotion.
-	 Eg.  "The Gleam Of Hope Vanished"
-	 Eg.  "A Gleam Of Hope Appeared In Ray'S Eyes"
-	 Synonyms:  glimmer , glimmering , flicker , ray , spark , 
-
- 6   An Expression Of An Emotion Or Quality In A Person'S Eyes.
-	 Eg.  "She Saw A Gleam Of Triumph In His Eyes"
-	 Eg.  "A Gleam Of Hope Appeared In Ray'S Eyes"
-	 Synonyms:  glimmer , glimmering , flicker , ray , spark , 
+[35mGleam[0m[36m /ɡliːm/,[0m [91m[3mverb[0m[0m | verb: gleam; 3rd person present: gleams; past tense: gleamed; past participle: gleamed; gerund or present participle: gleaming
+      [32m1.[0m [37mshine brightly, especially with reflected light.[0m
+	   "light gleamed on the china cats"
+  	   [3msynonyms:[0m shine, glimmer, glint, catch the light, glitter, shimmer, glow, sparkle, twinkle, flicker, blink, wink, glisten, flash, flare, beam, fluoresce ;  reflect
+                     light ;  glister ;  coruscate, scintillate, fulgurate, effulge, luminesce, incandesce, phosphoresce
+		    "the new brass nameplate gleamed in the moonlight"
+          • [37m(of a smooth surface or object) reflect light because well polished.[0m
+	   "Victor buffed the glass until it gleamed"
+          • [37m(of an emotion or quality) be expressed through the brightness of a person's eyes.[0m
+	   "affection gleamed in her large green eyes"
+    [91m[3mnoun[0m[0m | noun: gleam; plural noun: gleams
+      [32m1.[0m [37ma faint or brief light, especially one reflected from something.[0m
+	   "the gleam of a silver tray"
+  	   [3msynonyms:[0m glimmer, glint, shimmer, glow, twinkle, sparkle, flicker, blink, spark, flash, flare ;  beam, ray, shaft, finger, pencil  shine, lustre, gloss, sheen ;
+                     glint, glitter, glimmer, sparkle, brightness, brilliance, radiance, glow, luminescence, luminosity, phosphorescence, incandescence ;
+                     glister ;  lambency, scintillation, effulgence, refulgence, fulguration, coruscation
+		    "a gleam of light"
+          • [37ma brief or faint instance of a quality or emotion.[0m
+	   "the gleam of hope vanished"
+  	   [3msynonyms:[0m glimmer, glimmering, flicker, ray, spark, trace, suggestion, hint, faint sign, scintilla
+		    "a gleam of hope appeared in Ray's eyes"
+          • [37man expression of an emotion or quality in a person's eyes.[0m
+	   "she saw a gleam of triumph in his eyes"
+  	   [3msynonyms:[0m glimmer, glimmering, flicker, ray, spark, trace, suggestion, hint, faint sign, scintilla
+		    "a gleam of hope appeared in Ray's eyes"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+  [31mप्रकाश की किरण[0m        [31mकिरण[0m            [31mजगमगाना[0m    

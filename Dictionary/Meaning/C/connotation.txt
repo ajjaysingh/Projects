@@ -1,19 +1,23 @@
-                                                                                   CONNOTATION                                                                                    
-  SHORT        When you're talking about the implied subtext of words rather than their literal meaning, reach for the noun connotation. A political boss might not want to
-               be called "boss" because of the negative connotations.
-  LONG         From the Latin com- "with" + notare "to mark," this word is all about reading between the lines. The literal meaning (or denotation) of Wall Street, for
+[35m                                                                                   CONNOTATION                                                                                    [0m
+[91m        SHORT  When you're talking about the implied subtext of words rather than their literal meaning, reach for the noun connotation. A political boss might not want to
+               be called "boss" because of the negative connotations.[0m
+[36m         LONG  From the Latin com- "with" + notare "to mark," this word is all about reading between the lines. The literal meaning (or denotation) of Wall Street, for
                instance, is "a street in lower Manhattan that's home to many financial institutions," but the same phrase's connotations may include "wealth,"
-               "power," or "greed," depending on your experiences and opinions. A closely related word is implication.
+               "power," or "greed," depending on your experiences and opinions. A closely related word is implication.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In many African countries, the word “mulatto” does not have the negative connotation that it has in the United States.
-     >         Then again: Even Ms. Watson-Smyth concedes gray’s negative connotations—cloudy skies, battleships, austerity and boredom.
-     >         The president-elect’s son, Donald Trump Jr., also became a flashpoint by using social media to distribute imagery with xenophobic or racist connotations.
-     >         Since the Sept. 11 attacks, the word “martyr” has taken on awful new connotations.
-     >         “I just like the biblical connotations of it,” he says.
+[3m             > In Nahuatl, the words almost shimmer with connotation: what was true was well grounded, stable and immutable, enduring above all.[0m
+[3m             > But as the Vietnam War descended into quagmire, what was once a children’s toy became fraught with decidedly grown-up political connotations.[0m
+[3m             > “She uses gingham with all its connotations of domesticity,” Bolton says.[0m
+[3m             > Highlighting mugwump's "positive" connotation, some shared the Oxford English Dictionary definition: "A person who remains aloof or independent, especially
+               from party politics".[0m
+[3m             > The concept stretches back into history but acquired its modern connotations as a place of mass internment marked by poor conditions in the 19th Century.[0m
 
- 1   An Idea Or Feeling Which A Word Invokes For A Person In Addition To Its Literal Or Primary Meaning.
-	 Eg.  "The Word ‘Discipline’ Has Unhappy Connotations Of Punishment And Repression"
-	 Eg.  "The Word ‘Discipline’ Has Unhappy Connotations Of Punishment And Repression"
-	 Synonyms:  overtone , undertone , undercurrent , implication , nuance , 
-
- 2   The Abstract Meaning Or Intension Of A Term, Which Forms A Principle Determining Which Objects Or Concepts It Applies To.
+[35mConnotation[0m[36m /kɒnəˈteɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: connotation; plural noun: connotations
+          • [37man idea or feeling which a word invokes for a person in addition to its literal or primary meaning.[0m
+	   "the word ‘discipline’ has unhappy connotations of punishment and repression"
+  	   [3msynonyms:[0m overtone, undertone, undercurrent, implication, hidden meaning, secondary meaning, nuance, flavour, feeling, aura, atmosphere, colouring, smack, hint,
+                     vein, echo, vibrations, association, intimation, suggestion, suspicion, insinuation ;  undermeaning, subcurrent
+		    "the word ‘discipline’ has unhappy connotations of punishment and repression"
+          • [37mthe abstract meaning or intension of a term, which forms a principle determining which objects or concepts it applies to.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mअभिधान[0m       [31mअतिरिक्त मतलाब[0m 

@@ -1,21 +1,30 @@
-                                                                                    OBSTINATE                                                                                     
-  SHORT        When someone is beyond stubborn, use the word obstinate instead: "You obstinate old mule! Get out of my way!"
-  LONG         While stubborn may have positive or negative connotations, obstinate is most definitely negative, because it implies a kind of hard-headed determination not
+[35m                                                                                    OBSTINATE                                                                                     [0m
+[91m        SHORT  When someone is beyond stubborn, use the word obstinate instead: "You obstinate old mule! Get out of my way!"[0m
+[36m         LONG  While stubborn may have positive or negative connotations, obstinate is most definitely negative, because it implies a kind of hard-headed determination not
                to change your mind even when it might be best to rethink your position. "The obstinate Man does not hold Opinions, but they hold him," wrote
                Samuel Butler way back in the seventeenth century. The word still does the trick if you want a put-down for someone you think is being a pig-
-               headed fool or a stick in the mud.
+               headed fool or a stick in the mud.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The verse is about an obstinate man spouting off falsehoods to a woman who cannot make him see the truth.
-     >         But Aoun, known for being obstinate and temperamental, is also a deeply divisive figure in Lebanon.
-     >         But she has a hard time making the case to obstinate friends why they should support the Democratic presidential nominee.
-     >         A English widow moves herself and her brood of occasionally charming yet more often obstinate children to Greece in 1935.
-     >         “It’s all about inspiring you to revolt against a government, or an institution, or your obstinate sense of self.”
+[3m             > Rejecting any compromise was obstinate and foolish; it was contrary to the public’s interest; and it was a selfish act deserving of public scorn.[0m
+[3m             > But some businesses are so obstinate and so evasive that there’s no other option.[0m
+[3m             > On Friday, he suggested that some were simply being obstinate.[0m
+[3m             > Robeson’s ongoing obscurity stems from his obstinate refusal to recant or back down.[0m
+[3m             > Elsewhere, the draft report found that “there is also evidence” that Tasers were being used in response to unruly or obstinate behavior by suspects.[0m
 
- 1   Stubbornly Refusing To Change One'S Opinion Or Chosen Course Of Action, Despite Attempts To Persuade One To Do So.
-	 Eg.  "Her Obstinate Determination To Pursue A Career In Radio"
-	 Eg.  "I Don'T Think You'Ll Succeed In Changing His Mind—He'S Very Obstinate"
-	 Synonyms:  stubborn , headstrong , wilful , unyielding , inflexible , 
-	 Antonyms:  compliant , amenable , tractable , 
-
- 2   (Of An Unwelcome Situation) Very Difficult To Change Or Overcome.
-	 Eg.  "The Obstinate Problem Of Unemployment"
+[35mObstinate[0m[36m /ˈɒbstɪnət/,[0m [91m[3madjective[0m[0m | adjective: obstinate
+          • [37mstubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so.[0m
+	   "her obstinate determination to pursue a career in radio"
+  	   [3msynonyms:[0m stubborn, headstrong, wilful, unyielding, inflexible, unbending, intransigent, intractable, obdurate, mulish, stubborn as a mule, pig-headed, bull-
+                     headed, self-willed, strong-minded, strong-willed, contrary, perverse, recalcitrant, refractory, uncooperative, unmanageable, cross-
+                     grained, stiff-necked, stiff, rigid, steely, iron-willed, uncompromising, implacable, relentless, unrelenting, unpersuadable,
+                     immovable, unmalleable, unshakeable, inexorable, with one's toes/feet dug in, persistent, persevering, tenacious, pertinacious,
+                     dogged, single-minded, adamant, firm, steadfast, determined ;  bloody-minded, bolshie, stroppy ;  balky ;  froward, contumacious ;
+                     contrarious, indurate
+		    "I don't think you'll succeed in changing his mind—he's very obstinate"
+  	   [3mantonyms:[0m compliant, amenable, tractable
+          • [37m(of an unwelcome situation) very difficult to change or overcome.[0m
+	   "the obstinate problem of unemployment"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+      [31mजिद्दी[0m           [31mहठी[0m      
+    [31mदुराग्राही[0m        [31mहठीला[0m     
+  [31mदुराग्रहपूर्ण[0m       [31mज़िद्दी[0m    

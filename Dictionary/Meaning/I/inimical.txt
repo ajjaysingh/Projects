@@ -1,23 +1,28 @@
-                                                                                     INIMICAL                                                                                     
-  SHORT        Censorship is inimical to freedom. So, most teenagers would argue, are curfews. To be inimical is to be harmful, antagonistic, or opposed to — like smoking
-               two packs a day is to healthy lungs.
-  LONG         Inimical comes from the Latin word inimicus, meaning "enemy." It suggests acting like someone's enemy––being adverse, damaging, or downright hostile. It can
-               refer to anything from emotions and actions to public policy. Be careful not to mix it up with inimitable, which means too good to be copied.
+[35m                                                                                     INIMICAL                                                                                     [0m
+[91m        SHORT  Censorship is inimical to freedom. So, most teenagers would argue, are curfews. To be inimical is to be harmful, antagonistic, or opposed to — like smoking
+               two packs a day is to healthy lungs.[0m
+[36m         LONG  Inimical comes from the Latin word inimicus, meaning "enemy." It suggests acting like someone's enemy––being adverse, damaging, or downright hostile. It can
+               refer to anything from emotions and actions to public policy. Be careful not to mix it up with inimitable, which means too good to be copied.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In a season supposedly inimical to insiders, Feingold, 63, is more of this detested breed than is Johnson.
-     >         Regardless of its cause, this new normal is inimical to America’s national interests.
-     >         To inflict any hurt on anything for any purpose became inimical to him.
-     >         It suggests the rise of a species of anger inimical to any hope of racial reconciliation in Milwaukee — and cities far beyond.
-     >         But others, like a tendency toward violence and verbal abuse, were inimical to family life.
+[3m             > And a civilisation inimical to our modernity, according to this logic, is surely our enemy.[0m
+[3m             > The strategy was condemned as crude, cynical and inimical to the rule of law.[0m
+[3m             > In a season supposedly inimical to insiders, Feingold, 63, is more of this detested breed than is Johnson.[0m
+[3m             > Regardless of its cause, this new normal is inimical to America’s national interests.[0m
+[3m             > To inflict any hurt on anything for any purpose became inimical to him.[0m
 
- 1   Tending To Obstruct Or Harm.
-	 Eg.  "The Policy Was Inimical To Britain'S Real Interests"
-	 Eg.  "Party Politics Are Inimical To Genuine Democracy"
-	 Synonyms:  harmful , injurious , detrimental , deleterious , pernicious , 
-	 Antonyms:  helpful , advantageous , 
-
- 2   Unfriendly; Hostile.
-	 Eg.  "An Inimical Alien Power"
-	 Eg.  "He Fixed Her With An Inimical Gaze"
-	 Synonyms:  hostile , unfriendly , antagonistic , ill-disposed , unkind , 
-	 Antonyms:  friendly , warm , 
+[35mInimical[0m[36m /ɪˈnɪmɪk(ə)l/,[0m [91m[3madjective[0m[0m | adjective: inimical
+          • [37mtending to obstruct or harm.[0m
+	   "the policy was inimical to Britain's real interests"
+  	   [3msynonyms:[0m harmful, injurious, detrimental, deleterious, pernicious, damaging, hurtful, dangerous, destructive, ruinous, calamitous ;  antagonistic, contrary,
+                     antipathetic, unfavourable, adverse, opposed, hostile, at odds, not conducive, prejudicial ;  malefic, maleficent
+		    "party politics are inimical to genuine democracy"
+  	   [3mantonyms:[0m helpful, advantageous
+          • [37munfriendly; hostile.[0m
+	   "an inimical alien power"
+  	   [3msynonyms:[0m hostile, unfriendly, antagonistic, ill-disposed, unkind, unsympathetic, malevolent, malign ;  inhospitable, unwelcoming, cold, icy, frosty, glacial
+		    "he fixed her with an inimical gaze"
+  	   [3mantonyms:[0m friendly, warm
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mविरोधी[0m        [31mप्रतिकूल[0m   
+     [31mहानिकार[0m       [31mबैरपूर्ण[0m   
+     [31mशत्रुवत[0m     [31mशत्रुतापूर्ण[0m 

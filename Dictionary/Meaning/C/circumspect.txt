@@ -1,18 +1,26 @@
-                                                                                   CIRCUMSPECT                                                                                    
-  SHORT        If you are circumspect, you think carefully before doing or saying anything. A good quality in someone entrusted with responsibility, though sometimes boring
-               in a friend.
-  LONG         The word circumspect was borrowed from Latin circumspectus, from circumspicere "to be cautious." The basic meaning of Latin circumspicere is "to look around."
+[35m                                                                                   CIRCUMSPECT                                                                                    [0m
+[91m        SHORT  If you are circumspect, you think carefully before doing or saying anything. A good quality in someone entrusted with responsibility, though sometimes boring
+               in a friend.[0m
+[36m         LONG  The word circumspect was borrowed from Latin circumspectus, from circumspicere "to be cautious." The basic meaning of Latin circumspicere is "to look around."
                Near synonyms are prudent and cautious, though circumspect implies a careful consideration of all circumstances and a desire to avoid mistakes
-               and bad consequences.
+               and bad consequences.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Some company alumni are circumspect, saying too many viewpoints can water down the product.
-     >         After 10 years in power, safely basking in Soviet approval, Castro’s policy towards Latin America became more circumspect.
-     >         On Thursday, Mr. Schulz was circumspect about his plans and declined to take any questions from reporters.
-     >         She’s been a bit more circumspect on that one.
-     >         Whatever you think of Hillary Clinton, there’s no question that she was the more circumspect candidate, and that’s partly why her detractors hated her.
+[3m             > Senators, though, were far less circumspect in both their questions and their commentary.[0m
+[3m             > In time, she may ask more pointed questions, and — no matter how old she is, you should be extremely circumspect in your answers.[0m
+[3m             > Most of her Democratic colleagues are circumspect on the matter, calling for a vigorous, independent investigations, but rarely using the i-word.[0m
+[3m             > And after they returned to the Capitol, even leading Republican senators were circumspect about what was achieved.[0m
+[3m             > Chamber of Commerce, a staple of the Republican coalition, was more circumspect.[0m
 
- 1   Wary And Unwilling To Take Risks.
-	 Eg.  "The Officials Were Very Circumspect In Their Statements"
-	 Eg.  "She Would Have To Be Very Circumspect In Her Dealings With Catherine"
-	 Synonyms:  cautious , wary , careful , chary , guarded , 
-	 Antonyms:  unguarded , incautious , 
+[35mCircumspect[0m[36m /ˈsəːkəmspɛkt/,[0m [91m[3madjective[0m[0m | adjective: circumspect
+          • [37mwary and unwilling to take risks.[0m
+	   "the officials were very circumspect in their statements"
+  	   [3msynonyms:[0m cautious, wary, careful, chary, guarded, on one's guard ;  discreet ;  watchful, alert, attentive, heedful, vigilant, observant ;  prudent, judicious,
+                     canny, politic ;  softly-softly, cagey, leery, playing one's cards close to one's chest
+		    "she would have to be very circumspect in her dealings with Catherine"
+  	   [3mantonyms:[0m unguarded, incautious
+  [31m[4m[34madjective[0m[0m[0m
+    [31mचौकस[0m   
+   [31mसावधान[0m  
+   [31mचौकन्ना[0m 
+  [31mएहतियाती[0m 
+   [31mहोशियार[0m 

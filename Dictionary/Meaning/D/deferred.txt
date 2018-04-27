@@ -1,30 +1,37 @@
-                                                                                     DEFERRED                                                                                     
-  SHORT        Defer means to put off or delay. You can try to defer the inevitable by pushing “snooze” and falling back asleep, but eventually you're going to have to get
-               up.
-  LONG         If you're excellent at pushing things to a later date and a master at procrastination, then you already know how to defer. But defer can also mean to comply
+[35m                                                                                     DEFERRED                                                                                     [0m
+[91m        SHORT  Defer means to put off or delay. You can try to defer the inevitable by pushing “snooze” and falling back asleep, but eventually you're going to have to get
+               up.[0m
+[36m         LONG  If you're excellent at pushing things to a later date and a master at procrastination, then you already know how to defer. But defer can also mean to comply
                with another person’s opinion or wishes. So when your boss finds out you deferred your work to shop online instead, you should probably defer
-               when she asks you to come in and finish everything up over the weekend.
+               when she asks you to come in and finish everything up over the weekend.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         She is able to work legally under a program known as Deferred Action for Childhood Arrivals, created by President Obama by executive action.
-     >         Trump says he will cancel the Deferred Action for Childhood Arrivals program, which provides youths living in the country illegally a temporary reprieve from
-               deportation.
-     >         Indeed, the dream of a woman president is surely not dead, but rather deferred.
-     >         A slowing rate of growth in county tax revenue has led to reduced library hours and deferred maintenance at park facilities.
-     >         My siblings deferred to me, the only physician in the group, for medical advice.
+[3m             > In that case, the court deferred to the executive’s national security concerns to uphold the internment of Japanese Americans during World War II.[0m
+[3m             > Two of those games were deferred for six months of probation.[0m
+[3m             > Sheriff Grant McCulloch deferred sentence until later this month for social work background reports and remanded Jackson in custody.[0m
+[3m             > The Obama administration offered them renewable two-year protection from deportation under a policy called Deferred Action for Childhood Arrivals, or DACA.[0m
+[3m             > That represented a 9% decline from 2015 as the value of Roberts’ pension and deferred compensation plan contracted a bit.[0m
 
- 1   Put Off (An Action Or Event) To A Later Time; Postpone.
-	 Eg.  "They Deferred The Decision Until February"
-	 Eg.  "He Deferred The Final Decision Till A Later Meeting"
-	 Synonyms:  postpone , adjourn , delay , shelve , suspend , 
-
- 2   (Of A Judge) Postpone (A Sentence) So That The Circumstances Or Conduct Of The Defendant Can Be Further Assessed.
-	 Eg.  "The Judge Deferred Sentence Until 5 April For Background Reports"
-
- 3   Postpone The Conscription Of (Someone).
-	 Eg.  "He Was No Longer Deferred From The Draft"
-
- 4   Submit To Or Acknowledge The Merit Of.
-	 Eg.  "He Deferred To Tim'S Superior Knowledge"
-	 Eg.  "He Readily Deferred To His Parents And To His Eldest Sister"
-	 Synonyms:  yield , submit , surrender , accede , bow , 
-	 Antonyms:  disobey , 
+[35mDefer[0m[36m /dɪˈfəː/,[0m [91m[3mverb[0m[0m
+	past tense: deferred; past participle: deferred
+          • [37mput off (an action or event) to a later time; postpone.[0m
+	   "they deferred the decision until February"
+  	   [3msynonyms:[0m postpone, put off, adjourn, delay, hold over/off, put back, carry over ;  shelve, suspend, stay, hold in abeyance, prorogue, pigeonhole, mothball ;  put
+                     over, table, lay on the table, take a rain check on ;  continue ;  put on ice, put on the back burner, put in cold storage ;  remit,
+                     respite
+		    "he deferred the final decision till a later meeting"
+          • [37m(of a judge) postpone (a sentence) so that the circumstances or conduct of the defendant can be further assessed.[0m
+	   "the judge deferred sentence until 5 April for background reports"
+          • [37mpostpone the conscription of (someone).[0m
+	   "he was no longer deferred from the draft"
+[35mDefer[0m[36m /dɪˈfəː/,[0m [91m[3mverb[0m[0m
+	past tense: deferred; past participle: deferred
+          • [37msubmit to or acknowledge the merit of.[0m
+	   "he deferred to Tim's superior knowledge"
+  	   [3msynonyms:[0m yield, submit, give way, give in, surrender, accede, bow, capitulate, acquiesce, knuckle under ;  comply with, agree with, respect, honour, truckle
+		    "he readily deferred to his parents and to his eldest sister"
+  	   [3mantonyms:[0m stand up to, disobey
+  [31m[4m[34m[0m[0m[0m
+   [31mआस्थगित[0m 
+   [31mस्थगित[0m  
+  [31mविलम्बित[0m 
+   [31mमुल्तवी[0m 

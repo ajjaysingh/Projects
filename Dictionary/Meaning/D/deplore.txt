@@ -1,19 +1,25 @@
-                                                                                     DEPLORE                                                                                      
-  SHORT        The verb deplore is used to express strong disapproval of something. If you really, really hate the way your mom makes meatloaf, then it's safe to say you
-               deplore it.
-  LONG         Deplore comes from Latin roots that mean to bewail or lament. So if you deplore something, you object to it because it brings you sorrow or grief. People
+[35m                                                                                     DEPLORE                                                                                      [0m
+[91m        SHORT  The verb deplore is used to express strong disapproval of something. If you really, really hate the way your mom makes meatloaf, then it's safe to say you
+               deplore it.[0m
+[36m         LONG  Deplore comes from Latin roots that mean to bewail or lament. So if you deplore something, you object to it because it brings you sorrow or grief. People
                often deplore things that they regret or feel bad about. You might deplore the inhumane treatment of animals or the deforestation of the
-               Amazon. Or maybe you just deplore your wardrobe choices from middle school.
+               Amazon. Or maybe you just deplore your wardrobe choices from middle school.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Critics also deplored a one-party autocratic rule that throttled free speech in the name of revolutionary solidarity and confronting Washington.
-     >         Allowing populists to make the running while deploring their views presents voters with a confusing proposition.
-     >         It’s true that Puritans mistrusted Indians, deplored their religions as savagery and devil-worship, fought them, and enslaved them.
-     >         It “deplores and condemns in the strongest terms” widespread human rights violations by the Syrian government.
-     >         This is what Martin Luther King Jr. meant when he deplored “the luxury of cooling off.”
+[3m             > "No force will be able to dominate our people," Mr Putin said, deploring the havoc that Nazi Germany wreaked in the war.[0m
+[3m             > What is the trait you most deplore in yourself?[0m
+[3m             > The president deplored “ridiculous rulings” from California judges after his action against so-called sanctuary cities was blocked.[0m
+[3m             > In response, the university said in a statement on Wednesday that it strongly deplored Spencer's views, but it would uphold his right to speak.[0m
+[3m             > A university statement released Wednesday says the school deplores Spencer’s views.[0m
 
- 1   Feel Or Express Strong Condemnation Of (Something).
-	 Eg.  "We Deplore All Violence"
-	 Eg.  "We Deplore All Use Of Violence And Provocation"
-	 Eg.  "He Deplored The Lack Of Flair In The England Squad"
-	 Synonyms:  abhor , detest , despise , execrate , condemn , 
-	 Antonyms:  admire , applaud , 
+[35mDeplore[0m[36m /dɪˈplɔː/,[0m [91m[3mverb[0m[0m | verb: deplore; 3rd person present: deplores; past tense: deplored; past participle: deplored; gerund or present participle: deploring
+          • [37mfeel or express strong condemnation of (something).[0m
+	   "we deplore all violence"
+  	   [3msynonyms:[0m abhor, be shocked by, be offended by, be scandalized by, find unacceptable, be against, frown on ;  disapprove of, take a dim view of, look askance at,
+                     take exception to, detest, despise, execrate ;  condemn, denounce, decry, deprecate, censure, damn  regret, express regret about,
+                     lament, mourn, rue, bemoan, bewail, complain about, grieve over, express sorrow about, sorrow over, sigh over, cry over, weep over,
+                     shed tears over, beat one's breast about, wring one's hands over ;  plain over
+		    "we deplore all use of violence and provocation"
+  	   [3mantonyms:[0m admire, applaud
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mविलाप करना[0m       [31mअफसोस करना[0m   
+    [31mनिंदा करना[0m            [31m[0m        

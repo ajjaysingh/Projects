@@ -1,40 +1,44 @@
-                                                                                       SNAG                                                                                       
+[35m                                                                                       SNAG                                                                                       [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Holiday shoppers eager to snag big discounts turned to the internet in record fashion this week.
-     >         Texas moved quickly to snag Herman, who has spent the past two seasons with the Cougars and elevated the program into to the Top 25 .
-     >         Now the Big Tree might be more aptly named the Big Snag.
-     >         After half an hour of fishing for his flight jacket with a tree limb, Hicks snagged it.
-     >         Her goal was to snag a free gift card that JCPenney was giving out to early birds.
+[3m             > I only occasionally snag my arm on my headphone cord when I run.[0m
+[3m             > Winner’s pontoons scraped into the shallows and a strut of her crosswise steel snagged on a tall, tooth-shaped crag.[0m
+[3m             > Snagging is legal in all areas of the Yellowstone River in northwestern North Dakota, and in most of the Missouri River west of the U.S.[0m
+[3m             > One of his fellow soldiers was “short” - about to return home - when he snagged something with his sickle.[0m
+[3m             > Pinball hit a snag in the 1940s when it was considered a game of chance, thus falling under the umbrella of gambling.[0m
 
- 1   An Unexpected Or Hidden Obstacle Or Drawback.
-	 Eg.  "There'S One Small Snag"
-	 Eg.  "The Snag Is That A Stronger Economy Might Mean Higher Inflation"
-	 Synonyms:  obstacle , difficulty , complication , catch , hitch , 
+[35mSnag[0m[36m /snaɡ/,[0m [91m[3mnoun[0m[0m | noun: snag; plural noun: snags
+      [32m1.[0m [37man unexpected or hidden obstacle or drawback.[0m
+	   "there's one small snag"
+  	   [3msynonyms:[0m obstacle, difficulty, complication, catch, hitch, stumbling block, pitfall, unseen problem, problem, issue, barrier, impediment, hindrance,
+                     inconvenience, setback, hurdle, disadvantage, downside, drawback, minus ;  disbenefit ;  hiccup
+		    "the snag is that a stronger economy might mean higher inflation"
 
- 2   A Sharp, Angular, Or Jagged Projection.
-	 Eg.  "Keep An Emery Board Handy In Case Of Nail Snags"
-	 Eg.  "The Wooden Rails Become Smooth Over Time, With No Snags Or Rough Corners"
-	 Synonyms:  jag , thorn , spur , 
+      [32m2.[0m [37ma sharp, angular, or jagged projection.[0m
+	   "keep an emery board handy in case of nail snags"
+  	   [3msynonyms:[0m sharp projection, jag, jagged bit ;  thorn, spur ;  sticky-out bit
+		    "the wooden rails become smooth over time, with no snags or rough corners"
+          • [37ma rent or tear in fabric caused by a snag.[0m
+	   "she got a snag in her tights"
+  	   [3msynonyms:[0m tear, rip, rent, ladder, run, hole, gash, slash, slit
+		    "she got a snag in her tights"
 
- 3   A Rent Or Tear In Fabric Caused By A Snag.
-	 Eg.  "She Got A Snag In Her Tights"
-	 Synonyms:  tear , rip , rent , ladder , run , 
+      [32m3.[0m [37ma dead tree.[0m
+	   "dozens of species of birds and mammals use standing snags for nesting"
+    [91m[3mverb[0m[0m | verb: snag; 3rd person present: snags; past tense: snagged; past participle: snagged; gerund or present participle: snagging
+      [32m1.[0m [37mcatch or tear (something) on a sharp projection.[0m
+	   "thorns snagged his sweater"
+  	   [3msynonyms:[0m tear, rip, ladder, gash
+		    "she wouldn't want cats' claws snagging her tights"
+          • [37mbecome caught on a sharp projection.[0m
+	   "radio aerials snagged on bushes and branches"
+  	   [3msynonyms:[0m catch (in), hook, jag ;  get caught in/on
+		    "the zip runs freely and doesn't snag on the fabric"
 
- 4   A Dead Tree.
-	 Eg.  "Dozens Of Species Of Birds And Mammals Use Standing Snags For Nesting"
-
- 5   Catch Or Tear (Something) On A Sharp Projection.
-	 Eg.  "Thorns Snagged His Sweater"
-	 Eg.  "She Wouldn'T Want Cats' Claws Snagging Her Tights"
-	 Synonyms:  tear , rip , ladder , gash , 
-
- 6   Become Caught On A Sharp Projection.
-	 Eg.  "Radio Aerials Snagged On Bushes And Branches"
-	 Eg.  "The Zip Runs Freely And Doesn'T Snag On The Fabric"
-	 Synonyms:  hook , jag , 
-
- 7   Catch Or Obtain.
-	 Eg.  "It'S The First Time They'Ve Snagged The Star For A Photo"
-
- 8   A Sausage.
-	 Eg.  "I Make My Own Snags, My Own Pies And Pasties"
+      [32m2.[0m [37mcatch or obtain.[0m
+	   "it's the first time they've snagged the star for a photo"
+[35mSnag[0m[36m /snaɡ/,[0m [91m[3mnoun Australian/NZ informal[0m[0m | noun: snag; plural noun: snags
+          • [37ma sausage.[0m
+	   "I make my own snags, my own pies and pasties"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mरोड़ा[0m            [31mटहनी[0m      
+      [31mकठिनाई[0m            [31mगांठ[0m      

@@ -1,26 +1,31 @@
-                                                                                     SOLICIT                                                                                      
-  SHORT        Solicit means to ask for. It is what those people on the street are doing, when they ask, "Do you have a moment to talk about the destruction of the planet?"
-               They are soliciting donations for their cause.
-  LONG         Solicit has an official sounding impressiveness to it––doesn't soliciting donations sound better than begging for money? It can also have a more sinister
+[35m                                                                                     SOLICIT                                                                                      [0m
+[91m        SHORT  Solicit means to ask for. It is what those people on the street are doing, when they ask, "Do you have a moment to talk about the destruction of the planet?"
+               They are soliciting donations for their cause.[0m
+[36m         LONG  Solicit has an official sounding impressiveness to it––doesn't soliciting donations sound better than begging for money? It can also have a more sinister
                cast. "When the teacher left the room, two girls solicited their friends to throw all the textbooks out the windows, injuring members of the
-               cheer squad below — where they were soliciting signatures for a petition banning smoking in the football locker rooms."
+               cheer squad below — where they were soliciting signatures for a petition banning smoking in the football locker rooms."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Although elected officials including the president are restricted in how much money they can solicit, they can freely give out of their own pocket.
-     >         They may now have motive and opportunity to try to give favors to — or solicit them from — the Trump family.
-     >         The city plans to solicit proposals from potential private-sector partners.
-     >         The Constitution protects their reliance on the government’s good faith in soliciting such damaging information.
-     >         Locke faces charges of soliciting homicide and conspiracy.
+[3m             > They are soliciting funds on their web site.[0m
+[3m             > But more ideas will be solicited once a formal process is in place.[0m
+[3m             > In subsequent years, it has mushroomed into a decentralized global movement, with nonprofits of all types soliciting donations, promoting volunteerism and
+               encouraging acts of kindness.[0m
+[3m             > The agency is currently soliciting feedback on how best to consider preprints in grant applications and reports.[0m
+[3m             > Although elected officials including the president are restricted in how much money they can solicit, they can freely give out of their own pocket.[0m
 
- 1   Ask For Or Try To Obtain (Something) From Someone.
-	 Eg.  "He Called A Meeting To Solicit Their Views"
-	 Eg.  "Phil Had Been Trying To Solicit His Help All Morning"
-	 Eg.  "They Are Endlessly Solicited For Their Opinions"
-	 Synonyms:  request , seek , beg , crave , canvass , 
+[35mSolicit[0m[36m /səˈlɪsɪt/,[0m [91m[3mverb[0m[0m | verb: solicit; 3rd person present: solicits; past tense: solicited; past participle: solicited; gerund or present participle: soliciting
+      [32m1.[0m [37mask for or try to obtain (something) from someone.[0m
+	   "he called a meeting to solicit their views"
+  	   [3msynonyms:[0m ask for, request, apply for, put in for, seek, beg, plead for, sue for, crave, canvass, call for, drum up, press for ;  impetrate  ask, beg, beseech,
+                     implore, plead with, entreat, appeal to, apply to, lobby, petition, importune, canvass, supplicate, call on, press, pressure ;
+                     obsecrate
+		    "Phil had been trying to solicit his help all morning"
+          • [37mask (someone) for something.[0m
+	   "historians and critics are solicited for opinions by the auction houses"
 
- 2   Ask (Someone) For Something.
-	 Eg.  "Historians And Critics Are Solicited For Opinions By The Auction Houses"
-
- 3   Accost Someone And Offer One'S Or Someone Else'S Services As A Prostitute.
-	 Eg.  "Although Prostitution Was Not Itself An Offence, Soliciting Was"
-	 Eg.  "Prostitutes Gather In The Centre Of The City To Solicit"
-	 Synonyms:  hustle , 
+      [32m2.[0m [37maccost someone and offer one's or someone else's services as a prostitute.[0m
+	   "although prostitution was not itself an offence, soliciting was"
+  	   [3msynonyms:[0m work as a prostitute, engage in prostitution, accost people, make sexual advances, tout (for business) ;  hustle
+		    "prostitutes gather in the centre of the city to solicit"
+  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+         [31mमांगना[0m               [31mयाचना करना[0m      
+       [31mविनती करना[0m           [31mप्रार्थना करना[0m    

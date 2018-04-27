@@ -1,19 +1,25 @@
-                                                                                    ABHORRENT                                                                                     
-  SHORT        Many people find cruelty toward animals abhorrent, that is, they think it's detestable, obscene, repugnant, repulsive, and offensive to the mind. In other
-               words, they really, really don't like it.
-  LONG         When you think of abhorrent, think of horror, as in something so vile and loathsome that you can only react to it in horror. In fact, the word abhorrent in
+[35m                                                                                    ABHORRENT                                                                                     [0m
+[91m        SHORT  Many people find cruelty toward animals abhorrent, that is, they think it's detestable, obscene, repugnant, repulsive, and offensive to the mind. In other
+               words, they really, really don't like it.[0m
+[36m         LONG  When you think of abhorrent, think of horror, as in something so vile and loathsome that you can only react to it in horror. In fact, the word abhorrent in
                Latin means “to recoil (back away) in horror.” Note that the ending is spelled -ent with an e, not an a. Maybe the a found abhorrent so
-               abhorrent that it didn’t want to appear in it a second time.
+               abhorrent that it didn’t want to appear in it a second time.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Hatred against any group is abhorrent and inexcusable.
-     >         Nicola Sturgeon, Mr. Salmond’s successor, has called Mr. Trump’s comments “deeply abhorrent” and stripped him of his membership in the Global Scot business
-               network.
-     >         Because many Republican élites found Trump’s rhetoric and personality abhorrent, they overstated the extent of their policy differences.
-     >         Nor would a party that quietly acquiesced in policies its supporters find abhorrent.
-     >         "So, the question is: why are we still trading it? We need governments to send a clear signal that trading in ivory is abhorrent."
+[3m             > The idea that California wants to use public funds to support law breakers is abhorrent.[0m
+[3m             > The lawsuit accuses Fox News of “abhorrent, intolerable, unlawful and hostile racial discrimination,” The New York Times reported.[0m
+[3m             > Once again we see the complete normalization of abhorrent behavior that used to be considered outrageous but now defines us.[0m
+[3m             > Ms Sturgeon asked her whether she agreed it was "utterly abhorrent".[0m
+[3m             > I don’t spend too much time on Trump specifically but he seems like an abhorrent human being.[0m
 
- 1   Inspiring Disgust And Loathing; Repugnant.
-	 Eg.  "Racism Was Abhorrent To Us All"
-	 Eg.  "The Rack And Thumbscrew Are Abhorrent To Any Civilized Society"
-	 Synonyms:  detestable , hateful , loathsome , despicable , abominable , 
-	 Antonyms:  admirable , 
+[35mAbhorrent[0m[36m /əbˈhɒr(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: abhorrent
+          • [37minspiring disgust and loathing; repugnant.[0m
+	   "racism was abhorrent to us all"
+  	   [3msynonyms:[0m detestable, detested, hateful, hated, loathsome, loathed, despicable, despised, abominable, abominated, execrable, execrated, repellent, repugnant,
+                     repulsive, revolting, disgusting, distasteful, horrible, horrid, horrifying, awful, heinous, reprehensible, obnoxious, odious,
+                     nauseating, offensive, contemptible
+		    "the rack and thumbscrew are abhorrent to any civilized society"
+  	   [3mantonyms:[0m admirable, loved
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+    [31mघृणित[0m     [31mघिनौना[0m  
+   [31mगर्हित[0m    [31mघिनौनापन[0m 
+    [31mघृण्य[0m     [31mबीभत्स[0m  

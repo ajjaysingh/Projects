@@ -1,22 +1,25 @@
-                                                                                   PERSECUTION                                                                                    
-  SHORT        Persecution is unfair or abusive treatment toward a person or group of people, such as the persecution of someone who is different by calling him or her rude
-               names and making threats.
-  LONG         The noun persecution is related to persecute, which comes from Latin persecut-, meaning “followed with hostility.” Persecution means hassling or singling out
+[35m                                                                                   PERSECUTION                                                                                    [0m
+[91m        SHORT  Persecution is unfair or abusive treatment toward a person or group of people, such as the persecution of someone who is different by calling him or her rude
+               names and making threats.[0m
+[36m         LONG  The noun persecution is related to persecute, which comes from Latin persecut-, meaning “followed with hostility.” Persecution means hassling or singling out
                a person or group because of race, religion, ethnicity, sexual orientation, gender, or social status. In many schools, the persecution of
-               students by bullies has resulted in a zero-tolerance policy for such despicable behavior.
+               students by bullies has resulted in a zero-tolerance policy for such despicable behavior.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Amnesty International condemned the persecution of Rohingya Muslims by Myanmar and Bangladesh’s unwillingness to accept them.
-     >         The trailer shows the draconian persecution suffered by Japanese Christians in Japan during the Edo period.
-     >         In Egypt, Syria, Pakistan, China, and elsewhere, the persecution of Christians — often to the point of martyrdom — is real and continuing.
-     >         The resolution also condemns persecution of Falun Gong, a spiritual group China calls a cult and has outlawed.
-     >         As Shiite Muslims of the Hazara minority they have suffered historic persecution, but they have also benefitted from immense largesse from international
-               charities and governments.
+[3m             > Putin offered to help Graham organize an international conference on Christian persecution in Moscow, Graham said.[0m
+[3m             > As for the Jews: on April 1, the Third Reich began systematic persecution with a one-day boycott of Jewish businesses.[0m
+[3m             > In the Soviet Union, the Witnesses suffered decades of persecution, described by author Emily B. Baran in her book “Dissent on the Margins.”[0m
+[3m             > Hussein brutally executed political dissidents, persecution that led the United States to offer asylum in 1996 to 6,600 Iraqis.[0m
+[3m             > He says he faces state persecution for his political satire, for which authorities branded him "antisocial" and "counterrevolutionary."[0m
 
- 1   Hostility And Ill-Treatment, Especially Because Of Race Or Political Or Religious Beliefs; Oppression.
-	 Eg.  "Her Family Fled Religious Persecution"
-	 Eg.  "Victims Of Religious Persecution"
-	 Eg.  "The Persecution I Endured At School Got Worse As I Got Older"
-	 Synonyms:  oppression , maltreatment , ill treatment , mistreatment , abuse , 
-
- 2   Persistent Annoyance Or Harassment.
-	 Eg.  "His Persecution At The Hands Of Other Students"
+[35mPersecution[0m[36m /pəːsɪˈkjuːʃn/,[0m [91m[3mnoun[0m[0m | noun: persecution; plural noun: persecutions
+          • [37mhostility and ill-treatment, especially because of race or political or religious beliefs; oppression.[0m
+	   "her family fled religious persecution"
+  	   [3msynonyms:[0m oppression, victimization, maltreatment, ill treatment, mistreatment, abuse, ill usage, discrimination, tyranny, tyrannization, punishment, torment,
+                     torture ;  pogrom ;  witch hunt ;  red-baiting  harassment, hounding, harrying, badgering, teasing, bullying, molestation
+		    "victims of religious persecution"
+          • [37mpersistent annoyance or harassment.[0m
+	   "his persecution at the hands of other students"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mउत्पीड़न[0m     [31mपीडन[0m   
+  [31mअत्याचार[0m     [31mकष्ट[0m   
+   [31mज़ुल्म[0m      [31mदुःख[0m   

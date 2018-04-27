@@ -1,23 +1,25 @@
-                                                                                    UTTERANCE                                                                                     
-  SHORT        An utterance is a bit of spoken language. It could be anything from "Ugh!" to a full sentence.
-  LONG         To utter means "to say." So when you're saying something, you're making utterances. Saying "24" in math class is an utterance. A police officer yelling
+[35m                                                                                    UTTERANCE                                                                                     [0m
+[91m        SHORT  An utterance is a bit of spoken language. It could be anything from "Ugh!" to a full sentence.[0m
+[36m         LONG  To utter means "to say." So when you're saying something, you're making utterances. Saying "24" in math class is an utterance. A police officer yelling
                "Stop!" is an utterance. Saying "Good boy!" to your dog is an utterance. Even a long speech by the President is an utterance. If you can't hear
-               it, it's not an utterance.
+               it, it's not an utterance.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         They say that they hope for the best, that Trump’s most outlandish campaign trail utterances will fade as he moves on to new responsibilities.
-     >         It certainly was difficult to find the coherency in Trump’s utterances over the past 18 months.
-     >         Now it’s over, and like with any great tabloid divorce, we’re now left to read the tea leaves of their every movement and utterance.
-     >         Those things are present only by implication, or in the joyous utterances of his less inhibited fans.
-     >         “Trump’s every utterance, no matter how innocuous, is now parsed, analyzed and criticized by a litany of political pundits,” the letter continued.
+[3m             > Clark then wonders whether “such utterances connected with the world of actual outcomes.”[0m
+[3m             > Then again, like so many Trump utterances, this one reveals something about the president.[0m
+[3m             > At its weakest, though, Ford’s prose mopes with at-hand utterances: “part and parcel,” “pride and joy,” “this and that.”[0m
+[3m             > An utterance from Trump is like a New England weather report.[0m
+[3m             > The president also referred to “overt racist utterances and public displays that we saw during the marches last week.”[0m
 
- 1   A Spoken Word, Statement, Or Vocal Sound.
-	 Eg.  "He Whispered, As If To Lend His Utterances An Added Confidentiality"
-	 Eg.  "The Victory Was Soured By The Jingoistic Utterances Of The Commentators"
-	 Synonyms:  remark , comment , word , expression , statement , 
-
- 2   The Action Of Saying Or Expressing Something Aloud.
-	 Eg.  "The Simple Utterance Of A Few Platitudes"
-	 Eg.  "There Was A Gasp At This Public Utterance Of The Forbidden Word"
-	 Synonyms:  saying , speaking , expression , delivery , sounding , 
-
- 3   An Uninterrupted Chain Of Spoken Or Written Language.
+[35mUtterance[0m[36m /ˈʌt(ə)r(ə)ns/,[0m [91m[3mnoun[0m[0m | noun: utterance; plural noun: utterances
+          • [37ma spoken word, statement, or vocal sound.[0m
+	   "he whispered, as if to lend his utterances an added confidentiality"
+  	   [3msynonyms:[0m remark, comment, word, expression, statement, observation, declaration, pronouncement ;  reflection, thought, opinion
+		    "the victory was soured by the jingoistic utterances of the commentators"
+          • [37mthe action of saying or expressing something aloud.[0m
+	   "the simple utterance of a few platitudes"
+  	   [3msynonyms:[0m voicing, saying, speaking, expression, delivery, sounding, mouthing, breathing, articulation, enunciation, verbalization, vocalization
+		    "there was a gasp at this public utterance of the forbidden word"
+          • [37man uninterrupted chain of spoken or written language.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mकथन[0m      [31mबातचीत[0m 
+   [31mउक्ति[0m    [31mउच्चारण[0m 

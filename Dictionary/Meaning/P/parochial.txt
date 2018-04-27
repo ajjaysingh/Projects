@@ -1,22 +1,28 @@
-                                                                                    PAROCHIAL                                                                                     
-  SHORT        If an issue or a matter is parochial, it is trivial or only concerns a local area. Likewise, a person with a parochial mentality is narrow-minded, or not open
-               to new ideas.
-  LONG         Parochial comes to English from Greek through Latin with the meaning "of a parish." As a parochial school is a school that is affiliated with a particular
+[35m                                                                                    PAROCHIAL                                                                                     [0m
+[91m        SHORT  If an issue or a matter is parochial, it is trivial or only concerns a local area. Likewise, a person with a parochial mentality is narrow-minded, or not open
+               to new ideas.[0m
+[36m         LONG  Parochial comes to English from Greek through Latin with the meaning "of a parish." As a parochial school is a school that is affiliated with a particular
                church, the connection is easy to see. In general though, parochial refers to a narrow or limited point of view — that is, an outlook that
                extends no further than the limits of the parish. You may feel that there is no room in your life for the parochial attitudes of the older
-               generation. Let's hope you remain open-minded as you age!
+               generation. Let's hope you remain open-minded as you age![0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Families are able to take that money to private or parochial school to cover all or part of tuition.
-     >         “The great challenge in writing is always to find the universal in the local, the parochial,” he told the Times.
-     >         More than parochial pride is behind our enthusiasm for these results.
-     >         By focusing only on his own environment, academia, Mr. Rorty’s arguments also seem strangely parochial.
-     >         Sister Victoria taught education, music and needlework in various parochial schools.
+[3m             > It is important, though, not to allow parochial blinkers to cloud the bigger picture.[0m
+[3m             > By 1875 a number of states were engaged in significant debates over funding Catholic parochial schools.[0m
+[3m             > And that’s not just a parochial view of people in the city.[0m
+[3m             > But what was once a parochial amusement is now a national and global peril.[0m
+[3m             > “It seems to always end up being parochial, and this is another parochial response,” he said.[0m
 
- 1   Relating To A Church Parish.
-	 Eg.  "The Parochial Church Council"
+[35mParochial[0m[36m /pəˈrəʊkɪəl/,[0m [91m[3madjective[0m[0m | adjective: parochial
+      [32m1.[0m [37mrelating to a Church parish.[0m
+	   "the parochial church council"
 
- 2   Having A Limited Or Narrow Outlook Or Scope.
-	 Eg.  "Parochial Attitudes"
-	 Eg.  "Parochial Attitudes"
-	 Synonyms:  narrow-minded , small-minded , provincial , insular , narrow , 
-	 Antonyms:  cosmopolitan , broad-minded , liberal , 
+      [32m2.[0m [37mhaving a limited or narrow outlook or scope.[0m
+	   "parochial attitudes"
+  	   [3msynonyms:[0m narrow-minded, small-minded, provincial, insular, narrow, small-town, inward-looking, limited, restricted, localist, conservative, conventional, short-
+                     sighted, petty, close-minded, blinkered, myopic, introverted, illiberal, hidebound, intolerant ;  parish-pump ;  jerkwater, hick
+		    "parochial attitudes"
+  	   [3mantonyms:[0m cosmopolitan, broad-minded, liberal
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mसंकीर्ण[0m     [31mसीमित[0m  
+   [31mसंकुचित[0m   [31mघिरा हुआ[0m 
+   [31mग्राम्य[0m    [31mपरिमित[0m  

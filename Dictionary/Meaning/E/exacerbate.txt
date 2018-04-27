@@ -1,18 +1,24 @@
-                                                                                    EXACERBATE                                                                                    
-  SHORT        For a formal-sounding verb that means to make worse, try exacerbate. If you're in trouble, complaining about it will only exacerbate the problem.
-  LONG         Exacerbate is related to the adjective acrid, often used to describe sharp-smelling smoke. Think of exacerbate then as a sharp or bitter thing that makes
+[35m                                                                                    EXACERBATE                                                                                    [0m
+[91m        SHORT  For a formal-sounding verb that means to make worse, try exacerbate. If you're in trouble, complaining about it will only exacerbate the problem.[0m
+[36m         LONG  Exacerbate is related to the adjective acrid, often used to describe sharp-smelling smoke. Think of exacerbate then as a sharp or bitter thing that makes
                something worse. A drought will exacerbate a country's food shortage. Worsen, intensify, aggravate and compound are similar, but exacerbate has
-               the sense of an irritant being added in to make something bad even worse.
+               the sense of an irritant being added in to make something bad even worse.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Shead is dealing with a hamstring injury that was exacerbated in last week’s win over the Eagles.
-     >         Anxiety over immigration issues before the election had been exacerbated, said Hynicka.
-     >         The residue of guilt that seems to be a staple of separation will also be exacerbating the situation.
-     >         But instead, it said: "There is growing concern that the divisions on a range of big questions are widening and exacerbating tensions in our society."
-     >         Support mental-health organizations that provide services to help immigrant families and children cope with stress and existing conditions that are
-               exacerbated by the election.
+[3m             > Lebanese leaders remain committed to containing sectarian tensions exacerbated by six years of war in Syria.[0m
+[3m             > The ferocity of the civil war was exacerbated by the epidemic’s impact on a peculiarly Andean institution: royal mummies.[0m
+[3m             > And I realize my life as a tech reporter exacerbates it.[0m
+[3m             > Already subject to panic attacks, which are exacerbated by the horrors she saw in Haiti, Rachel stays in her apartment for 18 months.[0m
+[3m             > These are all important things, but they will only exacerbate if people continue to believe their votes don’t count.[0m
 
- 1   Make (A Problem, Bad Situation, Or Negative Feeling) Worse.
-	 Eg.  "Rising Inflation Was Exacerbated By The Collapse Of Oil Prices"
-	 Eg.  "Political Changes Have Exacerbated The Conflict"
-	 Synonyms:  aggravate , worsen , inflame , compound , intensify , 
-	 Antonyms:  calm , reduce , 
+[35mExacerbate[0m[36m /ɪɡˈzasəbeɪt,ɛkˈsasəbeɪt/,[0m [91m[3mverb[0m[0m | verb: exacerbate; 3rd person present: exacerbates; past tense: exacerbated; past participle: exacerbated; gerund or present participle: exacerbating
+          • [37mmake (a problem, bad situation, or negative feeling) worse.[0m
+	   "the exorbitant cost of land in urban areas only exacerbated the problem"
+  	   [3msynonyms:[0m aggravate, make worse, worsen, inflame, compound ;  intensify, increase, heighten, magnify, add to, amplify, augment ;  make matters worse, compound the
+                     problem ;  add fuel to the fire/flames, fan the flames, rub salt in the wounds, add insult to injury
+		    "political changes have exacerbated the conflict"
+  	   [3mantonyms:[0m calm, reduce
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mगहरा बनाना[0m       [31mबढ़ाना[0m    
+    [31mतेज़ करना[0m       [31mखिझाना[0m    
+   [31mतीव्र करना[0m      [31mतेज करना[0m   
+  [31mतीक्ष्ण करना[0m      [31mचिढ़ाना[0m   

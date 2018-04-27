@@ -1,28 +1,35 @@
-                                                                                     DISARRAY                                                                                     
-  SHORT        If something is confused or disorganized, use the noun disarray, like the disarray that follows your little brother everywhere he goes because he spills
-               everything and never puts away his toys.
-  LONG         Combine the prefix dis-, meaning “lack of,” with array, which derives from the Old French word areer ("to put in order"), and... you’ve got a mess on your
+[35m                                                                                     DISARRAY                                                                                     [0m
+[91m        SHORT  If something is confused or disorganized, use the noun disarray, like the disarray that follows your little brother everywhere he goes because he spills
+               everything and never puts away his toys.[0m
+[36m         LONG  Combine the prefix dis-, meaning “lack of,” with array, which derives from the Old French word areer ("to put in order"), and... you’ve got a mess on your
                hands — or a lack of order. That's disarray. Whether it’s your plans, your kitchen, your workplace, or your hair, the noun disarray can be used
-               to describe anything that is characterized by disorder, untidiness, or confusion.
+               to describe anything that is characterized by disorder, untidiness, or confusion.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         She also says the house was in disarray only after firefighters had knocked over items as the fire was extinguished.
-     >         His party is in disarray and there are serious doubts among Socialists about Hollande’s chances of even making it past the first round.
-     >         His desk was in scholarly disarray, covered with loose-leaf binders and memos on what can be built where in the 500-square-mile county.
-     >         Me, I love the Monsters; those Picasso-mocking ladies equipped with extra pairs of eyes have the hell-for-leather disarray of his best Dada works.
-     >         Trump’s victory has sent the bond markets into disarray, with the yield on government bonds rising steeply.
+[3m             > On Wednesday, Democratic leaders were irate over Mr. Comey’s firing and seemingly in disarray.[0m
+[3m             > From holding power, through outgoing President Francois Hollande and his majority in the outgoing parliament, the Socialist Party is tumbling ever deeper into
+               disarray.[0m
+[3m             > At a single White House briefing Monday, the questioning revealed all manner of disarray.[0m
+[3m             > Mayor Muriel E. Bowser’s administration is looking at a department it found in disarray and unable to meet the complex demands of federal housing funds.[0m
+[3m             > In his speech there, Macron said those who voted for Le Pen were caught up in “anger, disarray.”[0m
 
- 1   A State Of Disorganization Or Untidiness.
-	 Eg.  "Her Grey Hair Was In Disarray"
-	 Eg.  "The Room Was In Disarray"
-	 Eg.  "The Political Disarray Which Followed The Death Of Offa"
-	 Synonyms:  disorder , confusion , chaos , mess , muddle , 
-	 Antonyms:  
+[35mDisarray[0m[36m /dɪsəˈreɪ/,[0m [91m[3mnoun[0m[0m | noun: disarray; plural noun: disarrays
+      [32m1.[0m [37ma state of disorganization or untidiness.[0m
+	   "her grey hair was in disarray"
+  	   [3msynonyms:[0m disorder, confusion, chaos ;  untidiness, dishevelment ;  mess, muddle, clutter, jumble, mix-up, tangle, hotchpotch, shambles ;  omnishambles
+                     disorganization, lack of order, discomposure, disunity ;  indiscipline, unruliness
+		    "the room was in disarray"
+  	   [3mantonyms:[0m tidiness, orderliness
+    [91m[3mverb[0m[0m | verb: disarray; 3rd person present: disarrays; past tense: disarrayed; past participle: disarrayed; gerund or present participle: disarraying
+      [32m1.[0m [37mthrow into a state of disorganization or untidiness.[0m
+	   "the inspection disarrayed the usual schedule"
+  	   [3msynonyms:[0m disarrange, make untidy, bring/throw into disarray, bring/throw into disorder, disorganize, throw into a state of disorganization, turn upside-down,
+                     unsettle ;  dishevel, tousle, rumple
+		    "her clothes were disarrayed"
+  	   [3mantonyms:[0m tidy, organize
 
- 2   Throw Into A State Of Disorganization Or Untidiness.
-	 Eg.  "The Inspection Disarrayed The Usual Schedule"
-	 Eg.  "Her Clothes Were Disarrayed"
-	 Synonyms:  disarrange , unsettle , dishevel , tousle , rumple , 
-	 Antonyms:  tidy , organize , 
-
- 3   Undress (Someone).
-	 Eg.  "Attendant Damsels To Help To Disarray Her"
+      [32m2.[0m [37mundress (someone).[0m
+	   "attendant damsels to help to disarray her"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mअव्यवस्था[0m         [31mगड़बड़ करना[0m          [31mक्रमभंग[0m     
+       [31mगड़बड़[0m           [31mगोलमाल करना[0m          [31mउलट पलट[0m     
+      [31mबेतरतीबी[0m        [31mअव्यवस्था करना[0m          [31mगडबड[0m       

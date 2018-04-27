@@ -1,38 +1,41 @@
-                                                                                       CUE                                                                                        
-  SHORT        A cue is the long stick used for playing pool. A cue is also a reminder or stimulus to do something.
-  LONG         In pool, you use the cue to hit the white ball into the red ball, aiming for a pocket. Other cues make things happen too. In acting, a lighting change or
+[35m                                                                                       CUE                                                                                        [0m
+[91m        SHORT  A cue is the long stick used for playing pool. A cue is also a reminder or stimulus to do something.[0m
+[36m         LONG  In pool, you use the cue to hit the white ball into the red ball, aiming for a pocket. Other cues make things happen too. In acting, a lighting change or
                another actor's line could be a cue for you to enter the stage. During rehearsal, the actors need to learn their cues to make sure their timing
-               is right. A cue can also be a clue or reminder of something. Anytime someone has good timing, they're on cue.
+               is right. A cue can also be a clue or reminder of something. Anytime someone has good timing, they're on cue.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Members said it was a thrill to play Corr, even as they joked they should have just left their pool cues in their bags.
-     >         Sure, cue the tiny violins if you want.
-     >         On the way, though, they might want to take a few cues from each other, and meet somewhere between fire and ice.
-     >         Cue a particularly fierce celebration from Rooney, which may have been a release of emotion following his recent troubles.
-     >         This was the cue where we pushed the most.
+[3m             > While I wait for the cue to start the car, I look around.[0m
+[3m             > And it would also help explain how Sir Mix-a-Lot was cued up for my family.[0m
+[3m             > Each of Mr. Zorn’s game pieces begins as a series of guiding cues and rules written on cards.[0m
+[3m             > It’s like entering a waking dream, as if we were children cued by “Once upon a time.”[0m
+[3m             > After a spiritual discourse, Ms. Coltrane would begin to play a massive Hammond organ, cuing the singing of transcendental hymns called bhajans.[0m
 
- 1   A Thing Said Or Done That Serves As A Signal To An Actor Or Other Performer To Enter Or To Begin Their Speech Or Performance.
-	 Eg.  "She Had Not Yet Been Given Her Cue To Come Out On To The Dais"
-	 Eg.  "He Looked At His Watch And Sylvie Knew It Was A Cue For Her To Leave"
-	 Synonyms:  signal , sign , indication , prompt , reminder , 
+[35mCue[0m[36m /kjuː/,[0m [91m[3mnoun[0m[0m | noun: cue; plural noun: cues
+      [32m1.[0m [37ma thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.[0m
+	   "she had not yet been given her cue to come out on to the dais"
+  	   [3msynonyms:[0m signal, sign, indication, prompt, reminder, prompting ;  nod, word ;  hint, suggestion, intimation ;  high sign ;  zeitgeber
+		    "he looked at his watch and Sylvie knew it was a cue for her to leave"
+          • [37ma signal for action.[0m
+	   "his success was the cue for the rest of Fleet Street to forge ahead"
+          • [37ma circumstance or piece of information which aids the memory in retrieving details not recalled spontaneously.[0m
+          • [37ma feature of something perceived that is used in the brain's interpretation of the perception.[0m
+	   "expectancy is communicated both by auditory and visual cues"
+          • [37ma hint or indication about how to behave in particular circumstances.[0m
+	   "my teacher joked about such attitudes and I followed her cue"
 
- 2   A Signal For Action.
-	 Eg.  "His Success Was The Cue For The Rest Of Fleet Street To Forge Ahead"
+      [32m2.[0m [37ma facility for playing through an audio or video recording very rapidly until a desired starting point is reached.[0m
+    [91m[3mverb[0m[0m | verb: cue; 3rd person present: cues; past tense: cued; past participle: cued; gerund or present participle: cueing; gerund or present participle: cuing
+      [32m1.[0m [37mgive a cue to or for.[0m
+	   "Ros and Guil, cued by Hamlet, also bow deeply"
+          • [37mact as a prompt or reminder.[0m
+	   "have a list of needs and questions on paper to cue you"
 
- 3   A Circumstance Or Piece Of Information Which Aids The Memory In Retrieving Details Not Recalled Spontaneously.
-
- 4   A Feature Of Something Perceived That Is Used In The Brain'S Interpretation Of The Perception.
-	 Eg.  "Expectancy Is Communicated Both By Auditory And Visual Cues"
-
- 5   A Hint Or Indication About How To Behave In Particular Circumstances.
-	 Eg.  "My Teacher Joked About Such Attitudes And I Followed Her Cue"
-
- 6   A Facility For Playing Through An Audio Or Video Recording Very Rapidly Until A Desired Starting Point Is Reached.
-
- 7   Give A Cue To Or For.
-	 Eg.  "Ros And Guil, Cued By Hamlet, Also Bow Deeply"
-
- 8   Act As A Prompt Or Reminder.
-	 Eg.  "Have A List Of Needs And Questions On Paper To Cue You"
-
- 9   Set A Piece Of Audio Or Video Equipment In Readiness To Play (A Particular Part Of The Recorded Material).
-	 Eg.  "There Was A Pause While She Cued Up The Next Tape"
+      [32m2.[0m [37mset a piece of audio or video equipment in readiness to play (a particular part of the recorded material).[0m
+	   "there was a pause while she cued up the next tape"
+[35mCue[0m[36m /kjuː/,[0m [91m[3mnoun[0m[0m | noun: cue; plural noun: cues
+      [32m1.[0m [37ma long straight tapering wooden rod for striking the ball in snooker, billiards, etc.[0m
+    [91m[3mverb[0m[0m | verb: cue; 3rd person present: cues; past tense: cued; past participle: cued; gerund or present participle: cueing; gerund or present participle: cuing
+      [32m1.[0m [37muse a cue to strike the ball.[0m
+	   "Mark cued well early on"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mइशारा[0m       [31mसंकेत[0m   

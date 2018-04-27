@@ -1,20 +1,22 @@
-                                                                                     GOURMET                                                                                      
-  SHORT        That guy over there correctly identifying the dozen spices used in the meal he's eating? He’s likely a gourmet, someone who knows a lot about fine food.
-  LONG         There are gourmets and then there are foodies. Both are food enthusiasts who live to eat. A gourmet, pronounced like the French word that is its double: "gor-
+[35m                                                                                     GOURMET                                                                                      [0m
+[91m        SHORT  That guy over there correctly identifying the dozen spices used in the meal he's eating? He’s likely a gourmet, someone who knows a lot about fine food.[0m
+[36m         LONG  There are gourmets and then there are foodies. Both are food enthusiasts who live to eat. A gourmet, pronounced like the French word that is its double: "gor-
                MAY," is more likely to go for the most refined dining experience, created by a chef who trained in Europe. A foodie, on the other hand, might
                take you to the best burrito place — because their guacamole tastes the best — then stop by the farmers' market to see if the first of the
-               asparagus crop has arrived.
+               asparagus crop has arrived.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “I had all of this really amazing food and cannabis around me. So I thought, put them together and make cannabis gourmet.”
-     >         Police tailed and arrested Wiltse after she got the ransom at a gourmet grocery store that night.
-     >         The free gourmet snacks offered to employees of startups.
-     >         Passengers simmered in Jacuzzis and feasted on gourmet cuisine this summer as the 850-foot cruise ship Crystal Serenity motored through the Northwest Passage.
-     >         Have you ever dipped into a gourmet meal with a group of business associates?
+[3m             > Chinese travel agencies are also pitching a "special gourmet tour" to Denmark.[0m
+[3m             > Nine vendors occupy niches in an open, indoor space designed for gourmet grazing.[0m
+[3m             > They also throw in gourmet meals, pit stops at luxury hotels and spas, and in-flight lectures from experts.[0m
+[3m             > It was supposed to be a sun-soaked experience filled with yachts, gourmet food and models.[0m
+[3m             > “How about a failed gourmet tasting menu at a fancy restaurant? Or a tasting of failed brews from regional microbreweries?” the website says.[0m
 
- 1   A Connoisseur Of Good Food; A Person With A Discerning Palate.
-	 Eg.  "Even The Most Demanding Gourmets Adore The Restaurants On Lake Como"
-	 Synonyms:  gastronome , epicure , connoisseur , bon vivant , bon viveur , 
-
- 2   Of A Kind Or Standard Suitable For A Gourmet.
-	 Eg.  Modifier Noun: Gourmet
-	 Eg.  "A Gourmet Meal"
+[35mGourmet[0m[36m /ˈɡʊəmeɪ,ˈɡɔːmeɪ/,[0m [91m[3mnoun[0m[0m | noun: gourmet; plural noun: gourmets
+          • [37ma connoisseur of good food; a person with a discerning palate.[0m
+	   "even the most demanding gourmets adore the restaurants on Lake Como"
+  	   [3msynonyms:[0m gastronome, epicure, epicurean ;  connoisseur ;  bon vivant, bon viveur ;  foodie
+		    "even the most demanding gourmets adore the restaurants on Lake Como"
+          • [37mof a kind or standard suitable for a gourmet.[0m
+	   modifier noun: gourmet
+      [31m[4m[34mnoun[0m[0m[0m             [31m[4m[34m[0m[0m[0m       
+               [31mपेटू[0m               [31mखाने-पीने का वस्तुओं का पारखी[0m 

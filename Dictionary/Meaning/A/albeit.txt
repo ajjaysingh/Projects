@@ -1,8 +1,11 @@
-                                                                                      ALBEIT                                                                                      
-  SHORT        Albedo refers to how reflective and bright something is. Snow has a high albedo, which is why skiers wear sunglasses and sunscreen.
-  LONG         Technically speaking, the albedo of an object is a ratio. It compares the amount of light hitting the surface of the object to the amount of light that gets
+[35m                                                                                      ALBEIT                                                                                      [0m
+[91m        SHORT  Albedo refers to how reflective and bright something is. Snow has a high albedo, which is why skiers wear sunglasses and sunscreen.[0m
+[36m         LONG  Technically speaking, the albedo of an object is a ratio. It compares the amount of light hitting the surface of the object to the amount of light that gets
                reflected back. The more light reflected, the higher the albedo. Scientists often use this word in reference to the surfaces of planets and
-               other reflective objects in the night sky. Albedo comes from a Latin word for “white.”
+               other reflective objects in the night sky. Albedo comes from a Latin word for “white.”[0m
 
- 1   Though.
-	 Eg.  "He Was Making Progress, Albeit Rather Slowly"
+[35mAlbeit[0m[36m /ɔːlˈbiːɪt/,[0m [91m[3mconjunction[0m[0m | conjunction: albeit
+          • [37mthough.[0m
+	   "he was making progress, albeit rather slowly"
+  [31m[4m[34mconjunction[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mयद्यपि[0m    [31mअगरचे[0m  

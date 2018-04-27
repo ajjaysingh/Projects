@@ -1,33 +1,33 @@
-                                                                                    PERCOLATE                                                                                     
-  SHORT        When something percolates, it spreads gradually. If the news of your victory in the spelling bee spread slowly through your entire school, you could sit back
-               and enjoy watching it percolate.
-  LONG         When a liquid percolates, it's filtered through something, and when an idea percolates, it's filtered through a group of people. Percolate often refers
+[35m                                                                                    PERCOLATE                                                                                     [0m
+[91m        SHORT  When something percolates, it spreads gradually. If the news of your victory in the spelling bee spread slowly through your entire school, you could sit back
+               and enjoy watching it percolate.[0m
+[36m         LONG  When a liquid percolates, it's filtered through something, and when an idea percolates, it's filtered through a group of people. Percolate often refers
                specifically to coffee, which is brewed by mixing ground coffee beans with hot water and filtering them through paper — in other words, coffee
-               percolates. The Latin root is percolatus, which comes from per, or "through," plus colare, "to strain."
+               percolates. The Latin root is percolatus, which comes from per, or "through," plus colare, "to strain."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The viola and orchestra trade bursts of perpetual-motion riffs and phrases, in music percolating with sputtering rhythms and skittish lines.
-     >         Now his attacks on scientists are percolating back home in a district buffeted in recent years by drought and water shortages.
-     >         As we move closer to Election Day, many of us are breathing a sigh of relief, but there is another mood percolating.
-     >         His order triggered 15 public meetings in Washington, Idaho, Montana and Oregon, where the dam removal issue has percolated for two decades.
-     >         Many of those lessons are now percolating through the whole sector, experts said, as organizations small and large learn from relative newcomers.
+[3m             > But the sport is slowly percolating back into the mainstream.[0m
+[3m             > This precipitation will eventually percolate into deep soil pore-spaces and rock fractures.[0m
+[3m             > The things we do best are largely unconscious, coded in circuits so ancient that their calculations don’t percolate up to our experience.[0m
+[3m             > Coarse-grained, percolated coffee is a very poor substitute for a well-roasted, finely ground stuff put through an espresso machine.[0m
+[3m             > The sweat starts percolating, the breathing and heart rate rising.[0m
 
- 1   (Of A Liquid Or Gas) Filter Gradually Through A Porous Surface Or Substance.
-	 Eg.  "The Water Percolating Through The Soil May Leach Out Minerals"
-	 Eg.  "Water That Has Percolated Through The Soil"
-	 Synonyms:  filter , drain , drip , ooze , seep , 
+[35mPercolate[0m[36m /ˈpəːkəleɪt/,[0m [91m[3mverb[0m[0m | verb: percolate; 3rd person present: percolates; past tense: percolated; past participle: percolated; gerund or present participle: percolating
+      [32m1.[0m [37m(of a liquid or gas) filter gradually through a porous surface or substance.[0m
+	   "the water percolating through the soil may leach out minerals"
+  	   [3msynonyms:[0m filter, drain, drip, ooze, seep, trickle, dribble, strain, leak, leach ;  filtrate, transude
+		    "water that has percolated through the soil"
+          • [37mspread gradually through an area or group of people.[0m
+	   "continental ideas on art, science, and architecture percolated from Venice to London"
+  	   [3msynonyms:[0m spread, be disseminated, filter, pass, go ;  penetrate, permeate, pervade, infiltrate
+		    "a few of these technological marvels began to slowly percolate into the countryside"
 
- 2   Spread Gradually Through An Area Or Group Of People.
-	 Eg.  "Continental Ideas On Art, Science, And Architecture Percolated From Venice To London"
-	 Eg.  "A Few Of These Technological Marvels Began To Slowly Percolate Into The Countryside"
-	 Synonyms:  spread , filter , pass , go , penetrate , 
-
- 3   (Of Coffee) Be Prepared In A Percolator.
-	 Eg.  "He Put Some Coffee On To Percolate"
-	 Eg.  "He Put Some Coffee On To Percolate"
-	 Synonyms:  brew , perk , 
-
- 4   Prepare (Coffee) In A Percolator.
-	 Eg.  "Freshly Percolated Coffee"
-
- 5   Be Or Become Full Of Lively Activity Or Excitement.
-	 Eg.  "The Night Was Percolating With An Expectant Energy"
+      [32m2.[0m [37m(of coffee) be prepared in a percolator.[0m
+	   "he put some coffee on to percolate"
+  	   [3msynonyms:[0m brew ;  perk
+		    "he put some coffee on to percolate"
+          • [37mprepare (coffee) in a percolator.[0m
+	   "freshly percolated coffee"
+          • [37mbe or become full of lively activity or excitement.[0m
+	   "the night was percolating with an expectant energy"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mरसना[0m               [31mटपकना[0m      

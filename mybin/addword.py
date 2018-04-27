@@ -69,7 +69,7 @@ def sortIt(file_name):
             previousWords = sorted(dictionary.read().split())
         with open(file_name, 'w+') as dictionary: #always use this because if opening of file fails the file will not get overwritten
             for w in previousWords:
-                dictionary.write(w.lower())
+                dictionary.write(w.upper())
                 dictionary.write("\n")
 
     except:
@@ -94,7 +94,7 @@ def addToCorrespondingFiles(wordList):
                     i = 1
                     while i < len(l):
                         new_word = str(l[i])
-                        dictionary.write(new_word.lower())
+                        dictionary.write(new_word.upper())
                         dictionary.write("\n")
                         i = i + 1
                 sortIt(file_name)
@@ -111,6 +111,29 @@ def addToCorrespondingFiles(wordList):
                     os.system("rm " + temp_name)
 
 
+def addWordFromMean(word):
+    try:
+        os.chdir("/Users/chaser/Projects/Dictionary")
+        fileName = word[0]
+        tempName = "." + fileName
+        os.system("cp " + fileName + " " + tempName)
+        with open(fileName, 'a') as dictionary:
+            dictionary.write(word.upper())
+            dictionary.write("\n")
+        sortIt(fileName)
+        # print("HELLOOOO")
+    except:
+        files = os.listdir()
+        if tempName in files:
+            os.system("cp " + tempName + " " + fileName)
+            print("try agian!")
+
+    finally:                                            # always executed whether try suceeds or not
+        files = os.listdir()
+        if tempName in files:
+            os.system("rm " + tempName)
+
+""" Adds the words passed through command line or a single word."""
 def addTheWord():
     if len(sys.argv) > 1:
         i = 1

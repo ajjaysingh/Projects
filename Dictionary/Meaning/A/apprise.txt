@@ -1,23 +1,29 @@
-                                                                                     APPRISE                                                                                      
-  SHORT        To apprise someone about something is to fill them in, to give them the scoop. If someone in your immediate family wins the mega-bucks lottery, you want to be
-               the first one to be apprised of that event!
-  LONG         Don't confused the verbs apprise and appraise. Appraise means to determine the value of something — either its quality or its monetary worth. Apprise, on the
+[35m                                                                                     APPRISE                                                                                      [0m
+[91m        SHORT  To apprise someone about something is to fill them in, to give them the scoop. If someone in your immediate family wins the mega-bucks lottery, you want to be
+               the first one to be apprised of that event![0m
+[36m         LONG  Don't confuse the verbs apprise and appraise. Appraise means to determine the value of something — either its quality or its monetary worth. Apprise, on the
                other hand, means to inform or make aware. This word has a rather formal, weighty tone. Presidents get apprised of foreign affairs, but you
-               will most likely not get apprised of weather conditions or dinner plans.
+               will most likely not get apprised of weather conditions or dinner plans.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         It was 10 days ago when Mr. Comey apprised Congress of the newly discovered emails, jolting the presidential race.
-     >         Real-time displays keep riders apprised of the location of the next train, and the same goes for buses.
-     >         They were looking for messages containing a single piece of digital content, three former employees and a fourth person apprised of the events told Reuters.
-     >         With the changes in policy, “first of all they need to apprised of their rights,” Bastien said. “They have the basic rights of due process.”
-     >         Can you imagine how safe we would be if each of our 50 states were acting independently and not consulting, advising and apprising each...
+[3m             > For more on these, see page 61. appraise/apprise.[0m
+[3m             > Her karate instructor, who also acts as her agent, will keep the Murphys apprised of any opportunities.[0m
+[3m             > “I’m not afraid,” Coach Scott Brooks said, when apprised of this development.[0m
+[3m             > Benton Strong, a spokesman for Murray, said the intent is to keep league commissioners apprised of the city’s process and timeline moving forward.[0m
+[3m             > “As the committee’s investigation progresses, we will keep Senate leadership, and the broader body, apprised of our findings,” Burr and Warner said.[0m
 
- 1   Inform Or Tell (Someone).
-	 Eg.  "I Thought It Right To Apprise Chris Of What Had Happened"
-	 Eg.  "He Continued To Keep Them Apprised Of All That Was Going On In Salzburg"
-	 Synonyms:  inform , notify , tell , advise , brief , 
+[35mApprise[0m[36m /əˈprʌɪz/,[0m [91m[3mverb[0m[0m | verb: apprise; 3rd person present: apprises; past tense: apprised; past participle: apprised; gerund or present participle: apprising
+          • [37minform or tell (someone).[0m
+	   "I thought it right to apprise Chris of what had happened"
+  	   [3msynonyms:[0m inform, notify, tell, let know, advise, brief, intimate, make aware of, send word to, update, keep posted, keep up to date, keep up to speed, enlighten ;
+                     clue in, fill in, put wise, tip off, put in the picture
+		    "he continued to keep them apprised of all that was going on in Salzburg"
+[35mApprize[0m[36m /əˈprʌɪz/,[0m [91m[3mverb[0m[0m
+	verb: apprise
+      [32m1.[0m [37mput a price on; appraise.[0m
+	   "the sheriff was to apprize the value of the lands"
 
- 2   Put A Price On; Appraise.
-	 Eg.  "The Sheriff Was To Apprize The Value Of The Lands"
-
- 3   Value Highly; Esteem.
-	 Eg.  "How Highly Your Highness Apprizeth Peace"
+      [32m2.[0m [37mvalue highly; esteem.[0m
+	   "how highly your Highness apprizeth peace"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mसूचना देना[0m      [31mबताना[0m   
+    [31mबतलाना[0m        [31mजताना[0m   

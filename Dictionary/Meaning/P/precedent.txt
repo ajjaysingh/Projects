@@ -1,24 +1,27 @@
-                                                                                    PRECEDENT                                                                                     
-  SHORT        A precedent is something that sets a standard for future events. It's hard to say what the legal community would do without the word precedent, since so many
-               legal judgments and decisions are based on what came before.
-  LONG         Lawyers and judges often look for a precedent can be used as a guide for a similar case. This word is used elsewhere too. Your mom might not let you stay up
+[35m                                                                                    PRECEDENT                                                                                     [0m
+[91m        SHORT  A precedent is something that sets a standard for future events. It's hard to say what the legal community would do without the word precedent, since so many
+               legal judgments and decisions are based on what came before.[0m
+[36m         LONG  Lawyers and judges often look for a precedent can be used as a guide for a similar case. This word is used elsewhere too. Your mom might not let you stay up
                late because it would set a bad precedent for future bedtimes. A teacher who lets kids chew gum is setting a precedent that gum-chewing will be
-               OK in the future. People often refer to a precedent later on as a reference point for how things should be.
+               OK in the future. People often refer to a precedent later on as a reference point for how things should be.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Rose Bowl will likely  select by CFP ranking, but predicting the vote is tricky because playoff-committee precedent is inconsistent.
-     >         "It's about how to resolve that in the future because a precedent has been set."
-     >         The lack of clarity has prompted many to wonder: is there any precedent for such a registry, and would it even work?
-     >         The Texas attorney general’s office says the state “fully complies” with Supreme Court precedents.
-     >         This might sound like a bold, if not completely impractical decision, but there is precedent for an open invitation inauguration party.
+[3m             > Scholars of the presidency say there’s no precedent for what they are seeing.[0m
+[3m             > But there were concerns that the House might be setting precedent in formally rebuking someone for something they said.[0m
+[3m             > Removing Mr. Comey was highly unusual, though not without precedent, the experts said.[0m
+[3m             > Markey, a fellow Democrat, called Comey’s firing “a deeply alarming precedent” that is sending the country “careening ever closer to a Constitutional crisis.”[0m
+[3m             > One of the Supreme Court precedents at play in the case is Kerry v.[0m
 
- 1   An Earlier Event Or Action That Is Regarded As An Example Or Guide To Be Considered In Subsequent Similar Circumstances.
-	 Eg.  "There Are Substantial Precedents For Using Interactive Media In Training"
-	 Eg.  "There Are Few Precedents For This Sort Of Legislation"
-	 Synonyms:  model , exemplar , example , pattern , paradigm , 
-
- 2   A Previous Case Or Legal Decision That May Be Or ( Binding Precedent ) Must Be Followed In Subsequent Similar Cases.
-	 Eg.  Noun: Binding Precedent; Plural Noun: Binding Precedents
-	 Eg.  "We Hope To Set A Legal Precedent To Protect Hundreds Of Miles Of Green Lanes"
-
- 3   Preceding In Time, Order, Or Importance.
-	 Eg.  "A Precedent Case"
+[35mPrecedent[0m [91m[3mnoun[0m[0m | noun: precedent; plural noun: precedents    /ˈprɛsɪd(ə)nt/
+      [32m1.[0m [37man earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.[0m
+	   "there are substantial precedents for using interactive media in training"
+  	   [3msynonyms:[0m model, exemplar, example, pattern, previous case, prior case, previous instance/example, prior instance/example ;  paradigm, criterion, yardstick,
+                     standard, lead, guide
+		    "there are few precedents for this sort of legislation"
+          • [37ma previous case or legal decision that may be or ( binding precedent ) must be followed in subsequent similar cases.[0m
+	   noun: binding precedent; plural noun: binding precedents
+    [91m[3madjective[0m[0m | adjective: precedent    /prɪˈsiːd(ə)nt,ˈprɛsiːd(ə)nt/
+      [32m1.[0m [37mpreceding in time, order, or importance.[0m
+	   "a precedent case"
+  [31m[4m[34m[0m[0m[0m
+  [31mपूर्व उदाहरण[0m 
+      [31mनज़ीर[0m    

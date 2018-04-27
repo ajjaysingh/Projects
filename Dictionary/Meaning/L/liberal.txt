@@ -1,56 +1,69 @@
-                                                                                     LIBERAL                                                                                      
-  SHORT        A liberal is someone on the left wing of politics — the opposite of a conservative. Also, a liberal attitude toward anything means more tolerance for change.
-  LONG         There are many meanings for liberal, but they mostly have to do with freedom and openness to change. A teacher with a liberal policy toward attendance is
+[35m                                                                                     LIBERAL                                                                                      [0m
+[91m        SHORT  A liberal is someone on the left wing of politics — the opposite of a conservative. Also, a liberal attitude toward anything means more tolerance for change.[0m
+[36m         LONG  There are many meanings for liberal, but they mostly have to do with freedom and openness to change. A teacher with a liberal policy toward attendance is
                going to be forgiving of missed days. A bank with a liberal attitude toward your money would probably be bad: some things are awful if they're
-               loose and free. But no one will give you a hard time if you use a liberal amount of catsup on your fries.
+               loose and free. But no one will give you a hard time if you use a liberal amount of catsup on your fries.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The aberrations of the late pontiff, a liberal in the mode of Pope Francis, came during his final days of life.
-     >         They remain mostly liberal and largely made up of the same elites who couldn’t imagine Mr. Trump winning the nomination, let alone the presidency.
-     >         In recent years, an unlikely coalition of conservatives and liberals had made some progress in weakening this system, going after policies like mandatory
-               sentences.
-     >         She was good at remembering movies and as she’d lived in some of the more liberal homes, she’d seen more than I had.
-     >         With a population that included Jews and other educated seasonal residents, Miami was oddly both Southern and Northern liberal.
+[3m             > In an interview about the initiative, Miloscia predicted it would win handily in liberal King County and even gain approval in Seattle.[0m
+[3m             > Few are seeing it as many liberals do: the last straw for this administration.[0m
+[3m             > What’s more, we’re seeing the diversity of opinions doctrine so beloved by the Trump administration spread outside the White House into the supposedly liberal
+               media.[0m
+[3m             > A spokeswoman for the Liberal Party said that under its stewardship, the initiative was connecting more new users than the Labor Party ever did.[0m
+[3m             > Mr. Dieterle all but laughed away liberal critics’ argument that Mr. Trump fired Mr. Comey to poison the Russia inquiry.[0m
 
- 1   Willing To Respect Or Accept Behaviour Or Opinions Different From One'S Own; Open To New Ideas.
-	 Eg.  "Liberal Views Towards Divorce"
+[35mLiberal[0m[36m /ˈlɪb(ə)r(ə)l/,[0m [91m[3madjective[0m[0m | adjective: liberal
+      [32m1.[0m [37mwilling to respect or accept behaviour or opinions different from one's own; open to new ideas.[0m
+	   "liberal views towards divorce"
+          • [37mfavourable to or respectful of individual rights and freedoms.[0m
+	   "liberal citizenship laws"
+  	   [3msynonyms:[0m tolerant, unprejudiced, unbigoted, broad-minded, open-minded, enlightened, forbearing ;  permissive, free, free and easy, easy-going, laissez-faire,
+                     libertarian, latitudinarian, unbiased, impartial, non-partisan, indulgent, lenient, lax, soft
+		    "the values of a liberal society"
+  	   [3mantonyms:[0m narrow-minded, bigoted
+          • [37m(in a political context) favouring individual liberty, free trade, and moderate political and social reform.[0m
+	   "a liberal democratic state"
+  	   [3msynonyms:[0m progressive, advanced, modern, forward-looking, forward-thinking, progressivist, go-ahead, enlightened, reformist, radical ;  left-wing, leftist,
+                     freethinking, politically correct, PC ;  right-on
+		    "he launched a liberal social agenda"
+  	   [3mantonyms:[0m conservative, reactionary
+          • [37mrelating to Liberals or a Liberal Party, especially (in the UK) relating to the Liberal Democrat party.[0m
+	   adjective: Liberal
+          • [37mregarding many traditional beliefs as dispensable, invalidated by modern thought, or liable to change.[0m
 
- 2   Favourable To Or Respectful Of Individual Rights And Freedoms.
-	 Eg.  "Liberal Citizenship Laws"
-	 Eg.  "The Values Of A Liberal Society"
-	 Synonyms:  tolerant , unprejudiced , broad-minded , open-minded , enlightened , 
-	 Antonyms:  narrow-minded , bigoted , 
+      [32m2.[0m [37m(of education) concerned with broadening a person's general knowledge and experience, rather than with technical or professional training.[0m
+	   "the provision of liberal adult education"
+  	   [3msynonyms:[0m wide-ranging, broad-based, general, humanistic
+		    "the provision of liberal adult education"
 
- 3   (In A Political Context) Favouring Individual Liberty, Free Trade, And Moderate Political And Social Reform.
-	 Eg.  "A Liberal Democratic State"
-	 Eg.  "He Launched A Liberal Social Agenda"
-	 Synonyms:  progressive , advanced , modern , forward-looking , go-ahead , 
-	 Antonyms:  conservative , reactionary , 
+      [32m3.[0m [37m(especially of an interpretation of a law) broadly construed or understood; not strictly literal.[0m
+	   "they could have given the 1968 Act a more liberal interpretation"
+  	   [3msynonyms:[0m flexible, broad, loose, rough, non-restrictive, free, general, non-literal, non-specific, not literal, not strict, not close ;  inexact, imprecise,
+                     vague, indefinite, ill-defined, unrigorous, unmeticulous
+		    "a liberal interpretation of divorce laws"
+  	   [3mantonyms:[0m strict, to the letter
 
- 4   Relating To Liberals Or A Liberal Party, Especially (In The Uk) Relating To The Liberal Democrat Party.
-	 Eg.  Adjective: Liberal
-	 Eg.  "The Liberal Leader"
-
- 5   Regarding Many Traditional Beliefs As Dispensable, Invalidated By Modern Thought, Or Liable To Change.
-
- 6   (Of Education) Concerned With Broadening A Person'S General Knowledge And Experience, Rather Than With Technical Or Professional Training.
-	 Eg.  "The Provision Of Liberal Adult Education"
-	 Eg.  "The Provision Of Liberal Adult Education"
-	 Synonyms:  wide-ranging , broad-based , general , 
-
- 7   (Especially Of An Interpretation Of A Law) Broadly Construed Or Understood; Not Strictly Literal.
-	 Eg.  "They Could Have Given The 1968 Act A More Liberal Interpretation"
-	 Eg.  "A Liberal Interpretation Of Divorce Laws"
-	 Synonyms:  flexible , broad , loose , rough , non-restrictive , 
-	 Antonyms:  strict , 
-
- 8   Given, Used, Or Occurring In Generous Amounts.
-	 Eg.  "Liberal Amounts Of Wine Had Been Consumed"
-	 Eg.  "Liberal Coatings Of Paint"
-	 Synonyms:  abundant , copious , ample , plentiful , generous , 
-	 Antonyms:  scant , 
-
- 9   (Of A Person) Giving Generously.
-	 Eg.  "Sam Was Too Liberal With The Wine"
-	 Eg.  "They Had Been Liberal With Their Cash"
-	 Synonyms:  generous , magnanimous , open-handed , unsparing , unstinting , 
-	 Antonyms:  miserly , careful , 
+      [32m4.[0m [37mgiven, used, or occurring in generous amounts.[0m
+	   "liberal amounts of wine had been consumed"
+  	   [3msynonyms:[0m abundant, copious, ample, plentiful, generous, lavish, luxuriant, profuse, considerable, prolific, rich ;  galore ;  excessive, immoderate,
+                     superabundant, overabundant ;  over the top ;  plenteous
+		    "liberal coatings of paint"
+  	   [3mantonyms:[0m scant
+          • [37m(of a person) giving generously.[0m
+	   "Sam was too liberal with the wine"
+  	   [3msynonyms:[0m generous, magnanimous, open-handed, unsparing, unstinting, ungrudging, lavish, free, munificent, bountiful, beneficent, benevolent, big-hearted, kind-
+                     hearted, kind, philanthropic, charitable, altruistic, unselfish ;  extravagant, overgenerous, generous to a fault, immoderate,
+                     wasteful, overabundant, profligate, prodigal, thriftless, improvident, intemperate, unrestrained, wild ;  over the top ;  bounteous
+		    "they had been liberal with their cash"
+  	   [3mantonyms:[0m miserly, careful
+    [91m[3mnoun[0m[0m | noun: liberal; plural noun: liberals
+      [32m1.[0m [37ma person of liberal views.[0m
+	   "a concern among liberals about the relation of the citizen to the state"
+          • [37ma supporter or member of a Liberal Party, especially (in the UK) a Liberal Democrat.[0m
+	   noun: Liberal; plural noun: Liberals
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mलिबरल[0m           [31mउदार आदमी[0m    
+        [31mउदार[0m          [31mदानशील आदमी[0m   
+       [31mदानशील[0m        [31mउदारचेता आदमी[0m  
+      [31mउदारचेता[0m      [31mस्वार्थहीन आदमी[0m 
+     [31mस्वार्थहीन[0m        [31mशिष्ट आदमी[0m   
+       [31mशिष्ट[0m           [31mकुलीन आदमी[0m   

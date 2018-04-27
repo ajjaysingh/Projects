@@ -1,22 +1,24 @@
-                                                                                    ADJUDICATE                                                                                    
-  SHORT        To adjudicate is to act like a judge. A judge might adjudicate a case in court, and you may have to adjudicate in the local talent show.
-  LONG         Do you see a similarity between judge and adjudicate? When you add the common Latin prefix ad meaning "to" or "toward," you have a pretty good idea what the
+[35m                                                                                    ADJUDICATE                                                                                    [0m
+[91m        SHORT  To adjudicate is to act like a judge. A judge might adjudicate a case in court, and you may have to adjudicate in the local talent show.[0m
+[36m         LONG  Do you see a similarity between judge and adjudicate? When you add the common Latin prefix ad meaning "to" or "toward," you have a pretty good idea what the
                word means. But a judge isn't the only person who can adjudicate. If you're fighting with your little brother or sister and make them cry, your
-               parents may adjudicate and send you to your room.
+               parents may adjudicate and send you to your room.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The university must thoroughly investigate and adjudicate all hate-crime incidents, including those committed by university employees.
-     >         The effort would then have to be adjudicated in a constitutional court, a process that could take several months.
-     >         He also called for a new independent body to adjudicate disputes between the devolved governments and the UK Treasury.
-     >         No federal agency had issued regulations relating to drone strikes, and no federal court had adjudicated their legality.
-     >         They applied and are now waiting for their claim to be adjudicated.
+[3m             > The latter served them especially well when a wine of questionable quality was being adjudicated.[0m
+[3m             > Middlebury says it hopes the cases will be adjudicated by the end of the academic year.[0m
+[3m             > The S.E.C. is not the only federal agency that uses internal courts to adjudicate enforcement matters.[0m
+[3m             > Imposing a sentence is an altogether separate matter and should be adjudicated as such.[0m
+[3m             > And yet, as pervasive as this social rift now seems, there is no good way to adjudicate it outside of the realm of electoral politics.[0m
 
- 1   Make A Formal Judgement On A Disputed Matter.
-	 Eg.  "The Committee Adjudicates On All Betting Disputes"
-
- 2   Act As A Judge In A Competition.
-	 Eg.  "We Asked Him To Adjudicate At The Local Flower Show"
-	 Eg.  "The Case Was Adjudicated In The High Court"
-	 Synonyms:  judge , adjudge , try , hear , examine , 
-
- 3   Pronounce Or Declare Judicially.
-	 Eg.  "He Was Adjudicated Bankrupt"
+[35mAdjudicate[0m[36m /əˈdʒuːdɪkeɪt/,[0m [91m[3mverb[0m[0m | verb: adjudicate; 3rd person present: adjudicates; past tense: adjudicated; past participle: adjudicated; gerund or present participle: adjudicating
+          • [37mmake a formal judgement on a disputed matter.[0m
+	   "the Committee adjudicates on all betting disputes"
+          • [37mact as a judge in a competition.[0m
+	   "we asked him to adjudicate at the local flower show"
+  	   [3msynonyms:[0m judge, adjudge, try, hear, examine, arbitrate, decide on, decide, settle, resolve, determine, pronounce on, give a ruling on, sit in judgement on, pass
+                     judgement on, give a verdict on, make a ruling on ;  referee, umpire
+		    "the case was adjudicated in the High Court"
+          • [37mpronounce or declare judicially.[0m
+	   "he was adjudicated bankrupt"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+      [31mनिर्णय करना[0m        [31mअधिनिर्णय करना[0m   

@@ -1,23 +1,27 @@
-                                                                                      CORPUS                                                                                      
-  SHORT        A corpus is a collection of writings. If you tend to never throw anything away, you might have your entire school corpus, from your first scribbled words to
-               your high school English essays.
-  LONG         The written works of an author, or from one specific time period, can be called a corpus if they're gathered together into a collection or talked about as a
+[35m                                                                                      CORPUS                                                                                      [0m
+[91m        SHORT  A corpus is a collection of writings. If you tend to never throw anything away, you might have your entire school corpus, from your first scribbled words to
+               your high school English essays.[0m
+[36m         LONG  The written works of an author, or from one specific time period, can be called a corpus if they're gathered together into a collection or talked about as a
                group. You could discuss the corpus of Dr. Seuss, for example. Corpus sounds a little like corpse, and that's no coincidence; corpus means
-               "body" in Latin, and though it's come to mean specifically "body of work," the two words are closely related.
+               "body" in Latin, and though it's come to mean specifically "body of work," the two words are closely related.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The bond was set during an appearance this week before a federal magistrate judge in Corpus Christi.
-     >         On Tuesday, her lawyer Ambiga, accompanied by Chin’s three sons, filed a habeas corpus application seeking her release.
-     >         But brain scans soon after birth showed excess fluid and abnormalities in his cortex and corpus callosum, which separates the two hemispheres.
-     >         But Corpus Christi is the much larger of the two cities, a tourism destination, currently undergoing a huge industrial growth spurt.
-     >         He also expressed plans to suspend the writ of habeas corpus to strengthen his anti-drug campaign and suppress “rebellion” in Mindanao.
+[3m             > In fact, the corpus of writings in classical Nahuatl, the language of the Alliance, is even larger than the corpus of texts in classical Greek.[0m
+[3m             > “If we create a corpus of thousands of these neurons, the chances are the computational methods will become better,” Dr. Popović said.[0m
+[3m             > Born Ian Simpson in Corpus Christie, Texas, he never felt like he fit in “in real life”, even though he desperately wanted to.[0m
+[3m             > California law guarantees each death row inmate both an automatic appeal to the California Supreme Court and a separate habeas corpus challenge.[0m
+[3m             > The large and lively corpus of Eratosthenes, which did not survive this long twilight of reason, was but one of its casualties.[0m
 
- 1   A Collection Of Written Texts, Especially The Entire Works Of A Particular Author Or A Body Of Writing On A Particular Subject.
-	 Eg.  "The Darwinian Corpus"
-	 Eg.  "His Work Has No Parallel In The Whole Corpus Of Renaissance Poetry"
-	 Synonyms:  collection , compilation , body , entity , whole , 
+[35mCorpus[0m[36m /ˈkɔːpəs/,[0m [91m[3mnoun[0m[0m | noun: corpus; plural noun: corpuses; plural noun: corpora
+      [32m1.[0m [37ma collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.[0m
+	   "the Darwinian corpus"
+  	   [3msynonyms:[0m collection, compilation, body, entity, whole, aggregation, mass
+		    "his work has no parallel in the whole corpus of Renaissance poetry"
+          • [37ma collection of written or spoken material in machine-readable form, assembled for the purpose of linguistic research.[0m
 
- 2   A Collection Of Written Or Spoken Material In Machine-Readable Form, Assembled For The Purpose Of Linguistic Research.
-
- 3   The Main Body Or Mass Of A Structure.
-
- 4   The Central Part Of The Stomach, Between The Fundus And The Antrum.
+      [32m2.[0m [37mthe main body or mass of a structure.[0m
+          • [37mthe central part of the stomach, between the fundus and the antrum.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mमानवशरीर[0m 
+    [31mशरीर[0m   
+     [31mदेह[0m   
+     [31mकाय[0m   

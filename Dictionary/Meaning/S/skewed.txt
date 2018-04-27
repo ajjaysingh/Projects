@@ -1,23 +1,26 @@
-                                                                                      SKEWED                                                                                      
-  SHORT        Something skewed is slanted or off-center in some way. A picture frame or viewpoint can be skewed.
-  LONG         This is a word, like so many, that can apply to physical things or ideas. A painting on the wall is skewed if it's leaning to one side. Also, opinions are
+[35m                                                                                      SKEWED                                                                                      [0m
+[91m        SHORT  Something skewed is slanted or off-center in some way. A picture frame or viewpoint can be skewed.[0m
+[36m         LONG  This is a word, like so many, that can apply to physical things or ideas. A painting on the wall is skewed if it's leaning to one side. Also, opinions are
                often skewed: this is another way of saying someone is biased. People often accuse news reports of being skewed toward one political viewpoint.
-               A movie could be skewed toward one character more than the other. When you think of skewed, think of leaning and slanting of all sorts.
+               A movie could be skewed toward one character more than the other. When you think of skewed, think of leaning and slanting of all sorts.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         They believe our system is skewed in favor of the powerful and the connected.
-     >         The careful balance of containment and engagement that defined America’s policy toward China is now heavily skewed toward containment.
-     >         Skewed government interests can, however, dampen an economy.
-     >         “It has skewed the bench here in a way I don’t think is probably likely in other places.”
-     >         Deciding if a respondent is demented can easily be inadvertently skewed, he said.
+[3m             > "There is more work to be done to ensure that the figures are accurate and also not skewed by sufferers being denied access to treatment."[0m
+[3m             > “He’s a nice, charming, considerate guy; most employees like him for his people skills, but his judgment was seriously skewed,” the former agent said.[0m
+[3m             > Mercifully for Walker it did not lead to a goal as Lanzini skewed a feeble shot way beyond the far post.[0m
+[3m             > But critics say the focus skewed heavily toward funding for tackling drug smuggling and gangs.[0m
+[3m             > “I’m not ashamed to support the NRA. The fact that @stltoday thinks I am shows how skewed their view of conservatives is,” she wrote.[0m
 
- 1   Suddenly Change Direction Or Position.
-	 Eg.  "The Car Had Skewed Across The Track"
+[35mSkew[0m[36m /skjuː/,[0m [91m[3mverb[0m[0m
+	past tense: skewed; past participle: skewed
+      [32m1.[0m [37msuddenly change direction or position.[0m
+	   "the car had skewed across the track"
+          • [37mtwist or turn or cause to do this.[0m
+	   "he skewed around in his saddle"
 
- 2   Twist Or Turn Or Cause To Do This.
-	 Eg.  "He Skewed Around In His Saddle"
+      [32m2.[0m [37mmake biased or distorted in a way that is regarded as inaccurate, unfair, or misleading.[0m
+	   "the curriculum is skewed towards the practical subjects"
 
- 3   Make Biased Or Distorted In A Way That Is Regarded As Inaccurate, Unfair, Or Misleading.
-	 Eg.  "The Curriculum Is Skewed Towards The Practical Subjects"
-
- 4   Cause (A Distribution) To Be Asymmetrical.
-	 Eg.  "The Distributions Were Skewed To The Right"
+      [32m3.[0m [37mcause (a distribution) to be asymmetrical.[0m
+	   "the distributions were skewed to the right"
+  [31m[4m[34m[0m[0m[0m
+  [31mविषम[0m 

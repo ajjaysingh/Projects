@@ -1,16 +1,24 @@
-                                                                                    REPRESSIVE                                                                                    
+[35m                                                                                    REPRESSIVE                                                                                    [0m
+[91m        SHORT  Repressive things keep people from doing or saying what they want. Repressive controls on the press don't allow journalists to freely report the news.[0m
+[36m         LONG  It's almost always a government, or a political or social system, that acts in a repressive way. When police officers don't let citizens videotape arrests, or
+               a society doesn't allow girls to attend school, it's repressive. Someone growing up in a repressive family might feel cautious about saying or
+               doing the wrong things. The adjective repressive comes from the Latin root repressus, "held back or curbed," and also "checked or restrained."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Cuba is similarly divided by race, with dark-skinned Cubans shut out while a few whites rule—and it is far more repressive.
-     >         But she noted that the U.S. is allowing commercial aircraft to do business with a repressive Cuban government and Cuban military.
-     >         “Castro’s draconian rule and the harsh punishments he meted out to dissidents kept his repressive system rooted firmly in place for decades.”
-     >         But many have chafed against the changes, saying Cuba's government was still too repressive to ease restrictions.
-     >         The announcement of his death was greeted by thousands online with celebration and condemnation of the “cruel dictator” and his repressive regime.
+[3m             > Crabtree found inspiration from a variety of sources, from repressive cultural regimes to the natural world to her own two feet.[0m
+[3m             > But that world eventually becomes Gilead, a retrograde and repressive theocratic society in which the title characters wear Amish-like bonnets.[0m
+[3m             > Fracassus, it seems, relieves people vicariously from their repressive morality.[0m
+[3m             > They attempt to piece together parts of her family history while also examining the culture of fear that was part of that repressive regime.[0m
+[3m             > Foreign governments are also warning about the increasingly bellicose rhetoric and repressive stance of the government.[0m
 
- 1   (Especially Of A Social Or Political System) Inhibiting Or Restraining Personal Freedom.
-	 Eg.  "A Repressive Regime"
-	 Eg.  "A Repressive Military Regime"
-	 Synonyms:  oppressive , authoritarian , despotic , tyrannical , dictatorial , 
-	 Antonyms:  democratic , liberal , 
-
- 2   Inhibiting Or Preventing The Expression Or Awareness Of Thoughts Or Desires.
-	 Eg.  "A Repressive Moral Code"
+[35mRepressive[0m[36m /rɪˈprɛsɪv/,[0m [91m[3madjective[0m[0m | adjective: repressive
+          • [37m(especially of a social or political system) inhibiting or restraining personal freedom.[0m
+	   "a repressive regime"
+  	   [3msynonyms:[0m oppressive, authoritarian, despotic, tyrannical, tyrannous, dictatorial, fascist, autocratic, undemocratic, anti-democratic, totalitarian, dominating,
+                     coercive, draconian, iron-fisted, harsh, severe, strict, tough, cruel, brutal ;  undemocratic, illiberal ;  suppressive
+		    "a repressive military regime"
+  	   [3mantonyms:[0m democratic, liberal
+          • [37minhibiting or preventing the expression or awareness of thoughts or desires.[0m
+	   "a repressive moral code"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+    [31mदमनकारी[0m      [31mरोक का[0m   
+  [31mदबाने वाला[0m    [31mनिरोध का[0m  

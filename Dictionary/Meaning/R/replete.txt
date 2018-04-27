@@ -1,23 +1,27 @@
-                                                                                     REPLETE                                                                                      
-  SHORT        Replete means full, often in a satisfying way. "The library was replete with bound first editions, and Lucy, a bookworm, was happier there than any place
-               else."
-  LONG         Replete shares a root with the word plenty. When you have plenty of cookies and cake, you can say your table is replete with goodies. Another cousin of
+[35m                                                                                     REPLETE                                                                                      [0m
+[91m        SHORT  Replete means full, often in a satisfying way. "The library was replete with bound first editions, and Lucy, a bookworm, was happier there than any place
+               else."[0m
+[36m         LONG  Replete shares a root with the word plenty. When you have plenty of cookies and cake, you can say your table is replete with goodies. Another cousin of
                replete is replenish. When your cabinets are bare, you go to the store to replenish them. When you unpack your groceries, your pantry is
-               replete with essentials.
+               replete with essentials.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The most expensive setup so far has been a faux retail store, replete with racks of clothing.
-     >         There were even carving manuals replete with illustrations for serving their favorite roasts, which were almost always wild fowl.
-     >         Puns abound, and verbal stunts like having the tribe on a remote island speak a language replete with pasta names – cannoli, linguine, and manicotti.
-     >         Military history is replete with examples of armies that, having won one kind of conflict, find themselves unready for something different.
-     >         The two pilots’ writing style is different – Smith’s, iconoclastic and witty, Vanhoenacker’s, poetic, philosophical, erudite – and replete with Herman
-               Melville references.
+[3m             > It began as a pagan commemoration of the transition to summer from spring, replete with maypole dancing.[0m
+[3m             > But the wider cultural moment, and the Beatles’ place at its heart, were indeed replete with beads, bells and a wide-eyed optimism.[0m
+[3m             > “The president is replete with mixed messages,” Mr. Hoyer said.[0m
+[3m             > Certainly, Rimsky-Korsakov receives a hero’s burial, replete with Valhalla flourishes.[0m
+[3m             > Not so simple: The March for Science, replete with funny protest signs, was a force for good ... right?[0m
 
- 1   Filled Or Well-Supplied With Something.
-	 Eg.  "Sensational Popular Fiction, Replete With Adultery And Sudden Death"
-	 Eg.  "A Sumptuous Environment Replete With European Antiques"
-	 Synonyms:  full , well stocked , crowded , brimful , loaded , 
-
- 2   Very Full Of Or Sated By Food.
-	 Eg.  "I Went Out Into The Sun-Drenched Streets Again, Replete And Relaxed"
-	 Eg.  "The Guests, Replete With Roast Lamb And Chocolate Mousse, Lingered Over Coffee"
-	 Synonyms:  well fed , full , satisfied , gorged , satiate , 
+[35mReplete[0m[36m /rɪˈpliːt/,[0m [91m[3madjective[0m[0m | adjective: replete
+          • [37mfilled or well-supplied with something.[0m
+	   "sensational popular fiction, replete with adultery and sudden death"
+  	   [3msynonyms:[0m filled, full, well stocked, well supplied, well provided, crammed, crowded, packed, jammed, stuffed, teeming, overflowing, bursting, brimful, brimming,
+                     loaded, overloaded, thick, solid, charged, abounding ;  jam-packed, chock-a-block, chock-full, chocker
+		    "a sumptuous environment replete with European antiques"
+          • [37mvery full of or sated by food.[0m
+	   "I went out into the sun-drenched streets again, replete and relaxed"
+  	   [3msynonyms:[0m well fed, sated, satiated, full, full up, full to bursting, satisfied ;  glutted, gorged ;  stuffed ;  satiate, surfeited
+		    "the guests, replete with roast lamb and chocolate mousse, lingered over coffee"
+  [31m[4m[34madjective[0m[0m[0m
+   [31mभरा हुआ[0m 
+  [31mपरिपूर्ण[0m 
+    [31mभरपूर[0m  

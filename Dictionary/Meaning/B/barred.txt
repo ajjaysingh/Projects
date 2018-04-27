@@ -1,35 +1,42 @@
-                                                                                      BARRED                                                                                      
-  SHORT        Something that is barred prevents your entry. If you are trying to sneak into your friend's house, avoid the barred windows.
-  LONG         To be barred is to be blocked from entrance or not allowed to do something — as if there were imaginary bars in your path. The adjective barred comes from the
+[35m                                                                                      BARRED                                                                                      [0m
+[91m        SHORT  Something that is barred prevents your entry. If you are trying to sneak into your friend's house, avoid the barred windows.[0m
+[36m         LONG  To be barred is to be blocked from entrance or not allowed to do something — as if there were imaginary bars in your path. The adjective barred comes from the
                noun bar, and it's easy to remember if you picture the classic barred cell where inmates are confined. Barred can also describe something that
-               is marked with bars, like a barred owl.
+               is marked with bars, like a barred owl.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Chinese Catholics are free to go to mass and attend government-sanctioned churches, but barred from proselytising.
-     >         And American visitors — still officially barred under U.S. law from traveling there as tourists, but eager to slip through increasingly porous rules — were
-               happy.
-     >         Initially, these men were barred from combat, and instead assigned to service duties such as cleaning white officers’ quarters and latrines.
-     >         Access to the area for aid workers, human rights monitors and independent journalists is effectively barred, said Amnesty.
-     >         When he first started, Scott barred lobbyists from entering his office.
+[3m             > Reporters were barred from the meeting, but the Russian Embassy posted photographs on Twitter.[0m
+[3m             > Laws at the time barred African Americans from attending schools, thus leaving them with no choice but to create their own.[0m
+[3m             > The White House barred the news media from Trump’s meeting with Lavrov.[0m
+[3m             > Commoners were barred, except for a few specialized technicians and craftworkers.[0m
+[3m             > Mixed martial arts, or M.M.A., is a “no holds barred” fighting style developed over the past century from fighting styles around the world.[0m
 
- 1   Fasten (Something, Especially A Door Or Window) With A Bar Or Bars.
-	 Eg.  "She Bolted And Barred The Door"
-	 Eg.  "They Have Barred The Door"
-	 Synonyms:  bolt , lock , fasten , padlock , secure , 
-	 Antonyms:  unbar , 
+[35mBarred[0m[36m /bɑːd/,[0m [91m[3madjective[0m[0m | adjective: barred
+      [32m1.[0m [37mclosed or secured with a long rigid piece of wood, metal, or similar material.[0m
+	   "he sits by a barred window"
 
- 2   Prevent Or Prohibit (Someone) From Doing Something Or From Going Somewhere.
-	 Eg.  "Journalists Had Been Barred From Covering The Elections"
-	 Eg.  "They Were Barred From Entering The Country"
-	 Synonyms:  prohibit , debar , preclude , forbid , ban , 
-	 Antonyms:  admit , accept , 
+      [32m2.[0m [37mmarked with bands of colour or light.[0m
+	   "he spotted a barred owl"
+[35mBar[0m[36m /bɑː/,[0m [91m[3mverb[0m[0m
+	past tense: barred; past participle: barred
+      [32m1.[0m [37mfasten (something, especially a door or window) with a bar or bars.[0m
+	   "she bolted and barred the door"
+  	   [3msynonyms:[0m bolt, lock, fasten, padlock, secure, latch, deadlock, block, barricade, obstruct ;  sneck, snib
+		    "they have barred the door"
+  	   [3mantonyms:[0m unbar
 
- 3   Forbid Someone From Undertaking (An Activity).
-	 Eg.  "The Job She Loved Had Been Barred To Her"
+      [32m2.[0m [37mprevent or prohibit (someone) from doing something or from going somewhere.[0m
+	   "journalists had been barred from covering the elections"
+  	   [3msynonyms:[0m prohibit, debar, preclude, forbid, ban, interdict, inhibit ;  exclude, keep out ;  obstruct, hinder, restrain, check, block, impede, stop ;  enjoin,
+                     estop
+		    "they were barred from entering the country"
+  	   [3mantonyms:[0m admit, accept
+          • [37mforbid someone from undertaking (an activity).[0m
+	   "the job she loved had been barred to her"
+          • [37mexclude (something) from consideration.[0m
+	   "nothing is barred in the crime novel"
+          • [37mprevent or delay (an action) by objection.[0m
 
- 4   Exclude (Something) From Consideration.
-	 Eg.  "Nothing Is Barred In The Crime Novel"
-
- 5   Prevent Or Delay (An Action) By Objection.
-
- 6   Mark (Something) With Bars Or Stripes.
-	 Eg.  "His Face Was Barred With Light"
+      [32m3.[0m [37mmark (something) with bars or stripes.[0m
+	   "his face was barred with light"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+    [31mबाधित[0m        [31mबंद[0m    

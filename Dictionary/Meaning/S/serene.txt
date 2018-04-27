@@ -1,25 +1,31 @@
-                                                                                      SERENE                                                                                      
-  SHORT        Choose the adjective serene to describe someone who is calm and untroubled. If you tell someone horrible news and they remain serene, you might wonder if they
-               heard you!
-  LONG         Related to the Latin word serenus "peaceful, calm, clear," serene was originally used in English, as in Latin, to describe calm weather. By the mid 1600s,
+[35m                                                                                      SERENE                                                                                      [0m
+[91m        SHORT  Choose the adjective serene to describe someone who is calm and untroubled. If you tell someone horrible news and they remain serene, you might wonder if they
+               heard you![0m
+[36m         LONG  Related to the Latin word serenus "peaceful, calm, clear," serene was originally used in English, as in Latin, to describe calm weather. By the mid 1600s,
                however, it was used figuratively to describe a calm, untroubled person as well. Though people show their emotions pretty openly today,
-               Victorian novels are full of characters who remain serene no matter how terrible the news.
+               Victorian novels are full of characters who remain serene no matter how terrible the news.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Also proposed: stand-alone lofts so visitors can enjoy a serene overnight stay, or even rent out a unit long-term.
-     >         Swap the classic combo of black, white and red for black, gray and red to create a more serene mood.
-     >         Later, he wrote that she was “unquestionably the wisest, the serenest and most gracious and generous soul I have ever met.”
-     >         Venetians are leaving the place they call La Serenissima - "the most serene" - a city currently visited by 20 million tourists a year.
-     >         "It was such a surreal sight - so serene and quiet, but a stark vision of how brutally harsh life can be."
+[3m             > Steven Jones, 20, was charged with first-degree murder and lesser counts in a shooting that rattled the normally serene campus and forested city of Flagstaff.[0m
+[3m             > His right hand never clenched, and his face remained what one media witness called “serene.”[0m
+[3m             > His right hand never clenched and his face remained what one media witness called “serene.”[0m
+[3m             > He voiced confidence that the great majority of French will “react with serene calm.”[0m
+[3m             > The community promotes a quaint, reserved ambience, and the island itself is a scenic, serene landscape.[0m
 
- 1   Calm, Peaceful, And Untroubled; Tranquil.
-	 Eg.  "Her Eyes Were Closed And She Looked Very Serene"
-	 Eg.  "On The Surface I Might Have Seemed Serene, But Underneath I Was Panicking"
-	 Eg.  "Trentino Is A Labyrinth Of Deep Valleys And Serene Lakes"
-	 Synonyms:  calm , composed , collected , calm , tranquil , 
-	 Antonyms:  anxious , nervous , agitated , turbulent , noisy , 
-
- 2   An Expanse Of Clear Sky Or Calm Sea.
-	 Eg.  "Not A Cloud Obscured The Deep Serene"
-	 Eg.  "The Serene Western Sky"
-	 Synonyms:  unclouded , clear , bright , sunny , 
-	 Antonyms:  cloudy , stormy , 
+[35mSerene[0m[36m /sɪˈriːn/,[0m [91m[3madjective[0m[0m | adjective: serene; comparative adjective: serener; superlative adjective: serenest
+      [32m1.[0m [37mcalm, peaceful, and untroubled; tranquil.[0m
+	   "her eyes were closed and she looked very serene"
+  	   [3msynonyms:[0m calm, composed, collected, cool, calm, and collected, as cool as a cucumber, tranquil, peaceful, at peace, pacific, untroubled, relaxed, at ease, poised,
+                     self-possessed, unperturbed, imperturbable, undisturbed, unruffled, unworried, unexcitable, placid, equable, even-tempered ;
+                     centered ;  together, unflappable, chilled  peaceful, tranquil, quiet, still, restful, relaxing, soothing, undisturbed, untroubled
+		    "on the surface I might have seemed serene, but underneath I was panicking"
+  	   [3mantonyms:[0m anxious, nervous, agitated, turbulent, noisy
+    [91m[3mnoun archaic[0m[0m | noun: serene
+      [32m1.[0m [37man expanse of clear sky or calm sea.[0m
+	   "not a cloud obscured the deep serene"
+  	   [3msynonyms:[0m cloudless, unclouded, clear, bright, sunny
+		    "the serene western sky"
+  	   [3mantonyms:[0m cloudy, stormy
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mशांत[0m            [31mसाफ[0m      
+      [31mनिर्मल[0m           [31mधीमा[0m     
+      [31mस्थिर[0m           [31mचुपचाप[0m    

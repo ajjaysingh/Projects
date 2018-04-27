@@ -1,31 +1,34 @@
-                                                                                       CULT                                                                                       
-  SHORT        People argue about whether the major religions of the world are just well-established cults — that, age and size aside, they are no different from any group
-               that follows a spiritual leader.
-  LONG         A cult is group of people defined by a "religious" devotion to something — often a self-appointed leader. Most people view cults as strange and frightening,
+[35m                                                                                       CULT                                                                                       [0m
+[91m        SHORT  People argue about whether the major religions of the world are just well-established cults — that, age and size aside, they are no different from any group
+               that follows a spiritual leader.[0m
+[36m         LONG  A cult is group of people defined by a "religious" devotion to something — often a self-appointed leader. Most people view cults as strange and frightening,
                mostly because cults have, over the years, done some strange and frightening things, including murders and mass suicides. Sometimes, too,
                you'll see cult used as an adjective to describe something or someone with a small, devoted fan-base. John Water's movies are cult favorites,
-               adored by a select group of film lovers but not by the public at large.
+               adored by a select group of film lovers but not by the public at large.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “There is no cult of personality around any living revolutionary,” Castro said in 2003.
-     >         My trip stalled in Austin with a broken clutch, so I sent out a message on a board for cult babies: “Anyone here?”
-     >         Castro never allowed statues of him to be erected or streets to be named after him, saying he did not want a cult of personality.
-     >         The cult of personality he inspired was no less autocratic than Batista’s rule had been.
-     >         “There is no cult of personality around any living revolutionary,” Castro said on May Day 2003.
+[3m             > The White House seems to be operating a loyalty cult without many loyalists.[0m
+[3m             > It also laid bare the frothing cults of personality surrounding people like Tyson, Bill Nye, Canadian astronaut Col.[0m
+[3m             > “This is classic hard-right nationalism with the usual xenophobia, the hatred of the ‘other’ and the cult of the people against the elite.”[0m
+[3m             > The movie also examines — not always explicitly, and not entirely by design — the workings of a contemporary personality cult.[0m
+[3m             > “It’s like a cult almost,” one of them explained.[0m
 
- 1   A System Of Religious Veneration And Devotion Directed Towards A Particular Figure Or Object.
-	 Eg.  "The Cult Of St Olaf"
+[35mCult[0m[36m /kʌlt/,[0m [91m[3mnoun[0m[0m | noun: cult; plural noun: cults
+      [32m1.[0m [37ma system of religious veneration and devotion directed towards a particular figure or object.[0m
+	   "the cult of St Olaf"
+          • [37ma relatively small group of people having religious beliefs or practices regarded by others as strange or as imposing excessive control over members.[0m
+	   "a network of Satan-worshipping cults"
+  	   [3msynonyms:[0m sect, religious group, denomination, religious order, church, faith, faith community, belief, persuasion, affiliation, movement ;  group, body, faction,
+                     clique
+		    "a religious cult"
+          • [37ma misplaced or excessive admiration for a particular thing.[0m
+	   "the cult of the pursuit of money as an end in itself"
+  	   [3msynonyms:[0m obsession with, fixation on, mania for, passion for ;  idolization of, admiration for, devotion to, worship of, veneration of, reverence for
+		    "the cult of youth and beauty in Hollywood"
 
- 2   A Relatively Small Group Of People Having Religious Beliefs Or Practices Regarded By Others As Strange Or As Imposing Excessive Control Over Members.
-	 Eg.  "A Network Of Satan-Worshipping Cults"
-	 Eg.  "A Religious Cult"
-	 Synonyms:  sect , denomination , church , faith , belief , 
-
- 3   A Misplaced Or Excessive Admiration For A Particular Thing.
-	 Eg.  "The Cult Of The Pursuit Of Money As An End In Itself"
-	 Eg.  "The Cult Of Youth And Beauty In Hollywood"
-	 Synonyms:  
-
- 4   A Person Or Thing That Is Popular Or Fashionable Among A Particular Group Or Section Of Society.
-	 Eg.  "The Series Has Become A Bit Of A Cult In The Uk"
-	 Eg.  "The Series Has Become A Bit Of A Cult In The Uk"
-	 Synonyms:  craze , fashion , fad , vogue , thing , 
+      [32m2.[0m [37ma person or thing that is popular or fashionable among a particular group or section of society.[0m
+	   "the series has become a bit of a cult in the UK"
+  	   [3msynonyms:[0m craze, fashion, fad, vogue ;  thing
+		    "the series has become a bit of a cult in the UK"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mपंथ[0m           [31mसंप्रदाय[0m   
+  [31mधर्म-संप्रदाय[0m    [31mउपासना विधि[0m  

@@ -1,29 +1,32 @@
-                                                                                       WILT                                                                                       
-  SHORT        When things droop from heat, lack of water, or illness, they wilt. If you go on vacation for two weeks and forget to water your plants first, they will wilt.
-  LONG         The vegetables in your garden will wilt if they're attacked by slugs or don't get enough moisture — and people can be said to wilt too, especially when
+[35m                                                                                       WILT                                                                                       [0m
+[91m        SHORT  When things droop from heat, lack of water, or illness, they wilt. If you go on vacation for two weeks and forget to water your plants first, they will wilt.[0m
+[36m         LONG  The vegetables in your garden will wilt if they're attacked by slugs or don't get enough moisture — and people can be said to wilt too, especially when
                they're limp and weak from exhaustion. A long walk on the hottest day of summer can make you wilt. Wilt was most likely first spelled welk,
-               from the Middle Dutch word welken, "to wither or become soft."
+               from the Middle Dutch word welken, "to wither or become soft."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         As healthy as that hand looked, Rafie cautioned the farmers that bacterial wilt can suddenly and completely decimate a ginger crop.
-     >         All that talent has wilted in the desert this season.
-     >         After trimming a 23-point deficit to two, the Hoyas again wilted at game’s end.
-     >         “Instead of wilting like guys will do sometimes, they get kind of fired up and determined,” Leach said.
-     >         The opposite would be basil, whose soft, tender leaves are quick to wilt and even turn black soon after picking.
+[3m             > There is a belief to Juve’s play that will not wilt even when they confront Real’s current crop of galácticos.[0m
+[3m             > That’s why his season should not be compared to those muscular, number-bending seasons of, say, Wilt Chamberlain or Babe Ruth.[0m
+[3m             > The bug lowers yields, causes wilting and staining, and damages buds.[0m
+[3m             > Sprinkle on the salt and pepper and continue cooking until the kale slightly wilted but still crisp, about 1 to 2 minutes.[0m
+[3m             > Still, while the US did not dominate, they did not wilt, either, away to tougher opponents than they faced last week in California.[0m
 
- 1   (Of A Plant, Leaf, Or Flower) Become Limp Through Heat, Loss Of Water, Or Disease; Droop.
-	 Eg.  "The Roses Had Begun To Wilt"
-	 Synonyms:  droop , sag , flop , wither , 
-	 Antonyms:  thrive , flourish , 
+[35mWilt[0m[36m /wɪlt/,[0m [91m[3mverb[0m[0m | verb: wilt; 3rd person present: wilts; past tense: wilted; past participle: wilted; gerund or present participle: wilting
+      [32m1.[0m [37m(of a plant, leaf, or flower) become limp through heat, loss of water, or disease; droop.[0m
+	   "the roses had begun to wilt"
+  	   [3msynonyms:[0m droop, sag, become limp, become flaccid, flop ;  wither, shrivel (up)
+		    "the roses had begun to wilt"
+  	   [3mantonyms:[0m thrive, flourish
+          • [37m(of a person) lose energy, vigour, or confidence.[0m
+	   "Lady Beresford was beginning to wilt as she greeted the long line of guests"
+  	   [3msynonyms:[0m languish, flag, lose energy, become listless, feel weak/faint ;  droop, sag
+		    "people were wilting in the heat"
+  	   [3mantonyms:[0m perk up
 
- 2   (Of A Person) Lose Energy, Vigour, Or Confidence.
-	 Eg.  "Lady Beresford Was Beginning To Wilt As She Greeted The Long Line Of Guests"
-	 Eg.  "People Were Wilting In The Heat"
-	 Synonyms:  languish , flag , droop , sag , 
-	 Antonyms:  
-
- 3   Leave (Mown Grass Or A Forage Crop) In The Open To Dry Partially Before Being Collected For Silage.
-
- 4   Any Of A Number Of Fungal Or Bacterial Diseases Of Plants Characterized By Wilting Of The Foliage.
-	 Eg.  "These Varieties Are More Resistant To Aphids And Wilt"
-
- 5   Archaic Second Person Singular Of Will1.
+      [32m2.[0m [37mleave (mown grass or a forage crop) in the open to dry partially before being collected for silage.[0m
+    [91m[3mnoun[0m[0m | noun: wilt
+      [32m1.[0m [37many of a number of fungal or bacterial diseases of plants characterized by wilting of the foliage.[0m
+	   "these varieties are more resistant to aphids and wilt"
+[35mWilt[0m[36m /wɪlt/,[0m [91m[3m[0m[0m
+          • [37marchaic second person singular of will1.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mविल्ट[0m 

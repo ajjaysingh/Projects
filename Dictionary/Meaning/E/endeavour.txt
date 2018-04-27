@@ -1,32 +1,37 @@
-                                                                                    ENDEAVOUR                                                                                     
-  SHORT        To endeavour is to strive for something. The endeavour itself is the thing you're striving for, the enterprise or undertaking. It's a primarily British
-               spelling of the word.
-  LONG         The Middle English root of endeavour means to "put oneself in" or "do one's utmost," so if you endeavour to do something, you do it with earnestness and a
+[35m                                                                                    ENDEAVOUR                                                                                     [0m
+[91m        SHORT  To endeavour is to strive for something. The endeavour itself is the thing you're striving for, the enterprise or undertaking. It's a primarily British
+               spelling of the word.[0m
+[36m         LONG  The Middle English root of endeavour means to "put oneself in" or "do one's utmost," so if you endeavour to do something, you do it with earnestness and a
                fair amount of effort. Americans usually spell the word endeavor, but NASA named one of its space shuttles the Endeavour. Why the extra "u"?
-               NASA was honoring the HMS Endeavour, the first ship ever used by the British explorer Captain James Cook.
+               NASA was honoring the HMS Endeavour, the first ship ever used by the British explorer Captain James Cook.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         California Science Center Highlights include “The Science Behind Pixar Exhibition” and, of course, the space shuttle Endeavour.
-     >         "Sadpara's endeavours of winning laurels for the country will always be remembered in golden words."
-     >         You need to settle the game down, deal with the initial enthusiasm and physical endeavour, and get yourselves in the game.
-     >         It also rewards people who have contributed to world peace, or to cultural or other significant public or private endeavours.
-     >         Brewing the perfect cup of coffee is always going to be a subjective endeavour.
+[3m             > Instead of using up his energy on needless endeavours, Ronaldo lurks in other areas of the pitch.[0m
+[3m             > Enabling, creating and disseminating good science is a vast cooperative endeavour.[0m
+[3m             > Or our stunning video of the Space Shuttle Endeavour maneuvering its way through the streets of Los Angeles.[0m
+[3m             > But trying to effect that change by adopting a whole new imported philosophy is a doomed endeavour.[0m
+[3m             > And now when people tell me they plan to write a memoir I want to caution them about the possible costs of such an endeavour.[0m
 
- 1   Try Hard To Do Or Achieve Something.
-	 Eg.  "He Is Endeavouring To Help The Third World"
-	 Eg.  "The Company Endeavoured To Expand Its Activities"
-	 Synonyms:  try , attempt , venture , undertake , aspire , 
-
- 2   An Attempt To Achieve A Goal.
-	 Eg.  "An Endeavour To Reduce Serious Injury"
-	 Eg.  "An Endeavour To Build A More Buoyant Economy"
-	 Synonyms:  attempt , try , bid , effort , trial , 
-
- 3   Earnest, Prolonged, And Industrious Effort.
-	 Eg.  "Enthusiasm Is A Vital Ingredient In All Human Endeavour"
-	 Eg.  "After Several Days Of Endeavour He Completed The Task"
-	 Synonyms:  struggle , labour , hard work , effort , exertion , 
-
- 4   An Enterprise Or Undertaking.
-	 Eg.  "A Portfolio Of Business Endeavours"
-	 Eg.  "What You Are Proposing Is An Extremely Unwise Endeavour"
-	 Synonyms:  undertaking , enterprise , venture , pursuit , exercise , 
+[35mEndeavour[0m[36m /ɪnˈdɛvə,ɛnˈdɛvə/,[0m [91m[3mverb[0m[0m | verb: endeavour; 3rd person present: endeavours; past tense: endeavoured; past participle: endeavoured; gerund or present participle: endeavouring; verb: endeavor; 3rd person present: endeavors; past tense: endeavored; past participle: endeavored; gerund or present participle: endeavoring
+      [32m1.[0m [37mtry hard to do or achieve something.[0m
+	   "he is endeavouring to help the Third World"
+  	   [3msynonyms:[0m try, attempt, venture, undertake, aspire, aim, seek, set out ;  strive, struggle, labour, toil, work hard, try hard, exert oneself, apply oneself, do
+                     one's best, do one's utmost, give one's all, be at pains ;  work at, try one's hand at ;  slog away, give something a whirl, have a
+                     go at, have a shot at, have a stab at, give something one's best shot, do one's damnedest, go all out, bend over backwards, break
+                     one's neck, bust a gut, move heaven and earth ;  essay
+		    "the company endeavoured to expand its activities"
+    [91m[3mnoun[0m[0m | noun: endeavour; plural noun: endeavours; noun: endeavor; plural noun: endeavors
+      [32m1.[0m [37man attempt to achieve a goal.[0m
+	   "an endeavour to reduce serious injury"
+  	   [3msynonyms:[0m attempt, try, bid, effort, trial, venture ;  go, crack, shot, stab, bash, whack, whirl
+		    "an endeavour to build a more buoyant economy"
+          • [37mearnest, prolonged, and industrious effort.[0m
+	   "enthusiasm is a vital ingredient in all human endeavour"
+  	   [3msynonyms:[0m striving, struggling, labouring, struggle, labour, hard work, hard slog, effort, exertion, application, industry ;  pains ;  sweat, blood, sweat, and
+                     tears, elbow grease ;  graft ;  (hard) yakka ;  travail, moil
+		    "after several days of endeavour he completed the task"
+          • [37man enterprise or undertaking.[0m
+	   "a portfolio of business endeavours"
+  	   [3msynonyms:[0m undertaking, enterprise, venture, pursuit, exercise, activity, exploit, deed, act, action, move ;  scheme, plan, project ;  caper
+		    "what you are proposing is an extremely unwise endeavour"
+  [31m[4m[34m[0m[0m[0m
+  [31mप्रयास[0m 

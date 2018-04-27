@@ -1,17 +1,24 @@
-                                                                                    STIPULATED                                                                                    
-  SHORT        To stipulate something means to demand that it be part of an agreement. So when you make a contract or deal, you can stipulate that a certain condition must
-               be met.
-  LONG         Anytime you draw up a legal agreement, you can stipulate a requirement that has to be met for that agreement to be complete. This stipulation might put some
+[35m                                                                                    STIPULATED                                                                                    [0m
+[91m        SHORT  To stipulate something means to demand that it be part of an agreement. So when you make a contract or deal, you can stipulate that a certain condition must
+               be met.[0m
+[36m         LONG  Anytime you draw up a legal agreement, you can stipulate a requirement that has to be met for that agreement to be complete. This stipulation might put some
                sort of limit on the agreement. For example, if you run a fencing company and offer a sale, you can stipulate that to get the sale price, the
-               fence must be ordered by a certain date. Your customer, in turn, might stipulate that the work must be finished before the ground freezes.
+               fence must be ordered by a certain date. Your customer, in turn, might stipulate that the work must be finished before the ground freezes.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Priebus, like Higbie, stipulated that screening of visitors or immigrants to the United States should be based on region or nationality, not religion.
-     >         This is what his advance directive stipulated, and it is what he frequently verbalized.
-     >         They further stipulated that states had the right to “interpose” themselves against the authority of the federal government.
-     >         A methodology stipulated by Ofgem and known as the personal projection lies at the heart of the problem.
-     >         Months passed without any solid leads, although the involvement of Patriarca, the New England mob boss, was generally stipulated.
+[3m             > "These agreements stipulated Russia as the guarantor of a Syria free of chemical weapons," Tillerson said.[0m
+[3m             > Then she won Britain’s Somerset Maugham prize, which stipulated that a writer use the money to travel.[0m
+[3m             > Who ever sees dead birds, in anything like the huge numbers stipulated by the certainty of the death of all birds?[0m
+[3m             > But it is not stipulated for some of the most important positions, including secretary of state, auditor, treasurer, attorney general and commissioner of
+               agriculture.[0m
+[3m             > The regulations stipulated that federally funded teacher preparation programs must be evaluated based on the academic outcomes of those teachers’ students.[0m
 
- 1   Demand Or Specify (A Requirement), Typically As Part Of An Agreement.
-	 Eg.  "He Stipulated Certain Conditions Before Their Marriage"
-	 Eg.  "He Stipulated Certain Conditions Before Their Marriage"
-	 Synonyms:  specify , demand , require , prescribe , impose , 
+[35mStipulate[0m[36m /ˈstɪpjʊleɪt/,[0m [91m[3mverb[0m[0m
+	past tense: stipulated; past participle: stipulated
+          • [37mdemand or specify (a requirement), typically as part of an agreement.[0m
+	   "he stipulated certain conditions before their marriage"
+  	   [3msynonyms:[0m specify, set down, set out, lay down, set forth, state clearly ;  demand, require, insist on, make a condition of, make a precondition/proviso of,
+                     prescribe, impose ;  provide
+		    "he stipulated certain conditions before their marriage"
+  [31m[4m[34m[0m[0m[0m
+    [31mनियत[0m  
+  [31mअनुबद्ध[0m 

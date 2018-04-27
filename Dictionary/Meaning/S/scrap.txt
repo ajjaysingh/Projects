@@ -1,54 +1,75 @@
-                                                                                      SCRAP                                                                                       
-  SHORT        A scrap is a little leftover bit of something. You might jot down notes on a scrap of paper, or you might toss a scrap of food to your happy dog.
-  LONG         A scrap is typically a small item that originally was part of something larger, like a scrap of fabric that was once part of a larger piece. Scrap can also
+[35m                                                                                      SCRAP                                                                                       [0m
+[91m        SHORT  A scrap is a little leftover bit of something. You might jot down notes on a scrap of paper, or you might toss a scrap of food to your happy dog.[0m
+[36m         LONG  A scrap is typically a small item that originally was part of something larger, like a scrap of fabric that was once part of a larger piece. Scrap can also
                describe something that’s no longer useful. For example, you might take scrap metal to the recycling center. Scrap also has a verb form that
-               means "discard." When you scrap your plan to move to the Bahamas, that means you’re abandoning the plan.
+               means "discard." When you scrap your plan to move to the Bahamas, that means you’re abandoning the plan.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Most of the scraps remained in Amherst’s archive, curiosities sought out by tenacious Dickinson scholars but unknown to the public at large.
-     >         The report called for the incentives and earned privileges scheme in prisons to be scrapped, saying it was having a "detrimental impact" on inmates'
-               wellbeing.
-     >         Teams tend to live off scraps against Celtic in domestic competition, so when an opponent gets a chance, they'd better take it.
-     >         There were crossings out and rewritings, marginalia, diagrams and doodles, cover notes and Post-it notes and extra scraps tucked into the envelopes.
-     >         We can kick the can for a while. But, just past the short run, Metro will have to be scrapped.
+[3m             > Scrapping tuition fees is the biggest headline for education policy in Labour's leaked plans.[0m
+[3m             > A few hours later, that plan was scrapped.[0m
+[3m             > In contrast, Chinese bidders scrapped a record $26.3 billion worth of previously announced deals from the United States in 2016, the data shows.[0m
+[3m             > Lawmakers also failed to agree on a plan for what to do if the U.S. government scraps the federal health care law.[0m
+[3m             > Mr Netanyahu reportedly wanted it scrapped because he was concerned that two officials appointed to senior positions in the new broadcaster were left-leaning.[0m
 
- 1   A Small Piece Or Amount Of Something, Especially One That Is Left Over After The Greater Part Has Been Used.
-	 Eg.  "I Scribbled Her Address On A Scrap Of Paper"
-	 Eg.  "He Scribbled Pamela'S Address On A Scrap Of Paper"
-	 Eg.  "There Wasn'T A Scrap Of Evidence To Link Him With The Body"
-	 Synonyms:  fragment , piece , bit , offcut , oddment , 
+[35mScrap[0m[36m /skrap/,[0m [91m[3mnoun[0m[0m | noun: scrap; plural noun: scraps; noun: scrap metal; plural noun: scrap metals
+      [32m1.[0m [37ma small piece or amount of something, especially one that is left over after the greater part has been used.[0m
+	   "I scribbled her address on a scrap of paper"
+  	   [3msynonyms:[0m fragment, piece, bit, offcut, oddment, snippet, snip, tatter, wisp, shred, remnant  bit, speck, iota, particle, ounce, whit, jot, atom, shred, crumb,
+                     morsel, fragment, grain, drop, hint, touch, trace, suggestion, whisper, suspicion, scintilla, spot, mite, tittle, jot or tittle,
+                     modicum ;  stim ;  smidgen, smidge, tad ;  scantling, scruple
+		    "he scribbled Pamela's address on a scrap of paper"
+          • [37mbits of uneaten food left after a meal.[0m
+	   "he filled Sammy's bowls with fresh water and scraps"
+  	   [3msynonyms:[0m leftovers, uneaten food, leavings, crumbs, scrapings, slops, dregs, scourings, offscourings, remains, remnants, residue, odds and ends, bits and pieces,
+                     bits and bobs ;  pieces, bits
+		    "between jobs he slept rough and lived on scraps"
+          • [37mused to emphasize the lack or smallness of something.[0m
+	   "there was not a scrap of aggression in him"
+          • [37ma small person or animal, especially one regarded with affection or sympathy.[0m
+	   "poor little scrap, she's too hot in that tight coat"
+          • [37ma particularly small thing of its kind.[0m
+	   "she was wearing a short black skirt and a tiny scrap of a top"
 
- 2   Bits Of Uneaten Food Left After A Meal.
-	 Eg.  "He Filled Sammy'S Bowls With Fresh Water And Scraps"
-	 Eg.  "Between Jobs He Slept Rough And Lived On Scraps"
-	 Synonyms:  leavings , crumbs , dregs , offscourings , remains , 
-
- 3   Used To Emphasize The Lack Or Smallness Of Something.
-	 Eg.  "There Was Not A Scrap Of Aggression In Him"
-
- 4   A Particularly Small Thing Of Its Kind.
-	 Eg.  "She Was Wearing A Short Black Skirt And A Tiny Scrap Of A Top"
-
- 5   Discarded Metal For Reprocessing.
-	 Eg.  "The Steamer Was Eventually Sold For Scrap"
-
- 6   Any Waste Articles Or Discarded Material.
-	 Eg.  "We'Re Burning Scrap Lumber"
-	 Eg.  "The Whole Thing Was Made From Bits Of Scrap"
-	 Synonyms:  waste , refuse , garbage , rubbish , litter , 
-
- 7   Discard Or Remove From Service (A Redundant, Old, Or Inoperative Vehicle, Vessel, Or Machine), Especially So As To Convert It To Scrap Metal.
-	 Eg.  "A Bold Decision Was Taken To Scrap Existing Plant"
-	 Eg.  "The Government Intended To Scrap Sixty-Two Naval Ships"
-	 Synonyms:  discard , remove , lose , eliminate , dump , 
-	 Antonyms:  keep , preserve , 
-
- 8   Abolish Or Cancel (A Plan, Policy, Or Law).
-	 Eg.  "He Supports The Idea That Road Tax Should Be Scrapped"
-	 Eg.  "Campaigners Are Calling For The Plans To Be Scrapped"
-	 Synonyms:  abandon , drop , abolish , withdraw , stop , 
-	 Antonyms:  keep , restore , 
-
- 9   A Fight Or Quarrel, Especially A Minor Or Spontaneous One.
-	 Eg.  "They Were Involved In A Goalmouth Scrap And A Player Was Sent Off"
-	 Eg.  "He Would Always Win A Scrap With Stephen"
-	 Synonyms:  quarrel , argument , row , fight , disagreement , 
+      [32m2.[0m [37mdiscarded metal for reprocessing.[0m
+	   "the steamer was eventually sold for scrap"
+          • [37many waste articles or discarded material.[0m
+	   "we're burning scrap lumber"
+  	   [3msynonyms:[0m waste, refuse, garbage, rubbish, litter, discarded matter, debris, detritus, dross ;  flotsam and jetsam, lumber ;  trash ;  mullock ;  dreck, junk ;
+                     grot, gash ;  draff, raffle, raff, cultch, orts
+		    "the whole thing was made from bits of scrap"
+    [91m[3mverb[0m[0m | verb: scrap; 3rd person present: scraps; past tense: scrapped; past participle: scrapped; gerund or present participle: scrapping
+      [32m1.[0m [37mdiscard or remove from service (a redundant, old, or inoperative vehicle, vessel, or machine), especially so as to convert it to scrap metal.[0m
+	   "a bold decision was taken to scrap existing plant"
+  	   [3msynonyms:[0m throw away, throw out, dispose of, get rid of, do away with, toss out, throw on the scrapheap, clear out, discard, remove, dispense with, lose,
+                     eliminate, dump, bin, jettison, shed, dismiss, expel, eject, weed out, root out ;  decommission, recycle, break up, demolish, write
+                     off ;  destroy, annihilate, obliterate ;  chuck (away/out), ditch, junk, get shut of ;  get shot of, see the back of ;  trash, shuck
+                     off, wreck
+		    "the government intended to scrap sixty-two naval ships"
+  	   [3mantonyms:[0m keep, preserve
+          • [37mabolish or cancel (a plan, policy, or law).[0m
+	   "he supports the idea that road tax should be scrapped"
+  	   [3msynonyms:[0m abandon, drop, abolish, withdraw, throw out, do away with, give up, stop, put an end to, cancel, eliminate, cut, jettison ;  axe, ditch, dump, junk,
+                     chuck in
+		    "campaigners are calling for the plans to be scrapped"
+  	   [3mantonyms:[0m keep, restore
+[35mScrap[0m[36m /skrap/,[0m [91m[3mnoun[0m[0m | noun: scrap; plural noun: scraps
+      [32m1.[0m [37ma fight or quarrel, especially a minor or spontaneous one.[0m
+	   "they were involved in a goalmouth scrap and a player was sent off"
+  	   [3msynonyms:[0m quarrel, argument, row, fight, disagreement, difference of opinion, dissension, falling-out, dispute, disputation, contention, squabble, contretemps,
+                     clash, altercation, exchange, brawl, tussle, conflict, affray, war of words, shouting match, fracas, wrangle, tangle,
+                     misunderstanding, passage of/at arms, battle royal ;  donnybrook ;  tiff, set-to, run-in, shindig, shindy, stand-up, spat, dust-up,
+                     ruction ;  barney, bunfight, ding-dong, bust-up, ruck, slanging match ;  afters ;  rammy ;  hassle ;  broil, miff ;  threap,
+                     collieshangie ;  tracasserie(s)
+		    "he would always win a scrap with Stephen"
+    [91m[3mverb[0m[0m | verb: scrap; 3rd person present: scraps; past tense: scrapped; past participle: scrapped; gerund or present participle: scrapping
+      [32m1.[0m [37mengage in a minor fight or quarrel.[0m
+	   "the older boys started scrapping with me"
+  	   [3msynonyms:[0m quarrel, argue, have a row/fight, row, fight, disagree, fail to agree, differ, be at odds, have a misunderstanding, be at variance, fall out, dispute,
+                     squabble, brawl, bicker, chop logic, spar, wrangle, bandy words, cross swords, lock horns, be at each other's throats, be at
+                     loggerheads ;  argufy ;  altercate
+		    "the older boys started scrapping with me"
+          • [37mcompete fiercely.[0m
+	   "the two drivers scrapped for the lead"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+       [31mरद्दी माल[0m               [31mफेंकना[0m                [31mखुरचना[0m       
+         [31mटुकड़ी[0m         [31mगिराने के लिये देना[0m      [31mनिकम्मा ठहराना[0m   
+          [31mडली[0m                  [31mगुथना[0m              [31mनिकाल फेंकना[0m    

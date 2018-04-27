@@ -1,30 +1,30 @@
-                                                                                      FISCAL                                                                                      
-  SHORT        The word fiscal resembles the word financial, which makes sense because both involve money.
-  LONG         This word has to do with anything financial, which is another fancy word for the world of money. When you're an adult, you have fiscal responsibilities like
+[35m                                                                                      FISCAL                                                                                      [0m
+[91m        SHORT  The word fiscal resembles the word financial, which makes sense because both involve money.[0m
+[36m         LONG  This word has to do with anything financial, which is another fancy word for the world of money. When you're an adult, you have fiscal responsibilities like
                paying rent, buying groceries, and paying taxes. If you put ten percent of your earnings in a savings account, that shows good fiscal sense.
                Businesses have a lot of fiscal matters to deal with, like paying salaries and trying to make a profit. If you need help with fiscal issues,
-               consult an accountant.
+               consult an accountant.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Current collections help set the base for spending next fiscal year, which spells a “pretty lean” budget in budget year 2018, the governor said.
-     >         Fiscal Policy Institute echoed Ms. Traub, saying credit is not a measure of job worthiness.
-     >         Indeed, the Institute for Fiscal Studies projects no rise for another five years, so that real wages will be below 2008 levels for 13 years.
-     >         A day-long session at the Statehouse on Wednesday is expected to focus on fiscal matters and health care.
-     >         Relaxing the fiscal constraint—the need to match spending on current consumption with current tax revenues—can make results-oriented political bargaining all
-               too easy.
+[3m             > That’s a bigger increase than in each of the last two fiscal years.[0m
+[3m             > Lawmakers are under pressure to pass a budget before the new fiscal year starts July 1.[0m
+[3m             > The company now expects fiscal year 2017 adjusted earnings per share in the range...[0m
+[3m             > Lottery sales were $7.7 billion in the last fiscal year.[0m
+[3m             > It earned $5.8 billion in its previous fiscal year, which ended in March, up from $5.4 billion the year prior.[0m
 
- 1   Relating To Government Revenue, Especially Taxes.
-	 Eg.  "Monetary And Fiscal Policy"
-	 Eg.  "The Government'S Fiscal Policies"
-	 Synonyms:  tax , revenue , financial , economic , monetary , 
+[35mFiscal[0m[36m /ˈfɪsk(ə)l/,[0m [91m[3madjective[0m[0m | adjective: fiscal
+      [32m1.[0m [37mrelating to government revenue, especially taxes.[0m
+	   "monetary and fiscal policy"
+  	   [3msynonyms:[0m tax, tax budgetary, budgetary revenue revenue ;  financial, financial economic, economic monetary, monetary money, money pecuniary, pecuniary capital
+                     capital
+		    "the government's fiscal policies"
+          • [37mrelating to financial matters.[0m
+	   "the domestic fiscal crisis"
+          • [37mdenoting a financial year.[0m
+	   "the budget deficit for fiscal 1996"
+    [91m[3mnoun[0m[0m | noun: fiscal; plural noun: fiscals; noun: fiscal shrike; plural noun: fiscal shrikes
+      [32m1.[0m [37ma legal or treasury official in some countries.[0m
+          • [37mshort for procurator fiscal.[0m
 
- 2   Relating To Financial Matters.
-	 Eg.  "The Domestic Fiscal Crisis"
+      [32m2.[0m [37man African shrike (songbird) with black-and-white plumage.[0m
 
- 3   Denoting A Financial Year.
-	 Eg.  "The Budget Deficit For Fiscal 1996"
-
- 4   A Legal Or Treasury Official In Some Countries.
-
- 5   Short For Procurator Fiscal.
-
- 6   An African Shrike (Songbird) With Black-And-White Plumage.
+      Origin:  mid 16th century: from French, or from Latin fiscalis, from fiscus ‘purse, treasury’ (see fisc).

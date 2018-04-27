@@ -1,31 +1,37 @@
-                                                                                      PETTY                                                                                       
-  SHORT        Petty used to mean just "petite" or "small," but now it's used for things that are trivial and shouldn’t matter much. If you host world leaders and spend more
-               time picking napkins than memorizing names, you're focused on petty things.
-  LONG         A few neutral meanings of petty are still in use today — such as "petty cash," which refers to a small amount of cash on hand — but most uses of petty since
+[35m                                                                                      PETTY                                                                                       [0m
+[91m        SHORT  Petty used to mean just "petite" or "small," but now it's used for things that are trivial and shouldn’t matter much. If you host world leaders and spend more
+               time picking napkins than memorizing names, you're focused on petty things.[0m
+[36m         LONG  A few neutral meanings of petty are still in use today — such as "petty cash," which refers to a small amount of cash on hand — but most uses of petty since
                the 16th century are negative, as in "narrow-minded," "trivial," and "of little importance." A "petty argument" is a popular expression,
                because many people get all worked up over something that isn't very important — a petty concern — that seems much smaller after the heat of
-               the moment.
+               the moment.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He said his brother had medically retired from the Navy as a petty officer.
-     >         Coast Guard was running regular patrols and not increasing staffing levels or taking other emergency steps, said Petty Officer Jonathan Lally.
-     >         Last month, Chief Petty Officer Jason Finan, 34, was killed outside Mosul in northern Iraq.
-     >         And he was petulant and petty with his tweet after a “Saturday Night Live” skit had him asking Siri about the Islamic State.
-     >         One of the city’s most incisive and wittiest rappers, Eagle’s “How to Be Super Petty to Your Ex” is basically a list.
+[3m             > Every time – try it – you end up with a joyous scene in which a petty control-freak is confronted by… the Duke of Edinburgh.[0m
+[3m             > In January, Chief Petty Officer William “Ryan” Owens was killed during a raid on a suspected al-Qaida base in Yemen.[0m
+[3m             > And, not with two youngsters on the roster in Hackenberg and Petty.[0m
+[3m             > I mean, really, Jimmy, does your newborn child not mean more to you than petty politics?[0m
+[3m             > "When I get the local magazine pushed through the door it all seems pretty petty stuff, to me anyway," he added.[0m
 
- 1   Of Little Importance; Trivial.
-	 Eg.  "The Petty Divisions Of Party Politics"
-	 Eg.  "A Maze Of Petty Regulations"
-	 Synonyms:  trivial , trifling , minor , small , slight , 
-	 Antonyms:  important , serious , major , 
+[35mPetty[0m[36m /ˈpɛti/,[0m [91m[3madjective[0m[0m | adjective: petty; comparative adjective: pettier; superlative adjective: pettiest
+      [32m1.[0m [37mof little importance; trivial.[0m
+	   "the petty divisions of party politics"
+  	   [3msynonyms:[0m trivial, trifling, minor, small, slight, unimportant, insignificant, inessential, inconsequential, inconsiderable, negligible, paltry, footling,
+                     fiddling, niggling, pettifogging, nugatory, of little account ;  piffling, piddling, penny-ante ;  twopenny-halfpenny ;  nickel-and-
+                     dime, picayune ;  chickenshit
+		    "a maze of petty regulations"
+  	   [3mantonyms:[0m important, serious, major
+          • [37munduly concerned with trivial matters, especially in a small-minded or spiteful way.[0m
+	   "she thought readers were being petty in writing to complain about blocked paths"
+  	   [3msynonyms:[0m small-minded, narrow-minded, mean, ungenerous, grudging, shabby, spiteful
+		    "they took other forms of revenge which were no less petty"
+  	   [3mantonyms:[0m magnanimous, generous
 
- 2   Unduly Concerned With Trivial Matters, Especially In A Small-Minded Or Spiteful Way.
-	 Eg.  "She Thought Readers Were Being Petty In Writing To Complain About Blocked Paths"
-	 Eg.  "They Took Other Forms Of Revenge Which Were No Less Petty"
-	 Synonyms:  small-minded , narrow-minded , mean , ungenerous , grudging , 
-	 Antonyms:  magnanimous , generous , 
-
- 3   Of Secondary Or Lesser Importance, Rank, Or Scale; Minor.
-	 Eg.  "A Petty Official"
-
- 4   (Of A Crime) Of Lesser Importance.
-	 Eg.  "Petty Theft"
+      [32m2.[0m [37mof secondary or lesser importance, rank, or scale; minor.[0m
+	   "a petty official"
+          • [37m(of a crime) of lesser importance.[0m
+	   "petty theft"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mक्षुद्र[0m       [31mछोटा[0m    
+     [31mतुच्छ[0m         [31mलघु[0m    
+     [31mअल्प[0m        [31mजरा सा[0m   
+  [31mछोटे पद का[0m   [31mकम दरजे का[0m 

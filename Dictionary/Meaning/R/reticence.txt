@@ -1,17 +1,21 @@
-                                                                                    RETICENCE                                                                                     
-  SHORT        Reticence is a kind of reserve, wanting to avoid communication and not wanting to offer any more information than is necessary.
-  LONG         Reticence is a noun originating from the Latin word reticent, meaning “remaining silent.” Someone charged with a crime might be instructed by their lawyer to
+[35m                                                                                    RETICENCE                                                                                     [0m
+[91m        SHORT  Reticence is a kind of reserve, wanting to avoid communication and not wanting to offer any more information than is necessary.[0m
+[36m         LONG  Reticence is a noun originating from the Latin word reticent, meaning “remaining silent.” Someone charged with a crime might be instructed by their lawyer to
                show reticence when being questioned by police. As a child, reticence saved you from getting in trouble when mom asked who ate all the cookies
-               from the jar.
+               from the jar.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The reticence of both Republican leaders on the issue is not surprising, given their long tenures in Congress.
-     >         Schrader’s aesthetic of sleek surfaces keeps great passion at a distance that suggests not reserve or reticence but terror and wonder.
-     >         Trump’s attorney Daniel Petrocelli indicated Trump might be willing to settle, despite Trump’s past reticence.
-     >         That reticence has evaporated over the last two years.
-     >         Mora explained his previous reticence about details of Rosen’s injury, citing privacy laws that dictated what he was allowed to say.
+[3m             > Mr. Feere’s newfound reticence reflected not a change of heart but a new employer.[0m
+[3m             > In social settings, he compensates for Snyder’s reticence and largely self-imposed isolation.[0m
+[3m             > Parties must overcome issues of trust and reticence to reveal information.[0m
+[3m             > Tillerson’s reticence contrasts with Trump’s more aggressive recent comments on North Korea’s nuclear and ballistic missile programme.[0m
+[3m             > These Nationals will spend their summer at the crossroads of controversy, in a sport where reticence is the unspoken rule.[0m
 
- 1   The Quality Of Being Reticent; Reserve.
-	 Eg.  "The Traditional Emotional Reticence Of The British"
-	 Eg.  "She Overcame Her Usual Reticence And Talked About Their Married Life"
-	 Synonyms:  reserve , restraint , inhibition , diffidence , shyness , 
-	 Antonyms:  
+[35mReticence[0m[36m /ˈrɛtɪs(ə)ns/,[0m [91m[3mnoun[0m[0m | noun: reticence; plural noun: reticences
+          • [37mthe quality of being reticent; reserve.[0m
+	   "the traditional emotional reticence of the British"
+  	   [3msynonyms:[0m reserve, introversion, restraint, inhibition, diffidence, shyness, modesty, distance, undemonstrativeness ;  uncommunicativeness, unresponsiveness,
+                     quietness, taciturnity, silence, secretiveness, secrecy
+		    "she overcame her usual reticence and talked about their married life"
+  	   [3mantonyms:[0m expansiveness
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mअल्पभाषिता[0m       [31mमौन[0m    

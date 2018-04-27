@@ -1,48 +1,50 @@
-                                                                                      PURGE                                                                                       
-  SHORT        To purge is to get rid of something or someone, and often it’s done suddenly. Purge rhymes with urge, and when you have a really strong urge to throw stuff
-               away or clean something out, you have an urge to purge.
-  LONG         From the Latin purgare, meaning "purify," purge is used as a verb for removing impure things, whether they're guilty feelings in a person or rotten vegetables
+[35m                                                                                      PURGE                                                                                       [0m
+[91m        SHORT  To purge is to get rid of something or someone, and often it’s done suddenly. Purge rhymes with urge, and when you have a really strong urge to throw stuff
+               away or clean something out, you have an urge to purge.[0m
+[36m         LONG  From the Latin purgare, meaning "purify," purge is used as a verb for removing impure things, whether they're guilty feelings in a person or rotten vegetables
                in a refrigerator. As a noun, the act of tossing out the too-small clothes in your closet before getting new ones might be called a purge. It
                can be a very bad act, too, as when individuals have an unhealthy urge to purge or empty their stomachs after eating or when a military group
-               decides to purge a certain ethnic group from a country.
+               decides to purge a certain ethnic group from a country.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The discovery of a new Dickinson treasure in the course of an attic cleanout or a basement purge is a perennial, if distant, possibility.
-     >         Several departments said enough time had passed that they had automatically purged the requested footage.
-     >         He soon presided over a purge of anyone suspected of being a Bastista “henchman,” which sometimes meant anyone who disagreed with Fidel.
-     >         Over the years, Fisanick-Greer tried starvation diets, binging and purging, diet pills, cellophane wraps.
-     >         Those dismissed in the purges cannot apply for any other state job.
+[3m             > A one-time Cabinet candidate, Christie ran Trump’s transition before he and his allies were purged from the operation in the week after Election Day.[0m
+[3m             > Clingman told Chief Public Defender Ben Baur that he could purge the contempt findings by following his statutory duty to represent defendants.[0m
+[3m             > A management shake-up purged those responsible for a series of past mistakes, and a big bump in spending has not hurt, either.[0m
+[3m             > Names are too easily purged from voter rolls.[0m
+[3m             > A conservative legal foundation that has pushed for citizenship checks has obtained lists of people purged from the voting rolls for not being citizens.[0m
 
- 1   Rid (Someone) Of An Unwanted Feeling, Memory, Or Condition.
-	 Eg.  "Bob Had Helped Purge Martha Of The Terrible Guilt That Had Haunted Her"
+[35mPurge[0m[36m /pəːdʒ/,[0m [91m[3mverb[0m[0m | verb: purge; 3rd person present: purges; past tense: purged; past participle: purged; gerund or present participle: purging
+      [32m1.[0m [37mrid (someone) of an unwanted feeling, memory, or condition.[0m
+	   "Bob had helped purge Martha of the terrible guilt that had haunted her"
+          • [37mfree someone from (an unwanted feeling, memory, etc.).[0m
+	   "his hatred was purged"
+  	   [3msynonyms:[0m cleanse, clear, purify, wash, shrive, absolve, free someone from ;  make someone pure ;  lustrate
+		    "the experience has purged them of the desire to doubt"
+          • [37mremove (a group of people considered undesirable) from an organization or place in an abrupt or violent way.[0m
+	   "he purged all but 26 of the central committee members"
+  	   [3msynonyms:[0m remove, get rid of, clear out, sweep out, expel, eject, exclude, evict, dismiss, sack, oust, axe, depose, eradicate, root out, weed out, scour ;
+                     defenestrate
+		    "human rights violators would be purged from the army"
+          • [37mremove a group of undesirable people from (an organization or place) in an abrupt or violent way.[0m
+	   "an opportunity to purge the party of unsatisfactory members"
+  	   [3msynonyms:[0m rid, clear, cleanse, empty, strip, scour, void ;  depurate
+		    "the party was purged of the so-called ‘capitalist roaders’"
+          • [37matone for or wipe out (contempt of court).[0m
+	   "he has a right to apply to the court to purge his contempt"
 
- 2   Free Someone From (An Unwanted Feeling, Memory, Etc.).
-	 Eg.  "His Hatred Was Purged"
-	 Eg.  "The Experience Has Purged Them Of The Desire To Doubt"
-	 Synonyms:  cleanse , clear , purify , wash , shrive , 
+      [32m2.[0m [37mphysically remove (something) completely.[0m
+	   "a substance designed to purge impurities from the body"
+          • [37mevacuate one's bowels, especially as a result of taking a laxative.[0m
+	   "sufferers eat normally in summer but overeat and purge during winter"
+    [91m[3mnoun[0m[0m | noun: purge; plural noun: purges
+      [32m1.[0m [37man abrupt or violent removal of a group of people.[0m
+	   "the savagery of government's political purges"
+  	   [3msynonyms:[0m removal, expulsion, ejection, exclusion, eviction, clearance, clear-out, discharge, dismissal, sacking, ousting, deposition, eradication, rooting out,
+                     weeding out ;  defenestration ;  deposal
+		    "the purge of the dissidents from the party"
 
- 3   Remove (A Group Of People Considered Undesirable) From An Organization Or Place In An Abrupt Or Violent Way.
-	 Eg.  "He Purged All But 26 Of The Central Committee Members"
-	 Eg.  "Human Rights Violators Would Be Purged From The Army"
-	 Synonyms:  remove , expel , eject , exclude , evict , 
-
- 4   Remove A Group Of Undesirable People From (An Organization Or Place) In An Abrupt Or Violent Way.
-	 Eg.  "An Opportunity To Purge The Party Of Unsatisfactory Members"
-	 Eg.  "The Party Was Purged Of The So-Called ‘Capitalist Roaders’"
-	 Synonyms:  rid , clear , cleanse , empty , strip , 
-
- 5   Atone For Or Wipe Out (Contempt Of Court).
-	 Eg.  "He Has A Right To Apply To The Court To Purge His Contempt"
-
- 6   Physically Remove (Something) Completely.
-	 Eg.  "A Substance Designed To Purge Impurities From The Body"
-
- 7   Evacuate One'S Bowels, Especially As A Result Of Taking A Laxative.
-	 Eg.  "Sufferers Eat Normally In Summer But Overeat And Purge During Winter"
-
- 8   An Abrupt Or Violent Removal Of A Group Of People.
-	 Eg.  "The Savagery Of Government'S Political Purges"
-	 Eg.  "The Purge Of The Dissidents From The Party"
-	 Synonyms:  removal , expulsion , ejection , exclusion , eviction , 
-
- 9   A Laxative.
-	 Eg.  "In This Plant Was A Milky Substance Which Was A Drastic Purge"
+      [32m2.[0m [37ma laxative.[0m
+	   "in this plant was a milky substance which was a drastic purge"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+      [31mशुद्ध करना[0m            [31mसफ़ाई[0m            [31mमार्जन करना[0m    
+  [31mपेट का मल निकालना[0m         [31mपरिशोध[0m            [31mशोधन करना[0m     
+      [31mपाप हटाना[0m         [31mशुद्ध करनेवाला[0m        [31mदोषमार्जन[0m     

@@ -1,22 +1,28 @@
-                                                                                     RHETORIC                                                                                     
-  SHORT        Rhetoric is speaking or writing that's intended to persuade. If your goal is to write editorial columns for "The New York Times," you should work on your
-               rhetoric.
-  LONG         Rhetoric comes from the Greek meaning "speaker" and is used for the art of persuasive speaking or writing. When people listened eagerly to long speeches and
+[35m                                                                                     RHETORIC                                                                                     [0m
+[91m        SHORT  Rhetoric is speaking or writing that's intended to persuade. If your goal is to write editorial columns for "The New York Times," you should work on your
+               rhetoric.[0m
+[36m         LONG  Rhetoric comes from the Greek meaning "speaker" and is used for the art of persuasive speaking or writing. When people listened eagerly to long speeches and
                studied them in school, rhetoric was generally used positively; now it is often a negative term, implying artfulness over real content. If
-               someone gives a clever speech but doesn't really address the problem, you might say, "That's just a lot of rhetoric."
+               someone gives a clever speech but doesn't really address the problem, you might say, "That's just a lot of rhetoric."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Fidel Castro’s soaring rhetoric is no longer the soundtrack of Cuban public life.
-     >         Mr. Trump’s ban—and his rhetoric against lobbyists—could prompt Republican lobbyists to increasingly do the same.
-     >         But I will not be forced to legitimize their fears, fueled by partisan rhetoric, whipped up into a fury by social media.
-     >         Republican Sen. Marco Rubio of Florida, whose parents were born in Cuba, says he is heartened by Trump’s past hard-line rhetoric on Cuba.
-     >         Watching television with his wife, Machado is worried that Trump's angry rhetoric could spell trouble.
+[3m             > Historically, paying such deference to political rhetoric is highly irregular.[0m
+[3m             > The one-minute-28-second recording foreshadows much about Kennedy: his commanding rhetoric, his passion for politics and a seriousness unmatched by other
+               classmates.[0m
+[3m             > Globalization is alive and well despite what the anti-globalization political rhetoric might lead one to believe.[0m
+[3m             > In Nahuad rhetoric, things were frequently represented by the unusual device of naming two of their elements—a kind of doubled Homeric epithet.[0m
+[3m             > Pelosi responded by saying that Beijing's harsh rhetoric was "a sign of weakness".[0m
 
- 1   The Art Of Effective Or Persuasive Speaking Or Writing, Especially The Exploitation Of Figures Of Speech And Other Compositional Techniques.
-	 Eg.  "He Is Using A Common Figure Of Rhetoric, Hyperbole"
-	 Eg.  "He Was Considered To Excel In This Form Of Rhetoric"
-	 Synonyms:  oratory , eloquence , expression , delivery , diction , 
-
- 2   Language Designed To Have A Persuasive Or Impressive Effect, But Which Is Often Regarded As Lacking In Sincerity Or Meaningful Content.
-	 Eg.  "All We Have From The Opposition Is Empty Rhetoric"
-	 Eg.  "There Is A Good Deal Of Rhetoric In This Field"
-	 Synonyms:  bombast , magniloquence , pomposity , hyperbole , purple prose , 
+[35mRhetoric[0m[36m /ˈrɛtərɪk/,[0m [91m[3mnoun[0m[0m | noun: rhetoric
+          • [37mthe art of effective or persuasive speaking or writing, especially the exploitation of figures of speech and other compositional techniques.[0m
+	   "he is using a common figure of rhetoric, hyperbole"
+  	   [3msynonyms:[0m oratory, eloquence, power of speech, command of language, expression, way with words, delivery, diction
+		    "he was considered to excel in this form of rhetoric"
+          • [37mlanguage designed to have a persuasive or impressive effect, but which is often regarded as lacking in sincerity or meaningful content.[0m
+	   "all we have from the Opposition is empty rhetoric"
+  	   [3msynonyms:[0m bombast, loftiness, turgidity, grandiloquence, magniloquence, ornateness, portentousness, pomposity, boastfulness, boasting, bragging, heroics,
+                     hyperbole, extravagant language, purple prose, pompousness, sonorousness ;  windiness, wordiness, verbosity, prolixity ;  hot air ;
+                     tumidity, fustian, euphuism, orotundity
+		    "there is a good deal of rhetoric in this field"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mवक्रपटुता[0m        [31mभाषण कला[0m      [31mशब्दाडंबरपूर्ण[0m 
+   [31mअलंकार शास्र[0m        [31mवग्मिता[0m         [31mआलंकारिक[0m    

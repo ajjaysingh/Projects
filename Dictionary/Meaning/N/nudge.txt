@@ -1,37 +1,40 @@
-                                                                                      NUDGE                                                                                       
-  SHORT        Sometimes you just need a little nudge or slight push to get your day going. It might be a coffee, or your favorite song, or your mom stripping the covers and
-               standing over your bed.  Take your pick.
-  LONG         Some people believe the word nudge comes from the Norwegian dialect nugga meaning "to push, rub." This makes sense, since a nudge is a push of sorts. But it's
+[35m                                                                                      NUDGE                                                                                       [0m
+[91m        SHORT  Sometimes you just need a little nudge or slight push to get your day going. It might be a coffee, or your favorite song, or your mom stripping the covers and
+               standing over your bed.  Take your pick.[0m
+[36m         LONG  Some people believe the word nudge comes from the Norwegian dialect nugga meaning "to push, rub." This makes sense, since a nudge is a push of sorts. But it's
                more of a gentle push. Think of nudging coals around in a fire or a crowd of people nudging to the stage at a concert.  When you gently annoy
-               your husband so he'll mow the lawn, you're nudging him along.
+               your husband so he'll mow the lawn, you're nudging him along.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The drubbing, a display of what social progress could do, helped nudge white Alabamians into step with the rest of the nation.
-     >         Hopkins turned his foot outward on the kickoff, like a soccer player making a pass, and nudged the ball off the tee.
-     >         Now chemical engineers have discovered that living organisms can be nudged to bind carbon and silicon together.
-     >         The populist nudge need not always be dangerous.
-     >         But the Eagleworks paper will likely provide a tiny nudge toward credibility.
+[3m             > “She nudged me and was like, ‘I’m going to hit the bathroom,’” Linden recalled.[0m
+[3m             > There were some books that nudged me in the same direction, though.[0m
+[3m             > But in the 1970s, lawmakers started nudging the rate up, eventually to 8 percent.[0m
+[3m             > The bill, slated for markup in the House Agriculture Committee on April 18, launches the first major skirmish in Republicans’ push to overhaul welfare and
+               nudge recipients closer to self-sufficiency through work.[0m
+[3m             > He’s using bluster not to nudge the future, as perhaps President Woodrow Wilson or Mr. Obama did in their time, but just to bask in his narcissism.[0m
 
- 1   Prod (Someone) Gently With One'S Elbow In Order To Attract Attention.
-	 Eg.  "People Were Nudging Each Other And Pointing At Me"
-	 Eg.  "He Nudged Ben In The Ribs"
-	 Synonyms:  poke , elbow , dig , prod , jog , 
+[35mNudge[0m[36m /nʌdʒ/,[0m [91m[3mverb[0m[0m | verb: nudge; 3rd person present: nudges; past tense: nudged; past participle: nudged; gerund or present participle: nudging
+      [32m1.[0m [37mprod (someone) gently with one's elbow in order to attract attention.[0m
+	   "people were nudging each other and pointing at me"
+  	   [3msynonyms:[0m jog, butt, poke, prod, elbow, jab, dig,
+		    "he nudged Ben in the ribs"
+          • [37mtouch or push (something) gently or gradually.[0m
+	   "the canoe nudged a bank of reeds"
+  	   [3msynonyms:[0m bump (against), push (against), run into, touch,
+		    "the canoe nudged a bank of reeds"
+          • [37mcoax or gently encourage (someone) to do something.[0m
+	   "we have to nudge the politicians in the right direction"
+  	   [3msynonyms:[0m prompt, coax, jog, encourage, stimulate, prod,
+		    "enthusiastic reviewers have been known to nudge recalcitrant publishers into action"
+          • [37mapproach (an age, figure, or level) very closely.[0m
+	   "both men were nudging fifty"
+  	   [3msynonyms:[0m approach, near, come/get close to, be verging on, border on,
+		    "unemployment was nudging 3 million"
+    [91m[3mnoun[0m[0m | noun: nudge; plural noun: nudges
+      [32m1.[0m [37ma light touch or push.[0m
+	   "he gave her shoulder a nudge"
+  	   [3msynonyms:[0m push, jog, butt, poke, dig in the ribs, prod, jab, dig,
+		    "Maggie gave him a nudge"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+  [31mकुहनी से हलका धक्का[0m      [31mकोहनी से छूना[0m    
 
- 2   Touch Or Push (Something) Gently Or Gradually.
-	 Eg.  "The Canoe Nudged A Bank Of Reeds"
-	 Eg.  "The Canoe Nudged A Bank Of Reeds"
-	 Synonyms:  touch , 
-
- 3   Coax Or Gently Encourage (Someone) To Do Something.
-	 Eg.  "We Have To Nudge The Politicians In The Right Direction"
-	 Eg.  "Enthusiastic Reviewers Have Been Known To Nudge Recalcitrant Publishers Into Action"
-	 Synonyms:  prompt , encourage , coax , stimulate , prod , 
-
- 4   Approach (An Age, Figure, Or Level) Very Closely.
-	 Eg.  "Both Men Were Nudging Fifty"
-	 Eg.  "Unemployment Was Nudging 3 Million"
-	 Synonyms:  approach , near , 
-
- 5   A Light Touch Or Push.
-	 Eg.  "He Gave Her Shoulder A Nudge"
-	 Eg.  "Maggie Gave Him A Nudge"
-	 Synonyms:  poke , dig , prod , jog , jab , 
+      Origin:  late 17th century (as a verb): of unknown origin; compare with Norwegian dialect nugga, nyggja ‘to push, rub’.

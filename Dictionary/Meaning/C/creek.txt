@@ -1,27 +1,31 @@
-                                                                                      CREEK                                                                                       
-  SHORT        A creek is a stream — like a river, but smaller — and if you grew up in the TV version of rural America, you probably had a creek babbling through your
-               backyard and a dog that looked like Lassie.
-  LONG         If you're "up a creek," or "up a creek without a paddle," you've got a problem with no solution in sight. Say you're out in the middle of nowhere, your cell
+[35m                                                                                      CREEK                                                                                       [0m
+[91m        SHORT  A creek is a stream — like a river, but smaller — and if you grew up in the TV version of rural America, you probably had a creek babbling through your
+               backyard and a dog that looked like Lassie.[0m
+[36m         LONG  If you're "up a creek," or "up a creek without a paddle," you've got a problem with no solution in sight. Say you're out in the middle of nowhere, your cell
                phone battery has just died, and your car won't start. Unless you've got a solar charger or a tow truck comes along, you're definitely up a
-               creek.
+               creek.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “All of this was underwater,” he said, after flooding last January when high water from the river backed up through nearby creeks and ditches.
-     >         Fish and Wildlife Service once needed someone to wade into a creek every few months, turn over rocks and count tiny snails.
-     >         I had planned my route away from the creek, and I hadn’t seen bear scat in more than an hour.
-     >         The treeline separates the creek from the bottom of the hill, where stands a cross.
-     >         Downed trees have already created two logjams in the creek.
+[3m             > The work will affect as many as 1,100 acres of wetlands, burying some creeks with earth and rocks.[0m
+[3m             > Police are still investigating how the child ended up in the creek.[0m
+[3m             > Most of them were in the city’s parks and creek corridors.[0m
+[3m             > The new culverts will impact a Slikok Creek tributary, Coal Creek and an unnamed creek near Clam Gulch and Crooked Creek.[0m
+[3m             > Authorities say the teenager and his step-grandmother were crossing a creek when they lost their footing and were swept away.[0m
 
- 1   A Narrow, Sheltered Waterway, Especially An Inlet In A Shoreline Or Channel In A Marsh.
-	 Eg.  "A Sandy Beach In A Sheltered Creek"
-	 Eg.  "They'Re Dredging For Oysters In The Creek"
-	 Synonyms:  inlet , estuary , bay , bight , fjord , 
+[35mCreek[0m[36m /kriːk/,[0m [91m[3mnoun British[0m[0m | noun: creek; plural noun: creeks
+          • [37ma narrow, sheltered waterway, especially an inlet in a shoreline or channel in a marsh.[0m
+	   "a sandy beach in a sheltered creek"
+  	   [3msynonyms:[0m tidal inlet, inlet, arm of the sea, estuary, bay, bight, fjord, gulf, sound ;  firth, frith ;  voe ;  ria ;  fleet, armlet
+		    "they're dredging for oysters in the creek"
+          • [37ma stream or minor tributary of a river.[0m
+	   "he drove into Adam's Creek"
+  	   [3msynonyms:[0m stream, rivulet, brook, river, tributary, backwater
+[35mCreek[0m[36m /kriːk/,[0m [91m[3mnoun[0m[0m | noun: Creek; plural noun: Creek
+      [32m1.[0m [37ma member of a confederacy of American Indian peoples of the south-eastern US in the 16th to 19th centuries; their descendants now live mainly in Oklahoma.[0m
 
- 2   A Stream Or Minor Tributary Of A River.
-	 Eg.  "He Drove Into Adam'S Creek"
-	 Synonyms:  stream , rivulet , brook , river , tributary , 
-
- 3   A Member Of A Confederacy Of American Indian Peoples Of The South-Eastern Us In The 16Th To 19Th Centuries; Their Descendants Now Live Mainly In Oklahoma.
-
- 4   The Muskogean Language That Was Spoken By Members Of The Creek Confederacy.
-
- 5   Relating To Or Denoting The Creek Or Their Language.
+      [32m2.[0m [37mthe Muskogean language that was spoken by members of the Creek confederacy.[0m
+    [91m[3madjective[0m[0m | adjective: Creek
+      [32m1.[0m [37mrelating to or denoting the Creek or their language.[0m
+  [31m[4m[34m[0m[0m[0m
+    [31mखाड़ी[0m  
+    [31mनदिका[0m  
+  [31mछोटी नदी[0m 

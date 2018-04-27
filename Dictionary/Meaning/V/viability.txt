@@ -1,13 +1,21 @@
-                                                                                    VIABILITY                                                                                     
-  SHORT        The noun viability means the quality of being able to happen or having a reasonable chance of success. The viability of holding your party at a restaurant
-               might depend on how many guests they can seat.
-  LONG         Viability comes from the Latin root vita, meaning "life." So the noun viability also refers to something's capacity to live and grow. When your dog has a
+[35m                                                                                    VIABILITY                                                                                     [0m
+[91m        SHORT  The noun viability means the quality of being able to happen or having a reasonable chance of success. The viability of holding your party at a restaurant
+               might depend on how many guests they can seat.[0m
+[36m         LONG  Viability comes from the Latin root vita, meaning "life." So the noun viability also refers to something's capacity to live and grow. When your dog has a
                litter of puppies, you can't help wondering about the viability of the tiniest one, but if you feed him with an eyedropper and keep him warm,
-               he might make it.
+               he might make it.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But his political opponents have promised a fight in congress and are considering the viability of collecting signatures for a petition calling for another
-               plebiscite.
-     >         Shipping experts have questioned the viability of the project.
-     >         The news raised questions about the viability of small businesses trying to combine a socially responsible mission with style.
-     >         But developers are waiting for a UK Government response to an independent review on tidal energy's viability.
-     >         Financially, Metro is suffering from an increasing budget deficit and decreasing ridership, which threaten its ongoing viability.
+[3m             > In fact, negative outcomes are very likely among infants born before 23 weeks, the point of viability.[0m
+[3m             > Despite such obstacles, it might be a mistake to measure his campaign solely in terms of its viability.[0m
+[3m             > The state environmental review does not try to assess the economic viability of the terminal.[0m
+[3m             > “Furthermore, an oversupply of schools serves to undermine the viability of any individual school.”[0m
+[3m             > While they waited for word from the Center about the viability of the miracle wheat, Elizabeth announced she was canceling on Topeka Ben.[0m
+
+[35mViability[0m[36m /vʌɪəˈbɪlɪti/,[0m [91m[3mnoun[0m[0m | noun: viability
+          • [37mability to work successfully.[0m
+	   "an interest in the long-term viability of British companies"
+          • [37mability to survive or live successfully.[0m
+	   "pregnancy depends on the viability of the sperm and egg"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mबड़ा जीवर्नबल[0m      [31mजीवन क्षमता[0m   
+  [31mबड़ी जीवन-शक्ति[0m    [31mजीवन योग्‍यता[0m  

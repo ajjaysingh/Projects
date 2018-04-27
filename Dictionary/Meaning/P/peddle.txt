@@ -1,25 +1,29 @@
-                                                                                      PEDDLE                                                                                      
-  SHORT        When you peddle something, you go out and try to sell it. It's cute when a little kid peddles his homemade birthday cards around the neighborhood, but if an
-               adult did that it might be annoying.
-  LONG         The classic image of someone who peddles is an old-fashioned "peddler" or "tinker" traveling from village to village selling goods. The verb peddle, in fact,
+[35m                                                                                      PEDDLE                                                                                      [0m
+[91m        SHORT  When you peddle something, you go out and try to sell it. It's cute when a little kid peddles his homemade birthday cards around the neighborhood, but if an
+               adult did that it might be annoying.[0m
+[36m         LONG  The classic image of someone who peddles is an old-fashioned "peddler" or "tinker" traveling from village to village selling goods. The verb peddle, in fact,
                comes from the word "peddler," whose origin is a mystery. Any time you sell something by going from place to place, like selling Girl Scout
-               cookies to all your neighbors, you peddle.
+               cookies to all your neighbors, you peddle.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Insiders claim that he peddled weird theories that came to be known as “Flynn facts”.
-     >         And while it wasn’t quite “Dewey Defeats Truman,” New York back peddled somewhat on its cover, which was produced by Barbara Kruger.
-     >         The idea was to crack down on tax shelters peddled to doctors, lawyers and other high-income types.
-     >         He has stated, on Twitter, that “fear of Muslims is rational” and has peddled fake news, conspiracy theories, and anti-Jewish warnings.
-     >         Bannon’s news website has peddled conspiracy theories, white nationalism and anti-Semitism.
+[3m             > Diet gurus peddle similar claims, promising that vitamin B12 shots will produce rapid weight loss.[0m
+[3m             > These vicious thugs peddle the drugs across the border and import slavery in the form of human trafficking.[0m
+[3m             > Macron espouses much the same “third way” centrism that Tony Blair and Bill Clinton peddled to the English-speaking world in the 1990s.[0m
+[3m             > But there’s another company that sits up there with gains from Amazon.com and Facebook, and it peddles in e-cigarettes over e-commerce.[0m
+[3m             > Murray is a dishonest man who peddles racist lies.[0m
 
- 1   Try To Sell (Something, Especially Small Goods) By Going From Place To Place.
-	 Eg.  "He Peddled Printing Materials Around The Country"
-	 Eg.  "They Are Peddling Water Filters"
-	 Synonyms:  sell , hawk , tout , vend , carry , 
-
- 2   Sell (An Illegal Drug Or Stolen Item).
-	 Eg.  "Youths Involved In Drug Peddling"
-
- 3   Promote (An Idea Or View) Persistently Or Widely.
-	 Eg.  "The Giant Con That Has Been Peddled In The Conservative Press"
-	 Eg.  "The Unorthodox Views Peddled By Independent Research Institutes"
-	 Synonyms:  advocate , suggest , urge , recommend , champion , 
+[35mPeddle[0m[36m /ˈpɛd(ə)l/,[0m [91m[3mverb[0m[0m | verb: peddle; 3rd person present: peddles; past tense: peddled; past participle: peddled; gerund or present participle: peddling
+          • [37mtry to sell (something, especially small goods) by going from place to place.[0m
+	   "he peddled printing materials around the country"
+  	   [3msynonyms:[0m sell, sell from door to door, hawk, tout, vend, offer for sale ;  carry, stock, offer, market, merchandise, trade, trade in, deal in, traffic in ;  push
+                     ;  flog
+		    "they are peddling water filters"
+          • [37msell (an illegal drug or stolen item).[0m
+	   "youths involved in drug peddling"
+          • [37mpromote (an idea or view) persistently or widely.[0m
+	   "the giant con that has been peddled in the Conservative press"
+  	   [3msynonyms:[0m advocate, suggest, urge, recommend, champion ;  preach, present, put forward, advance, offer, introduce, spread, proclaim, propound, promote
+		    "the unorthodox views peddled by independent research institutes"
+                  [31m[4m[34mverb[0m[0m[0m                                    [31m[4m[34m[0m[0m[0m                  
+                        [31mतंग करना[0m                                              [31mफेरी लगाना[0m                      
+                   [31mअधिक प्रार्थना करना[0m                   [31mगलियों आदि मे फेरी लगा कर और आवाज लगा कर सौदा बेंचना[0m 
+                       [31mफुटकर बेचना[0m                                [31mछोटी-छोटी बातों में समय नष्‍ट करना[0m          

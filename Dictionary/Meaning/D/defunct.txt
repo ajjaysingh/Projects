@@ -1,21 +1,25 @@
-                                                                                     DEFUNCT                                                                                      
-  SHORT        Defunct describes something that used to exist, but is now gone. A magazine that no longer publishes, like Sassy, the girl-power mag from the '90s, is
-               defunct, for example.
-  LONG         Although defunct comes from the Latin word defunctus meaning "dead," it's not usually used to describe a person who's no longer with us, but rather
+[35m                                                                                     DEFUNCT                                                                                      [0m
+[91m        SHORT  Defunct describes something that used to exist, but is now gone. A magazine that no longer publishes, like Sassy, the girl-power mag from the '90s, is
+               defunct, for example.[0m
+[36m         LONG  Although defunct comes from the Latin word defunctus meaning "dead," it's not usually used to describe a person who's no longer with us, but rather
                institutions, projects, companies and political parties — you know, the boring stuff. Keep digging and you'll find that defunctus comes from
                defungi, meaning, "to finish," which is closer to how it's used today. Defunct can also refer to a rule or law that's no longer used or has
-               become inactive, like prohibition.
+               become inactive, like prohibition.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Their ads feature Formula One racers and tennis and international film stars who bankroll luxury magazines, which would be naked — and probably defunct —
-               without them.
-     >         Gen Maza was the head of Colombia's now defunct spy agency DAS at the time.
-     >         The case has been compared to that at defunct British tabloid News of the World, which was engulfed in a phone-hacking scandal.
-     >         Back in the UK he threw himself into trade union activism, initially with now long defunct National Union of Tailors and Garment Makers.
-     >         From 1987 until 1999, he was  a Republican; that year, he changed to the nearly defunct Reform Party, an obscure New York City legacy party.
+[3m             > Irvine also served as an assistant with the Pacers, Pistons, Golden State, Denver and the Virginia Squires in the defunct ABA.[0m
+[3m             > During the 2016 presidential campaign, Trump accused an Indiana-born judge overseeing lawsuits against the defunct Trump University of bias based on his
+               Mexican ancestry.[0m
+[3m             > “Look what they did to an old defunct bowling alley,” Mohr said.[0m
+[3m             > After a few more minutes of walking through the oaks and tulip poplars, the conservationists ran across one such defunct trail.[0m
+[3m             > A now defunct theater near Times Square in New York called itself The Eros.[0m
 
- 1   No Longer Existing Or Functioning.
-	 Eg.  "The Now Defunct Somerset & Dorset Railway Line"
-	 Eg.  "The Now Defunct Local Paper Mill"
-	 Eg.  "His Defunct Parents"
-	 Synonyms:  disused , unused , inoperative , non-functioning , unusable , 
-	 Antonyms:  working , extant , alive , living , 
+[35mDefunct[0m[36m /dɪˈfʌŋ(k)t/,[0m [91m[3madjective[0m[0m | adjective: defunct
+          • [37mno longer existing or functioning.[0m
+	   "the now defunct Somerset & Dorset railway line"
+  	   [3msynonyms:[0m disused, no longer in use, unused, inoperative, non-functioning, unusable, obsolete ;  no longer in existence, discontinued ;  extinct, fossilized  dead,
+                     deceased, expired, departed, gone ;  late ;  demised
+		    "the now defunct local paper mill"
+  	   [3mantonyms:[0m working, extant, alive, living
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+        [31mमृत[0m             [31mमृतक[0m             [31mमृतक[0m      
+      [31mनिर्जीव[0m         [31mअप्रचलित[0m         [31mमुआ आदमी[0m    

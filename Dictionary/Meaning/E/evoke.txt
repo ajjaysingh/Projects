@@ -1,29 +1,40 @@
-                                                                                      EVOKE                                                                                       
-  SHORT        The verb evoke most commonly means to bring a feeling, memory, or picture into the mind. When you visit your old elementary school, the smells, sounds, and
-               colors there can evoke memories from the past.
-  LONG         Similarly, a certain reaction can be evoked by words or actions, as in "His comments evoked anger in the community." A near synonym is elicit, as in "No
+[35m                                                                                      EVOKE                                                                                       [0m
+[91m        SHORT  The verb evoke most commonly means to bring a feeling, memory, or picture into the mind. When you visit your old elementary school, the smells, sounds, and
+               colors there can evoke memories from the past.[0m
+[36m         LONG  Similarly, a certain reaction can be evoked by words or actions, as in "His comments evoked anger in the community." A near synonym is elicit, as in "No
                matter how many different ways the detective questioned the suspect, he could not elicit any response. Evoke was borrowed from Latin evocare,
-               from the prefix e- "out," plus vocare "to call."
+               from the prefix e- "out," plus vocare "to call."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Some wines not only evoke an autumnal mood, they actually smell, taste and feel like the season, none more than reds from France’s Loire Valley.
-     >         The then-newly married McCartney’s almost-all-covers collection of iconic songs from Johnny Mercer and Irving Berlin evokes the songs he used to write.
-     >         Eloquently conducting his own defense, frequently evoking Martí, he turned the case into a passionate indictment of not just Batista but all of history’s
-               oppressors.
-     >         Others evoked particular demographics—working mothers, bored teens—or presented a level of diversity that’s absent from regular emoji.
-     >         Mr. Willer advised liberals to communicate respect when talking about politics, and he argued that moral reframing and evoking empathy are critical persuasion
-               tools.
+[3m             > A range of motions, abstract patterns and even colors evoke sound for some.[0m
+[3m             > If there’s a commonality here, it’s this: Instead of evoking fantasy worlds, these flute lines seem to be engaging rappers in sonic conversation.[0m
+[3m             > After “Shattered Glass,” movie fans all over the world sent me far more congratulations than my actual journalism ever evoked.[0m
+[3m             > Historical references, such as the text from an antique Boy Scout handbook overlaid on a photo of a bear, evoke bygone childhood more than the lost paradise
+               of the American wilderness.[0m
+[3m             > With its exquisitely detailed scenes and lack of dialogue balloons, it bore little resemblance to its comics-page peers, evoking instead the elegant
+               illustrations of Gilded Age storybooks.[0m
 
- 1   Bring Or Recall (A Feeling, Memory, Or Image) To The Conscious Mind.
-	 Eg.  "The Sight Evoked Pleasant Memories Of His Childhood"
-	 Eg.  "The Poems Evoke A Sense Of Desolate Emptiness"
-	 Synonyms:  summon , invoke , elicit , induce , kindle , 
+[35mEvoke[0m[36m /ɪˈvəʊk/,[0m [91m[3mverb[0m[0m | verb: evoke; 3rd person present: evokes; past tense: evoked; past participle: evoked; gerund or present participle: evoking
+      [32m1.[0m [37mbring or recall (a feeling, memory, or image) to the conscious mind.[0m
+	   "the sight evoked pleasant memories of his childhood"
+  	   [3msynonyms:[0m bring to mind, call to mind, put one in mind of, call up, conjure up, summon up, summon, summon invoke, invoke give rise to, bring forth, elicit, elicit
+                     induce, induce kindle, kindle stimulate, stimulate stir up, awaken, awaken arouse, arouse excite, excite raise, raise suggest
+                     suggest ;  recall, recall echo, echo reproduce, reproduce encapsulate, encapsulate capture, capture express express ;  educe educe
+		    "the poems evoke a sense of desolate emptiness"
+          • [37melicit (a response).[0m
+	   "the Green Paper evoked critical reactions from various bodies"
+  	   [3msynonyms:[0m bring to mind, call to mind, put one in mind of, call up, conjure up, summon up, summon, summon invoke, invoke give rise to, bring forth, elicit, elicit
+                     induce, induce kindle, kindle stimulate, stimulate stir up, awaken, awaken arouse, arouse excite, excite raise, raise suggest
+                     suggest ;  recall, recall echo, echo reproduce, reproduce encapsulate, encapsulate capture, capture express express ;  educe educe
+		    "the poems evoke a sense of desolate emptiness"
 
- 2   Elicit (A Response).
-	 Eg.  "The Green Paper Evoked Critical Reactions From Various Bodies"
-	 Eg.  "The Poems Evoke A Sense Of Desolate Emptiness"
-	 Synonyms:  summon , invoke , elicit , induce , kindle , 
+      [32m2.[0m [37minvoke (a spirit or deity).[0m
+	   "Akasha is evoked in India when a house is being built to ensure its completion"
+  	   [3msynonyms:[0m bring to mind, call to mind, put one in mind of, call up, conjure up, summon up, summon, summon invoke, invoke give rise to, bring forth, elicit, elicit
+                     induce, induce kindle, kindle stimulate, stimulate stir up, awaken, awaken arouse, arouse excite, excite raise, raise suggest
+                     suggest ;  recall, recall echo, echo reproduce, reproduce encapsulate, encapsulate capture, capture express express ;  educe educe
+		    "the poems evoke a sense of desolate emptiness"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mपुकारना[0m      [31mपैदा करना[0m  
+  [31mआह्वान करना[0m      [31mजगाना[0m    
 
- 3   Invoke (A Spirit Or Deity).
-	 Eg.  "Akasha Is Evoked In India When A House Is Being Built To Ensure Its Completion"
-	 Eg.  "The Poems Evoke A Sense Of Desolate Emptiness"
-	 Synonyms:  summon , invoke , elicit , induce , kindle , 
+      Origin:  early 17th century (in sense 2): from Latin evocare, from e- (variant of ex- ) ‘out of, from’ + vocare ‘to call’.

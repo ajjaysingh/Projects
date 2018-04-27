@@ -1,23 +1,29 @@
-                                                                                     INFUSION                                                                                     
-  SHORT        The most common example of an infusion you are likely to encounter in your daily life is your morning cup of coffee. An infusion is the creation of a new
-               substance by steeping another substance in a liquid, usually water.
-  LONG         Infusion is often misused with transfusion, which has a slightly different meaning.  A transfusion, as in a blood transfusion, is the simple addition of one
+[35m                                                                                     INFUSION                                                                                     [0m
+[91m        SHORT  The most common example of an infusion you are likely to encounter in your daily life is your morning cup of coffee. An infusion is the creation of a new
+               substance by steeping another substance in a liquid, usually water.[0m
+[36m         LONG  Infusion is often misused with transfusion, which has a slightly different meaning.  A transfusion, as in a blood transfusion, is the simple addition of one
                substance to another, without the creation of something new. But a drip feed of medicine, for example, is technically an infusion as it alters
-               the state of the blood. See, you’re halfway to becoming a doctor (or at least a linguist) simply by reading this site.
+               the state of the blood. See, you’re halfway to becoming a doctor (or at least a linguist) simply by reading this site.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Correctional policy professionals said they agree that state’s prisons need a massive infusion of money to stop their downward spiral.
-     >         This combination — an infusion of the Wizards’ bench and a Spurs lead — created a maelstrom of issues.
-     >         Those travelers include an increasing number of U.S. visitors, providing a cash infusion at a moment when economic growth is otherwise stalled.
-     >         Even before that, Landrieu had urged the board to consider selling the railroad, which could provide a cash infusion for the city.
-     >         At the end of the period, they gave some of the animals transdermal patches that provided an infusion of cannabidiol.
+[3m             > The new program represents an additional infusion of cash beyond the $500 million Pepco already spends each year on repairs and grid modernization.[0m
+[3m             > “This will be a major, major infusion bringing this back.”[0m
+[3m             > Despite her situation, she began spinal infusions of methotrexate.[0m
+[3m             > The benefits lasted for weeks after the infusions ended.[0m
+[3m             > Army Gen. John Nicholson, the top U.S. commander in Afghanistan, wants an infusion of U.S. and allied troops to bolster support for the Afghan army.[0m
 
- 1   A Drink, Remedy, Or Extract Prepared By Soaking Tea Leaves Or Herbs In Liquid.
-	 Eg.  "A Strong Rosemary Infusion"
+[35mInfusion[0m[36m /ɪnˈfjuːʒ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: infusion; plural noun: infusions
+      [32m1.[0m [37ma drink, remedy, or extract prepared by soaking tea leaves or herbs in liquid.[0m
+	   "a strong rosemary infusion"
+          • [37mthe process of preparing an infusion.[0m
 
- 2   The Process Of Preparing An Infusion.
+      [32m2.[0m [37mthe introduction of a new element or quality into something.[0m
+	   "the infusion of $6.3 million for improvements"
 
- 3   The Introduction Of A New Element Or Quality Into Something.
-	 Eg.  "The Infusion Of $6.3 Million For Improvements"
-
- 4   The Slow Injection Of A Substance Into A Vein Or Tissue.
-	 Eg.  "A Four-Hour Intravenous Infusion"
+      [32m3.[0m [37mthe slow injection of a substance into a vein or tissue.[0m
+	   "a four-hour intravenous infusion"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mआसव[0m         [31mअर्क[0m    
+     [31mजलसेक[0m        [31mडालना[0m   
+    [31mप्रेरणा[0m       [31mमदिरा[0m   
+     [31mसंचार[0m       [31mजुशांदा[0m  
+    [31mनिषेचन[0m         [31mसत[0m     

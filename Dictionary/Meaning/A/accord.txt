@@ -1,33 +1,41 @@
-                                                                                      ACCORD                                                                                      
-  SHORT        If you clean your room of your own accord, your parents will be pleased—it means you did it without having to be asked. They might even accord you an extra
-               privilege. Warring nations make peace accords.
-  LONG         A Honda Accord is a nice, agreeable car, and the word accord is all about agreement, or unity. If a whole class begs with one accord to postpone a quiz for a
-               day to allow more review, the teacher is more likely to listen than if it was just one student asking.
+[35m                                                                                      ACCORD                                                                                      [0m
+[91m        SHORT  If you clean your room of your own accord, your parents will be pleased—it means you did it without having to be asked. They might even accord you an extra
+               privilege. Warring nations make peace accords.[0m
+[36m         LONG  A Honda Accord is a nice, agreeable car, and the word accord is all about agreement, or unity. If a whole class begs with one accord to postpone a quiz for a
+               day to allow more review, the teacher is more likely to listen than if it was just one student asking.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         When the assailant pulled down his pants, the woman resisted and a scuffle ensued, according to the report.
-     >         His great-grandparents were slaves in South Carolina, according to family lore.
-     >         But it’s unusual for voucher recipients to attend a school such as Sidwell, according to a 2012 investigation by The Washington Post.
-     >         Black children made up nearly 50 percent of all out-of-school preschool suspensions, according to a 2014 study by the U.S.
-     >         But nearly half of male dropouts report taking pain pills every day, according to a study by Princeton University economist Alan Krueger.
+[3m             > If it qualifies, the proposal to ban safe-injection sites would be called Initiative 27, according to King County Elections.[0m
+[3m             > That helped Kohl's profit of 39 cents per share easily beat analysts' estimate of 29 cents, according to Thomson Reuters I/B/E/S.[0m
+[3m             > Titled “Generational Sins,” the movie by filmmaker Spencer T. Folmar “is about child abuse, alcoholism and, ultimately, redemption through Jesus Christ,”
+               according to THR.[0m
+[3m             > Meanwhile, almost a million Americans are in multi-employer pension plans that are classified as in critical or declining status, according to the Pension
+               Rights Center.[0m
+[3m             > Its first Washington site is scheduled to open later this year at The Outlet Collection in Auburn, according to The News Tribune.[0m
 
- 1   Give Or Grant Someone (Power, Status, Or Recognition).
-	 Eg.  "The Powers Accorded To The Head Of State"
-	 Eg.  "The National Assembly Accorded The General More Power"
-	 Synonyms:  give , grant , tender , present , award , 
-	 Antonyms:  withhold , remove , 
+[35mAccord[0m[36m /əˈkɔːd/,[0m [91m[3mverb[0m[0m | verb: accord; 3rd person present: accords; past tense: accorded; past participle: accorded; gerund or present participle: according
+      [32m1.[0m [37mgive or grant someone (power, status, or recognition).[0m
+	   "the powers accorded to the head of state"
+  	   [3msynonyms:[0m give, grant, tender, present, award, hand, vouchsafe, concede, yield, cede ;  confer on, bestow on, vest in, put in someone's hands ;  invest with, endow
+                     with, entrust with, favour with
+		    "the national assembly accorded the General more power"
+  	   [3mantonyms:[0m withhold, remove
 
- 2   (Of A Concept Or Fact) Be Harmonious Or Consistent With.
-	 Eg.  "His Views Accorded Well With Those Of Merivale"
-	 Eg.  "Such An Idea Appears To Accord With The Known State Of Affairs"
-	 Synonyms:  correspond , agree , tally , concur , coincide , 
-	 Antonyms:  disagree , contrast , 
-
- 3   An Official Agreement Or Treaty.
-	 Eg.  "Opposition Groups Refused To Sign The Accord"
-	 Eg.  "The Two Countries Were About To Sign An Economic Cooperation Accord"
-	 Synonyms:  pact , treaty , agreement , settlement , deal , 
-
- 4   Agreement Or Harmony.
-	 Eg.  "The Government And The Rebels Are In Accord On One Point"
-	 Eg.  "The Two Sides Failed To Reach Accord"
-	 Synonyms:  agreement , consensus , unanimity , harmony , unison , 
+      [32m2.[0m [37m(of a concept or fact) be harmonious or consistent with.[0m
+	   "his views accorded well with those of Merivale"
+  	   [3msynonyms:[0m correspond, agree, tally, match up, concur, coincide, be in agreement, be consistent, equate, harmonize, be in harmony, be compatible, be consonant, be
+                     congruous, be in tune, dovetail, correlate ;  conform to ;  suit, fit, match, parallel ;  square ;  jibe
+		    "such an idea appears to accord with the known state of affairs"
+  	   [3mantonyms:[0m disagree, contrast
+    [91m[3mnoun[0m[0m | noun: accord; plural noun: accords
+      [32m1.[0m [37man official agreement or treaty.[0m
+	   "opposition groups refused to sign the accord"
+  	   [3msynonyms:[0m pact, treaty, agreement, settlement, deal, entente, concordat, concord, protocol, compact, contract, convention
+		    "the two countries were about to sign an economic cooperation accord"
+          • [37magreement or harmony.[0m
+	   "the government and the rebels are in accord on one point"
+  	   [3msynonyms:[0m agreement, consensus, unanimity, harmony, unison, unity, concord, concert, like-mindedness, rapport, conformity, congruence, settlement
+		    "the two sides failed to reach accord"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mसहमति[0m         [31mतालमेल[0m        [31mसहमत करना[0m  
+      [31mऐक्य[0m          [31mसहमाति[0m        [31mसहमत होना[0m  
+     [31mमतैक्य[0m         [31mसांजस्य[0m     [31mस्वीकार करना[0m 

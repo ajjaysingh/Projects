@@ -1,22 +1,30 @@
-                                                                                    PIONEERING                                                                                    
-  SHORT        A pioneer is one of the first settlers in a new place. If you desperately want to experience life in space, maybe you will be one of the pioneers who live in
-               the first moon settlement.
-  LONG         Pioneer comes from the old French for foot soldier or laborer, and particularly for groups of soldiers that would go out ahead of the rest of the troops to
+[35m                                                                                    PIONEERING                                                                                    [0m
+[91m        SHORT  A pioneer is one of the first settlers in a new place. If you desperately want to experience life in space, maybe you will be one of the pioneers who live in
+               the first moon settlement.[0m
+[36m         LONG  Pioneer comes from the old French for foot soldier or laborer, and particularly for groups of soldiers that would go out ahead of the rest of the troops to
                prepare the way. The European settlers who came to America in the 16th century are known as pioneers, as are the later groups who traveled West
-               in the 18th and 19th centuries. We also use pioneer for anyone who takes initiative in a field, such as science or education.
+               in the 18th and 19th centuries. We also use pioneer for anyone who takes initiative in a field, such as science or education.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Never mind that the pioneering laboratory for one of the first large-scale nuclear physics research programs has sat unused since 1958.
-     >         Mrs Hamilton's pioneering software helped land the lunar module and its crew on the Moon in 1969.
-     >         To tackle the issue, the university city of Freiburg has come up with a pioneering scheme aimed at reducing waste.
-     >         The group also is pioneering shellfish restoration in the river, Everett said, working with property owners “to kind of get in and jump-start oyster efforts.”
-     >         The word “spectrum” was first used in this context by the pioneering British researcher Lorna Wing, who died in 2014.
+[3m             > China's pioneering status in science and medicine is also renowned.[0m
+[3m             > West particularly highlights the pioneering ideas of another urban theorist, Jane Jacobs.[0m
+[3m             > “By reading her words and promoting her contributions to western culture, we commemorate the pioneering spirit that distinguishes us as a nation,” she said.[0m
+[3m             > The city, too, subjected its pioneering black basketball to horrific racial abuse.[0m
+[3m             > He oversaw a big expansion in higher and further education, and poured money into early years learning, as well as pioneering academy schools.[0m
 
- 1   Involving New Ideas Or Methods.
-	 Eg.  "His Pioneering Work On Consciousness"
-
- 2   Develop Or Be The First To Use Or Apply (A New Method, Area Of Knowledge, Or Activity).
-	 Eg.  "The Technique Was Pioneered By A Swiss Doctor In The 1930S"
-	 Eg.  "He Pioneered The Sale Of Motor Insurance Through High-Street Shops"
-	 Synonyms:  develop , introduce , evolve , start , begin , 
-
- 3   Open Up (A Road Or Terrain) As A Pioneer.
+[35mPioneering[0m[36m /pʌɪəˈnɪərɪŋ/,[0m [91m[3madjective[0m[0m | adjective: pioneering
+          • [37minvolving new ideas or methods.[0m
+	   "his pioneering work on consciousness"
+[35mPioneer[0m[36m /pʌɪəˈnɪə/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: pioneering
+          • [37mdevelop or be the first to use or apply (a new method, area of knowledge, or activity).[0m
+	   "the technique was pioneered by a Swiss doctor in the 1930s"
+  	   [3msynonyms:[0m develop, introduce, evolve, start, begin, launch, instigate, initiate, put in place, take the initiative in, take the lead in, spearhead, institute,
+                     establish, found, give birth to, be the father/mother of, originate, set in motion, create, open up, lay the groundwork for, lead
+                     the way for, prepare the way for, lay the foundations of ;  blaze a trail, set the ball rolling, break new ground, make the first
+                     move
+		    "he pioneered the sale of motor insurance through high-street shops"
+          • [37mopen up (a road or terrain) as a pioneer.[0m
+  [31m[4m[34mnoun[0m[0m[0m
+       [31mअन्वेषण[0m      
+       [31mअनुसंधान[0m     
+  [31mभूमि-सुधार का काम[0m 

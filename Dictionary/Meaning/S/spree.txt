@@ -1,25 +1,31 @@
-                                                                                      SPREE                                                                                       
-  SHORT        If you go on a spree, you go a little wild, indulging in some activity in an unrestrained way. You might go on a cupcake spree every year on your birthday,
-               eating as many cupcakes as you can.
-  LONG         Following your impulses and giving in to them — rather than resisting or limiting them — is one way to go on a spree. It can be a dancing spree, in which you
+[35m                                                                                      SPREE                                                                                       [0m
+[91m        SHORT  If you go on a spree, you go a little wild, indulging in some activity in an unrestrained way. You might go on a cupcake spree every year on your birthday,
+               eating as many cupcakes as you can.[0m
+[36m         LONG  Following your impulses and giving in to them — rather than resisting or limiting them — is one way to go on a spree. It can be a dancing spree, in which you
                dance all night long, or a shopping spree, in which you max out your credit card at the mall. The original slang meaning, and one that's still
-               used today, is "a drinking bout," and it may be rooted in the French word esprit, "lively wit."
+               used today, is "a drinking bout," and it may be rooted in the French word esprit, "lively wit."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The giving spree pulled Jared into the crosshairs of the Federal Election Commission.
-     >         The sole survivor of a family killing spree wonders: ‘Why am I the one who was left?’
-     >         So here are five tips to help during your holiday spending spree.
-     >         Weekend shopping sprees with splendid sale prices are optional.
-     >         Done right, a big infrastructure spree would boost demand and make travel more efficient.
+[3m             > Gaviota, the military’s tourism company, is in the midst of a hotel building spree.[0m
+[3m             > It was a crime spree that killed nine people, stumped the police for months and left residents of Phoenix unnerved.[0m
+[3m             > That hiring spree is supposed to boost efforts to catch violent live streams before they spread across the network.[0m
+[3m             > This small outpost offers a glimpse of what may be the largest global trade-and-investment spree in history.[0m
+[3m             > Kendrex White, a student at the university, appeared to act calmly during the stabbing spree on Monday, UT-Austin Police Chief David Carter told reporters.[0m
 
- 1   A Spell Or Sustained Period Of Unrestrained Activity Of A Particular Kind.
-	 Eg.  "He Went On A Six-Month Crime Spree"
-	 Eg.  "A Shopping Spree"
-	 Synonyms:  orgy , binge , splurge , 
-
- 2   A Spell Of Unrestrained Drinking.
-	 Eg.  "Crews Were Seldom Going Ashore And Therefore Seldom Going On The Spree"
-	 Eg.  "It May Stop After One Or Two Drinks Or It May Go On Into A Spree"
-	 Synonyms:  debauch , binge , bender , session , sesh , 
-
- 3   Take Part In A Spree.
-	 Eg.  "They Don'T Want Work, They'Re Too Busy Spreeing!"
+[35mSpree[0m[36m /spriː/,[0m [91m[3mnoun[0m[0m | noun: spree; plural noun: sprees
+      [32m1.[0m [37ma spell or sustained period of unrestrained activity of a particular kind.[0m
+	   "he went on a six-month crime spree"
+  	   [3msynonyms:[0m unrestrained bout, orgy ;  binge, splurge
+		    "a shopping spree"
+          • [37ma spell of unrestrained drinking.[0m
+	   "crews were seldom going ashore and therefore seldom going on the spree"
+  	   [3msynonyms:[0m drinking bout, debauch ;  binge, bender, session, sesh, booze-up, beer-up, souse, drunk, blind ;  skite ;  jag, toot ;  boozeroo ;  piss-up ;  bacchanal,
+                     bacchanalia ;  wassail, fuddle, potation
+		    "it may stop after one or two drinks or it may go on into a spree"
+    [91m[3mverb dated[0m[0m | verb: spree; 3rd person present: sprees; past tense: spreed; past participle: spreed; gerund or present participle: spreeing
+      [32m1.[0m [37mtake part in a spree.[0m
+	   "they don't want work, they're too busy spreeing!"
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mआनंद का उत्सव[0m 
+    [31mमौज-मस्ती[0m   
+     [31mउछल-कूद[0m    
+     [31mनाच-रंग[0m    

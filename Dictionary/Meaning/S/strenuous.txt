@@ -1,18 +1,23 @@
-                                                                                    STRENUOUS                                                                                     
-  SHORT        Something strenuous requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books.
-  LONG         Strenuous can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs
+[35m                                                                                    STRENUOUS                                                                                     [0m
+[91m        SHORT  Something strenuous requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books.[0m
+[36m         LONG  Strenuous can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs
                by yourself, and you refuse by jumping up and down in protest, you have a strenuous objection to her request. To remember how to spell it,
-               remember that something strenuous requires the strength of two of you! That's why there are two u's in strenUoUs.
+               remember that something strenuous requires the strength of two of you! That's why there are two u's in strenUoUs.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This year, the coursework has been less strenuous, leaving more time for rest and recovery.
-     >         Exams were sites of strenuous terror, doors that opened onto everything desirable but that could as easily be closed in one’s face.
-     >         Stairwell interval training requires only one minute of strenuous exertion, he says.
-     >         At the same time, a strenuous summer factory job left him determined to get a college degree.
-     >         Event spokesman Christian Striz says the sponsors wanted to show how strenuous the job is.
+[3m             > The long hours and strenuous deadlines at Bartholomew Brothers immediately dominate M.’s schedule.[0m
+[3m             > They include strenuous activity — such as skiing — alcohol consumption and rapid ascension.[0m
+[3m             > Crawling, climbing, pulling and all that raw strenuous stuff is her.[0m
+[3m             > While pregnancy is not the time to start a strenuous exercise program, physicians generally encourage women to remain physically active.[0m
+[3m             > Taft, who was famously obese, credited the game for putting him in the “splendid physical condition” necessary for “the strenuous work of the campaign.”[0m
 
- 1   Requiring Or Using Great Effort Or Exertion.
-	 Eg.  "The Government Made Strenuous Efforts To Upgrade The Quality Of The Teaching Profession"
-	 Eg.  "It'S A Pretty Strenuous Climb"
-	 Eg.  "The College Has Made Strenuous Efforts To Attract Overseas Students"
-	 Synonyms:  arduous , difficult , hard , tough , taxing , 
-	 Antonyms:  easy , effortless , half-hearted , feeble , 
+[35mStrenuous[0m[36m /ˈstrɛnjʊəs/,[0m [91m[3madjective[0m[0m | adjective: strenuous
+          • [37mrequiring or using great effort or exertion.[0m
+	   "the government made strenuous efforts to upgrade the quality of the teaching profession"
+  	   [3msynonyms:[0m arduous, difficult, hard, tough, taxing, demanding, exacting, uphill, stiff, formidable, heavy, exhausting, tiring, fatiguing, gruelling, back-breaking,
+                     murderous, punishing ;  no picnic, killing ;  knackering ;  toilsome  vigorous, energetic, active, enthusiastic, keen, zealous,
+                     forceful, strong, Herculean, spirited, dynamic, intense, determined, resolute, tenacious, tireless, stout, indefatigable,
+                     unremitting, dogged, pertinacious
+		    "it's a pretty strenuous climb"
+  	   [3mantonyms:[0m easy, effortless, half-hearted, feeble
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mज़ोरदार[0m      [31mश्रमसाध्य[0m  

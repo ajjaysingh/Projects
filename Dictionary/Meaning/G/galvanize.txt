@@ -1,26 +1,34 @@
-                                                                                    GALVANIZE                                                                                     
-  SHORT        The verb galvanize refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise
-               not using electricity in galvanizing children to do their homework.
-  LONG         The word galvanize was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to
+[35m                                                                                    GALVANIZE                                                                                     [0m
+[91m        SHORT  The verb galvanize refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise
+               not using electricity in galvanizing children to do their homework.[0m
+[36m         LONG  The word galvanize was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to
                further studies in bioelectrogenesis, or what Galvani called "animal electricity," and became the basis for Mary Shelley's Frankenstein (a
                novel in which a mad scientist attempts to use electricity to galvanize a monster to life). Nowadays, people use this term much more
-               figuratively, like when they describe galvanizing a political movement or even a sports team into action.
+               figuratively, like when they describe galvanizing a political movement or even a sports team into action.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “That the Cuban people are galvanized and can take back control of their government and their lives.”
-     >         By 1957, Castro had galvanized the nation, and the rest of the world was paying attention too.
-     >         We want to inform and galvanize our generous community toward those who aren't as fortunate.
-     >         However, she said that the announced withdrawals have galvanized support for the court among other African countries attending the annual gathering of member
-               states.
-     >         Krislov says it comes at a time of consternation nationally and locally but that such incidents also can galvanize the fight against bigotry.
+[3m             > Galvanized by President Trump’s anti-immigrant rhetoric, diverse crowds of demonstrators held peaceful rallies in cities such as Chicago, New York City and
+               Miami.[0m
+[3m             > "That was the event that galvanized public awareness of the environment and support for a decade of profound change."[0m
+[3m             > The galvanizing experience, the one that sent me into the kitchen, occurred the evening I dropped by my mother-in-law’s house in Brooklyn.[0m
+[3m             > The march is expected to be the largest in years because of the activist energy galvanized by Donald Trump.[0m
+[3m             > The court quickly reversed course, but its widely condemned move still galvanized the opposition.[0m
 
- 1   Shock Or Excite (Someone) Into Taking Action.
-	 Eg.  "The Urgency Of His Voice Galvanized Them Into Action"
-	 Eg.  "The Letter Managed To Galvanize Him Into Action"
-	 Synonyms:  jolt , shock , startle , impel , stir , 
-	 Antonyms:  demotivate , 
+[35mGalvanize[0m[36m /ˈɡalvənʌɪz/,[0m [91m[3mverb[0m[0m | verb: galvanize; 3rd person present: galvanizes; past tense: galvanized; past participle: galvanized; gerund or present participle: galvanizing; verb: galvanise; 3rd person present: galvanises; past tense: galvanised; past participle: galvanised; gerund or present participle: galvanising
+      [32m1.[0m [37mshock or excite (someone) into taking action.[0m
+	   "the urgency of his voice galvanized them into action"
+  	   [3msynonyms:[0m jolt, shock, startle, impel, stir, spur, prod, urge, motivate, stimulate, electrify, excite, rouse, arouse, awaken, invigorate, fire, fuel, animate,
+                     vitalize, energize, exhilarate, thrill, dynamize, inspire ;  get someone going ;  light a fire under, give someone a shot in the
+                     arm, give someone a kick ;  inspirit, incentivize
+		    "the letter managed to galvanize him into action"
+  	   [3mantonyms:[0m demotivate
 
- 2   Coat (Iron Or Steel) With A Protective Layer Of Zinc.
-	 Eg.  "An Old Galvanized Bucket"
-
- 3   Galvanized Tin Sheeting, Typically As Used For Roofing Or Fencing.
-	 Eg.  "The Rain Was Beating Hard Against Miss Orilie'S Galvanize"
+      [32m2.[0m [37mcoat (iron or steel) with a protective layer of zinc.[0m
+	   "an old galvanized bucket"
+    [91m[3mnoun West Indian dialect[0m[0m | noun: galvanize; noun: galvanise
+      [32m1.[0m [37mgalvanized tin sheeting, typically as used for roofing or fencing.[0m
+	   "the rain was beating hard against Miss Orilie's galvanize"
+           [31m[4m[34mverb[0m[0m[0m                      [31m[4m[34m[0m[0m[0m           
+               [31mप्रेरित करना[0m                             [31mजस्ता चढ़ाना[0m              
+         [31mबिजली द्वारा धातु चढ़ाना[0m                    [31mतेज़ी से चालू करना[0m           
+               [31mजस्ता वढ़ाना[0m                             [31mउत्तेजित करना[0m             
+                 [31mकलई करना[0m                  [31mविद्युत शक्ति या बिजली का असर पहुंचाना[0m 

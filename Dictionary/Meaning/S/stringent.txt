@@ -1,17 +1,24 @@
-                                                                                    STRINGENT                                                                                     
-  SHORT        That teacher's demands are stringent — she wants the homework typed in her favorite font, on special paper, and each essay must be exactly 45 lines!
-  LONG         While the word stringent might seem foreign, if you're afflicted with pimples, you'll know the word astringent. An astringent causes your skin to tighten like
+[35m                                                                                    STRINGENT                                                                                     [0m
+[91m        SHORT  That teacher's demands are stringent — she wants the homework typed in her favorite font, on special paper, and each essay must be exactly 45 lines![0m
+[36m         LONG  While the word stringent might seem foreign, if you're afflicted with pimples, you'll know the word astringent. An astringent causes your skin to tighten like
                it's shrinking your pores. This tightening, constricting feel describes stringent with regard to rules. Stringent safety procedures prevent
-               accidents in a dangerous work environment. And restaurants must adhere to stringent health regulations.
+               accidents in a dangerous work environment. And restaurants must adhere to stringent health regulations.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This would be more stringent than the current regulatory standards, which measure capital against risk-weighted assets.
-     >         Fatal accidents are common at industrial sites in China and there have been growing demands for more stringent safety standards.
-     >         Legislators, who listen to oil industry lobbyists, contend the industry cannot comply with the stringent so-called low-carbon fuel standard.
-     >         Stringent standards for automobile fuel economy have kept demand for gasoline and diesel below forecasts.
-     >         Coupled with stringent domestic laws prohibiting sale and transportation, this led demand and price to plummet, allowing the rhino population to recover.
+[3m             > The state’s rules for CO2 wells need to be as stringent as federal standards approved in 2010, and the EPA would oversee the state program.[0m
+[3m             > Borrowers must still meet Fannie’s regular credit-score and other underwriting criteria, which some industry critics say are too stringent, not too lax.[0m
+[3m             > To some extent, Westinghouse also was hamstrung by the NRC, which imposed stringent requirements for the new reactors.[0m
+[3m             > The Trump administration is also demanding that all nations — including, and especially, China — obey stringent sanctions already in place against the Kim
+               government, he said.[0m
+[3m             > Tuna catches from other regions did not face the same stringent tests, it said.[0m
 
- 1   (Of Regulations, Requirements, Or Conditions) Strict, Precise, And Exacting.
-	 Eg.  "Stringent Guidelines On Air Pollution"
-	 Eg.  "The Safety Regulations Are Very Stringent"
-	 Synonyms:  strict , firm , rigid , rigorous , severe , 
-	 Antonyms:  lenient , flexible , 
+[35mStringent[0m[36m /ˈstrɪn(d)ʒ(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: stringent
+          • [37m(of regulations, requirements, or conditions) strict, precise, and exacting.[0m
+	   "stringent guidelines on air pollution"
+  	   [3msynonyms:[0m strict, firm, rigid, rigorous, severe, harsh, tough, tight, exacting, demanding, inflexible, stiff, hard and fast, uncompromising, draconian, extreme
+		    "the safety regulations are very stringent"
+  	   [3mantonyms:[0m lenient, flexible
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mकठोर[0m         [31mकड़ा[0m    
+     [31mदृढ़[0m         [31mसख़्त[0m   
+    [31mकसा हुआ[0m    [31mअभावग्रस्त[0m 
+    [31mअशिथिल[0m       [31mतंगहाल[0m   

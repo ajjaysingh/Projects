@@ -1,17 +1,21 @@
-                                                                                     FULCRUM                                                                                      
-  SHORT        The supporting point of a lever, the first fulcrum you met was probably on the playground — right underneath the see-saw.
-  LONG         Back in the 17th century, a fulcrum referred to any general prop or support. Today it’s taken on more scientific connotations, thanks to Physics class.
+[35m                                                                                     FULCRUM                                                                                      [0m
+[91m        SHORT  The supporting point of a lever, the first fulcrum you met was probably on the playground — right underneath the see-saw.[0m
+[36m         LONG  Back in the 17th century, a fulcrum referred to any general prop or support. Today it’s taken on more scientific connotations, thanks to Physics class.
                However, people still use fulcrum to describe something that plays an essential role or serves as the center of an activity or situation, such
-               as the “fulcrum of the debate.” Or that mom who organized everybody’s playdates? She was the "fulcrum of the playground social circle."
+               as the “fulcrum of the debate.” Or that mom who organized everybody’s playdates? She was the "fulcrum of the playground social circle."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         With Hazard quiet in comparison to recent weeks, Costa was the fulcrum of the visitors' attacking play.
-     >         He makes the line calls, offers in-game pointers and serves as the emotional fulcrum for the guys around him.
-     >         He scored 9 points as the fulcrum of a lineup filled with bench players.
-     >         As the vote tightened, three states emerged as key fulcrums on which the election teetered: Michigan, Pennsylvania, and Wisconsin.
-     >         The early numbers showed Trump performing stubbornly well in a state that has often served as an electoral fulcrum, tipping the nation Republican or
-               Democratic.
+[3m             > Hildegard’s imaginative, lyrical and reflective music represents a fulcrum between two eras.[0m
+[3m             > One participant in the 2004 decision, Justice Anthony M. Kennedy, may prove the fulcrum in the court’s deliberations.[0m
+[3m             > “And the March for Science sort of was the fulcrum in that shift.”[0m
+[3m             > Both St. Therese and St. Paul received financial support from the Fulcrum Foundation, a nonprofit organization that raises education funds for the Seattle
+               Archdiocese.[0m
+[3m             > But, with their attacking fulcrum Kane absent through injury, their own adventure was diminished.[0m
 
- 1   The Point Against Which A Lever Is Placed To Get A Purchase, Or On Which It Turns Or Is Supported.
-
- 2   A Thing That Plays A Central Or Essential Role In An Activity, Event, Or Situation.
-	 Eg.  "Research Is The Fulcrum Of The Academic Community"
+[35mFulcrum[0m[36m /ˈfʊlkrəm,ˈfʌlkrəm/,[0m [91m[3mnoun[0m[0m | noun: fulcrum; plural noun: fulcra; plural noun: fulcrums
+          • [37mthe point against which a lever is placed to get a purchase, or on which it turns or is supported.[0m
+          • [37ma thing that plays a central or essential role in an activity, event, or situation.[0m
+	   "research is the fulcrum of the academic community"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mआधार[0m   [31mसहारा[0m 
+   [31mधलंब[0m   [31mआलम्ब[0m 
+  [31mधश्रय[0m    [31mटेक[0m  

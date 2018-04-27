@@ -1,21 +1,28 @@
-                                                                                     ABEYANCE                                                                                     
-  SHORT        An abeyance is a temporary halt to something, with the emphasis on "temporary." It is usually used with the word "in" or "into"; "in abeyance" suggests a
-               state of waiting or holding.
-  LONG         The word abeyance has a legal ring to it, and for a good reason — appearing in English in the 16th century, it comes from the Anglo-French word abeiance, a
+[35m                                                                                     ABEYANCE                                                                                     [0m
+[91m        SHORT  An abeyance is a temporary halt to something, with the emphasis on "temporary." It is usually used with the word "in" or "into"; "in abeyance" suggests a
+               state of waiting or holding.[0m
+[36m         LONG  The word abeyance has a legal ring to it, and for a good reason — appearing in English in the 16th century, it comes from the Anglo-French word abeiance, a
                legal term for waiting or hoping to receive property. Nowadays, the word is used in a similar way. Different legal rights, like property
-               rights, can be held in abeyance until matters are resolved.
+               rights, can be held in abeyance until matters are resolved.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Lord Carlile has said he will report his findings next summer but until then, the reputation of Bishop George Bell will remain in abeyance.
-     >         His attorney, Kathleen Zellner, filed a motion Friday with the 2nd District Court of Appeals asking the court to hold his latest appeal in abeyance.
-     >         Amid the hoo-hah, one word was curiously in abeyance.
-     >         Odor and Bautista appealed their discipline, which will be held in abeyance pending a resolution.
-     >         Odor and Bautista have appealed their discipline, which will be held in abeyance pending a resolution.
+[3m             > He recently pleaded guilty to the drug charges as part of plea in abeyance.[0m
+[3m             > Circuit to hold the lawsuit in abeyance while the EPA revisited the rules it wrote during President Barack Obama’s tenure.[0m
+[3m             > He’d been holding his whole life in abeyance pending a decision, and they owed him an answer, at least.[0m
+[3m             > As suggested by the general tenor of the discussion, near-perfect information is in abeyance.[0m
+[3m             > Lord Carlile has said he will report his findings next summer but until then, the reputation of Bishop George Bell will remain in abeyance.[0m
 
- 1   A State Of Temporary Disuse Or Suspension.
-	 Eg.  "Matters Were Held In Abeyance Pending Further Enquiries"
-	 Eg.  "The Project Was Left In Abeyance For The Time Being"
-	 Eg.  "The Application Was Held In Abeyance Whilst Legal Advice Was Sought"
-	 Synonyms:  suspension , suspense , remission , reserve , pending , 
-	 Antonyms:  under way , continue , resume , 
-
- 2   The Position Of Being Without, Or Of Waiting For, An Owner Or Claimant.
+[35mAbeyance[0m[36m /əˈbeɪəns/,[0m [91m[3mnoun[0m[0m | noun: abeyance
+          • [37ma state of temporary disuse or suspension.[0m
+	   "matters were held in abeyance pending further enquiries"
+  	   [3msynonyms:[0m suspension, a state of suspension, a state of dormancy, a state of latency, a state of uncertainty, suspense, remission, reserve ;  pending, suspended,
+                     deferred, postponed, put off, put to one side, unattended, unfinished, incomplete, unresolved, undetermined, up in the air, betwixt
+                     and between ;  in cold storage, on ice, on the back burner, hanging fire  suspend, adjourn, interrupt, break off, postpone, delay,
+                     defer, shelve, arrest, put off, intermit, prorogue, hold over, put aside, pigeonhole ;  reschedule ;  cut short, bring to an end,
+                     cease, discontinue, dissolve, disband, terminate, call a halt to ;  table ;  put on ice, put on the back burner, mothball ;  take a
+                     rain check on
+		    "the project was left in abeyance for the time being"
+  	   [3mantonyms:[0m in hand, under way, continuing, continue, resume
+          • [37mthe position of being without, or of waiting for, an owner or claimant.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mठहराव[0m            [31mनिलम्बन[0m     
+       [31mदुविधा[0m       [31mदुविधा या लटकाव[0m 

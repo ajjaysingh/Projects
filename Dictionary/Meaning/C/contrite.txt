@@ -1,18 +1,22 @@
-                                                                                     CONTRITE                                                                                     
-  SHORT        We are sorry to inform you that the adjective contrite means regretful, remorseful, or even guilty.
-  LONG         Someone who feels remorse or guilt is contrite and in addition to feeling sorry, part of the definition includes wanting to atone for having done something
+[35m                                                                                     CONTRITE                                                                                     [0m
+[91m        SHORT  We are sorry to inform you that the adjective contrite means regretful, remorseful, or even guilty.[0m
+[36m         LONG  Someone who feels remorse or guilt is contrite and in addition to feeling sorry, part of the definition includes wanting to atone for having done something
                wrong. The word comes from the Latin roots com- meaning "together" and terere which means "to rub." It's also related to the Latin word
                conterere and is defined as "to bruise." In the field of theology being contrite is "being remorseful for past sin and resolved to avoid future
-               sin."
+               sin."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He cast a despondent, contrite glance toward Mariam, then his mother.
-     >         Harkaway was much more contrite in his statement, issued to Philly.com the following night:
-     >         In a meeting with analysts last week, Mr. Benioff sounded unusually contrite and somewhat shocked that his impetuous style had riled his biggest shareholders.
-     >         He said Bush should first offer an interview with a more contrite apology, perhaps shedding a tear or two.
-     >         For most of the call, Mr. Sloan sounded contrite about the problems and vowed to keep investigating new complaints.
+[3m             > The free meal giveaway is expected to cost the contrite Mr Lim around $1,200, nearly 100 times his original taxi fare.[0m
+[3m             > It would be easier to say yes, to play the contrite role, but it would not be the truth.[0m
+[3m             > Where the Sharapova situation is trickier for me is the bit about being contrite.[0m
+[3m             > She said she believed Loukaitis was genuinely contrite about the shootings.[0m
+[3m             > Artiles seemed less contrite speaking to reporters after his apology.[0m
 
- 1   Feeling Or Expressing Remorse At The Recognition That One Has Done Wrong.
-	 Eg.  "A Contrite Tone"
-	 Eg.  "He Looked So Contrite That She Relented"
-	 Synonyms:  remorseful , repentant , penitent , regretful , sorry , 
-	 Antonyms:  unrepentant , defiant , 
+[35mContrite[0m[36m /kənˈtrʌɪt,ˈkɒntrʌɪt/,[0m [91m[3madjective[0m[0m | adjective: contrite
+          • [37mfeeling or expressing remorse at the recognition that one has done wrong.[0m
+	   "a contrite tone"
+  	   [3msynonyms:[0m remorseful, repentant, penitent, regretful, full of regret, sorry, apologetic, self-reproachful, rueful, sheepish, hangdog ;  ashamed, chastened,
+                     shamefaced, conscience-stricken, guilt-ridden, in sackcloth and ashes ;  compunctious
+		    "he looked so contrite that she relented"
+  	   [3mantonyms:[0m unrepentant, defiant
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+   [31mमनोव्यथित[0m   [31mपछताया हुआ[0m 

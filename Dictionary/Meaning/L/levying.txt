@@ -1,32 +1,34 @@
-                                                                                     LEVYING                                                                                      
-  SHORT        Use the word levy as you would use the word tax: “When the state government imposed a levy on soft drinks, thousands of citizens took to the streets in
-               protest.”
-  LONG         The word levy can act as either a verb or a noun in a sentence. The noun levy refers to a charge, such as a tax, fine, or other fee, that is imposed on
+[35m                                                                                     LEVYING                                                                                      [0m
+[91m        SHORT  Use the word levy as you would use the word tax: “When the state government imposed a levy on soft drinks, thousands of citizens took to the streets in
+               protest.”[0m
+[36m         LONG  The word levy can act as either a verb or a noun in a sentence. The noun levy refers to a charge, such as a tax, fine, or other fee, that is imposed on
                something. The verb levy is used to describe the act of imposing or collecting the charge. If you need to raise money, for example, you may
                decide to levy a fine on your family every time you have to make the coffee in the morning. (Be careful though: your family may also take to
-               the streets in protest.)
+               the streets in protest.)[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         EU regulators are expected to rule next year on those issues, potentially ordering Google to change its business practices and levying huge fines.
-     >         It kept it running, levying taxes on oil imports.
-     >         Praising teens when they are being civil is important, too, and much more effective at changing behavior than levying punishments.
-     >         In 1984, the state Legislature approved a law that prohibits a county, city or city-county from levying a tax on net income.
-     >         In 1984, the state Legislature approved a law that that prohibits a county, city, or city-county from levying a tax on net income.
+[3m             > Many cities get around these obvious boundary issues by also levying the tax on income earned in the city, even if you don’t live there.[0m
+[3m             > And if the Ptolemies excelled at anything, it was at delivering mail and levying taxes.[0m
+[3m             > The bonds would be repaid by levying the state’s 6.5 percent sales tax on the wholesale price of gasoline and diesel.[0m
+[3m             > Under this law, there is a strong argument that the 9/11 hijackers committed treason by levying war against the United States.[0m
+[3m             > Lawmakers also pushed measures to allow the police to intercept data and seize electronics like laptops and cellphones, levying charges of terrorism for
+               misuse.[0m
 
- 1   Impose (A Tax, Fee, Or Fine).
-	 Eg.  "A Tax Of Two Per Cent Was Levied On All Cargoes"
-	 Eg.  "A Proposal To Levy Vat On Fuel"
-	 Synonyms:  impose , charge , exact , demand , raise , 
+[35mLevy[0m[36m /ˈlɛvi/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: levying
+      [32m1.[0m [37mimpose (a tax, fee, or fine).[0m
+	   "a tax of two per cent was levied on all cargoes"
+  	   [3msynonyms:[0m impose, charge, exact, demand, raise, collect, gather ;  tax ;  mulct
+		    "a proposal to levy VAT on fuel"
+          • [37mimpose a tax, fee, or fine on.[0m
+	   "there will be powers to levy the owner"
+  	   [3msynonyms:[0m impose, charge, exact, demand, raise, collect, gather ;  tax ;  mulct
+		    "a proposal to levy VAT on fuel"
+          • [37mseize (property) to satisfy a legal judgement.[0m
+	   "there were no goods to levy upon"
 
- 2   Impose A Tax, Fee, Or Fine On.
-	 Eg.  "There Will Be Powers To Levy The Owner"
-	 Eg.  "A Proposal To Levy Vat On Fuel"
-	 Synonyms:  impose , charge , exact , demand , raise , 
-
- 3   Seize (Property) To Satisfy A Legal Judgement.
-	 Eg.  "There Were No Goods To Levy Upon"
-
- 4   Enlist (Someone) For Military Service.
-	 Eg.  "He Sought To Levy One Man From Each Vill For Service"
-
- 5   Begin To Wage (War).
-	 Eg.  "They Then Proceeded Without Further Ceremony To Levy War Upon The King"
+      [32m2.[0m [37menlist (someone) for military service.[0m
+	   "he sought to levy one man from each vill for service"
+          • [37mbegin to wage (war).[0m
+	   "they then proceeded without further ceremony to levy war upon the king"
+  [31m[4m[34m[0m[0m[0m
+  [31mलगाने[0m 

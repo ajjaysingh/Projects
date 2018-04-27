@@ -1,29 +1,30 @@
-                                                                                    PROSCRIBE                                                                                     
-  SHORT        To proscribe something is to forbid or prohibit it, as a school principal might proscribe the use of cell phones in class.
-  LONG         Proscribe sounds similar to the word prescribe, but be careful: these words are essentially opposite in meaning. While proscribe means forbid, prescribe is
+[35m                                                                                    PROSCRIBE                                                                                     [0m
+[91m        SHORT  To proscribe something is to forbid or prohibit it, as a school principal might proscribe the use of cell phones in class.[0m
+[36m         LONG  Proscribe sounds similar to the word prescribe, but be careful: these words are essentially opposite in meaning. While proscribe means forbid, prescribe is
                used when a doctor recommends a medicine or remedy. Of course, if you want an excuse for not following your doctor’s orders, you could say you
                were confused about the meaning of these two words — but that would be lying, which is proscribed by most people’s value systems. And it would
-               also be bad for your health.
+               also be bad for your health.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         One way is to view etiquette as a set of proscribed behaviors or rules that have been condoned in a particular culture.
-     >         A doctor diagnosed it as a flu, proscribed ibuprofen, and asked Zouabi to return in four days if the symptoms did not subside.
-     >         Others said Thanksgiving was a “religious matter” and therefore proscribed.
-     >         But, his insistence that others follow proscribed policies and procedures while exempting himself seems problematic.
-     >         After long talks, the US agreed to exert influence on the moderates to separate them from the proscribed terrorists.
+[3m             > State Department put Sanadi on its proscribed "terrorist" list on March 17.[0m
+[3m             > He is also barred from proscribing or authorizing such drugs to any patient of his for longer than twelve weeks.[0m
+[3m             > The Fifth Amendment proscribes the government from depriving any person “of life, liberty, or property, without due process of law.”[0m
+[3m             > And she pleaded for Stoker to impose a harsher sentence than the one proscribed in the plea agreement.[0m
+[3m             > The arrests relate to plans to travel to join a proscribed organisation.[0m
 
- 1   Forbid, Especially By Law.
-	 Eg.  "Strikes Remained Proscribed In The Armed Forces"
-	 Eg.  "Gambling Was Proscribed"
-	 Synonyms:  forbid , prohibit , ban , bar , disallow , 
-	 Antonyms:  allow , permit , 
-
- 2   Denounce Or Condemn.
-	 Eg.  "Certain Customary Practices Which The Catholic Church Proscribed, Such As Polygyny"
-	 Eg.  "A Case Was Made For Precisely The Sort Of Intervention Which The Report Proscribed"
-	 Synonyms:  condemn , denounce , attack , criticize , censure , 
-	 Antonyms:  authorize , accept , 
-
- 3   Outlaw (Someone).
-	 Eg.  "A Plaque On Which Were The Names Of Proscribed Traitors"
-	 Eg.  "The Pedlar Appeals To The Local Authorities Who Proscribe Buckley As A Highwayman"
-	 Synonyms:  outlaw , boycott , black , blackball , exclude , 
+[35mProscribe[0m[36m /prə(ʊ)ˈskrʌɪb/,[0m [91m[3mverb[0m[0m | verb: proscribe; 3rd person present: proscribes; past tense: proscribed; past participle: proscribed; gerund or present participle: proscribing
+          • [37mforbid, especially by law.[0m
+	   "strikes remained proscribed in the armed forces"
+  	   [3msynonyms:[0m forbid, prohibit, ban, bar, disallow, rule out, embargo, veto, make illegal, interdict, outlaw, taboo
+		    "gambling was proscribed"
+  	   [3mantonyms:[0m allow, permit
+          • [37mdenounce or condemn.[0m
+	   "certain customary practices which the Catholic Church proscribed, such as polygyny"
+  	   [3msynonyms:[0m condemn, denounce, attack, criticize, censure, denigrate, damn, reject
+		    "a case was made for precisely the sort of intervention which the Report proscribed"
+  	   [3mantonyms:[0m authorize, accept
+          • [37moutlaw (someone).[0m
+	   "a plaque on which were the names of proscribed traitors"
+  	   [3msynonyms:[0m outlaw, boycott, black, blackball, exclude, ostracize ;  exile, expel, expatriate, evict, deport ;  excommunicate
+		    "the pedlar appeals to the local authorities who proscribe Buckley as a highwayman"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mबहिष्कार करना[0m    [31mअभिनिषिद्ध करना[0m 

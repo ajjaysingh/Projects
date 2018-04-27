@@ -1,20 +1,25 @@
-                                                                                     UPHEAVAL                                                                                     
-  SHORT        Upheaval means a violent or sudden change. You might talk about an upheaval in government following an election where many incumbents are replaced.
-  LONG         Upheaval is a geological term for the upward displacement of the earth's crust that has stretched to include a change in power or ideas. If you suddenly found
+[35m                                                                                     UPHEAVAL                                                                                     [0m
+[91m        SHORT  Upheaval means a violent or sudden change. You might talk about an upheaval in government following an election where many incumbents are replaced.[0m
+[36m         LONG  Upheaval is a geological term for the upward displacement of the earth's crust that has stretched to include a change in power or ideas. If you suddenly found
                out your favorite teacher was running a pyramid scheme and had escaped to a Caribbean island, you might experience an upheaval in your attitude
-               toward teachers in general.
+               toward teachers in general.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The speech today seems prescient given upheavals in the past year by millennials on college campuses and their demands for “safe spaces” and censorship.
-     >         So it’s not surprising that choices get made, choices that cause upheavals.
-     >         No single figure did more to define generations of Latin Americans who sought political upheaval than Castro.
-     >         But a great social upheaval, vaguely noticed by young Frank, had already begun.
-     >         A Chinese-Canadian professor probes the mystery of her father’s life amid upheavals in China in this ambitious novel.
+[3m             > Reporting its first quarterly earnings since Mr. O’Reilly’s departure, 21st Century Fox executives managed to avoid discussing the upheaval almost entirely on
+               Wednesday.[0m
+[3m             > But after the upheaval of the past six months, expectations for the next president are high.[0m
+[3m             > But their words did not preclude future upheaval.[0m
+[3m             > Many books say older teens who are just forming their own selves are at risk of depression and upheaval with divorced parents.[0m
+[3m             > Stewart, physically and mentally drained after three years of upheaval, wanted his life to involve more than just NASCAR.[0m
 
- 1   A Violent Or Sudden Change Or Disruption To Something.
-	 Eg.  "Major Upheavals In The Financial Markets"
-	 Eg.  "The Upheaval Caused By Wartime Evacuation"
-	 Synonyms:  disruption , upset , disturbance , trouble , turbulence , 
-	 Antonyms:  stability , tranquillity , 
+[35mUpheaval[0m[36m /ʌpˈhiːv(ə)l/,[0m [91m[3mnoun[0m[0m | noun: upheaval; plural noun: upheavals
+      [32m1.[0m [37ma violent or sudden change or disruption to something.[0m
+	   "major upheavals in the financial markets"
+  	   [3msynonyms:[0m disruption, upset, disturbance, trouble, turbulence ;  disorder, disorganization, confusion, turmoil, pandemonium, bedlam, furore, uproar, disarray,
+                     chaos, mayhem, cataclysm ;  revolution, violent change, sudden change
+		    "the upheaval caused by wartime evacuation"
+  	   [3mantonyms:[0m stability, tranquillity
 
- 2   An Upward Displacement Of Part Of The Earth'S Crust.
-	 Eg.  "The First Upheaval Produced A Hill Which Was Called Roof Mountain"
+      [32m2.[0m [37man upward displacement of part of the earth's crust.[0m
+	   "the first upheaval produced a hill which was called Roof Mountain"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mक्रांति[0m       [31mउथल-पुथल[0m   

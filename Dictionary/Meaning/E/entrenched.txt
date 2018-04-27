@@ -1,34 +1,36 @@
-                                                                                    ENTRENCHED                                                                                    
-  SHORT        When you're entrenched, you're dug in. Sometimes that means you're literally in a trench, but usually it means you just won't budge from a position or belief.
-  LONG         Entrenched things are buried so solidly that they can't move — or just behave like they're firmly lodged in some deep hole. Usually this word refers to views
+[35m                                                                                    ENTRENCHED                                                                                    [0m
+[91m        SHORT  When you're entrenched, you're dug in. Sometimes that means you're literally in a trench, but usually it means you just won't budge from a position or belief.[0m
+[36m         LONG  Entrenched things are buried so solidly that they can't move — or just behave like they're firmly lodged in some deep hole. Usually this word refers to views
                people hold very strongly. Having turkey on Thanksgiving is a tradition that's entrenched in American culture — it's long been established and
-               isn't going anywhere. When you're entrenched, you're being stubborn or consistent, depending on your view.
+               isn't going anywhere. When you're entrenched, you're being stubborn or consistent, depending on your view.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He’ll soon find that one of the most entrenched forces that object to any change affecting them is the White House press corps.
-     >         Critically, a federal job guarantee is both universal—it benefits all Americans—and specifically ameliorative to entrenched racial inequality.
-     >         But when they discovered how entrenched and hard-bitten the status quo really was, they promptly folded, contented themselves with mere celebrity, and
-               accomplished nothing.
-     >         This suburban scene provides further evidence of how Islanders players and their families remain entrenched on Long Island despite playing games in Brooklyn.
-     >         People are for the most part angrily entrenched in their views, and that’s that.”
+[3m             > Perhaps because the MID enjoys entrenched, unyielding support from a powerful real estate lobby.[0m
+[3m             > Macron’s story is of a highly improbable ascent in a system that typically rewards entrenched political dynasties.[0m
+[3m             > Israel barely registered a blip, wedged between Syria and Central-African-Republic. Does this look like a country that’s suffering “entrenched bias”?[0m
+[3m             > Obviously the franchise loyalty of GOP voters is significantly more entrenched.[0m
+[3m             > Smith is firmly entrenched as the starter this season, but beyond that is anyone’s guess.[0m
 
- 1   (Of An Attitude, Habit, Or Belief) Firmly Established And Difficult Or Unlikely To Change; Ingrained.
-	 Eg.  "An Entrenched Resistance To Change"
+[35mEntrenched[0m[36m /ɪnˈtrɛn(t)ʃt,ɛnˈtrɛn(t)ʃt/,[0m [91m[3madjective[0m[0m | adjective: entrenched
+          • [37m(of an attitude, habit, or belief) firmly established and difficult or unlikely to change; ingrained.[0m
+	   "an entrenched resistance to change"
+[35mEntrench[0m[36m /ɪnˈtrɛn(t)ʃ,ɛnˈtrɛn(t)ʃ/,[0m [91m[3mverb[0m[0m
+	past tense: entrenched; past participle: entrenched
+      [32m1.[0m [37mestablish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely.[0m
+	   "ageism is entrenched in our society"
+  	   [3msynonyms:[0m establish, settle, ensconce, lodge, set, root, install, plant, embed, anchor, seat, station ;  dig in  ingrained, established, well established, long-
+                     established ;  confirmed, fixed, set firm, firm ;  deep-seated, deep-rooted, rooted, deep-set ;  unshakeable, irremovable,
+                     indelible, ineradicable, inveterate, immutable, inexorable, dyed-in-the-wool
+		    "this country is entrenched in a litigation mentality"
+  	   [3mantonyms:[0m dislodge, superficial
+          • [37mestablish (someone) in a position of great strength or security.[0m
+	   "by 1947 de Gaulle's political opponents were firmly entrenched in power"
+          • [37mapply extra legal safeguards to (a right guaranteed by legislation).[0m
+	   "steady progress was made in entrenching the individual rights of noblemen"
 
- 2   Establish (An Attitude, Habit, Or Belief) So Firmly That Change Is Very Difficult Or Unlikely.
-	 Eg.  "Ageism Is Entrenched In Our Society"
-	 Eg.  "This Country Is Entrenched In A Litigation Mentality"
-	 Eg.  "Officials Tended To Cling To Entrenched Attitudes"
-	 Synonyms:  establish , settle , ensconce , lodge , set , 
-	 Antonyms:  dislodge , superficial , 
+      [32m2.[0m [37mestablish (a military force) in trenches or other fortified positions.[0m
+	   "the corps was now fully entrenched on the Right Bank"
 
- 3   Establish (Someone) In A Position Of Great Strength Or Security.
-	 Eg.  "By 1947 De Gaulle'S Political Opponents Were Firmly Entrenched In Power"
-
- 4   Apply Extra Legal Safeguards To (A Right Guaranteed By Legislation).
-	 Eg.  "Steady Progress Was Made In Entrenching The Individual Rights Of Noblemen"
-
- 5   Establish (A Military Force) In Trenches Or Other Fortified Positions.
-	 Eg.  "The Corps Was Now Fully Entrenched On The Right Bank"
-
- 6   Encroach Or Trespass On.
-	 Eg.  "Concessions Which Entrenched So Deeply On The Honour And Dignity Of The Crown"
+      [32m3.[0m [37mencroach or trespass on.[0m
+	   "concessions which entrenched so deeply on the honour and dignity of the Crown"
+  [31m[4m[34madjective[0m[0m[0m
+  [31mआरोपित हुआ[0m 

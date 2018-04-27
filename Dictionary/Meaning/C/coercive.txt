@@ -1,15 +1,19 @@
-                                                                                     COERCIVE                                                                                     
-  SHORT        If you use coercive measures to get people to join your club, it means that you intimidate or force people to make them feel like they have to join.
-  LONG         If you use threats to get what you want from other people, your methods can be described as coercive. It can take nothing more than a strong sense of
+[35m                                                                                     COERCIVE                                                                                     [0m
+[91m        SHORT  If you use coercive measures to get people to join your club, it means that you intimidate or force people to make them feel like they have to join.[0m
+[36m         LONG  If you use threats to get what you want from other people, your methods can be described as coercive. It can take nothing more than a strong sense of
                authority to come across as coercive, or the intimidation can take the form of physical threats. When you're coercive, you're demanding
-               obedience without much concern for what the people you coerce need or want. The Latin root is coercere, which means "to control or restrain."
+               obedience without much concern for what the people you coerce need or want. The Latin root is coercere, which means "to control or restrain."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “We have no problem to talk about this through dialogue and negotiations, but not through a coercive law.’
-     >         Over the years, judges threw out his admissions during interrogations, finding they were tainted by mistreatment at the C.I.A. prison and coercive questioning
-               at Guantánamo.
-     >         High status is itself a powerful coercive force that can stifle resistance in a lower-status victim and so silence him or her.
-     >         It was simply such a relief to get the ball and chain of your vicious, punitive, coercive, mandatory health insurance off my neck.
-     >         West Yorkshire Police said O'Shea was the first person from the county sent to jail under new coercive control laws.
+[3m             > The difference seems to be less patience, more coercive diplomacy and a more credible threat of military force.[0m
+[3m             > Too many corporate professionals lack the intellectual and emotional energy to deeply examine the ugly, coercive policies enabling financial predators to harm
+               working voters.[0m
+[3m             > “All of these are coercive, humiliating, and unnecessary,” he said.[0m
+[3m             > Sending an aircraft carrier and its accompanying guided-missile destroyers and cruiser to the region was a “classic coercive diplomatic measure,” Graham said.[0m
+[3m             > But in the absence of much public comment, American allies seem confused about the administration’s strategy of coercive diplomacy.[0m
 
- 1   Relating To Or Using Force Or Threats.
-	 Eg.  "Coercive Measures"
+[35mCoercive[0m[36m /kəʊˈəːsɪv/,[0m [91m[3madjective[0m[0m | adjective: coercive
+          • [37mrelating to or using force or threats.[0m
+	   "coercive measures"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mबलपूर्वक[0m   [31mप्रतिरोधी[0m 
+   [31mअनिवार्य[0m     [31mलाचारी[0m  

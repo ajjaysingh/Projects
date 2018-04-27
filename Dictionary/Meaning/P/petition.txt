@@ -1,38 +1,41 @@
-                                                                                     PETITION                                                                                     
-  SHORT        If you're angry about the new rule that you have to wear bright pink shoes to work every day, why not write up a petition, get all your co-workers to sign it,
-               and submit it to your boss.
-  LONG         Petition comes from the Anglo-Norman word peticiun, meaning "demand, request," and when you petition someone, you ask them to consider your request. If you
+[35m                                                                                     PETITION                                                                                     [0m
+[91m        SHORT  If you're angry about the new rule that you have to wear bright pink shoes to work every day, why not write up a petition, get all your co-workers to sign it,
+               and submit it to your boss.[0m
+[36m         LONG  Petition comes from the Anglo-Norman word peticiun, meaning "demand, request," and when you petition someone, you ask them to consider your request. If you
                write up a statement, say against the town's approval of a new carnival district, and collect signatures from 100 neighbors to turn in to the
                city government, that's a petition. If you pray to the carnival gods to reign down ruin on the carnival, that's also a petition — and no
-               signatures needed.
+               signatures needed.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         While many of his constituents have signed the pro-garden petition, he worries that the perpetual obligation could burden city workers and finances into, er,
-               perpetuity.
-     >         It added: “In its current form, we will oppose the government’s petition in court.”
-     >         A petition signed by hundreds of women demanded an apology and sanctions against the station.
-     >         She would change it not just by signing petitions, or protesting, or calling her legislators.
-     >         The deadline for the petition for the recount in Wisconsin was Friday, while Pennsylvania's deadline is Monday, and Michigan's is Wednesday.
+[3m             > India's Supreme Court is hearing a clutch of petitions challenging the controversial practice of instant divorce in Islam.[0m
+[3m             > Students gathered petitions demanding she not be allowed to speak.[0m
+[3m             > At Bethune-Cookman, alumni and others delivered petitions this week to administrators with thousands of signatures demanding that DeVos not be allowed to
+               speak.[0m
+[3m             > In districts with fewer than 1,000 registered voters, the petition requires signatures from 40 percent of them.[0m
+[3m             > Protest petitions quickly accumulated thousands of signatures and many called on President Jackson to resign.[0m
 
- 1   A Formal Written Request, Typically One Signed By Many People, Appealing To Authority In Respect Of A Particular Cause.
-	 Eg.  "She Was Asked To Sign A Petition Against Plans To Build On The Local Playing Fields"
-	 Eg.  "About 7,000 People Signed A Petition Objecting To The Scheme"
-	 Synonyms:  appeal , round robin , 
-
- 2   An Appeal Or Request To A Deity Or A Superior.
-	 Eg.  "A Steady Stream Of Petitions To Allah Were Audible"
-	 Eg.  "A Steady Stream Of Petitions To Allah Were Audible"
-	 Synonyms:  entreaty , supplication , plea , prayer , appeal , 
-
- 3   An Application To A Court For A Writ, Judicial Action In A Suit, Etc.
-	 Eg.  "A Divorce Petition"
-
- 4   Present A Petition To (An Authority) In Respect Of A Particular Cause.
-	 Eg.  "The Organization Is Petitioning The Eu For A Moratorium On The Patent"
-	 Eg.  "Human Rights Activists Petitioned The King To Release The Hunger Strikers"
-	 Synonyms:  request , ask , entreat , beg , implore , 
-
- 5   Make An Appeal To (A Deity Or Superior).
-	 Eg.  "A Highland Chief Petitioned Her Father For Her Hand In Marriage"
-
- 6   Make A Formal Application To (A Court) For A Writ, Judicial Action In A Suit, Etc.
-	 Eg.  "The Custodial Parent Petitioned The Court For Payment Of The Arrears"
+[35mPetition[0m[36m /pɪˈtɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: petition; plural noun: petitions
+      [32m1.[0m [37ma formal written request, typically one signed by many people, appealing to authority in respect of a particular cause.[0m
+	   "she was asked to sign a petition against plans to build on the local playing fields"
+  	   [3msynonyms:[0m appeal, round robin, list of signatures/protesters
+		    "about 7,000 people signed a petition objecting to the scheme"
+          • [37man appeal or request to a deity or a superior.[0m
+	   "a steady stream of petitions to Allah were audible"
+  	   [3msynonyms:[0m entreaty, supplication, plea, prayer, appeal, request, application, invocation, suit ;  orison ;  imploration
+		    "a steady stream of petitions to Allah were audible"
+          • [37man application to a court for a writ, judicial action in a suit, etc.[0m
+	   "a divorce petition"
+    [91m[3mverb[0m[0m | verb: petition; 3rd person present: petitions; past tense: petitioned; past participle: petitioned; gerund or present participle: petitioning
+      [32m1.[0m [37mpresent a petition to (an authority) in respect of a particular cause.[0m
+	   "the organization is petitioning the EU for a moratorium on the patent"
+  	   [3msynonyms:[0m appeal to, request, ask, call on, entreat, beg, implore, beseech, plead with, make a plea to, pray, apply to, solicit, press, urge, adjure, present one's
+                     suit to, importune ;  obsecrate
+		    "human rights activists petitioned the king to release the hunger strikers"
+          • [37mmake an appeal to (a deity or superior).[0m
+	   "a Highland chief petitioned her father for her hand in marriage"
+          • [37mmake a formal application to (a court) for a writ, judicial action in a suit, etc.[0m
+	   "the custodial parent petitioned the court for payment of the arrears"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mयाचिका[0m            [31mअर्जी[0m        [31mपक्ष में कहना[0m 
+     [31mप्रार्थना[0m          [31mविनती[0m        [31mसिफ़ारिश करना[0m 
+    [31mगिड़गिड़ाहट[0m         [31mविनय[0m        [31mप्रार्थना करना[0m 
+     [31mसिफ़ारिश[0m      [31mप्रार्थना पत्र[0m     [31mनिवेदन करना[0m  

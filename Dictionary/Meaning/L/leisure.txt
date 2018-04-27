@@ -1,27 +1,33 @@
-                                                                                     LEISURE                                                                                      
-  SHORT        Leisure is time off, spare time, sweet sweet freedom from the demands of work. It's like playtime for grown-ups.
-  LONG         Leisure is time away from commitments like work or school.  Leisure activities might include windsailing, golfing, crocheting a portrait of Betsy Ross,
+[35m                                                                                     LEISURE                                                                                      [0m
+[91m        SHORT  Leisure is time off, spare time, sweet sweet freedom from the demands of work. It's like playtime for grown-ups.[0m
+[36m         LONG  Leisure is time away from commitments like work or school.  Leisure activities might include windsailing, golfing, crocheting a portrait of Betsy Ross,
                staring at one's navel, whatever. It's the freedom to do what the heck you want. It's not time for punching the clock or writing a paper on the
                role of matchsticks in the Industrial Revolution; it's kick-your-shoes-off time. If you read a book at your leisure, there's no rush. Leisure
-               is more rare for some than others. "The billionaire was a woman of leisure," but leisure time is a luxury for most.
+               is more rare for some than others. "The billionaire was a woman of leisure," but leisure time is a luxury for most.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Other surveys indicate that dropouts spend about eight hours a day “socializing, relaxing and leisure” — watching TV, playing video games or just hanging out.
-     >         Daniel gifts me a “crowler” of same to take back to my hotel to enjoy at my leisure.
-     >         He made the pledge at a local leisure centre used for Friday prayers.
-     >         They are temporarily being held under guard by immigration and police personnel in a building within the leisure park.
-     >         Boomers put in the time, work hard and then reward themselves with leisure activities outside of work.
+[3m             > So, provided they are unlicensed, this includes sports stadiums, leisure centres, swimming pools, health clubs, tourists attractions, theatres, cinemas and
+               beauty salons.[0m
+[3m             > If they both did leisure activities, the men’s stress levels stayed put.[0m
+[3m             > Public health budgets would be ring-fenced to allow councils to invest in leisure activities and health awareness campaigns.[0m
+[3m             > It is a particularly expensive area of the stadium, with plush concourses and refreshments to enjoy at your leisure.[0m
+[3m             > Nealon said most passenger traffic on Southwest’s flights to Latin America consists of American leisure travelers flying south.[0m
 
- 1   Time When One Is Not Working Or Occupied; Free Time.
-	 Eg.  "People With Too Much Enforced Leisure"
-	 Eg.  "Whenever Paul Had Leisure He Worked On The Manuscript"
-	 Synonyms:  time off , freedom , holiday , breathing space , respite , 
-	 Antonyms:  work , 
-
- 2   Use Of Free Time For Enjoyment.
-	 Eg.  "Increased Opportunities For Leisure"
-	 Eg.  "Whenever Paul Had Leisure He Worked On The Manuscript"
-	 Synonyms:  time off , freedom , holiday , breathing space , respite , 
-	 Antonyms:  work , 
-
- 3   Opportunity Afforded By Free Time To Do Something.
-	 Eg.  "Writers With Enough Leisure To Practise Their Art"
+[35mLeisure[0m[36m /ˈlɛʒə/,[0m [91m[3mnoun[0m[0m | noun: leisure
+          • [37mtime when one is not working or occupied; free time.[0m
+	   "people with too much enforced leisure"
+  	   [3msynonyms:[0m free time, spare time, spare moments, time to spare, idle hours, time off, freedom, holiday, breathing space, breathing spell, respite, relief, ease,
+                     peace, quiet ;  recreation, relaxation, inactivity, amusement, entertainment, pleasure, diversion, distraction, fun, games, fun and
+                     games ;  vacation ;  time to kill, R and R ;  vacay
+		    "whenever Paul had leisure he worked on the manuscript"
+  	   [3mantonyms:[0m work
+          • [37muse of free time for enjoyment.[0m
+	   "increased opportunities for leisure"
+  	   [3msynonyms:[0m free time, spare time, spare moments, time to spare, idle hours, time off, freedom, holiday, breathing space, breathing spell, respite, relief, ease,
+                     peace, quiet ;  recreation, relaxation, inactivity, amusement, entertainment, pleasure, diversion, distraction, fun, games, fun and
+                     games ;  vacation ;  time to kill, R and R ;  vacay
+		    "whenever Paul had leisure he worked on the manuscript"
+  	   [3mantonyms:[0m work
+          • [37mopportunity afforded by free time to do something.[0m
+	   "writers with enough leisure to practise their art"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mअवकाश[0m      [31mफुरसत[0m  

@@ -50,14 +50,14 @@ def check(word):
     correct = correction(word)
     if word.lower() == correct.lower():
         print(correct)
-        return word
+        return [word, False]
     else:
         print("The word \""+ word +"\" should have been > " + correct)
         decide = input("Press 'y' if you want to change\n\t 'n' if continue with the same word.")
         if decide == 'y':
-            return correct.lower()
+            return [correct.lower(), True] # True because word change and you need to change the word to be saved.
         else:
-            return word
+            return [word, False] # False because we did not change the word.
 
 
 # def checkOnline(word):
@@ -93,6 +93,7 @@ def checkOnline(word):
         msg = soup.find("div", {"id":"didyoumean"})
         # print(msg.text)
         suggestions = [word]
+        did_word_change = False
         if msg != None and errorString in msg.text:
             search_results = soup.find_all("div", {"id":"search-results"})[1]
             # print(search_results)
@@ -107,9 +108,13 @@ def checkOnline(word):
             for suggestion in suggestions[1:9]:
                 print(count, suggestion)
                 count = count + 1
-            word = suggestions[int(input("Select Suggestion. Press 0 to retain your word: "))]
-        return word
+            choice_entered = int(input("Select Suggestion. Press 0 to retain your word: "))
+            word = suggestions[choice_entered]
+            if choice_entered > 0:
+                did_word_change = True
+        return [word, did_word_change]
     except:
         # exit(5)
         print("Problem with online check")
-        return check(word)
+        [word, did_word_change] = check(word)
+        return [word, did_word_change]

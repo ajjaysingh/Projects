@@ -1,17 +1,21 @@
-                                                                                    ALLEGEDLY                                                                                     
-  SHORT        If someone is said to be allegedly guilty of something, it means that proof has yet to be produced or they have yet to be found formally guilty by law.
-  LONG         Allegedly is used almost entirely in a legal sense, referring to a potentially criminal action that is being or will shortly be decided in court. (It's from
+[35m                                                                                    ALLEGEDLY                                                                                     [0m
+[91m        SHORT  If someone is said to be allegedly guilty of something, it means that proof has yet to be produced or they have yet to be found formally guilty by law.[0m
+[36m         LONG  Allegedly is used almost entirely in a legal sense, referring to a potentially criminal action that is being or will shortly be decided in court. (It's from
                the medieval English word allege, meaning "quoted" or "brought forth in court.") For less serious matters, such as whether or not your
                boyfriend called you a liar, the word supposedly is generally used. Though watch out, because if you take him to court, you will become
-               "allegedly a liar."
+               "allegedly a liar."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Before the rally’s Kenya leg, the pilots of around 20 vintage biplanes were detained in Ethiopia for allegedly entering Ethiopian airspace illegally.
-     >         Police investigating an incident in which two men allegedly posed as police officers have arrested a 27-year-old man.
-     >         At least 14 people have been killed in Uganda, in a battle between police and militia allegedly linked to one of the country's traditional kings.
-     >         Ambassador Patrick Duddy for allegedly plotting his overthrow and then denying credentials for his named successor.
-     >         More recently, he was seen flogging a young woman and man during a service for allegedly having extra-marital sex.
+[3m             > Police say that according to witnesses, Mohamed’s car allegedly ran a stop sign before the crash occurred.[0m
+[3m             > Morton allegedly used the money to fund a children’s clothing boutique she opened with her family in 2011.[0m
+[3m             > A reporter was arrested on Tuesday night at the West Virginia Capitol for allegedly causing a disturbance by shouting questions to two Trump aides.[0m
+[3m             > Millions in bribes allegedly were funneled into the campaign coffers of his Workers Party as well as nearly every major political party, they say.[0m
+[3m             > The chef was seen pointing his finger at the crowd before allegedly pushing a 19-year-old man in the chest.[0m
 
- 1   Used To Convey That Something Is Claimed To Be The Case Or Have Taken Place, Although There Is No Proof.
-	 Eg.  "He Was Allegedly A Leading Participant In The Coup Attempt"
-	 Eg.  "He Allegedly Stabbed The Girl"
-	 Synonyms:  reportedly , supposedly , reputedly , ostensibly , apparently , 
+[35mAllegedly[0m[36m /əˈlɛdʒɪdli/,[0m [91m[3madverb[0m[0m | adverb: allegedly
+          • [37mused to convey that something is claimed to be the case or have taken place, although there is no proof.[0m
+	   "he was allegedly a leading participant in the coup attempt"
+  	   [3msynonyms:[0m reportedly, supposedly, reputedly, purportedly, ostensibly, apparently, by all accounts, so the story goes, putatively, presumedly, presumably,
+                     assumedly, declaredly, avowedly ;  be accused of being/doing, be alleged to be/have, be said to be/have, be rumoured to be/have
+		    "he allegedly stabbed the girl"
+  [31m[4m[34m[0m[0m[0m
+  [31mकथित तौर पर[0m 

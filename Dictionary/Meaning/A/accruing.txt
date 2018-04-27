@@ -1,25 +1,28 @@
-                                                                                     ACCRUING                                                                                     
-  SHORT        To accrue is to accumulate or to keep growing in value or size. If you can accrue enough extra credit to build up your grade, you won't have to take the final
-               exam.
-  LONG         Early forms of the word accrue were used as early as the 15th century with the meaning "to increase" or "to grow." Many modern uses for accrue involve money
+[35m                                                                                     ACCRUING                                                                                     [0m
+[91m        SHORT  To accrue is to accumulate or to keep growing in value or size. If you can accrue enough extra credit to build up your grade, you won't have to take the final
+               exam.[0m
+[36m         LONG  Early forms of the word accrue were used as early as the 15th century with the meaning "to increase" or "to grow." Many modern uses for accrue involve money
                or finances, as when you accrue, or earn, interest on a bank account. You can accrue debt too, as interest grows on top of money owed until you
-               pay it back. It's possible to accrue benefits over the time you work somewhere, or you can accrue demerits while you're misbehaving somewhere.
+               pay it back. It's possible to accrue benefits over the time you work somewhere, or you can accrue demerits while you're misbehaving somewhere.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Many of these were mandated by legislation and have been tested by litigation, thereby accruing a legal standing of their own.
-     >         And the owner of the towing yard where Baird’s mangled car is accruing fees agreed to allow him to retrieve some personal records and photographs.
-     >         In the end, the trip took three airplanes , three helicopters, about 100 federal security agents and dozens of police officers accruing overtime.
-     >         Meanwhile, interest on the award is accruing at 1 percent per month.
-     >         SolarCity’s cost per installed watt increased from a year ago, while the value per watt accruing to the company has dropped. Meanwhile,
+[3m             > Accruing massive high-interest credit card debt and not saving for retirement are some of the biggest red flags, he says.[0m
+[3m             > “But the political and psychological benefits keep accruing, and the impact in China’s near seas is being felt today.”[0m
+[3m             > Any tax return and amount on which penalty or interest began accruing before the Feb. 7 storms aren’t eligible for the extensions.[0m
+[3m             > Too often, out-of-town visitors find themselves driving rental cars on these roads — and accruing surprise charges in the process.[0m
+[3m             > Due to accruing interest, Pang owed nearly $2.9 million, also as of June.[0m
 
- 1   (Of A Benefit Or Sum Of Money) Be Received By Someone In Regular Or Increasing Amounts Over Time.
-	 Eg.  "Financial Benefits Will Accrue From Restructuring"
-	 Eg.  "Financial Benefits Will Accrue From Restructuring"
-	 Synonyms:  result , arise , follow , ensue , emanate , 
-
- 2   Accumulate Or Receive (Payments Or Benefits) Over Time.
-	 Eg.  "They Accrue Entitlements To Holiday Pay"
-	 Eg.  "Interest Is Added To The Account As It Accrues"
-	 Synonyms:  accumulate , collect , gather , amass , grow , 
-
- 3   Make Provision For (A Charge) At The End Of A Financial Period For Work That Has Been Done But Not Yet Invoiced.
-	 Eg.  "At 31 December The Amount Due For The Final Quarter Is Accrued"
+[35mAccrue[0m[36m /əˈkruː/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: accruing
+          • [37m(of a benefit or sum of money) be received by someone in regular or increasing amounts over time.[0m
+	   "financial benefits will accrue from restructuring"
+  	   [3msynonyms:[0m result, arise, follow, ensue, emanate, stem, spring, flow ;  be caused by, be brought about by, be produced by, originate in, attend, accompany, be
+                     consequent on
+		    "financial benefits will accrue from restructuring"
+          • [37maccumulate or receive (payments or benefits) over time.[0m
+	   "they accrue entitlements to holiday pay"
+  	   [3msynonyms:[0m accumulate, collect, gather, build up, mount up, amass, grow, increase, augment, be added
+		    "interest is added to the account as it accrues"
+          • [37mmake provision for (a charge) at the end of a financial period for work that has been done but not yet invoiced.[0m
+	   "at 31 December the amount due for the final quarter is accrued"
+  [31m[4m[34m[0m[0m[0m
+  [31mएकत्रित[0m 

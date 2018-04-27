@@ -1,16 +1,21 @@
-                                                                                     SYNERGY                                                                                      
-  SHORT        You write the lyrics and your friend composes the music. Separately each of you is pretty good, but together you’ve got a mega-hit song. That’s synergy —
-               working together to create something greater than either of you could do alone.
-  LONG         The word synergy comes from the Greek sun “together” and ergon “work” (the same root that gives us ergonomic and energy).  When one thing magnifies the effect
+[35m                                                                                     SYNERGY                                                                                      [0m
+[91m        SHORT  You write the lyrics and your friend composes the music. Separately each of you is pretty good, but together you’ve got a mega-hit song. That’s synergy —
+               working together to create something greater than either of you could do alone.[0m
+[36m         LONG  The word synergy comes from the Greek sun “together” and ergon “work” (the same root that gives us ergonomic and energy).  When one thing magnifies the effect
                of another, together they have synergy. If your company makes some revolutionary kind of yo-yo, you may decide to acquire a company that
                distributes toys, as you’d expect there would be a natural synergy: each company will benefit from the other’s strengths, and together they’ll
-               be stronger than either would be by itself.
+               be stronger than either would be by itself.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The synergy between the solo quartet and the orchestra was breathtaking.
-     >         Car companies see great synergy in their development of electric cars, hoping to carve a niche for themselves in a completely different industry.
-     >         “In the end we will forfeit synergies, people’s incomes will fall and national vigor will decline,” Mr. Liang wrote.
-     >         “This deal is about synergy and growth. It’s all about partnerships, and those choices decide the winners and losers.”
-     >         Per Synergy’s tracking stats, during their only year at Kentucky, Wall made eight passes in transition to Cousins, and Cousins scored on all eight.
+[3m             > Best D.C. sports synergy: On one of the biggest D.C. sports nights in years, the Wizards sent good vibes to the Capitals.[0m
+[3m             > In the United States, savings caused by synergies helped offset price deflation, the effect of poor weather and the timing of Easter.[0m
+[3m             > The prospectus for shareholders stated "there will be a need to maximise operational efficiencies and cost synergies" to achieve the expected benefits of the
+               merger.[0m
+[3m             > No. 2 shareholder, partially derailing its move to stop negotiations by top shareholder Synergy Group with United Continental Holdings Inc.[0m
+[3m             > “Obviously, the larger the scale of the footprint, the greater the synergies,” Malone said at Liberty Media’s investor day.[0m
 
- 1   The Interaction Or Cooperation Of Two Or More Organizations, Substances, Or Other Agents To Produce A Combined Effect Greater Than The Sum Of Their Separate Effects.
-	 Eg.  "The Synergy Between Artist And Record Company"
+[35mSynergy[0m[36m /ˈsɪnədʒi/,[0m [91m[3mnoun[0m[0m | noun: synergy; plural noun: synergies; noun: synergism; plural noun: synergisms
+          • [37mthe interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate
+            effects.[0m
+	   "the synergy between artist and record company"
+  [31m[4m[34m[0m[0m[0m
+  [31mतालमेल[0m 

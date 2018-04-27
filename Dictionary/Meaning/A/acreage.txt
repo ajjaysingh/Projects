@@ -1,10 +1,14 @@
-                                                                                     ACREAGE                                                                                      
+[35m                                                                                     ACREAGE                                                                                      [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Richardson said he is looking to turn his unused acreage - about 13 acres - into “a farmer incubator program” for the healthy-food movement.
-     >         All but Connecticut, Idaho, Kentucky, Maine, Massachusetts and Mississippi have some amount of acreage devoted to the production of these beans.
-     >         Training involves trotting and galloping in pastures and on a four-speed hot walker on her grandparents’ Cayuse acreage.
-     >         His family is hunting for more acreage in Patagonia in the hopes of repeating their development experience, Mr. Marangoni said.
-     >         Those properties with high acreage are more likely to be bought by out-of-state residents moving in.
+[3m             > Most of that acreage is on public land within the Okefenokee National Wildlife Refuge.[0m
+[3m             > Vast acreages of grain, a practice called monoculture, define much of Midwestern farmland, but Gill prefers to grow a diversity of fruits and vegetables.[0m
+[3m             > Heroin requires acreage to grow the necessary poppies.[0m
+[3m             > The acreage of vineyards is now greater in China than in France, though France remains ahead in actual production.[0m
+[3m             > Exxon doubled its acreage holdings in the Permian Basin of West Texas earlier this year in a deal worth up to $6.6 billion.[0m
 
- 1   An Area Of Land, Typically When Used For Agricultural Purposes, But Not Necessarily Measured In Acres.
-	 Eg.  "A 35 Per Cent Increase In Net Acreage"
+[35mAcreage[0m[36m /ˈeɪk(ə)rɪdʒ/,[0m [91m[3mnoun[0m[0m | noun: acreage; plural noun: acreages
+          • [37man area of land, typically when used for agricultural purposes, but not necessarily measured in acres.[0m
+	   "a 35 per cent increase in net acreage"
+   [31m[4m[34mnoun[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+      [31mएकड़ों में नाप[0m           [31mरकबा (एकड़ में)[0m    
+      [31mएकड़ पीछे लगान[0m       [31mक्षेत्रफल (एकड़ों में)[0m 

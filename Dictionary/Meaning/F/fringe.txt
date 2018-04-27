@@ -1,47 +1,56 @@
-                                                                                      FRINGE                                                                                      
-  SHORT        If you make cutoffs from jeans, the little white strings around the edges of the legs make a fringe. A fringe is a decorative edge made of hanging strings of
-               fabric.
-  LONG         You know how fringe hangs on the edge of fabric and clothing? Think of this picture when you see fringe used metaphorically to mean something that is on the
+[35m                                                                                      FRINGE                                                                                      [0m
+[91m        SHORT  If you make cutoffs from jeans, the little white strings around the edges of the legs make a fringe. A fringe is a decorative edge made of hanging strings of
+               fabric.[0m
+[36m         LONG  You know how fringe hangs on the edge of fabric and clothing? Think of this picture when you see fringe used metaphorically to mean something that is on the
                outer boundaries of something else. Many cities hold events called fringe festivals that celebrate art created on the fringe of the established
                art world. A group of people whose beliefs place them on the outskirts of a social group is called a fringe group. And beware of the lunatic
-               fringe — they are the extremists and fanatics of a social or political movement.
+               fringe — they are the extremists and fanatics of a social or political movement.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Trump’s national security adviser considers the Islamic faith — all of it, not just the radicalized fringes — to be illegitimate and akin to a “cancer.”
-     >         Actually, the alt-right is a very American movement, and we have have plenty of historical precedent for fringe right-wing malcontents.
-     >         Rising rents—a direct outcome of urban redevelopment—have made the production of art in Shanghai difficult, forcing artists to the city’s fringes, and beyond.
-     >         The Eagleworks, which is part of the Johnson Space Centre, is a place where the agency tests fringe ideas.
-     >         In 1962 the Queen opened the Commonwealth Institute on the leafy fringes of Holland Park in London.
+[3m             > For a time he ran the China Project, an artists’ residency program in Tongzhou, an art district on the fringes of Beijing.[0m
+[3m             > Thupa Inka’s death set off a fight for the royal fringe.[0m
+[3m             > But these would-be revolutionary forces were not confined to the political fringe.[0m
+[3m             > The party began in 1972 as a fringe, extremist group; for years, it was ignored or boycotted by much of the rest of the country.[0m
+[3m             > Eventually Victorian concerns about hygiene led to many town and city churchyards being closed and replaced by larger cemeteries - often on urban fringes.[0m
 
- 1   An Ornamental Border Of Threads Left Loose Or Formed Into Tassels Or Twists, Used To Edge Clothing Or Material.
-	 Eg.  "A Long Grey Skirt With A Fringe"
-	 Eg.  "The Curtains Are Blue With A Honey-Coloured Fringe"
-	 Synonyms:  edging , edge , border , hem , trimming , 
+[35mFringe[0m[36m /frɪn(d)ʒ/,[0m [91m[3mnoun[0m[0m | noun: fringe; plural noun: fringes; plural noun: the fringes
+      [32m1.[0m [37man ornamental border of threads left loose or formed into tassels or twists, used to edge clothing or material.[0m
+	   "a long grey skirt with a fringe"
+  	   [3msynonyms:[0m edging, edge, border, hem, trimming, frill, flounce, ruffle ;  tassels ;  purfle
+		    "the curtains are blue with a honey-coloured fringe"
 
- 2   The Front Part Of Someone'S Hair, Cut So As To Hang Over The Forehead.
-	 Eg.  "She Smiled As She Pushed Her Fringe Back Out Of Her Eyes"
+      [32m2.[0m [37mthe front part of a person's hair cut so as to hang over the forehead.[0m
+	   "she smiled as she pushed her fringe back out of her eyes"
+          • [37ma natural border of hair or fibres in an animal or plant.[0m
+	   "a long fringe of hair on the tail"
 
- 3   A Natural Border Of Hair Or Fibres In An Animal Or Plant.
-	 Eg.  "A Long Fringe Of Hair On The Tail"
+      [32m3.[0m [37mthe outer, marginal, or extreme part of an area, group, or sphere of activity.[0m
+	   "his uncles were on the fringes of crooked activity"
+  	   [3msynonyms:[0m unconventional, unorthodox, offbeat, alternative, avant-garde, experimental, innovative, innovatory, radical, extreme ;  peripheral, unofficial ;  left-
+                     field, off Broadway ;  way out  perimeter, periphery, border, borderline, margin, rim, outer edge, edge, extremity, limit ;  outer
+                     limits, limits, borders, bounds, outskirts, marches ;  marge, bourn, skirt ;  ambit
+		    "he played small parts in fringe theatre"
+  	   [3mantonyms:[0m mainstream, middle
+          • [37ma secondary festival on the periphery of the Edinburgh Festival.[0m
+	   noun: Fringe; noun: the Fringe
 
- 4   The Outer, Marginal, Or Extreme Part Of An Area, Group, Or Sphere Of Activity.
-	 Eg.  "His Uncles Were On The Fringes Of Crooked Activity"
-	 Eg.  "He Played Small Parts In Fringe Theatre"
-	 Eg.  "He Lived On The City'S Northern Fringe"
-	 Synonyms:  unconventional , unorthodox , offbeat , alternative , avant-garde , 
-	 Antonyms:  mainstream , middle , 
+      [32m4.[0m [37ma band of contrasting brightness or darkness produced by diffraction or interference of light.[0m
+          • [37ma strip of false colour in an optical image.[0m
 
- 5   A Secondary Festival On The Periphery Of The Edinburgh Festival.
-	 Eg.  Noun: Fringe; Noun: The Fringe
-	 Eg.  "She Became Noted For Her Work On The Fringe"
-
- 6   A Band Of Contrasting Brightness Or Darkness Produced By Diffraction Or Interference Of Light.
-
- 7   A Strip Of False Colour In An Optical Image.
-
- 8   Short For Fringe Benefit.
-	 Eg.  "We Offer The Highest Salary And Fringes In The Country"
-
- 9   Decorate (Clothing Or Material) With A Fringe.
-	 Eg.  "A Rich Robe Of Gold, Fringed With Black Velvet"
-	 Eg.  "She Fringed The Edges Of The Cloak With Black Velvet"
-	 Synonyms:  trim , hem , edge , border , rim , 
+      [32m5.[0m [37mshort for fringe benefit.[0m
+	   "we offer the highest salary and fringes in the country"
+    [91m[3mverb[0m[0m | verb: fringe; 3rd person present: fringes; past tense: fringed; past participle: fringed; gerund or present participle: fringing
+      [32m1.[0m [37mdecorate (clothing or material) with a fringe.[0m
+	   "a rich robe of gold, fringed with black velvet"
+  	   [3msynonyms:[0m trim, hem, edge, border, rim, bind, braid ;  tassel ;  decorate, adorn, ornament, embellish, finish ;  purfle ;  befringe, befrill
+		    "she fringed the edges of the cloak with black velvet"
+          • [37mform a border around (something).[0m
+	   "the sea is fringed by palm trees"
+  	   [3msynonyms:[0m border, edge, bound, skirt, line, hem, flank, verge, surround, enclose, encircle, circle, encompass, ring, circumscribe ;  gird, girdle, engird ;
+                     compass, environ
+		    "the lake is fringed by a belt of trees"
+          • [37m(of a plant or animal) having a border of hair or fibre.[0m
+	   adjective: fringed
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mझब्बे[0m             [31mकिनारा[0m     
+  [31mझब्बेदार किनारा[0m        [31mसीमांत[0m     
+       [31mफुंदने[0m             [31mझालर[0m      

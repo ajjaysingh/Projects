@@ -1,29 +1,33 @@
-                                                                                     ABSTAIN                                                                                      
-  SHORT        If you abstain from something, you restrain yourself from consuming it. People usually abstain from things that are considered vices — like drinking alcohol
-               or eating chocolate.
-  LONG         Roots of the word abstain are from the 14th-century French, "to withhold oneself," and the word often refers to people who abstain or keep themselves from
+[35m                                                                                     ABSTAIN                                                                                      [0m
+[91m        SHORT  If you abstain from something, you restrain yourself from consuming it. People usually abstain from things that are considered vices — like drinking alcohol
+               or eating chocolate.[0m
+[36m         LONG  Roots of the word abstain are from the 14th-century French, "to withhold oneself," and the word often refers to people who abstain or keep themselves from
                drinking liquor. The noun form abstinence also pops up often in reference to abstinence programs that urge teens to abstain from premarital
                sex. Abstain can also mean to withhold a vote, and sometimes a difficult decision is held up when government representatives abstain from
-               voting one way or another.
+               voting one way or another.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         It must now be ratified by all 28 members of the EU, including Britain, though Theresa May could well abstain.
-     >         A Gore elector, Lett-Simmons abstained as a public protest for her home city having no voting representation in Congress.
-     >         Both Lovell and Elway speculated that Clinton and Trump’s unpopularity, and the vicious nature of the campaign, led some voters to abstain.
-     >         The General Assembly’s human rights committee approved the measure by a vote of 85 in favor, 35 against and 63 countries abstaining.
-     >         Those who abstained or drank more heavily didn’t show the same benefit.
+[3m             > More people abstained than voted for Le Pen, who won about 10.6 million votes, her party’s best performance in a presidential election.[0m
+[3m             > Almost one-third of voters chose neither Macron nor Le Pen, with 12 million abstaining and 4.2 million spoiling ballot papers.[0m
+[3m             > Gray, who abstained on voting for Newsham during committee hearings, said the new chief won him over during extensive meetings.[0m
+[3m             > Some worry that left-wing voters who supported Mr. Mélenchon will hurt Mr. Macron’s prospects of winning the runoff by abstaining in large numbers.[0m
+[3m             > The rest will either spoil their vote or abstain.[0m
 
- 1   Restrain Oneself From Doing Or Enjoying Something.
-	 Eg.  "She Intends To Abstain From Sex Before Marriage"
+[35mAbstain[0m[36m /əbˈsteɪn/,[0m [91m[3mverb[0m[0m | verb: abstain; 3rd person present: abstains; past tense: abstained; past participle: abstained; gerund or present participle: abstaining
+      [32m1.[0m [37mrestrain oneself from doing or enjoying something.[0m
+	   "she intends to abstain from sex before marriage"
+          • [37mrefrain from drinking alcohol.[0m
+	   "most pregnant women abstain or drink very little"
+  	   [3msynonyms:[0m refrain, desist, hold back, forbear, keep ;  renounce, avoid, shun, eschew, abandon, abjure, forgo, go without, do without ;  refuse, decline ;  give up,
+                     have done with ;  cut out, kick, quit, jack in, pack in  be teetotal, be a teetotaller, take the pledge ;  deny oneself ;  be on the
+                     wagon
+		    "during Lent, Benjamin abstained from wine"
+  	   [3mantonyms:[0m indulge in, drink
 
- 2   Refrain From Drinking Alcohol.
-	 Eg.  "Most Pregnant Women Abstain Or Drink Very Little"
-	 Eg.  "During Lent, Benjamin Abstained From Wine"
-	 Eg.  "Our Advice Is About Sensible Drinking, Not About Abstaining"
-	 Synonyms:  refrain , desist , forbear , keep , renounce , 
-	 Antonyms:  drink , 
-
- 3   Formally Decline To Vote Either For Or Against A Proposal Or Motion.
-	 Eg.  "Forty-One Voted With The Opposition, And Some Sixty More Abstained"
-	 Eg.  "262 Voted Against, 38 Abstained"
-	 Synonyms:  
-	 Antonyms:  vote , 
+      [32m2.[0m [37mformally decline to vote either for or against a proposal or motion.[0m
+	   "forty-one voted with the Opposition, and some sixty more abstained"
+  	   [3msynonyms:[0m not vote, decline/refuse to vote ;  sit on the fence
+		    "262 voted against, 38 abstained"
+  	   [3mantonyms:[0m vote
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mबचना[0m      [31mपरहेज रखना[0m 
+   [31mअलग रखना[0m     [31mसंयम रखना[0m 

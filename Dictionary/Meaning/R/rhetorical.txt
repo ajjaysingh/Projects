@@ -1,23 +1,29 @@
-                                                                                    RHETORICAL                                                                                    
-  SHORT        If you ask a rhetorical question it means you don’t necessarily expect an answer, but you do want an occasion to talk about something.
-  LONG         Rhetoric is the art of written or spoken communication. If you went to school a hundred years ago, your English class would have been called Rhetoric. But
+[35m                                                                                    RHETORICAL                                                                                    [0m
+[91m        SHORT  If you ask a rhetorical question it means you don’t necessarily expect an answer, but you do want an occasion to talk about something.[0m
+[36m         LONG  Rhetoric is the art of written or spoken communication. If you went to school a hundred years ago, your English class would have been called Rhetoric. But
                nowadays if we say something is rhetorical, we usually mean that it’s only good for talking. If you speak beautifully about carpentry but can’t
-               ever actually build a cabinet, we might say you have lots of rhetorical flare, but very little real skill.
+               ever actually build a cabinet, we might say you have lots of rhetorical flare, but very little real skill.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This approach would have real value today, not just because of its rhetorical niceties but because it connects to a concrete policy agenda.
-     >         This is a rhetorical question, but I just want readers to understand this, very clearly.
-     >         Priebus seemed to be trying to thread the same constitutional and rhetorical needle.
-     >         Trump’s rhetorical volleys against trade drew surprisingly little comment, given that the UAE is a symbol of globalization.
-     >         Mr. Trump’s lack of public policy experience and his frequent rhetorical flip-flops, the second reason deserves only partial credit.
+[3m             > For all of his rhetorical bluster, Trump did not seem to be attacking American democracy.[0m
+[3m             > As a presidential candidate, Trump frequently used threats in combination with another rhetorical figure of speech – paralipsis.[0m
+[3m             > A president with pretensions of rhetorical coherence would be embarrassed by gaffes and mediocre speeches.[0m
+[3m             > The rhetorical divide carried over to a telephone call between the two leaders later Tuesday.[0m
+[3m             > The State Department’s attempt to defend it as a “rhetorical device” did nothing to illuminate the secretary’s intentions.[0m
 
- 1   Relating To Or Concerned With The Art Of Rhetoric.
-	 Eg.  "Repetition Is A Common Rhetorical Device"
-	 Eg.  "The Skilful Use Of Such Rhetorical Devices Like Metaphor"
-	 Synonyms:  stylistic , oratorical , linguistic , verbal , 
+[35mRhetorical[0m[36m /rɪˈtɒrɪk(ə)l/,[0m [91m[3madjective[0m[0m | adjective: rhetorical
+      [32m1.[0m [37mrelating to or concerned with the art of rhetoric.[0m
+	   "repetition is a common rhetorical device"
+  	   [3msynonyms:[0m stylistic, oratorical, linguistic, verbal
+		    "the skilful use of such rhetorical devices like metaphor"
+          • [37mexpressed in terms intended to persuade or impress.[0m
+	   "the rhetorical commitment of the government to give priority to primary education"
+  	   [3msynonyms:[0m extravagant, grandiloquent, magniloquent, high-flown, high-sounding, sonorous, lofty, orotund, bombastic, grandiose, pompous, pretentious, overblown,
+                     overripe, oratorical, turgid, flowery, florid, declamatory, Ciceronian ;  highfalutin ;  tumid, epideictic, fustian, euphuistic,
+                     aureate, Demosthenic, Demosthenean
+		    "he had a tendency to engage in rhetorical hyperbole"
 
- 2   Expressed In Terms Intended To Persuade Or Impress.
-	 Eg.  "The Rhetorical Commitment Of The Government To Give Priority To Primary Education"
-	 Eg.  "He Had A Tendency To Engage In Rhetorical Hyperbole"
-	 Synonyms:  extravagant , grandiloquent , magniloquent , high-flown , high-sounding , 
-
- 3   (Of A Question) Asked In Order To Produce An Effect Or To Make A Statement Rather Than To Elicit Information.
+      [32m2.[0m [37m(of a question) asked in order to produce an effect or to make a statement rather than to elicit information.[0m
+	   "the general intended his question to be purely rhetorical"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mशब्दाडंबरपूर्ण[0m    [31mवाग्मितापूर्ण[0m 
+     [31mआलंकारिक[0m        [31mअलंकारपूर्ण[0m  

@@ -1,26 +1,31 @@
-                                                                                      EMBARK                                                                                      
-  SHORT        When you embark on something, you are starting it — and it's exciting. You might embark on a new career or embark on a trip to the Galapagos Islands. You
-               wouldn't embark on a trip to the grocery store.
-  LONG         The verb embark can be used specifically to refer to boarding a ship for a journey. When used for general travel, the verb embark often implies a longer
+[35m                                                                                      EMBARK                                                                                      [0m
+[91m        SHORT  When you embark on something, you are starting it — and it's exciting. You might embark on a new career or embark on a trip to the Galapagos Islands. You
+               wouldn't embark on a trip to the grocery store.[0m
+[36m         LONG  The verb embark can be used specifically to refer to boarding a ship for a journey. When used for general travel, the verb embark often implies a longer
                journey: "She embarked on a trip around the world." Besides, physical journeys, embark can be used to mean to start other kinds of journeys as
-               well. You might embark on a spiritual journey or embark on the path to enlightenment. Pack well.
+               well. You might embark on a spiritual journey or embark on the path to enlightenment. Pack well.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Embarking on his 10th House term in January, Ryan has a more complicated view of term limits.
-     >         After Raúl Castro assumed power, he embarked on a plan of economic liberalization that has been more symbolic than substantial.
-     >         Three siblings embark on a high-stakes mission in this TV movie, inspired by the ’90s game show of the same name.
-     >         Tutored by an aunt who was a pianist and composer, he embarked on his musical career at the local Baptist church.
-     >         A family from the former Soviet Union embarks on an American road trip in a novel that is a joy to read.
+[3m             > That led to the idea of embarking on a full-scale documentary.[0m
+[3m             > As a 22-year-old just embarking on his teaching career, Hameister felt unsure of how — or if — he should address “13 Reasons Why” in the classroom.[0m
+[3m             > Now Rothschild and Company, embarking on a campaign to expand throughout North America, is setting up shop nearby.[0m
+[3m             > FILA, the sport’s international governing body, embarked on what the Associated Press dubbed a “frantic six-month campaign” to save it.[0m
+[3m             > He’s seeking a jury trial, unspecified restitution and an injunction preventing organizers from embarking on “similar conduct.”[0m
 
- 1   Go On Board A Ship Or Aircraft.
-	 Eg.  "He Embarked For India In 1817"
-	 Eg.  "He Stood On The Pier To Watch Me Embark"
-	 Synonyms:  
-	 Antonyms:  disembark , land , 
+[35mEmbark[0m[36m /ɪmˈbɑːk,ɛmˈbɑːk/,[0m [91m[3mverb[0m[0m | verb: embark; 3rd person present: embarks; past tense: embarked; past participle: embarked; gerund or present participle: embarking
+      [32m1.[0m [37mgo on board a ship or aircraft.[0m
+	   "he embarked for India in 1817"
+  	   [3msynonyms:[0m board ship, go on board, go aboard, climb aboard, step aboard, take ship ;  take off ;  hop on, jump on
+		    "he stood on the pier to watch me embark"
+  	   [3mantonyms:[0m disembark, land
+          • [37mput or take on board a ship or aircraft.[0m
+	   "the passengers were ready to be embarked"
 
- 2   Put Or Take On Board A Ship Or Aircraft.
-	 Eg.  "The Passengers Were Ready To Be Embarked"
-
- 3   Begin (A Course Of Action).
-	 Eg.  "She Embarked On A New Career"
-	 Eg.  "He Was About To Embark On A Career In The Family'S Department Store Chain"
-	 Synonyms:  begin , start , commence , undertake , institute , 
+      [32m2.[0m [37mbegin (a course of action).[0m
+	   "she embarked on a new career"
+  	   [3msynonyms:[0m begin, start, commence, undertake, set about, enter on, go into, take up ;  venture into, launch into, plunge into, turn one's hand to, engage in, settle
+                     down to ;  institute, initiate, tackle ;  have a go/crack/shot at
+		    "he was about to embark on a career in the family's department store chain"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mलगना[0m       [31mनौका पर चढ़ना[0m 
+  [31mपोतारोहण करना[0m   [31mजहाज पर चढ़ना[0m 
+  [31mजहज़ पर चढ़ना[0m    [31mप्रारंभ करना[0m 

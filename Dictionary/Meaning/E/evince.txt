@@ -1,19 +1,46 @@
-                                                                                      EVINCE                                                                                      
-  SHORT        The verb evince means to show or express clearly; to make plain. Evidence can evince the innocence of the accused, and tears can evince the grief of the
-               mourning.
-  LONG         Evince is a rather formal word that reveals the presence of something hidden — usually a feeling. So, if you are happy, your smile might evince your
-               happiness. And if you are angry, the skull and crossbones on your tee shirt might evince your anger. Evincing is about expressing. If you are
-               keeping your feelings inside, there's not a lot of evincing going on.
-                                                                            EXAMPLES FROM VOCABULARY:                                                                             
-     >         Montaque evinced none of the horror some of us feel when we remember how much of our online activity is being tracked and analyzed.
-     >         T’was ever thus: If a woman evinces any sexual sensibility whatsoever, she must give blanket consent to any and all sexual contact.
-     >         Rising to the challenge of the disaster, he stood at ground zero, caked in dust, evincing leaderly calm in his Fire Department baseball cap.
-     >         Two such headquarters in central Pennsylvania campaign offices evince makeshift venues and intense behind-the-scene efforts, which ultimately will determine
-               who suffers defeat and who prevails.
-     >         Yet a glance at her college presidency evinces a firm and longstanding commitment to centrist politics.
+[35m                                         EVINCE                                         [0m
+[91m        SHORT  The verb evince means to show or express clearly; to make plain.
+               Evidence can evince the innocence of the accused, and
+               tears can evince the grief of the mourning.[0m
+[36m         LONG  Evince is a rather formal word that reveals the presence of
+               something hidden — usually a feeling. So, if you are
+               happy, your smile might evince your happiness. And if
+               you are angry, the skull and crossbones on your tee
+               shirt might evince your anger. Evincing is about
+               expressing. If you are keeping your feelings inside,
+               there's not a lot of evincing going on.[0m
+                               EXAMPLES FROM VOCABULARY:                                
+[3m             > The audio recording that’s in the piece where he evinces very little
+               interest in the young woman’s career …[0m
+[3m             > Granted an immense amount of power they weren’t expecting, they
+               evince no humility or maturity, just a palpable sense
+               of vengeance.[0m
+[3m             > Trump evinces no strong or consistent policy views.[0m
+[3m             > A tour of Baltimore’s trouble spots also evinces some sympathy for
+               the cops.[0m
+[3m             > His ludicrous attack on London mayor Sadiq Khan after the June 3
+               terrorist attack on London Bridge seemed to evince
+               their sentiments.[0m
 
- 1   Reveal The Presence Of (A Quality Or Feeling); Indicate.
-	 Eg.  "The News Stories Evinced The Usual Mixture Of Sympathy And Satisfaction"
-	 Eg.  "His Letters Evince The Excitement He Felt"
-	 Synonyms:  reveal , show , manifest , indicate , display , 
-	 Antonyms:  conceal , 
+[35mEvince[0m[36m /ɪˈvɪns/,[0m [91m[3mverb formal[0m[0m | verb: evince; 3rd person present: evinces; past tense: evinced; past participle: evinced; gerund or present participle: evincing
+          • [37mreveal the presence of (a quality or feeling); indicate.[0m
+	   "the news stories evinced the usual mixture of sympathy and satisfaction"
+  	   [3msynonyms:[0m reveal, reveal show, show make clear, make plain, make obvious,
+                     make manifest, manifest, manifest
+                     indicate, indicate display, display
+                     exhibit, exhibit demonstrate, demonstrate
+                     be evidence of, evidence, evidence attest
+                     to, testify to, bear witness to ;  convey,
+                     convey communicate, communicate proclaim,
+                     proclaim impart, impart bespeak bespeak ;
+                     disclose, disclose divulge, divulge
+                     betray, betray give away, expose, expose
+                     lay bare
+		    "his letters evince the excitement he felt"
+  	   [3mantonyms:[0m conceal conceal
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mजताना[0m       [31mदिखाना[0m   
+  [31mप्रकट करना[0m   [31mसूचित करना[0m 
+
+      Origin:  late 16th century (in the sense ‘prove by argument or evidence’):
+               from Latin evincere ‘overcome, defeat’ (see evict).

@@ -1,23 +1,27 @@
-                                                                                     INFLICT                                                                                      
-  SHORT        When you force an undesirable or harmful event on someone, you inflict it on them. You might prefer that someone inflict some physical pain on you rather than
-               inflict you with the boredom of another trip to the annual flower show.
-  LONG         The verb inflict comes from the Latin word inflictus, meaning “to strike or dash against.” If you cause anything bad to happen to a person, animal, or even an
+[35m                                                                                     INFLICT                                                                                      [0m
+[91m        SHORT  When you force an undesirable or harmful event on someone, you inflict it on them. You might prefer that someone inflict some physical pain on you rather than
+               inflict you with the boredom of another trip to the annual flower show.[0m
+[36m         LONG  The verb inflict comes from the Latin word inflictus, meaning “to strike or dash against.” If you cause anything bad to happen to a person, animal, or even an
                object, you inflict that badness on them. For example, someone can inflict injuries or suffering on other people or inflict damage on property.
                We can inflict pollution or over-development on our environment. It's always a negative thing — you wouldn't say you inflict happiness or love
-               on others.
+               on others.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Militants fired rockets at the camp in August but did not inflict any casualties.
-     >         Silence restriction and sign-wearing were the newest tactics in arbitrarily inflicted punishment.
-     >         “His job is to protect and serve, not to inflict harm and hurt,” he said.
-     >         Taliban fighters are inflicting a heavy toll on Afghanistan’s security forces.
-     >         Chelsea remain top of the table after coming from behind to inflict a first Premier League defeat of the season on Tottenham.
+[3m             > He positions himself as a respite from the more obvious cruelties inflicted by Serena Joy.[0m
+[3m             > Then farmers use artificial fertilizer, which at best is expensive, and at worst may inflict longterm damage on the soil.[0m
+[3m             > He details tortures inflicted on both sides—the phrase “tarred and feathered” persists as something vaguely folkloric but is revealed as unimaginably cruel.[0m
+[3m             > It is an approach drawn from Mr. Trump’s real-estate experience: Inflict maximum pain first, then see if the other guy wants to talk.[0m
+[3m             > Rather, we should really be worrying about the harm we inflict on bats in the name of protecting humans.[0m
 
- 1   Cause (Something Unpleasant Or Painful) To Be Suffered By Someone Or Something.
-	 Eg.  "They Inflicted Serious Injuries On Three Other Men"
-	 Eg.  "I Came Close To Inflicting A Serious Injury On Frank"
-	 Synonyms:  lay , impose , exact , wreak , 
-
- 2   Impose Something Unwelcome On.
-	 Eg.  "She Is Wrong To Inflict Her Beliefs On Everyone Else"
-	 Eg.  "I Had No Desire To Inflict An Alcoholic Parent On My Children"
-	 Synonyms:  impose , force , press , thrust , foist , 
+[35mInflict[0m[36m /ɪnˈflɪkt/,[0m [91m[3mverb[0m[0m | verb: inflict; 3rd person present: inflicts; past tense: inflicted; past participle: inflicted; gerund or present participle: inflicting
+          • [37mcause (something unpleasant or painful) to be suffered by someone or something.[0m
+	   "they inflicted serious injuries on three other men"
+  	   [3msynonyms:[0m administer to, deal out to, mete out to, serve out to, deliver to, apply to ;  lay, impose, exact, wreak ;  cause to, give to
+		    "I came close to inflicting a serious injury on Frank"
+          • [37mimpose something unwelcome on.[0m
+	   "she is wrong to inflict her beliefs on everyone else"
+  	   [3msynonyms:[0m impose, force, press, thrust, foist ;  saddle someone with, land someone with, lumber someone with, burden someone with
+		    "I had no desire to inflict an alcoholic parent on my children"
+   [31m[4m[34mverb[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+         [31mदण्ड देना[0m               [31m(दण्ड) देना[0m      
+           [31mथोपना[0m                    [31mलगाना[0m         
+         [31mसज़ा देना[0m         [31m(चोट या कष्ट) पहुंचाना[0m 

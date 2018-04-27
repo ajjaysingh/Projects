@@ -1,28 +1,38 @@
-                                                                                    PETRIFIED                                                                                     
-  SHORT        If you scare someone so much they can't move, you petrify them. Petrify is to make something like a stone or to literally turn to stone.
-  LONG         At the heart of the word petrify is the Latin word petra which means "stone." In the scientific sense, wood petrifies in an environment without oxygen, say
+[35m                                                                                    PETRIFIED                                                                                     [0m
+[91m        SHORT  If you scare someone so much they can't move, you petrify them. Petrify is to make something like a stone or to literally turn to stone.[0m
+[36m         LONG  At the heart of the word petrify is the Latin word petra which means "stone." In the scientific sense, wood petrifies in an environment without oxygen, say
                when it is buried by lava, and minerals such as silica enter the wood and fill the cells, making it hard as stone. More commonly, something
                petrifies a person or an animal when it scares them very much. During thunderstorms, the dog is so petrified that it hides under the bed. If
-               you are in a store when it is being robbed, you might be petrified too.
+               you are in a store when it is being robbed, you might be petrified too.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         I was petrified, because all I could think about was my son.”
-     >         When he arrived, he found the man and three friends high on drugs, and remembers being "petrified".
-     >         In your hands the closed, half-inch thick body could be a petrified notepad, as lithe and paradoxically unyielding as a MacBook Air.
-     >         Sipe stopped counting how many hours he spent working late at night painting cicadas and carving Styrofoam into petrified wood.
-     >         Inside, more history, less mystery: Petrified wood in the great-room and outdoor fireplaces followed the family from Federal Way.
+[3m             > “He was petrified,” she said, but ultimately agreed to testify.[0m
+[3m             > The sole purpose is to suppress competition to enrich the few who wish to continue dwelling in a medical petrified forest.[0m
+[3m             > “Delaney avoids the temptation to treat Joyce as a petrified object, a monument,” Mr. Taylor wrote.[0m
+[3m             > I was honored but mainly petrified, afraid I would disappoint them.[0m
+[3m             > Just as dinosaur bones and petrified wood persist, so too will markers of our time, and they increasingly include the nonorganic.[0m
 
- 1   So Frightened That One Is Unable To Move; Terrified.
-	 Eg.  "The Petrified Child Clung To Her Mother"
+[35mPetrified[0m[36m /ˈpɛtrɪfʌɪd/,[0m [91m[3madjective[0m[0m | adjective: petrified
+      [32m1.[0m [37mso frightened that one is unable to move; terrified.[0m
+	   "the petrified child clung to her mother"
 
- 2   (Of Organic Matter) Changed Into A Stony Substance; Ossified.
-	 Eg.  "Petrified Wood"
+      [32m2.[0m [37m(of organic matter) changed into a stony substance; ossified.[0m
+	   "petrified wood"
+[35mPetrify[0m[36m /ˈpɛtrɪfʌɪ/,[0m [91m[3mverb[0m[0m
+	past tense: petrified; past participle: petrified
+      [32m1.[0m [37mchange (organic matter) into a stony substance by encrusting or replacing it with a calcareous, siliceous, or other mineral deposit.[0m
+	   "the petrified remains of prehistoric animals"
+  	   [3msynonyms:[0m ossified, fossilized ;  lapidified
+		    "the petrified remains of prehistoric animals"
 
- 3   Change (Organic Matter) Into A Stony Substance By Encrusting Or Replacing It With A Calcareous, Siliceous, Or Other Mineral Deposit.
-	 Eg.  "The Petrified Remains Of Prehistoric Animals"
-	 Synonyms:  fossilized , 
-
- 4   Make (Someone) So Frightened That They Are Unable To Move.
-	 Eg.  "His Icy Controlled Quietness Petrified Her"
-	 Eg.  "She Looked Absolutely Petrified"
-	 Eg.  "The Thought Of Speaking In Public Petrified Her"
-	 Synonyms:  terror-stricken , horror-struck , aghast , paralysed , frozen , 
+      [32m2.[0m [37mmake (someone) so frightened that they are unable to move.[0m
+	   "his icy controlled quietness petrified her"
+  	   [3msynonyms:[0m terrified, terror-stricken, terror-struck, horrified, horror-stricken, horror-struck, scared/frightened out of one's wits, scared witless,
+                     scared/frightened to death, aghast, appalled ;  paralysed, stunned, stupefied, transfixed, benumbed, frozen  terrify, horrify,
+                     frighten, scare, scare to death, scare someone out of their wits, scare witless, scare the living daylights out of, frighten the
+                     life out of, strike terror into, fill with fear, put the fear of God into, make someone's blood run cold, chill someone's blood,
+                     panic, throw into a panic, alarm, appal ;  paralyse, stun, stupefy, transfix ;  scare the pants off ;  throw into a blue funk, put
+                     the wind up ;  scare the bejesus out of ;  affright
+		    "she looked absolutely petrified"
+  [31m[4m[34m[0m[0m[0m
+    [31mअश्मीभूत[0m  
+  [31mप्रस्तरीभूत[0m 

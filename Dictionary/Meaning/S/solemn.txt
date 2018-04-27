@@ -1,30 +1,35 @@
-                                                                                      SOLEMN                                                                                      
-  SHORT        If you’ve ever attended a funeral, you were probably struck by how quiet, earnest, and solemn the mood was.  You can use the word solemn to describe anything
-               that's really serious and dignified.
-  LONG         The adjective solemn comes from the Latin sollemnis, which means formal or ceremonial. You can still use it to describe a ceremony or event, but it's also a
+[35m                                                                                      SOLEMN                                                                                      [0m
+[91m        SHORT  If you’ve ever attended a funeral, you were probably struck by how quiet, earnest, and solemn the mood was.  You can use the word solemn to describe anything
+               that's really serious and dignified.[0m
+[36m         LONG  The adjective solemn comes from the Latin sollemnis, which means formal or ceremonial. You can still use it to describe a ceremony or event, but it's also a
                good word for talking about someone who's serious and sincere and maybe lacks a sense of humor about certain things.  Here's a trick for
-               remembering it: Think of a "sole man," a serious guy standing alone at a party talking to no one.
+               remembering it: Think of a "sole man," a serious guy standing alone at a party talking to no one.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Authorities called on islanders to go there to make a “solemn oath of fulfillment with the concept of the revolution.”
-     >         Cuba became a party-loving, colorful Caribbean island that an intellectual was trying to turn into a solemn, Party-loving Eastern European textbook.
-     >         The scales that follow, so momentous and solemn, are as breathtaking as the immense central staircase of a baroque palace.
-     >         Unlike Kahlo’s “dagger Venus,” she’s a solemn prisoner of her confined place in the world.
-     >         It’s possible to imagine the Kremlin announcing, with solemn regret, that Snowden has violated his residency terms and is now being extradited to the US.
+[3m             > That’s why the choice of the Ode for Joy at such a solemn moment was an immense symbol.[0m
+[3m             > On Sunday night, with victory finally sealed, he was much more solemn.[0m
+[3m             > Soon, it will get one more: A solemn black cube holding an upturned helmet, its sides adorned with upside-down pentagrams.[0m
+[3m             > It ranges from solemn to joyful, demonstrating that her emotional reach equals her musical breadth.[0m
+[3m             > Today’s history rightly recognizes the evil Jackson did in breaking solemn treaties with the Five Civilized Tribes.[0m
 
- 1   Formal And Dignified.
-	 Eg.  "A Solemn Procession"
-	 Eg.  "A Solemn Occasion"
-	 Synonyms:  dignified , ceremonious , ceremonial , stately , courtly , 
-	 Antonyms:  frivolous , 
+[35mSolemn[0m[36m /ˈsɒləm/,[0m [91m[3madjective[0m[0m | adjective: solemn
+      [32m1.[0m [37mformal and dignified.[0m
+	   "a solemn procession"
+  	   [3msynonyms:[0m dignified, ceremonious, ceremonial, stately, courtly, majestic, imposing, impressive, awe-inspiring, portentous, splendid, magnificent, grand, important,
+                     august, formal
+		    "a solemn occasion"
+  	   [3mantonyms:[0m frivolous
+          • [37mnot cheerful or smiling; serious.[0m
+	   "Tim looked very solemn"
+  	   [3msynonyms:[0m serious, earnest, grave, sober, sombre, unsmiling, poker-faced, stern, grim, dour, humourless, glum, gloomy, moody, stony-faced ;  thoughtful,
+                     preoccupied, deep in thought, pensive, meditative, ruminative, contemplative, introspective ;  staid, sedate, studious, bookish,
+                     owlish
+		    "Tim looked very solemn"
+  	   [3mantonyms:[0m light-hearted
 
- 2   Not Cheerful Or Smiling; Serious.
-	 Eg.  "Tim Looked Very Solemn"
-	 Eg.  "Tim Looked Very Solemn"
-	 Synonyms:  serious , earnest , grave , sober , sombre , 
-	 Antonyms:  light-hearted , 
-
- 3   Characterized By Deep Sincerity.
-	 Eg.  "He Swore A Solemn Oath To Keep Faith"
-	 Eg.  "A Solemn Promise"
-	 Synonyms:  sincere , earnest , honest , genuine , firm , 
-	 Antonyms:  insincere , 
+      [32m2.[0m [37mcharacterized by deep sincerity.[0m
+	   "he swore a solemn oath to keep faith"
+  	   [3msynonyms:[0m sincere, earnest, honest, genuine, firm, committed, unconditional, heartfelt, wholehearted, sworn, formal
+		    "a solemn promise"
+  	   [3mantonyms:[0m insincere
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mगंभीर[0m        [31mसत्यनिष्ठ[0m  

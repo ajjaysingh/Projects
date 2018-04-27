@@ -1,28 +1,33 @@
-                                                                                    PERTAINING                                                                                    
-  SHORT        To pertain is to be relevant or somehow associated with something.  If you're a lawyer, you try to find evidence that will pertain to the case and eliminate
-               anything that is not connected.
-  LONG         Behind the verb pertain lies the Latin verb pertinēre, which means "to be applicable" or "to hold through."  If you think the rules of the road don't pertain
+[35m                                                                                    PERTAINING                                                                                    [0m
+[91m        SHORT  To pertain is to be relevant or somehow associated with something.  If you're a lawyer, you try to find evidence that will pertain to the case and eliminate
+               anything that is not connected.[0m
+[36m         LONG  Behind the verb pertain lies the Latin verb pertinēre, which means "to be applicable" or "to hold through."  If you think the rules of the road don't pertain
                to you, try explaining that to the state trooper when you get pulled over.  Usage note: The word pertain often takes an s at the end, as in
-               "That pertains to this matter," but loses it with a helper: “That doesn’t pertain to it.”
+               "That pertains to this matter," but loses it with a helper: “That doesn’t pertain to it.”[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In south-central Idaho, there is strong interest from companies, including McCain Foods, for apprenticeships in advanced manufacturing pertaining to food
-               processing, Russ said.
-     >         The school district said Friday that it “does not have any records of any accidents or disciplinary records pertaining to Durham employees.”
-     >         Organized chronologically and by theme, the exhibit begins with 14th century drawings from books pertaining to gardening and agriculture.
-     >         According to the government, the new accord includes amendments pertaining to 56 of the 57 points raised by the opposition.
-     >         Also, Condon, whose films frequently deal with subjects pertaining to gay identity, is embracing that context here, too.
+[3m             > The NHL’s “Concussion Evaluation and Management Protocol” is a seven-page document issued before this season that provides requirements for each club
+               pertaining to each player.[0m
+[3m             > The council said it would be "inappropriate" to comment on "issues pertaining to individual staffing matters".[0m
+[3m             > In fact, Rondeau expects to immerse himself in advocacy pertaining to what he calls “the politics” of fishing.[0m
+[3m             > Between Games 1 and 2 of the Washington Wizards’ first-round series against Atlanta, both teams escalated rhetoric pertaining to physical play.[0m
+[3m             > The office hasn’t released any information pertaining to the new investigation.[0m
 
- 1   Be Appropriate, Related, Or Applicable To.
-	 Eg.  "Matters Pertaining To The Organization Of Government"
-	 Eg.  "Developments Pertaining To The Economy"
-	 Synonyms:  concern , affect , involve , cover , touch , 
+[35mPertain[0m[36m /pəˈteɪn/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: pertaining
+      [32m1.[0m [37mbe appropriate, related, or applicable to.[0m
+	   "matters pertaining to the organization of government"
+  	   [3msynonyms:[0m concern, relate to, be related to, be connected with, be relevant to, have relevance to, apply to, be pertinent to, have reference to, refer to, have a
+                     bearing on, appertain to, bear on, affect, involve, cover, touch ;  regard
+		    "developments pertaining to the economy"
+          • [37mbelong to something as a part, appendage, or accessory.[0m
+	   "the shop premises and stock and all assets pertaining to the business"
+  	   [3msynonyms:[0m belong to, be a part of, be an adjunct of, go along with, be included in
+		    "the shop premises and stock and all assets pertaining to the business"
 
- 2   Belong To Something As A Part, Appendage, Or Accessory.
-	 Eg.  "The Shop Premises And Stock And All Assets Pertaining To The Business"
-	 Eg.  "The Shop Premises And Stock And All Assets Pertaining To The Business"
-	 Synonyms:  
-
- 3   Be In Effect Or Existence In A Specified Place Or At A Specified Time.
-	 Eg.  "Their Economic Circumstances Are Vastly Different From Those Which Pertained In Their Land Of Origin"
-	 Eg.  "Salaries Which Are Much Lower Than Those That Pertain In Western Europe"
-	 Synonyms:  exist , obtain , prevail , 
+      [32m2.[0m [37mbe in effect or existence in a specified place or at a specified time.[0m
+	   "their economic circumstances are vastly different from those which pertained in their land of origin"
+  	   [3msynonyms:[0m exist, be the order of the day, obtain, be in effect, be the case, be prevalent, prevail, be current, be established
+		    "salaries which are much lower than those that pertain in Western Europe"
+  [31m[4m[34m[0m[0m[0m
+    [31mसम्ब्धी[0m  
+  [31mसे सम्बद्ध[0m 

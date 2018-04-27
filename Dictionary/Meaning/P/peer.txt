@@ -1,36 +1,38 @@
-                                                                                       PEER                                                                                       
-  SHORT        A peer is someone at your own level. If you are a 10th grader, other high school students are your peers.
-  LONG         Peer comes from the Latin par which means equal. When you are on par with someone, you are their peer. If kids your age are pressuring you to do something you
+[35m                                                                                       PEER                                                                                       [0m
+[91m        SHORT  A peer is someone at your own level. If you are a 10th grader, other high school students are your peers.[0m
+[36m         LONG  Peer comes from the Latin par which means equal. When you are on par with someone, you are their peer. If kids your age are pressuring you to do something you
                don't want to do, that's peer pressure. In the sport of basketball, Michael Jordan was without peer, no one could equal his talent. When he
-               switched to baseball, he found himself to be among peers again.
+               switched to baseball, he found himself to be among peers again.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Transition rooms are rooms for younger students before they move into a classroom with more of their peers.
-     >         So they’re able to take on more demanding work and are better able to keep pace with younger peers.
-     >         It gives hope that, through education, children with facial disfigurement can become more accepted by their peers.
-     >         Then the bamboo blind went up and a guy peered into my carrel and muttered some words—in Japanese?
-     >         In terms of establishing its own crowdfunding site, Reed said UI is somewhere in the middle of the pack among its peer institutions.
+[3m             > Peer closely at the photos below, and you might discern that dem bones are people bones.[0m
+[3m             > A new app called Peanut promises to connect mothers with their peers.[0m
+[3m             > Mrs. Bradley said Peer Communications was her favorite class to teach—or moderate, as she called it.[0m
+[3m             > These researchers tried to peer through the colonial records to the Indian lives beneath.[0m
+[3m             > Patients were vulnerable to relapse without follow-up therapy or peer support, he added.[0m
 
- 1   Look With Difficulty Or Concentration At Someone Or Something.
-	 Eg.  "Faye Peered At Her With Suspicion"
-	 Eg.  "He Swivelled His Head To Peer In Our Direction"
-	 Synonyms:  squint , peep , peek , pry , spy , 
+[35mPeer[0m[36m /pɪə/,[0m [91m[3mverb[0m[0m | verb: peer; 3rd person present: peers; past tense: peered; past participle: peered; gerund or present participle: peering
+          • [37mlook with difficulty or concentration at someone or something.[0m
+	   "Faye peered at her with suspicion"
+  	   [3msynonyms:[0m squint, look closely/earnestly, try to see, look through narrowed eyes, narrow one's eyes, screw up one's eyes ;  peep, peek, pry, spy, look, gawp, gaze,
+                     stare, gape ;  scrutinize, survey, examine, view, eye, scan, observe, study, regard, contemplate ;  snoop ;  squinny
+		    "he swivelled his head to peer in our direction"
+          • [37mbe just visible.[0m
+	   "the towers peer over the roofs"
+          • [37mcome into view; appear.[0m
+	   "for yet a many of your horsemen peer"
+[35mPeer[0m[36m /pɪə/,[0m [91m[3mnoun[0m[0m | noun: peer; plural noun: peers
+      [32m1.[0m [37ma member of the nobility in Britain or Ireland, comprising the ranks of duke, marquess, earl, viscount, and baron.[0m
+	   "hereditary peers could still dominate the proceedings of the House of Lords"
+  	   [3msynonyms:[0m aristocrat, lord, lady, peer of the realm, peeress, noble, nobleman, noblewoman, titled man/woman/person, patrician, member of the
+                     aristocracy/nobility/peerage ;  nob, rah, chinless wonder
+		    "hereditary and life peers"
 
- 2   Be Just Visible.
-	 Eg.  "The Towers Peer Over The Roofs"
-
- 3   Come Into View; Appear.
-	 Eg.  "For Yet A Many Of Your Horsemen Peer"
-
- 4   A Member Of The Nobility In Britain Or Ireland, Comprising The Ranks Of Duke, Marquess, Earl, Viscount, And Baron.
-	 Eg.  "Hereditary Peers Could Still Dominate The Proceedings Of The House Of Lords"
-	 Eg.  "Hereditary And Life Peers"
-	 Synonyms:  aristocrat , lord , lady , peer of the realm , peeress , 
-
- 5   A Person Of The Same Age, Status, Or Ability As Another Specified Person.
-	 Eg.  "He Has Incurred Much Criticism From His Academic Peers"
-	 Eg.  "The Quality Of Medical Work Can Only Be Reviewed By A Doctor'S Peers"
-	 Eg.  "He Looks Older Than His Peers"
-	 Synonyms:  equal , fellow , co-worker , match , like , 
-
- 6   Make Or Become Equal With.
-	 Eg.  "The Thames Could Not Peer With The Mill-Streamlet Close To My Home"
+      [32m2.[0m [37ma person of the same age, status, or ability as another specified person.[0m
+	   "he has incurred much criticism from his academic peers"
+  	   [3msynonyms:[0m equal, fellow, co-worker, match, like, rival ;  confrère ;  compeer, co-equal  contemporary, person of the same age ;  coeval
+		    "the quality of medical work can only be reviewed by a doctor's peers"
+    [91m[3mverb archaic[0m[0m | verb: peer; 3rd person present: peers; past tense: peered; past participle: peered; gerund or present participle: peering
+      [32m1.[0m [37mmake or become equal with.[0m
+	   "the Thames could not peer with the mill-streamlet close to my home"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mपीर[0m            [31mसमान पद का[0m         [31mबराबर होना[0m    

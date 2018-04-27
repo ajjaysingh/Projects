@@ -1,17 +1,21 @@
-                                                                                     LINCHPIN                                                                                     
-  SHORT        Literally, a linchpin is the pin that goes through the axle of a wheel to keep it in place, but linchpin can be used to mean an important part of anything,
-               the thing that holds it all together.
-  LONG         The linchpin is something that supports and holds another thing together. It’s the most important part of anything — eating well is the linchpin to staying
+[35m                                                                                     LINCHPIN                                                                                     [0m
+[91m        SHORT  Literally, a linchpin is the pin that goes through the axle of a wheel to keep it in place, but linchpin can be used to mean an important part of anything,
+               the thing that holds it all together.[0m
+[36m         LONG  The linchpin is something that supports and holds another thing together. It’s the most important part of anything — eating well is the linchpin to staying
                healthy. A basketball team's most valuable player is the linchpin. The most crucial part of a plan is the linchpin. If something or someone is
-               indispensable, she’s the linchpin. Take away the linchpin and everything falls apart.
+               indispensable, she’s the linchpin. Take away the linchpin and everything falls apart.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The new police diversity report called diversity the linchpin to building trust between law enforcement and communities.
-     >         At risk is the Paris climate accord, which only came into force last week, and Obama’s linchpin emissions reduction policy, the Clean Power Plan.
-     >         These finds and others point to ivory—a product of Greenland's environment—as a linchpin of the Norse economy.
-     >         While the U.S. is only one country, it is a linchpin to the viability of international agreements and to moving the needle on limiting warming.
-     >         You could see Pennsylvania, especially Pennsylvania, becoming the linchpin of the entire reconfiguration of the map.
+[3m             > Immigration is a linchpin in Canada’s economic policy.[0m
+[3m             > The Model 3 is the linchpin in Musk’s plan to bring electric cars to the mainstream.[0m
+[3m             > Mr. O’Reilly was the linchpin of its evening lineup, with a loyal following that swelled to nearly 4 million viewers a night earlier this year.[0m
+[3m             > A finale that diverges from the source material in a hastily assembled way reinforces the hollowness of this supposed romantic linchpin.[0m
+[3m             > The collaboration was unexpected from Ocean, a typical soloist, featuring two linchpins of pop radio’s split loyalty to euphoric dance music and bass-heavy
+               Southern rap.[0m
 
- 1   A Pin Passed Through The End Of An Axle To Keep A Wheel In Position.
+[35mLinchpin[0m[36m /ˈlɪn(t)ʃpɪn/,[0m [91m[3mnoun[0m[0m | noun: linchpin; plural noun: linchpins; noun: lynchpin; plural noun: lynchpins; noun: lynch-pin; plural noun: lynch-pins
+      [32m1.[0m [37ma person or thing vital to an enterprise or organization.[0m
+	   "nurses are the linchpin of the National Health Service"
 
- 2   A Person Or Thing Vital To An Enterprise Or Organization.
-	 Eg.  "Nurses Are The Linchpin Of The National Health Service"
+      [32m2.[0m [37ma pin passed through the end of an axle to keep a wheel in position.[0m
+       [31m[4m[34mnoun[0m[0m[0m              [31m[4m[34m[0m[0m[0m       
+              [31mलींचपीण[0m              [31mकीला जो पहिये को धुरी पर रक्खे[0m 

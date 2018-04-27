@@ -1,29 +1,32 @@
-                                                                                     SLUMPED                                                                                      
-  SHORT        To slump is to fall or slouch down. It's also a downturn in performance — a struggling ballplayer and a sinking economy are both in a slump.
-  LONG         There are many kinds of slumps, but they all involve things going downhill. If you slide down in your chair, you slump. Other slumps are less physical. If a
+[35m                                                                                     SLUMPED                                                                                      [0m
+[91m        SHORT  To slump is to fall or slouch down. It's also a downturn in performance — a struggling ballplayer and a sinking economy are both in a slump.[0m
+[36m         LONG  There are many kinds of slumps, but they all involve things going downhill. If you slide down in your chair, you slump. Other slumps are less physical. If a
                successful quarterback starts losing games and throwing interceptions, that's a slump. The original meaning of slump, back in the 1670s, was
-               "fall or sink into a muddy place," while the more figurative meanings came much later.
+               "fall or sink into a muddy place," while the more figurative meanings came much later.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Downey was found slumped over the steering wheel of her car.
-     >         He had just severed the harness around Charlemagne, who then slumped through the blown-out windshield with his feet still pinned beneath the seat.
-     >         Turkey’s lira has slumped 8% against the dollar since Mr. Trump’s victory, in line with a broad decline in emerging-market currencies.
-     >         Independent, taciturn and lower-middle class, Sutherland painted Churchill as a gloomy, exhausted old man slumped in a chair.
-     >         Health care stocks slumped after weak results from medical device company Medtronic.
+[3m             > When I got there, Jessica was sitting slumped in a chair, arms dangling by her sides like she’d been waiting a long time.[0m
+[3m             > Trade slumped slightly at the end of the quarter....[0m
+[3m             > Growth was just 0.7 percent at an annual rate in the first quarter, and auto sales slumped last month.[0m
+[3m             > But the number of new jobs created slumped in March, partly because of a snowstorm that prevented some Americans from working.[0m
+[3m             > Southwest shares slumped 5 percent before the opening bell.[0m
 
- 1   Sit, Lean, Or Fall Heavily And Limply.
-	 Eg.  "She Slumped Against The Cushions"
-	 Eg.  "He Slumped Into A Chair"
-	 Synonyms:  flop , flump , collapse , sink , fall , 
-	 Antonyms:  
+[35mSlump[0m[36m /slʌmp/,[0m [91m[3mverb[0m[0m
+	past tense: slumped; past participle: slumped
+      [32m1.[0m [37msit, lean, or fall heavily and limply.[0m
+	   "she slumped against the cushions"
+  	   [3msynonyms:[0m sit heavily, flop, flump, collapse, sink, fall, subside ;  sag, slouch ;  plonk oneself, plop oneself
+		    "he slumped into a chair"
+  	   [3mantonyms:[0m stand up, sit up
 
- 2   Undergo A Sudden Severe Or Prolonged Fall In Price, Value, Or Amount.
-	 Eg.  "Land Prices Slumped"
-	 Eg.  "Houses Prices Slumped"
-	 Synonyms:  plummet , plunge , tumble , drop , slide , 
-	 Antonyms:  rise , soar , 
-
- 3   Fail Or Decline Substantially.
-	 Eg.  "United Slumped To Another One–Nil Defeat"
-	 Eg.  "The Reading Standards Of 7-Year-Olds Have Slumped"
-	 Synonyms:  decline , deteriorate , degenerate , worsen , slip , 
-	 Antonyms:  improve , 
+      [32m2.[0m [37mundergo a sudden severe or prolonged fall in price, value, or amount.[0m
+	   "land prices slumped"
+  	   [3msynonyms:[0m fall steeply, plummet, plunge, tumble, drop, go down, slide, decline, decrease ;  reach a new low ;  crash, nosedive, take a nosedive, go into a tailspin
+		    "houses prices slumped"
+  	   [3mantonyms:[0m rise, soar
+          • [37mfail or decline substantially.[0m
+	   "United slumped to another one–nil defeat"
+  	   [3msynonyms:[0m decline, deteriorate, degenerate, worsen, get worse, slip, lapse ;  go downhill, go to pot, go to the dogs, nosedive, take a nosedive
+		    "the reading standards of 7-year-olds have slumped"
+  	   [3mantonyms:[0m improve
+  [31m[4m[34m[0m[0m[0m
+  [31mझुके[0m 

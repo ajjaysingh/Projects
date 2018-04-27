@@ -1,31 +1,33 @@
-                                                                                     LANGUISH                                                                                     
-  SHORT        To languish is to become pitiful or weak because you're sick, in love, or stuck somewhere. A prisoner might languish in jail, longing for her freedom.
-  LONG         Languish, like languid, is from the Latin word languere which means to "be weak or faint." Your houseplants might languish in a dark dry corner. A Romantic
+[35m                                                                                     LANGUISH                                                                                     [0m
+[91m        SHORT  To languish is to become pitiful or weak because you're sick, in love, or stuck somewhere. A prisoner might languish in jail, longing for her freedom.[0m
+[36m         LONG  Languish, like languid, is from the Latin word languere which means to "be weak or faint." Your houseplants might languish in a dark dry corner. A Romantic
                poet might languish on a velvet couch with the back of her hand to her forehead. People in operas love to languish: The main character in La
-               Traviatta, Violetta, languishes from longing and eventually tuberculosis.
+               Traviatta, Violetta, languishes from longing and eventually tuberculosis.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Many of those who have been caught up in the citizenship drive who cannot prove their lineage are languishing in detention centers.
-     >         So, while the work languished in unpublished state, Hambrick began to focus more and more on the other possible components of expert accomplishment.
-     >         A month before the vote, he languished in fourth place in the polls.
-     >         In a desperate attempt to save lives, the government has requisitioned army health workers though most patients were still languishing without care.
-     >         Even still, “Daughters of the Dust” hasn’t exactly languished in obscurity.
+[3m             > Meanwhile Abel Tasman, with Smith in the saddle, was languishing at the back of the field.[0m
+[3m             > The Dodgers do not want him to languish on the bench.[0m
+[3m             > Nearly a decade after the financial crisis, corporate chieftains are again astride the country like a colossus, while workers and customers languish.[0m
+[3m             > The Home Office says the change ends the "injustice" of people "being left to languish" on pre-charge bail.[0m
+[3m             > The Dodgers do not want Bellinger to languish on the bench, so he’ll return to the minors to play every day.[0m
 
- 1   (Of A Person, Animal, Or Plant) Lose Or Lack Vitality; Grow Weak.
-	 Eg.  "Plants May Appear To Be Languishing Simply Because They Are Dormant"
-	 Eg.  "The Plants Languished And Died"
-	 Synonyms:  weaken , deteriorate , decline , wither , droop , 
-	 Antonyms:  thrive , flourish , 
+[35mLanguish[0m[36m /ˈlaŋɡwɪʃ/,[0m [91m[3mverb[0m[0m | verb: languish; 3rd person present: languishes; past tense: languished; past participle: languished; gerund or present participle: languishing
+      [32m1.[0m [37m(of a person, animal, or plant) lose or lack vitality; grow weak.[0m
+	   "plants may appear to be languishing simply because they are dormant"
+  	   [3msynonyms:[0m weaken, grow weak, deteriorate, decline, go into a decline ;  wither, droop, flag, wilt, fade, fail, waste away ;  go downhill
+		    "the plants languished and died"
+  	   [3mantonyms:[0m thrive, flourish
+          • [37mfail to make progress or be successful.[0m
+	   "Kelso languish near the bottom of the Scottish First Division"
+          • [37mpine with love or grief.[0m
+	   "she still languished after Richard"
+          • [37massume a sentimentally tender or melancholy expression or tone.[0m
+	   "when a visitor comes in, she smiles and languishes"
 
- 2   Fail To Make Progress Or Be Successful.
-	 Eg.  "Kelso Languish Near The Bottom Of The Scottish First Division"
-
- 3   Pine With Love Or Grief.
-	 Eg.  "She Still Languished After Richard"
-
- 4   Assume A Sentimentally Tender Or Melancholy Expression Or Tone.
-	 Eg.  "When A Visitor Comes In, She Smiles And Languishes"
-
- 5   Be Forced To Remain In An Unpleasant Place Or Situation.
-	 Eg.  "He Has Been Languishing In Jail Since 1974"
-	 Eg.  "The General Is Now Languishing In Prison"
-	 Synonyms:  rot , decay , moulder , suffer , 
+      [32m2.[0m [37mbe forced to remain in an unpleasant place or situation.[0m
+	   "he has been languishing in jail since 1974"
+  	   [3msynonyms:[0m waste away, rot, decay, wither away, moulder, be abandoned, be neglected, be forgotten, suffer ;  be disregarded, experience hardship
+		    "the general is now languishing in prison"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mदुर्बल[0m       [31mमुरझाना[0m      [31mकमजोर होना[0m 
+     [31mशिथिल[0m       [31mक्षीण होना[0m    [31mसुस्त होना[0m 
+      [31mमंद[0m        [31mशिथिल होना[0m    [31mमुरझा जाना[0m 

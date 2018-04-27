@@ -1,27 +1,34 @@
-                                                                                    INSINUATE                                                                                     
-  SHORT        Insinuate means you imply or suggest something that may or may not be true. If you say things seemed to go wrong about the time your brother took over, you
-               insinuate that he had something to do with the decline.
-  LONG         There's another way to insinuate. Suppose you're in line to get into a popular dance club when a celebrity appears, surrounded by a big entourage. If you
+[35m                                                                                    INSINUATE                                                                                     [0m
+[91m        SHORT  Insinuate means you imply or suggest something that may or may not be true. If you say things seemed to go wrong about the time your brother took over, you
+               insinuate that he had something to do with the decline.[0m
+[36m         LONG  There's another way to insinuate. Suppose you're in line to get into a popular dance club when a celebrity appears, surrounded by a big entourage. If you
                strike up a conversation with one of the entourage, you may be able to insinuate that you're part of the group and go in with them. Don't feel
-               bad — people have been doing it at least since the 1520s, when insinuate evolved from the Latin word insinuare, meaning "wind one's way into."
+               bad — people have been doing it at least since the 1520s, when insinuate evolved from the Latin word insinuare, meaning "wind one's way into."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Worse perhaps, Bannon personally insinuated that African Americans are ‘naturally aggressive and violent’.
-     >         In a later interview, Trump insinuates Kelly’s tough line of questioning was because she had “blood coming out of her wherever”.
-     >         Travis says the note insinuated the mother was being held hostage and asked for someone to call police.
-     >         WSU coach Mike Leach insinuated Monday that his offensive line has gotten a bit complacent.
-     >         It then insinuated that, of course, bodybuilders competing in top-level contests like Mr. Olympia use steroids.
+[3m             > In March, Trump entered the political conversation by insinuating that President Obama might not be an American citizen.[0m
+[3m             > She painted in blazing primary colors, plus white and some accenting black, with the odd insinuating purple.[0m
+[3m             > At the end of Wednesday's heated debate, watched by 15 million people, Le Pen insinuated that her rival might hold an offshore account.[0m
+[3m             > He told reporters not to call him a “stretch-four” because it insinuated, in his mind, that a player was soft.[0m
+[3m             > “Insinuating that I allowed or encouraged a situation that is anti-gay or something is tremendously offensive,” she said.[0m
 
- 1   Suggest Or Hint (Something Bad) In An Indirect And Unpleasant Way.
-	 Eg.  "He Was Insinuating That She Slept Her Way To The Top"
-	 Eg.  "He Insinuated That She Lied"
-	 Synonyms:  imply , suggest , hint , intimate , whisper , 
+[35mInsinuate[0m[36m /ɪnˈsɪnjʊeɪt/,[0m [91m[3mverb[0m[0m | verb: insinuate; 3rd person present: insinuates; past tense: insinuated; past participle: insinuated; gerund or present participle: insinuating
+      [32m1.[0m [37msuggest or hint (something bad) in an indirect and unpleasant way.[0m
+	   "he was insinuating that she slept her way to the top"
+  	   [3msynonyms:[0m imply, suggest, hint, intimate, whisper, indicate, convey the impression, give a clue, give an inkling, allude to the fact, make reference to the fact,
+                     let it be known, give someone to understand, give someone to believe ;  make out, tip someone the wink
+		    "he insinuated that she lied"
 
- 2   Manoeuvre Oneself Into (A Favourable Position) By Subtle Manipulation.
-	 Eg.  "He Insinuated Himself Into The King'S Confidence"
-	 Eg.  "He Was Insinuating Himself Into Their Family"
-	 Synonyms:  infiltrate , invade , 
+      [32m2.[0m [37mmanoeuvre oneself into (a favourable position) by subtle manipulation.[0m
+	   "he insinuated himself into the king's confidence"
+  	   [3msynonyms:[0m worm one's way into, work one's way into, ingratiate oneself with, curry favour with ;  foist oneself on, introduce oneself into, squeeze oneself into,
+                     edge one's way into ;  infiltrate, invade, sneak into, intrude on, impinge on ;  get in with, muscle in on
+		    "he was insinuating himself into their family"
 
- 3   Slide (Oneself Or A Thing) Slowly And Smoothly Into A Particular Place.
-	 Eg.  "I Insinuated My Shoulder In The Gap"
-	 Eg.  "He Insinuated His Right Hand Under Her Arm"
-	 Synonyms:  slide , slip , manoeuvre , insert , edge , 
+      [32m3.[0m [37mslide (oneself or a thing) slowly and smoothly into a particular place.[0m
+	   "I insinuated my shoulder in the gap"
+  	   [3msynonyms:[0m slide, slip, manoeuvre, insert, edge, work, move into position
+		    "he insinuated his right hand under her arm"
+  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+       [31mसंकेत करना[0m             [31mकटाक्ष करना[0m     
+       [31mइशारा करना[0m           [31mव्यंगोक्ति करना[0m   
+  [31mपरोक्ष रूप से सुझाना[0m        [31mआक्षेप करना[0m     

@@ -1,19 +1,22 @@
-                                                                                    AFFLUENCE                                                                                     
-  SHORT        Affluence means great wealth and abundance, such as the great riches found by ancient explorers who exploited the new worlds of North and South America.
-  LONG         The roots of the word affluence are recognizable in the Latin affluentia, which refers to something that flows toward (someone). We can see the connection
+[35m                                                                                    AFFLUENCE                                                                                     [0m
+[91m        SHORT  Affluence means great wealth and abundance, such as the great riches found by ancient explorers who exploited the new worlds of North and South America.[0m
+[36m         LONG  The roots of the word affluence are recognizable in the Latin affluentia, which refers to something that flows toward (someone). We can see the connection
                when we think of the flow of wealth that signifies affluence in our society. For centuries we have seen the affluence in the United States that
                sparked admiration and jealousy among poorer nations, and we have seen that same affluence rising now in China, as it prepares to take its
-               place as a major world power.
+               place as a major world power.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         With affluence comes accumulation, but also the urge to shed what has become more burden than blessing.
-     >         China’s growing affluence means that TCM is undergoing a legitimate renaissance, buoyed by government sponsorship as Beijing seeks to boost its global soft
-               power.
-     >         “Because a country like Canada should not have people dying on our streets, homeless, when there is so much affluence and openness to global capital.”
-     >         One classic example of affluence and power wrapped into a shoe is the high heel.
-     >         This diverse force feels betrayed by trade and tax policies that create immense affluence at the top and take wealth from workers.
+[3m             > Throughout, Priestley gently reminds us of the ephemerality of affluence in a teetering economy.[0m
+[3m             > Is the number of our days or the affluence therein really all there is to life?[0m
+[3m             > The White House on Friday held up the affluence of its staffers as a badge of honor.[0m
+[3m             > The late-night download of federal employee disclosure forms confirmed the affluence of many Trump personnel.[0m
+[3m             > The data also offers hints that perhaps our varied adoption of online shopping is not just about relative affluence, but other lifestyle factors.[0m
 
- 1   The State Of Having A Great Deal Of Money; Wealth.
-	 Eg.  "A Sign Of Our Growing Affluence"
-	 Eg.  "The Affluence Of The Higher Social Classes"
-	 Synonyms:  wealth , prosperity , opulence , fortune , luxury , 
-	 Antonyms:  poverty , 
+[35mAffluence[0m[36m /ˈaflʊəns/,[0m [91m[3mnoun[0m[0m | noun: affluence
+          • [37mthe state of having a great deal of money; wealth.[0m
+	   "a sign of our growing affluence"
+  	   [3msynonyms:[0m wealth, prosperity, opulence, fortune, richness, luxury, plenty ;  riches, money, cash, lucre, resources, assets, possessions, property, substance,
+                     means, deep pockets
+		    "the affluence of the higher social classes"
+  	   [3mantonyms:[0m poverty
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mसमृद्धि[0m    [31mविपुलता[0m 

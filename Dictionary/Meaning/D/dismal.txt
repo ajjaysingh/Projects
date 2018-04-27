@@ -1,30 +1,38 @@
-                                                                                      DISMAL                                                                                      
-  SHORT        Dismal is a dreary, depressing sort of bad. "With the cold rain and their team behind by six field goals, the mood in the stands was so dismal even the
-               cheerleaders had lost their 'Rah.'"
-  LONG         Dismal comes from the Latin dies mali which means "bad days." There is a hopelessness implied in the word. If you fell on the way to school and cut your knee,
+[35m                                                                                      DISMAL                                                                                      [0m
+[91m        SHORT  Dismal is a dreary, depressing sort of bad. "With the cold rain and their team behind by six field goals, the mood in the stands was so dismal even the
+               cheerleaders had lost their 'Rah.'"[0m
+[36m         LONG  Dismal comes from the Latin dies mali which means "bad days." There is a hopelessness implied in the word. If you fell on the way to school and cut your knee,
                it would be bad, but not dismal. If you fell into a giant mud puddle and had to wear dirty, crusty clothes until you got home, it might make
-               the school day seem pretty dismal.
+               the school day seem pretty dismal.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This one went New York’s way and will be a highlight as one of the best plays by the Jets in a dismal season.
-     >         Arrests for political expression and assembly have continued unabated and during some months have increased from the dismal average of recent years.
-     >         The attack was a dismal failure, and many of the erstwhile rebels were captured and killed.
-     >         Nebraska made just 10 of 35 shots in the first half for a dismal 28.6 shooting percentage.
-     >         The year since last November’s terrorist attacks in Paris has been a dismal one for European airlines.
+[3m             > An economics afflicted by such attitudes is not even a dismal science; it's a pseudoscience.[0m
+[3m             > Still, despite the dismal economy, rising crime and mass shortages of medicines and food, Castillo envisions a better Venezuela.[0m
+[3m             > After a dismal few weeks all is not quite dead.[0m
+[3m             > The Wizards avoided the dismal start that dimmed their hopes in Game 3 before the first quarter was complete.[0m
+[3m             > Under Onalfo the Galaxy lack direction, with Sunday’s 3-0 home defeat to the Seattle Sounders compounding their dismal start to the season.[0m
 
- 1   Causing A Mood Of Gloom Or Depression.
-	 Eg.  "The Dismal Weather Made The Late Afternoon Seem Like Evening"
-	 Eg.  "She Led Them Into A Dismal Cavernous Hall"
-	 Synonyms:  dingy , dim , dark , gloomy , sombre , 
-	 Antonyms:  bright , cheerful , 
-
- 2   (Of A Person Or Their Mood) Gloomy.
-	 Eg.  "His Dismal Mood Was Not Dispelled By Finding The House Empty"
-	 Eg.  "He Had A Dismal Look In His Eyes"
-	 Synonyms:  gloomy , glum , mournful , melancholy , morose , 
-	 Antonyms:  cheerful , 
-
- 3   Pitifully Or Disgracefully Bad.
-	 Eg.  "He Shuddered As He Watched His Team'S Dismal Performance"
-	 Eg.  "The Team Have Produced A String Of Dismal Performances"
-	 Synonyms:  bad , poor , dreadful , awful , terrible , 
-	 Antonyms:  excellent , 
+[35mDismal[0m[36m /ˈdɪzm(ə)l/,[0m [91m[3madjective[0m[0m | adjective: dismal
+          • [37mcausing a mood of gloom or depression.[0m
+	   "the dismal weather made the late afternoon seem like evening"
+  	   [3msynonyms:[0m dingy, dim, dark, gloomy, sombre, dreary, drab, dull, desolate, bleak, cheerless, comfortless, depressing, grim, funereal, inhospitable, uninviting,
+                     unwelcoming
+		    "she led them into a dismal cavernous hall"
+  	   [3mantonyms:[0m bright, cheerful
+          • [37m(of a person or their mood) gloomy.[0m
+	   "his dismal mood was not dispelled by finding the house empty"
+  	   [3msynonyms:[0m gloomy, glum, mournful, melancholy, morose, doleful, woeful, woebegone, forlorn, abject, dejected, depressed, dispirited, downcast, crestfallen,
+                     despondent, disconsolate, miserable, sad, unhappy, sorrowful, sorrowing, desolate, wretched, lugubrious ;  blue, fed up, down in the
+                     dumps, down in the mouth, as sick as a parrot ;  dolorous ;  chap-fallen
+		    "he had a dismal look in his eyes"
+  	   [3mantonyms:[0m cheerful
+          • [37mpitifully or disgracefully bad.[0m
+	   "he shuddered as he watched his team's dismal performance"
+  	   [3msynonyms:[0m bad, poor, dreadful, awful, terrible, pitiful, disgraceful, lamentable, deplorable ;  inferior, mediocre, unsatisfactory, inadequate, second-rate, third-
+                     rate, shoddy, inept, bungling ;  crummy, dire, diabolical, bum, rotten, pathetic, lousy, poxy ;  duff, rubbish, ropy, chronic,
+                     pants, a load of pants ;  crap, crappy, shitty ;  chickenshit ;  direful ;  egregious
+		    "the team have produced a string of dismal performances"
+  	   [3mantonyms:[0m excellent
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+  [31mनिराशाजनक[0m    [31mहतभाग्य[0m  
+     [31mउदास[0m      [31mअप्रसन्न[0m 
+    [31mभयानक[0m      [31mशोकयुक्त[0m 

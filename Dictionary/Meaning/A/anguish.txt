@@ -1,20 +1,26 @@
-                                                                                     ANGUISH                                                                                      
-  SHORT        The noun anguish refers to severe physical or emotional pain or distress. A trip to the dentist might cause a cavity-prone person a lot of anguish.
-  LONG         We get this word from a Latin word, angustus, which literally meant "narrow" but developed the figurative sense of "distressed" — think of being choked off or
+[35m                                                                                     ANGUISH                                                                                      [0m
+[91m        SHORT  The noun anguish refers to severe physical or emotional pain or distress. A trip to the dentist might cause a cavity-prone person a lot of anguish.[0m
+[36m         LONG  We get this word from a Latin word, angustus, which literally meant "narrow" but developed the figurative sense of "distressed" — think of being choked off or
                forced into a small space. In modern times anguish has been in the English with the parallel and related meanings of "physical torment" and
-               "emotional suffering." Both kinds might be experienced at the hands of a dentist who likes to make his patients squirm in agony.
+               "emotional suffering." Both kinds might be experienced at the hands of a dentist who likes to make his patients squirm in agony.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         A two-minute trailer released this week suggested a film of much anguish and violence.
-     >         And so, as his feet turned purple, Hicks concentrated on the night sky, refusing to acknowledge his body’s anguish.
-     >         A comparable fusion of humor and anguish might have fit the bill here.
-     >         Agency for International Development last based in Amman, Jordan, gave anguished testimony in court last week.
-     >         Photographers and sports writers pestered him, milking his anguish, and disconsolate cranks harassed his parents.
+[3m             > He seeks evidence from classmates, co-workers and others who claim not to recognize the anguished young Obama put forward in the book.[0m
+[3m             > The final “Lamentation” is an anguished setting of a Hebrew text from the Book of Lamentations, here sung plaintively by the mezzo-soprano Sasha Cooke.[0m
+[3m             > These are the thoughts that linger over a vast summer, long after the visceral anguish wanes.[0m
+[3m             > It was able to hang on in Game 6 when Paul Pierce’s corner 3-pointer was an anguished half-second too late.[0m
+[3m             > I recalled the way that the Bush administration exploited people’s horror and anguish to wage what it named the “war on terror”.[0m
 
- 1   Severe Mental Or Physical Pain Or Suffering.
-	 Eg.  "She Shut Her Eyes In Anguish"
-	 Eg.  "A Cry Of Anguish"
-	 Synonyms:  agony , pain , torment , torture , suffering , 
-	 Antonyms:  happiness , contentment , 
-
- 2   Be Extremely Distressed About Something.
-	 Eg.  "I Spent The Next Two Weeks Anguishing About Whether I'D Made The Right Decision"
+[35mAnguish[0m[36m /ˈaŋɡwɪʃ/,[0m [91m[3mnoun[0m[0m | noun: anguish; plural noun: anguishes
+      [32m1.[0m [37msevere mental or physical pain or suffering.[0m
+	   "she shut her eyes in anguish"
+  	   [3msynonyms:[0m agony, pain, torment, torture, suffering, distress, angst, misery, sorrow, grief, heartache, heartbreak, wretchedness, unhappiness, woe, desolation,
+                     despair ;  the dark night of the soul, purgatory, hell on earth ;  dolour
+		    "a cry of anguish"
+  	   [3mantonyms:[0m happiness, contentment
+    [91m[3mverb[0m[0m | verb: anguish; 3rd person present: anguishes; past tense: anguished; past participle: anguished; gerund or present participle: anguishing
+      [32m1.[0m [37mbe extremely distressed about something.[0m
+	   "I spent the next two weeks anguishing about whether I'd made the right decision"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mपीड़ा[0m      [31mसंताप[0m  
+    [31mवेदना[0m      [31mदु:ख[0m   
+    [31mव्यथा[0m      [31mकष्ट[0m   

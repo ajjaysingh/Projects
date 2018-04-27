@@ -1,26 +1,29 @@
-                                                                                      BARON                                                                                       
-  SHORT        A baron is a nobleman — a member of the aristocracy. Barons are also important, powerful businessmen with huge influence over their industries. In Britain, a
-               baron is called “Lord,” but in the States, we call them “rich.”
-  LONG         Barons are members of the aristocracy — wealthy people born into power and influence. How high a baron ranks depends on the country, but the title always
+[35m                                                                                      BARON                                                                                       [0m
+[91m        SHORT  A baron is a nobleman — a member of the aristocracy. Barons are also important, powerful businessmen with huge influence over their industries. In Britain, a
+               baron is called “Lord,” but in the States, we call them “rich.”[0m
+[36m         LONG  Barons are members of the aristocracy — wealthy people born into power and influence. How high a baron ranks depends on the country, but the title always
                carries respect. Similarly, a business leader who is rich, powerful, and influential is a baron. The term is used in phrases such as oil baron
-               and baron of industry. You can also call that kind of baron a big businessman, magnate, mogul, top executive, or tycoon.
+               and baron of industry. You can also call that kind of baron a big businessman, magnate, mogul, top executive, or tycoon.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         They found St. Philip’s in August, right after the Barons started their on-the-job training.
-     >         Among the journalists who posted selfies at the event was Martin Baron, the executive editor of The Washington Post.
-     >         His son, John, an entertainment lawyer, confirmed the death through his publicist, the D. Baron company, in Santa Monica, Calif. No cause was given.
-     >         Likewise, Barón said his immigrant-rights group has been clear that it is not going to take mass deportation sitting down.
-     >         My Lovely Wife, Ruth, found a B&B in a railroad baron’s old mansion so we’d have somewhere to spend the night.
+[3m             > When the baron expatiated upon the superior practices of Europe, the Indians were baffled.[0m
+[3m             > It’s a long way from the timber barons.[0m
+[3m             > “We use a Bale Baron to bundle it,” Hill said.[0m
+[3m             > What inspired his cheerful contempt for the feudal barons who tussle over the Iron Throne while their serfs starve in the muck?[0m
+[3m             > The point of potential confusion in Baron and colleagues' proposal is that the authors retain the name Saurischia while removing the Theropoda.[0m
 
- 1   A Member Of The Lowest Order Of The British Nobility. Baron Is Not Used As A Form Of Address, Barons Usually Being Referred To As ‘Lord’
-	 Eg.  "The French Supported The Barons Against King John"
-	 Synonyms:  noble , nobleman , aristocrat , peer , lord , 
+[35mBaron[0m[36m /ˈbar(ə)n/,[0m [91m[3mnoun[0m[0m | noun: baron; plural noun: barons
+      [32m1.[0m [37ma member of the lowest order of the British nobility. Baron is not used as a form of address, barons usually being referred to as ‘Lord’.[0m
+	   "the French supported the barons against King John"
+  	   [3msynonyms:[0m noble, nobleman, aristocrat, peer, lord
+		    "the French supported the barons against King John"
+          • [37ma member of a foreign nobility having a rank similar to that of a British baron.[0m
+          • [37ma person who held lands or property from the sovereign or a powerful overlord.[0m
 
- 2   A Member Of A Foreign Nobility Having A Rank Similar To That Of A British Baron.
-
- 3   A Person Who Held Lands Or Property From The Sovereign Or A Powerful Overlord.
-
- 4   An Important Or Powerful Person In A Specified Business Or Industry.
-	 Eg.  "A Press Baron"
-	 Eg.  "A Press Baron"
-	 Synonyms:  magnate , tycoon , mogul , nabob , grandee , 
-	 Antonyms:  small fry , 
+      [32m2.[0m [37man important or powerful person in a specified business or industry.[0m
+	   "a press baron"
+  	   [3msynonyms:[0m magnate, tycoon, mogul, captain of industry, nabob, grandee, mandarin ;  industrialist, proprietor, entrepreneur, executive, chief, leader ;  big shot,
+                     bigwig, honcho ;  big wheel ;  fat cat
+		    "a press baron"
+  	   [3mantonyms:[0m small fry
+             [31m[4m[34m[0m[0m[0m                       [31m[4m[34mnoun[0m[0m[0m          
+                    [31mनवाब[0m                                      [31mबरोन[0m                  

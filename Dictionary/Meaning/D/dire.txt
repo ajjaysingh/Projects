@@ -1,26 +1,34 @@
-                                                                                       DIRE                                                                                       
-  SHORT        Dire refers to situations or events that cause great fear and worry. A dire calamity causes much suffering.
-  LONG         If a family is in dire need, they need immediate help. Dire predictions or warnings tell us that a disaster may happen in the future. If you are trapped
-               between the burning building behind you and the high cliffs in front of you, you might describe yourself as being in dire straits.
+[35m                                                                                       DIRE                                                                                       [0m
+[91m        SHORT  Dire refers to situations or events that cause great fear and worry. A dire calamity causes much suffering.[0m
+[36m         LONG  If a family is in dire need, they need immediate help. Dire predictions or warnings tell us that a disaster may happen in the future. If you are trapped
+               between the burning building behind you and the high cliffs in front of you, you might describe yourself as being in dire straits.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The explosion of dropouts strikes many observers as dire.
-     >         Despite the dire warnings, leaders agree that the 11th surge has a significant upside.
-     >         Advance America said its own situation became dire after five banks decided in the last month to cut ties, including a 14-year relationship with U.S.
-     >         In Monguno, an isolated town accessible to journalists only by helicopter, aid groups said the situation was just as dire.
-     >         In hindsight, the Democratic Party should have taken those words as a dire warning.
+[3m             > Now, he said, the demonstrations are more dire and will also call for the appointment of a special prosecutor to lead an independent Russia investigation.[0m
+[3m             > As soon as that letter landed, Trump’s campaign saw it as a game-changer, a last-minute opportunity that they so direly needed.[0m
+[3m             > As his successors discovered that the Americas were not part of Asia, Indians became a dire anthropogonical problem.[0m
+[3m             > For this reason, Iowa’s program is on the verge of collapse and other state exchanges are in dire straits.[0m
+[3m             > In the proposed infrastructure overhaul, rail is supposed to receive extra, direly needed funds.[0m
 
- 1   Extremely Serious Or Urgent.
-	 Eg.  "Misuse Of Drugs Can Have Dire Consequences"
-	 Eg.  "The Dire Economic Situation"
-	 Eg.  "He Was In Dire Need Of Help"
-	 Synonyms:  terrible , dreadful , appalling , frightful , awful , 
-	 Antonyms:  good , mild , 
+[35mDire[0m[36m /ˈdʌɪə/,[0m [91m[3madjective[0m[0m | adjective: dire; comparative adjective: direr; superlative adjective: direst
+      [32m1.[0m [37mextremely serious or urgent.[0m
+	   "misuse of drugs can have dire consequences"
+  	   [3msynonyms:[0m terrible, dreadful, appalling, frightful, awful, horrible, atrocious, grim, unspeakable, distressing, harrowing, alarming, shocking, outrageous ;  grave,
+                     serious, grievous, disastrous, ruinous, calamitous, catastrophic, cataclysmic, devastating, crippling ;  miserable, wretched, woeful
+                     ;  hopeless, irretrievable ;  lousy, chronic ;  direful ;  parlous  urgent, desperate, pressing, crying, sore, grave, serious,
+                     extreme, acute, drastic ;  critical, crucial, vital
+		    "the dire economic situation"
+  	   [3mantonyms:[0m good, mild
+          • [37m(of a warning or threat) presaging disaster.[0m
+	   "there were dire warnings from the traffic organizations"
+  	   [3msynonyms:[0m ominous, portentous, gloomy, doom and gloom, sinister ;  grim, dreadful, dismal ;  unpropitious, inauspicious, unfavourable, pessimistic
+		    "dire warnings of fuel shortages"
+  	   [3mantonyms:[0m encouraging
 
- 2   (Of A Warning Or Threat) Presaging Disaster.
-	 Eg.  "There Were Dire Warnings From The Traffic Organizations"
-	 Eg.  "Dire Warnings Of Fuel Shortages"
-	 Synonyms:  ominous , portentous , gloomy , sinister , grim , 
-	 Antonyms:  encouraging , 
-
- 3   Of A Very Poor Quality.
-	 Eg.  "The Concert Was Dire"
+      [32m2.[0m [37mof a very poor quality.[0m
+	   "the concert was dire"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mभयानक[0m            [31mदारुण[0m     
+      [31mअत्यंत[0m            [31mउग्र[0m      
+      [31mडरावना[0m            [31mतीव्र[0m     
+  [31mदिल दहलानेवाला[0m        [31mक्रूर[0m     
+    [31mग़ैरमामूली[0m          [31mरौद्र[0m     

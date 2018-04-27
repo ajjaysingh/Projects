@@ -1,26 +1,34 @@
-                                                                                      QUELL                                                                                       
-  SHORT        Meaning to suppress or overcome, quell is what you have to do with nerves before a big test and fears before going skydiving.
-  LONG         When it first came into existence, the verb quell actually meant “to murder.” That's a bit more serious than our modern definition, but you can use that old
+[35m                                                                                      QUELL                                                                                       [0m
+[91m        SHORT  Meaning to suppress or overcome, quell is what you have to do with nerves before a big test and fears before going skydiving.[0m
+[36m         LONG  When it first came into existence, the verb quell actually meant “to murder.” That's a bit more serious than our modern definition, but you can use that old
                definition to help you imagine offing your worries or putting a permanent end to criticism. These days quell is often used to mean "pacify," as
-               in the police quelling an angry mob or a mom quelling a kid's temper tantrum.
+               in the police quelling an angry mob or a mom quelling a kid's temper tantrum.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Seattle lost a season-high three turnovers, all inside the Tampa Bay 29-yard-line, two in the final eight minutes to quell the comeback hopes.
-     >         The administration has sent emails with quotes from our esteemed founder Thomas Jefferson to quell students’ fears and bring the community together.
-     >         Officers were brought in from across the country to quell the unrest.
-     >         Those complaints were partly quelled after some earnest explanation by the film’s creative team.
-     >         Dark humor became our own preferred elixir to quell the unpleasantness of Mr. P’s inevitable health trajectory and our complicity in it.
+[3m             > But Reddit empowered me to respond more seriously to those kind of comments, and maybe that will quell the uprising.[0m
+[3m             > Zuckerberg’s attempts to quell its problem with fake news and the like are all steps in the right direction for mitigating Facebook’s shortcomings, experts
+               say.[0m
+[3m             > Interior Secretary Ryan Zinke on Sunday launched a “listening tour” across Utah designed to quell an uproar over his department’s controversial review of
+               national monuments.[0m
+[3m             > The officers say Mosby prosecuted them in order to quell civil unrest.[0m
+[3m             > But Michael Wallace, China Horse Club racing manager, did little to quell the controversy after the race when asked about the trainer switch.[0m
 
- 1   Put An End To (A Rebellion Or Other Disorder), Typically By The Use Of Force.
-	 Eg.  "Extra Police Were Called To Quell The Disturbance"
-	 Eg.  "Troops Were Called In To Quell The Unrest"
-	 Synonyms:  end , finish , crush , check , curb , 
-	 Antonyms:  prompt , 
-
- 2   Subdue Or Silence (Someone).
-	 Eg.  "Connor Quelled Him With A Look"
-
- 3   Suppress (A Feeling).
-	 Eg.  "She Quelled An Urge To Race Up The Stairs"
-	 Eg.  "He Managed To Quell His Initial Misgivings"
-	 Synonyms:  calm , soothe , pacify , settle , quieten , 
-	 Antonyms:  
+[35mQuell[0m[36m /kwɛl/,[0m [91m[3mverb[0m[0m | verb: quell; 3rd person present: quells; past tense: quelled; past participle: quelled; gerund or present participle: quelling
+          • [37mput an end to (a rebellion or other disorder), typically by the use of force.[0m
+	   "extra police were called to quell the disturbance"
+  	   [3msynonyms:[0m put an end to, stamp out, put a stop to, end, finish, get rid of, crush, put down, check, crack down on, curb, nip in the bud, thwart, frustrate, squash,
+                     quash, subdue, suppress, repress, quench, extinguish, stifle, abolish, terminate, beat, overcome, defeat, rout, destroy, demolish,
+                     annihilate, wipe out, extirpate ;  squelch, put the kibosh on, clobber
+		    "troops were called in to quell the unrest"
+  	   [3mantonyms:[0m bring about, prompt
+          • [37msubdue or silence (someone).[0m
+	   "Connor quelled him with a look"
+          • [37msuppress (a feeling).[0m
+	   "she quelled an urge to race up the stairs"
+  	   [3msynonyms:[0m calm, soothe, pacify, settle, quieten, quiet, put at rest, lull, silence, put behind one, rise above, allay, appease, stay, assuage, abate, deaden, dull,
+                     tranquillize, mitigate, moderate, palliate
+		    "he managed to quell his initial misgivings"
+  	   [3mantonyms:[0m succumb to
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mवश में करना[0m     [31mदमन करना[0m  
+   [31mशांत करना[0m     [31mशान्त करना[0m 
+     [31mकुचलना[0m       [31mशमन करना[0m  

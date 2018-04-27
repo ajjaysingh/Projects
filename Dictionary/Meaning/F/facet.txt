@@ -1,25 +1,30 @@
-                                                                                      FACET                                                                                       
-  SHORT        A facet is one side or aspect of something. If you’re thinking about quitting your day job to become a circus performer, you should first consider every facet
-               of what your new life would be like.
-  LONG         Facet, which is related to the word face, can also refer to one of the flat “faces” of a diamond or other gem. This was the word’s original definition, and it
+[35m                                                                                      FACET                                                                                       [0m
+[91m        SHORT  A facet is one side or aspect of something. If you’re thinking about quitting your day job to become a circus performer, you should first consider every facet
+               of what your new life would be like.[0m
+[36m         LONG  Facet, which is related to the word face, can also refer to one of the flat “faces” of a diamond or other gem. This was the word’s original definition, and it
                was evidently seen as an apt metaphor for one side of a complex idea. When a problem has many parts to consider (or when it’s just a huge
-               mess), you can describe it as multifaceted.
+               mess), you can describe it as multifaceted.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “There’s just so many facets to our state that make it fascinating,” he said.
-     >         Ongoing conversation with the Facets staff turned curiosity into true love for foreign films, and he now takes advantage of Facets’s large Middle Eastern
-               catalog.
-     >         Polar scientists also struggle with another facet of winter life.
-     >         This includes original drawings and models depicting facets of the Salk.
-     >         Similar to Bill Withers, success came later in life for Jones, which is certainly another facet of inspiration for her fans and peers.
+[3m             > Autism is a lifelong developmental disorder that impacts on pretty much every facet of your existence.[0m
+[3m             > The Google code of conduct states “affection for our canine friends is an integral facet of our corporate culture”.[0m
+[3m             > Every item—critter shorts, pocket squares, the Frankie sunglasses—represented a facet of a familiar, imagined life.[0m
+[3m             > Restaurants are one facet, along with organizations such as L.A.[0m
+[3m             > Barnes’ ejection was the latest facet of this tense rivalry between AL East contenders.[0m
 
- 1   One Side Of Something Many-Sided, Especially Of A Cut Gem.
-	 Eg.  "A Blue And Green Jewel That Shines From A Million Facets"
-	 Eg.  "A Larger Number Of Small Facets Preserves The Size Of The Gem"
-	 Synonyms:  surface , face , side , plane , angle , 
+[35mFacet[0m[36m /ˈfasɪt,ˈfasɛt/,[0m [91m[3mnoun[0m[0m | noun: facet; plural noun: facets
+      [32m1.[0m [37mone side of something many-sided, especially of a cut gem.[0m
+	   "a blue and green jewel that shines from a million facets"
+  	   [3msynonyms:[0m surface, face, side, plane, angle, slant
+		    "a larger number of small facets preserves the size of the gem"
 
- 2   A Particular Aspect Or Feature Of Something.
-	 Eg.  "A Philosophy That Extends To All Facets Of The Business"
-	 Eg.  "She'D Also Seen Other Facets Of His Character"
-	 Synonyms:  aspect , feature , side , dimension , particular , 
+      [32m2.[0m [37ma particular aspect or feature of something.[0m
+	   "a philosophy that extends to all facets of the business"
+  	   [3msynonyms:[0m aspect, feature, side, dimension, particular, characteristic, detail, point, ingredient, strand, factor ;  component, constituent, element, part,
+                     section, portion, piece, bit ;  angle, slant, sense, respect, regard, way, viewpoint, standpoint
+		    "she'd also seen other facets of his character"
 
- 3   Any Of The Individual Units (Ommatidia) That Make Up The Compound Eye Of An Insect Or Crustacean.
+      [32m3.[0m [37many of the individual units (ommatidia) that make up the compound eye of an insect or crustacean.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mपहलू[0m           [31mपक्ष[0m     
+  [31mनगीने का पहल[0m    [31mहीरे का पहल[0m 
+   [31mछोटा चेहरा[0m       [31mपार्श्व[0m   

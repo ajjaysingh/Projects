@@ -1,12 +1,15 @@
-                                                                                    DETERRENCE                                                                                    
-  SHORT        A deterrence discourages you from doing something. An invisible electric fence is an excellent deterrence for dogs who like to roam outside the yard.
-  LONG         You can influence someone's actions by promoting certain behaviors and discouraging others. And it's the discouragement part where deterrence comes in. A
+[35m                                                                                    DETERRENCE                                                                                    [0m
+[91m        SHORT  A deterrence discourages you from doing something. An invisible electric fence is an excellent deterrence for dogs who like to roam outside the yard.[0m
+[36m         LONG  You can influence someone's actions by promoting certain behaviors and discouraging others. And it's the discouragement part where deterrence comes in. A
                deterrence makes you reconsider doing something — usually bad things like stealing or skipping school — because you know the penalty will be
-               harsh. Deterrences make you afraid to try something. So many homeowners hope that a security alarm will be a deterrence to burglars.
+               harsh. Deterrences make you afraid to try something. So many homeowners hope that a security alarm will be a deterrence to burglars.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He said “Having naval bases in remote distances is not less than nuclear power. It is ten times more important and creates deterrence.”
-     >         A hostile Russia that miscalculates U.S. will and deterrence capabilities poses a mortal nuclear threat to our existence.
-     >         The forecast is cutting edge, but it is used in the service of an old-fashioned policing philosophy: deterrence.
-     >         “It seems a little bold to claim this is a success for deterrence, since the Russians weren’t deterred from doing anything,” he said.
-     >         The Obama administration has grappled with how to establish norms of deterrence in cyberspace that check destabilizing actions by an aggressive, risk-taking
-               Russia.
+[3m             > Current work centers on nuclear deterrence, nonproliferation and the modernization of the U.S. nuclear stockpile.[0m
+[3m             > “We need all necessary means for defense and for deterrence,” she said.[0m
+[3m             > About 28,500 U.S. troops are stationed in South Korea as deterrence against potential aggression from North Korea.[0m
+[3m             > Some 28,500 U.S. troops are stationed in South Korea as deterrence against potential aggression from North Korea.[0m
+[3m             > There is no evidence that he renders the basic principles of nuclear deterrence obsolete.[0m
+
+[35mDeterrence[0m[36m /dɪˈtɛr(ə)ns/,[0m [91m[3mnoun[0m[0m | noun: deterrence; plural noun: deterrences
+          • [37mthe action of discouraging an action or event through instilling doubt or fear of the consequences.[0m
+	   "nuclear missiles remain the main deterrence against possible aggression"

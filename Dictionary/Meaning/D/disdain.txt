@@ -1,30 +1,38 @@
-                                                                                     DISDAIN                                                                                      
-  SHORT        If you feel that something isn't worthy of your consideration, you may disdain it (or treat it with disdain).
-  LONG         In Old French, deignier meant "to treat something as worthy." To disdain something, then, is to treat it with contempt: "Management at [the company] displayed
+[35m                                                                                     DISDAIN                                                                                      [0m
+[91m        SHORT  If you feel that something isn't worthy of your consideration, you may disdain it (or treat it with disdain).[0m
+[36m         LONG  In Old French, deignier meant "to treat something as worthy." To disdain something, then, is to treat it with contempt: "Management at [the company] displayed
                a certain disdain for safety and appeared to regard safety-conscious workers as wimps in the organization." As a verb, disdain carries an air
                of self-righteousness not associated with similar words like despise, abhor, detest, loathe and scorn. So if you disdain something, you might
-               reject it with a haughty scoff, "Ha!"
+               reject it with a haughty scoff, "Ha!"[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Although Howard wore a new uniform, he constantly received the same vociferous disdain that will follow him at Staples Center for his entire career.
-     >         The president-elect is unabashed in his disdain for America’s global warming policy.
-     >         Expertly and convincingly, Callow rejects the common disdain for Welles’s post-1948 career.
-     >         The new Trump professes sympathy for people and ideas he disdained during the “vicious” campaign.
-     >         Before his hospitalization, West’s public breakdowns and stream-of-consciousness speeches have been the subject of jokes and disdain.
+[3m             > Even inside the permissive Warwick philosophy department, the CCRU’s ever more blatant disdain for standard academic practice became an issue.[0m
+[3m             > The alignment between Oubre’s impact on the series and Boston’s disdain toward him is off.[0m
+[3m             > The hacking operation was met, instead, with silence, disdain and even scorn.[0m
+[3m             > But how do you calculate the depth of disdain expressed in this latest AU incident?[0m
+[3m             > As a sort of mandarin parallel to punk, the movement disdained the idealism of previous avant-gardes.[0m
 
- 1   The Feeling That Someone Or Something Is Unworthy Of One'S Consideration Or Respect.
-	 Eg.  "Her Upper Lip Curled In Disdain"
-	 Eg.  "She Looked At Him With Open Disdain"
-	 Synonyms:  contempt , scorn , derision , disrespect , condescension , 
-	 Antonyms:  admiration , respect , 
-
- 2   Consider To Be Unworthy Of One'S Consideration.
-	 Eg.  "He Disdained His Patients As An Inferior Rabble"
-	 Eg.  "She Disdained Such Vulgar Exhibitionism"
-	 Synonyms:  scorn , deride , pooh-pooh , belittle , undervalue , 
-	 Antonyms:  respect , value , 
-
- 3   Refuse To Do (Something) From Feelings Of Pride Or Superiority.
-	 Eg.  "She Remained Standing, Pointedly Disdaining His Invitation To Sit Down"
-	 Eg.  "She Pointedly Disdained His Invitation To Sit Down"
-	 Synonyms:  spurn , reject , refuse , rebuff , disregard , 
-	 Antonyms:  accept , 
+[35mDisdain[0m[36m /dɪsˈdeɪn/,[0m [91m[3mnoun[0m[0m | noun: disdain; plural noun: disdains
+      [32m1.[0m [37mthe feeling that someone or something is unworthy of one's consideration or respect.[0m
+	   "her upper lip curled in disdain"
+  	   [3msynonyms:[0m contempt, scorn, scornfulness, contemptuousness, derision, disrespect ;  disparagement, condescension, superciliousness, hauteur, haughtiness, arrogance,
+                     lordliness, snobbishness, aloofness, indifference, dismissiveness ;  distaste, dislike, disgust ;  despite, contumely
+		    "she looked at him with open disdain"
+  	   [3mantonyms:[0m admiration, respect
+    [91m[3mverb[0m[0m | verb: disdain; 3rd person present: disdains; past tense: disdained; past participle: disdained; gerund or present participle: disdaining
+      [32m1.[0m [37mconsider to be unworthy of one's consideration.[0m
+	   "he disdained his patients as an inferior rabble"
+  	   [3msynonyms:[0m scorn, deride, pour scorn on, regard with contempt, show contempt for, be contemptuous about, sneer at, sniff at, curl one's lip at, pooh-pooh, look down
+                     on, belittle, undervalue, slight ;  despise ;  look down one's nose at, turn up one's nose at, thumb one's nose at ;  contemn ;
+                     misprize
+		    "she disdained such vulgar exhibitionism"
+  	   [3mantonyms:[0m respect, value
+          • [37mrefuse to do (something) from feelings of pride or superiority.[0m
+	   "she remained standing, pointedly disdaining his invitation to sit down"
+  	   [3msynonyms:[0m spurn, reject, refuse, rebuff, disregard, ignore, snub ;  decline, turn down, brush aside
+		    "she pointedly disdained his invitation to sit down"
+  	   [3mantonyms:[0m accept
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mतिरस्कार[0m         [31mघिनाना[0m    
+       [31mघृणा[0m         [31mघृणा करना[0m   
+     [31mअवहेलना[0m       [31mतुच्छ समझना[0m  
+     [31mघृष्टता[0m      [31mतिरस्कार करना[0m 

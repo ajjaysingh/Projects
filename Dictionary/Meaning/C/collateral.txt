@@ -1,32 +1,35 @@
-                                                                                    COLLATERAL                                                                                    
-  SHORT        It's what you promise to give someone if you don't repay a loan, like the car you put up as collateral when you take a loan out from the bank. As an
-               adjective, collateral can refer to something indirect or off to the side, like collateral damage.
-  LONG         Collateral is the watch you put on the table in a poker game, or the shoes you trade in at the bowling alley. If you pay back your debts, you get your goods
+[35m                                                                                    COLLATERAL                                                                                    [0m
+[91m        SHORT  It's what you promise to give someone if you don't repay a loan, like the car you put up as collateral when you take a loan out from the bank. As an
+               adjective, collateral can refer to something indirect or off to the side, like collateral damage.[0m
+[36m         LONG  Collateral is the watch you put on the table in a poker game, or the shoes you trade in at the bowling alley. If you pay back your debts, you get your goods
                back.  As an adjective, collateral describes something indirect, like collateral damage (non-soldiers inadvertently killed in war) or
-               collateral relatives such as your second-cousin-once-removed that your mother keeps bugging you to call.
+               collateral relatives such as your second-cousin-once-removed that your mother keeps bugging you to call.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The government alleged that he illegally shifted money that should have been deposited as collateral for a loan from the St. Louis-based First Bank.
-     >         Each titleholder’s real property in a common-interest development may be pledged as collateral for any association loans, which may be obtained without
-               approval from owners.
-     >         Yaisbel said she would stay behind but take a loan from smugglers to pay for her husband’s journey, using her mother’s house as collateral.
-     >         High levels of inflammation cause collateral damage to the body to increase the risk of other diseases.
-     >         There will be more collateral consequences from higher prices, perhaps more violence in the drug markets.
+[3m             > The disclosures included “Collateral Murder”, the footage of a US Apache helicopter attack in Baghdad in which two Reuters journalists and other civilians
+               were killed.[0m
+[3m             > Richards was supposed to be the Angels ace but missed the final 137 games last season after he tore his ulnar collateral ligament.[0m
+[3m             > District Court Judge Justin Quackenbush said the agents’ testimony is “somewhat collateral” to the case and may not be needed.[0m
+[3m             > It would seem to me that balanced, intelligent journalism is in finding the collateral story, not the obvious one.[0m
+[3m             > “In essence what is being said is we don’t care what the collateral damage is,” he said.[0m
 
- 1   Something Pledged As Security For Repayment Of A Loan, To Be Forfeited In The Event Of A Default.
-	 Eg.  "She Put Her House Up As Collateral For The Bank Loan"
-	 Eg.  "She Put Up Her House As Collateral For The Bank Loan"
-	 Synonyms:  security , surety , guarantee , guaranty , pledge , 
+[35mCollateral[0m[36m /kəˈlat(ə)r(ə)l/,[0m [91m[3mnoun[0m[0m | noun: collateral; plural noun: collaterals
+      [32m1.[0m [37msomething pledged as security for repayment of a loan, to be forfeited in the event of a default.[0m
+	   "she put her house up as collateral for the bank loan"
+  	   [3msynonyms:[0m security, surety, guarantee, guaranty, pledge, bond, assurance, insurance, indemnity, indemnification, pawn, backing ;  bail, hostage ;  gage, earnest
+		    "she put up her house as collateral for the bank loan"
 
- 2   A Person Having The Same Ancestor As Another But Through A Different Line.
+      [32m2.[0m [37ma person having the same ancestor as another but through a different line.[0m
+    [91m[3madjective[0m[0m | adjective: collateral
+      [32m1.[0m [37madditional but subordinate; secondary.[0m
+	   "the collateral meanings of a word"
+          • [37mdenoting inadvertent casualties and destruction in civilian areas in the course of military operations.[0m
+	   "munitions must be able to destroy the target without causing collateral damage"
 
- 3   Additional But Subordinate; Secondary.
-	 Eg.  "The Collateral Meanings Of A Word"
+      [32m2.[0m [37mdescended from the same stock but by a different line.[0m
+	   "a collateral descendant of Robert Burns"
 
- 4   Denoting Inadvertent Casualties And Destruction In Civilian Areas In The Course Of Military Operations.
-	 Eg.  "Munitions Must Be Able To Destroy The Target Without Causing Collateral Damage"
-
- 5   Descended From The Same Stock But By A Different Line.
-	 Eg.  "A Collateral Descendant Of Robert Burns"
-
- 6   Situated Side By Side; Parallel.
-	 Eg.  "Collateral Veins"
+      [32m3.[0m [37msituated side by side; parallel.[0m
+	   "collateral veins"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+   [31mसंपार्श्विक[0m       [31mसहायक[0m    
+    [31mआनुषंगिक[0m       [31mअतिरिक्त[0m   

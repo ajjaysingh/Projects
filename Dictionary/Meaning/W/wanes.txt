@@ -1,25 +1,34 @@
-                                                                                      WANES                                                                                       
-  SHORT        Things that wax and wane grow larger and smaller, like the moon. Things that wane simply grow smaller. "My initial enthusiasm for helping waned when I saw the
-               pile of envelopes that needed licking."
-  LONG         You may have heard the expression "on the wane." It means a fad, or a fashion, or a disease, that is on its way out the door. "The face mask fad at school was
-               on the wane as new reports of kids infected with a dreaded new fly virus waned."
+[35m                                                                                      WANES                                                                                       [0m
+[91m        SHORT  Things that wax and wane grow larger and smaller, like the moon. Things that wane simply grow smaller. "My initial enthusiasm for helping waned when I saw the
+               pile of envelopes that needed licking."[0m
+[36m         LONG  You may have heard the expression "on the wane." It means a fad, or a fashion, or a disease, that is on its way out the door. "The face mask fad at school was
+               on the wane as new reports of kids infected with a dreaded new fly virus waned."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         As American influence wanes in East Asia, expect more countries to follow the Philippines and Malaysia and jump on the Beijing bandwagon.
-     >         The belief in this fourth pillar waxes and wanes, but is always present.
-     >         The recently created position, created in a 2004 law, waxes and wanes in power with the personality of its occupant.
-     >         Their dominance in fourth quarters wanes in close games.
-     >         Sales of new cars and trucks were expected to fall in October as consumer demand wanes.
+[3m             > These are the thoughts that linger over a vast summer, long after the visceral anguish wanes.[0m
+[3m             > And over time, needs and bodies change, and desire waxes and wanes.[0m
+[3m             > We tend to assume that creativity wanes with age.[0m
+[3m             > Over time, his predecessor’s influence on the economy wanes and Trump’s grows.[0m
+[3m             > If the E.P.A.’s authority wanes, that citizen power from a half-century ago is likely to be invoked more than ever.[0m
 
- 1   (Of The Moon) Have A Progressively Smaller Part Of Its Visible Surface Illuminated, So That It Appears To Decrease In Size.
-	 Eg.  "The Moon Is Waning"
-	 Synonyms:  disappear , decrease , diminish , dwindle , 
-	 Antonyms:  wax , 
+[35mWane[0m[36m /weɪn/,[0m [91m[3mverb[0m[0m
+	3rd person present: wanes
+      [32m1.[0m [37m(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.[0m
+	   "the moon is waning"
+  	   [3msynonyms:[0m disappear, decrease, diminish, dwindle
+		    "the moon is waning"
+  	   [3mantonyms:[0m wax
 
- 2   (Of A State Or Feeling) Decrease In Vigour Or Extent; Become Weaker.
-	 Eg.  "Confidence In The Dollar Waned"
-	 Eg.  "Support For The Strike Was Waning"
-	 Synonyms:  decrease , decline , diminish , dwindle , shrink , 
-	 Antonyms:  increase , grow , 
-
- 3   The Amount By Which A Plank Or Log Is Bevelled Or Falls Short Of A Squared Shape.
-	 Eg.  "I Cut The Log Into Slabs Without Removing The Outside Wane"
+      [32m2.[0m [37m(of a state or feeling) decrease in vigour or extent; become weaker.[0m
+	   "confidence in the dollar waned"
+  	   [3msynonyms:[0m decrease, decline, diminish, dwindle, shrink, contract, taper off, tail off, subside, slacken, droop, sink, ebb, dim, fade (away), grow faint, lessen,
+                     dissolve, peter out, wind down, fall off, attenuate, be on the way out, abate, fail, recede, slump, flag, atrophy, become weak,
+                     weaken, give in, give way, melt away, deteriorate, crumble, wither, disintegrate, degenerate, evaporate, collapse, go downhill, draw
+                     to a close, vanish, die out ;  evanesce, remit
+		    "support for the strike was waning"
+  	   [3mantonyms:[0m increase, grow
+[35mWane[0m[36m /weɪn/,[0m [91m[3mnoun[0m[0m
+	plural noun: wanes
+          • [37mthe amount by which a plank or log is bevelled or falls short of a squared shape.[0m
+	   "I cut the log into slabs without removing the outside wane"
+  [31m[4m[34m[0m[0m[0m
+  [31mक्षीण हो जाती है[0m 

@@ -1,17 +1,20 @@
-                                                                                    PERVASIVE                                                                                     
-  SHORT        When something is pervasive, it's everywhere. Common things are pervasive — like greed and cheap perfume.
-  LONG         Ever notice how certain trends seem to spread all over the place? When something — like a hairstyle — is super-common, it's pervasive. Pervasive things can't
+[35m                                                                                    PERVASIVE                                                                                     [0m
+[91m        SHORT  When something is pervasive, it's everywhere. Common things are pervasive — like greed and cheap perfume.[0m
+[36m         LONG  Ever notice how certain trends seem to spread all over the place? When something — like a hairstyle — is super-common, it's pervasive. Pervasive things can't
                be escaped. Playing video games is pervasive among kids. Talking about the weather is pervasive among adults. Ideas, diseases, habits, and all
-               sorts of things can be pervasive. If you're sick of seeing something because you're seeing it again and again, it must be pervasive.
+               sorts of things can be pervasive. If you're sick of seeing something because you're seeing it again and again, it must be pervasive.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “There has been pervasive disinvestment in our cities,” said Ms. Nelson, who leads the Troy Architectural Project, which supports revitalization efforts in
-               that city.
-     >         But the nature of air pollution is that it is pervasive.
-     >         There’s a growing chance that it will belong to a robot: a new and ever more pervasive kind of independent mind.
-     >         The pervasive smell of the mill, they told their daughters, may as well be the smell of money.
-     >         Facebook, the most pervasive of the social networks, has received much scrutiny and blame.
+[3m             > Yet if the new view is correct and the work of humankind was pervasive, where does that leave efforts to restore nature?[0m
+[3m             > But perhaps the most pervasive misconception about bats is the one linking them to deadly diseases.[0m
+[3m             > “The internet is the most powerful and pervasive platform on the planet,” said FCC chairman Tom Wheeler.[0m
+[3m             > Pride of 212 ownership as a symbol of longtime city residency is so pervasive it inspired an entire episode of the hit television comedy "Seinfeld."[0m
+[3m             > The most striking thing about the store was, for lack of a better term, its pervasive, all-encompassing J. Crewness.[0m
 
- 1   (Especially Of An Unwelcome Influence Or Physical Effect) Spreading Widely Throughout An Area Or A Group Of People.
-	 Eg.  "Ageism Is Pervasive And Entrenched In Our Society"
-	 Eg.  "A Pervasive Smell Of Staleness"
-	 Synonyms:  prevalent , penetrating , extensive , ubiquitous , omnipresent , 
+[35mPervasive[0m[36m /pəˈveɪsɪv/,[0m [91m[3madjective[0m[0m | adjective: pervasive
+          • [37m(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.[0m
+	   "ageism is pervasive and entrenched in our society"
+  	   [3msynonyms:[0m prevalent, penetrating, pervading, permeating, extensive, ubiquitous, omnipresent, present everywhere, rife, widespread, general, common, universal,
+                     pandemic, epidemic, endemic, inescapable, insidious ;  immanent ;  permeative, suffusive, permeant
+		    "a pervasive smell of staleness"
+  [31m[4m[34madjective[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+         [31mव्यापक[0m                [31mप्रसरणशील[0m      

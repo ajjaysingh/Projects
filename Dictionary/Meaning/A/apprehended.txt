@@ -1,20 +1,25 @@
-                                                                                   APPREHENDED                                                                                    
+[35m                                                                                   APPREHENDED                                                                                    [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         HSI special agents, along with officers from the San Mateo County Sheriff’s Office apprehended three people believed to be associated with the boat.
-     >         Already, images were circulating of the passengers being apprehended by the authorities.
-     >         McKane was apprehended when his car was stopped on an interstate.
-     >         He says the suspect has not yet been apprehended and a motive is not known.
-     >         No information was available about whether the other individual in the car was apprehended.
+[3m             > Police say the 44-year-old suspect drove off, but was apprehended on East Allegheny Avenue.[0m
+[3m             > In March, the number of illegal crossers apprehended — just under 12,200 — fell 64 percent from the same month last year.[0m
+[3m             > Police say he stole another vehicle and kidnapped the driver before driving to Omaha, where he was apprehended.[0m
+[3m             > In October, the first month of the 2017 fiscal year, 66,710 people were apprehended crossing the U.S.-Mexico border illegally.[0m
+[3m             > He was apprehended near the scene after the woman, in a torn and muddy dress, flagged a passerby, who called police, the court filings show.[0m
 
- 1   Arrest (Someone) For A Crime.
-	 Eg.  "A Warrant Was Issued But He Has Not Been Apprehended"
-	 Eg.  "The Thieves Were Quickly Apprehended"
-	 Synonyms:  arrest , catch , capture , seize , detain , 
+[35mApprehend[0m[36m /aprɪˈhɛnd/,[0m [91m[3mverb[0m[0m
+	past tense: apprehended; past participle: apprehended
+      [32m1.[0m [37marrest (someone) for a crime.[0m
+	   "a warrant was issued but he has not been apprehended"
+  	   [3msynonyms:[0m arrest, catch, capture, seize ;  take prisoner, take into custody, detain, put in jail, throw in jail, put behind bars, imprison, incarcerate ;  collar,
+                     nab, nail, run in, pinch, bust, pick up, pull in, haul in, do, feel someone's collar ;  nick
+		    "the thieves were quickly apprehended"
 
- 2   Understand Or Perceive.
-	 Eg.  "We Enter A Field Of Vision We Could Not Otherwise Apprehend"
-	 Eg.  "Language Is The Only Tool We Have At Our Disposal For Apprehending Reality"
-	 Synonyms:  understand , comprehend , realize , recognize , appreciate , 
-
- 3   Anticipate (Something) With Uneasiness Or Fear.
-	 Eg.  "He Is A Man That Apprehends Death No More Dreadfully But As A Drunken Sleep"
+      [32m2.[0m [37munderstand or perceive.[0m
+	   "we enter a field of vision we could not otherwise apprehend"
+  	   [3msynonyms:[0m understand, comprehend, realize, recognize, appreciate, discern, perceive, fathom, penetrate, catch, follow, grasp, make out, take in ;  get the drift
+                     of, get the hang of, make head or tail of, get the picture, have an aha moment ;  twig, suss (out)
+		    "language is the only tool we have at our disposal for apprehending reality"
+          • [37manticipate (something) with uneasiness or fear.[0m
+	   "he is a man that apprehends death no more dreadfully but as a drunken sleep"
+  [31m[4m[34m[0m[0m[0m
+  [31mगिरफ्तार[0m 

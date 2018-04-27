@@ -1,26 +1,30 @@
-                                                                                    CARICATURE                                                                                    
-  SHORT        A caricature is a satirical, exaggerated portrayal of person. You'd better not caricature your father by walking bent-over and speaking in his high voice. If
-               he catches you, you'll be in trouble!
-  LONG         An exaggeration of a person's character results in a caricature. While this might help you to remember it's meaning, don't let the spelling confuse you.
+[35m                                                                                    CARICATURE                                                                                    [0m
+[91m        SHORT  A caricature is a satirical, exaggerated portrayal of person. You'd better not caricature your father by walking bent-over and speaking in his high voice. If
+               he catches you, you'll be in trouble![0m
+[36m         LONG  An exaggeration of a person's character results in a caricature. While this might help you to remember it's meaning, don't let the spelling confuse you.
                Character has an "h" but caricature does not. If you're so excited about something that you feel a little out of control, you might seem like a
                caricature of yourself to your friends. You can use this word as a verb too. Presidents and other prominent politicians are often caricatured
-               in political cartoons.
+               in political cartoons.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         I hadn’t seen any Nazi movies or I might have known that he fitted the mould, like a caricature.
-     >         And the characters, while initially seeming like caricatures, come to life — warts and all.
-     >         He feels a duty to speak for a heritage that is often caricatured in sentimental terms and treated as bygone.
-     >         Fillon said this was a caricature of his position and he simply wanted a more constructive relationship with Moscow.
-     >         The exit poll data, combined with the result, painted the caricature – and the journalist went and found such voters in order to understand why.
+[3m             > Meanwhile, a much smaller group of opponents of the former president also gathered, raising an inflatable caricature of Lula dressed in prison garb.[0m
+[3m             > Q: Wasn’t the character of Norman also inspired by the anti-Semitic caricature of the historical court Jew, the Jewish banker to royalty?[0m
+[3m             > Before the referendum, Fletcher added, “Boris campaigned against the cartoon caricature of Brussels that he himself invented.”[0m
+[3m             > Vicky — overweight, stuck in a job that “stinks,” dependent on Lucy’s handouts — is a caricature, Lucy’s reverse image, attacking because of her own
+               unhappiness.[0m
+[3m             > These are a few of the Wonder Bread caricatures populating Winchester University, the fictional Ivy League setting for “Dear White People.”[0m
 
- 1   A Picture, Description, Or Imitation Of A Person In Which Certain Striking Characteristics Are Exaggerated In Order To Create A Comic Or Grotesque Effect.
-	 Eg.  "A Crude Caricature Of The Prime Minister"
-	 Eg.  "A Crude Caricature Of The Prime Minister"
-	 Synonyms:  cartoon , distortion , parody , satire , lampoon , 
-
- 2   A Ludicrous Or Grotesque Version Of Someone Or Something.
-	 Eg.  "He Looked A Caricature Of His Normal Self"
-
- 3   Make Or Give A Caricature Of.
-	 Eg.  "He Was Famous Enough To Be Caricatured By Private Eye"
-	 Eg.  "She Has Turned Her Acute Eye And Pen To Caricaturing Her Fellow Actors"
-	 Synonyms:  parody , satirize , lampoon , mimic , ridicule , 
+[35mCaricature[0m[36m /ˈkarɪkətjʊə,ˈkarɪkətʃɔː/,[0m [91m[3mnoun[0m[0m | noun: caricature; plural noun: caricatures
+      [32m1.[0m [37ma picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect.[0m
+	   "a crude caricature of the Prime Minister"
+  	   [3msynonyms:[0m cartoon, distorted/exaggerated drawing, distortion ;  parody, satire, lampoon, burlesque, mimicry, travesty, farce, skit, squib ;  send-up, take-off,
+                     spoof ;  pasquinade
+		    "a crude caricature of the Prime Minister"
+          • [37ma ludicrous or grotesque version of someone or something.[0m
+	   "he looked a caricature of his normal self"
+    [91m[3mverb[0m[0m | verb: caricature; 3rd person present: caricatures; past tense: caricatured; past participle: caricatured; gerund or present participle: caricaturing
+      [32m1.[0m [37mmake or give a caricature of.[0m
+	   "he was famous enough to be caricatured by Private Eye"
+  	   [3msynonyms:[0m parody, satirize, lampoon, mimic, ridicule, mock, make fun of, burlesque ;  distort, exaggerate ;  send up, take off
+		    "she has turned her acute eye and pen to caricaturing her fellow actors"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mकारटूनवाला[0m         [31mभोंडी नक़ल[0m      [31mभोंडी नक़ल बनाना[0m     [31mविद्रूप चित्र[0m  

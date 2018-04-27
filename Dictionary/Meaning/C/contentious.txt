@@ -1,25 +1,26 @@
-                                                                                   CONTENTIOUS                                                                                    
-  SHORT        A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.
-  LONG         Some issues — like abortion, the death penalty, and gun control — are very controversial. They're also contentious, because people tend to argue about them,
+[35m                                                                                   CONTENTIOUS                                                                                    [0m
+[91m        SHORT  A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.[0m
+[36m         LONG  Some issues — like abortion, the death penalty, and gun control — are very controversial. They're also contentious, because people tend to argue about them,
                and the arguments will probably go on forever. Contentious issues get people angry and in a fighting mood. On the other hand, some people
-               always seem to be in a fighting mood, no matter what the issue is. People like that are contentious too.
+               always seem to be in a fighting mood, no matter what the issue is. People like that are contentious too.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Corps cited North Dakota’s oncoming winter and increasingly contentious clashes between protesters and police.
-     >         Illegal immigration has been a contentious,issue in this northeastern state of Assam for more than three decades.
-     >         After a contentious presidential election, he believes people are ready to buy.
-     >         Still, after a contentious presidential election, he believes people are ready to buy.
-     >         Court of Appeals for the 11th Circuit in Atlanta would be a sign that Trump does not fear a disruptive and contentious battle.
+[3m             > Some Democrats worried her entry into the race would touch off a contentious intraparty fight, but she said that did not influence her decision.[0m
+[3m             > The finding is the latest addition in a long and contentious dispute about the effects of dingoes on Australia’s ecosystems.[0m
+[3m             > The official rhetoric is often inclusive and reassuring, even in the midst of a contentious negotiation.[0m
+[3m             > I eventually find the contentious line in the book and Robin shrugs.[0m
+[3m             > He noted that the first ever monument designation in 1906, Wyoming’s Devils Tower, was also contentious.[0m
 
- 1   Causing Or Likely To Cause An Argument; Controversial.
-	 Eg.  "A Contentious Issue"
-	 Eg.  "The Contentious Issue Of Abortion"
-	 Synonyms:  controversial , disputable , debatable , moot , vexed , 
-
- 2   Involving Heated Argument.
-	 Eg.  "The Socio-Economic Plan Had Been The Subject Of Contentious Debate"
-	 Eg.  "A Contentious Debate"
-	 Synonyms:  heated , vehement , fierce , violent , intense , 
-
- 3   (Of A Person) Given To Provoking Argument.
-
- 4   Relating To Or Involving Differences Between Contending Parties.
+[35mContentious[0m[36m /kənˈtɛnʃəs/,[0m [91m[3madjective[0m[0m | adjective: contentious
+          • [37mcausing or likely to cause an argument; controversial.[0m
+	   "a contentious issue"
+  	   [3msynonyms:[0m controversial, disputable, debatable, disputed, contended, open to question/debate, moot, vexed ;  ambivalent, equivocal, unsure, uncertain, unresolved,
+                     undecided, unsettled, borderline ;  controvertible
+		    "the contentious issue of abortion"
+          • [37minvolving heated argument.[0m
+	   "the socio-economic plan had been the subject of contentious debate"
+  	   [3msynonyms:[0m heated, vehement, fierce, violent, intense, impassioned, committed
+		    "a contentious debate"
+          • [37m(of a person) given to provoking argument.[0m
+          • [37mrelating to or involving differences between contending parties.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+   [31mविवादास्पद[0m    [31mविवाद-ग्रस्त[0m 

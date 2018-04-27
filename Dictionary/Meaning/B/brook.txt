@@ -1,22 +1,26 @@
-                                                                                      BROOK                                                                                       
-  SHORT        A brook is a small stream. On a hot day, you might enjoy wading in a babbling brook. As a verb, brook is a rather stuffy word for "put up with." The lord of
-               the manor might say, "I will brook no trespassing on my land."
-  LONG         Brook is tailor-made for talking about what you won't stand for—it's always "brook no..." If you brook no criticism of your friend, it means you won't let
+[35m                                                                                      BROOK                                                                                       [0m
+[91m        SHORT  A brook is a small stream. On a hot day, you might enjoy wading in a babbling brook. As a verb, brook is a rather stuffy word for "put up with." The lord of
+               the manor might say, "I will brook no trespassing on my land."[0m
+[36m         LONG  Brook is tailor-made for talking about what you won't stand for—it's always "brook no..." If you brook no criticism of your friend, it means you won't let
                people speak ill of her. If you brook no brooks, it means you've developed a bizarre stream-hating fetish and will spend the rest of your days
-               trying to stop their flow.
+               trying to stop their flow.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Once in power in Cuba, he brooked no opposition.
-     >         In January, he underwent surgery at Stony Brook Children’s Hospital to recreate his lips.
-     >         The highest number of detainees on hunger strike was 66, at Brook House near Gatwick airport.
-     >         It happened around 2 p.m. on the Sprain Brook Parkway in Yonkers, just north of New York City.
-     >         One is a brook, the other is an ocean.
+[3m             > All England Club chairman Philip Brook said this week that the two-time finalist will not be invited to the Royal Box on Wimbledon’s Centre Court.[0m
+[3m             > They were appearing in the great international director Peter Brook’s “Battlefield,” an epilogue of sorts to his fabled “Mahabharata” from 1987.[0m
+[3m             > All England Club chairman Philip Brook said he "condemned" the behavior of two-time Wimbledon runner-up Nastase.[0m
+[3m             > The owner of Snook Brook Farms in Ferndale is facing five counts of animal cruelty.[0m
+[3m             > He wanted to pit Kell Brook against Amir Khan here but events and ego intervened.[0m
 
- 1   A Small Stream.
-	 Eg.  "The Lake District Boasts Lovely Lakes And Babbling Brooks"
-	 Eg.  "They Dozed Beside The Gurgling Brook"
-	 Synonyms:  stream , rivulet , rill , runnel , runlet , 
-
- 2   Tolerate Or Allow (Something, Typically Dissent Or Opposition).
-	 Eg.  "Jenny Would Brook No Criticism Of Matthew"
-	 Eg.  "The Authorities Would Brook No Delay"
-	 Synonyms:  tolerate , allow , stand , bear , abide , 
+[35mBrook[0m[36m /brʊk/,[0m [91m[3mnoun[0m[0m | noun: brook; plural noun: brooks
+          • [37ma small stream.[0m
+	   "the Lake District boasts lovely lakes and babbling brooks"
+  	   [3msynonyms:[0m stream, small river, streamlet, rivulet, rill, brooklet, runnel, runlet, freshet, gill ;  beck ;  bourn ;  billabong ;  burn ;  creek
+		    "they dozed beside the gurgling brook"
+[35mBrook[0m[36m /brʊk/,[0m [91m[3mverb formal[0m[0m | verb: brook; 3rd person present: brooks; past tense: brooked; past participle: brooked; gerund or present participle: brooking
+          • [37mtolerate or allow (something, typically dissent or opposition).[0m
+	   "Jenny would brook no criticism of Matthew"
+  	   [3msynonyms:[0m tolerate, allow, stand, bear, abide, stomach, swallow, put up with, go along with, endure, suffer, withstand, cope with ;  accept, permit, admit of,
+                     countenance ;  thole ;  stand for, stick, hack
+		    "the authorities would brook no delay"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+  [31mब्रूक[0m    [31mनदी[0m     [31mबहना[0m 

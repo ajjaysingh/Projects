@@ -1,25 +1,28 @@
-                                                                                    FESTERING                                                                                     
+[35m                                                                                    FESTERING                                                                                     [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Much of that sealife is now festering on the shoreline.
-     >         Soon children and adults were dancing, enjoying a rare respite from South Sudan’s festering conflict.
-     >         The terrible wound of mistrust in our body politic is no longer festering.
-     >         There is rage festering under the surface for reasons unclear.
-     >         Turnovers and penalties have been a festering problem for the Trojans, and Husky Stadium could compound it.
+[3m             > Major League Baseball told the Red Sox and Orioles to stop their festering feud.[0m
+[3m             > The concerns are magnified in some areas by subsidence, a festering problem exacerbated by five years of drought in the Central Valley.[0m
+[3m             > “Hasty? After festering for three thousand years in the depths of Tartarus, you call me hasty? I will slice Percy Jackson into a thousand pieces.”[0m
+[3m             > It is obvious the Trump administration intends finally to stop talking and start doing something about this festering geopolitical sore.[0m
+[3m             > Millions of refugees are left in limbo, festering in grossly underfunded camps in developing countries such as Kenya, Ethiopia and South Sudan.[0m
 
- 1   (Of A Wound Or Sore) Become Septic; Suppurate.
-	 Eg.  "A Festering Abscess"
-	 Eg.  "The Deep Wound In His Neck Festered"
-	 Synonyms:  suppurate , discharge , run , weep , ooze , 
-
- 2   (Of Food Or Rubbish) Become Rotten And Offensive To The Senses.
-	 Eg.  "Piles Of Mouldy Grey Paper Festered By The Sink"
-	 Eg.  "Rubbish Festered In The Crowded Streets"
-	 Synonyms:  rot , moulder , decay , decompose , putrefy , 
-
- 3   (Of A Negative Feeling Or A Problem) Become Worse Or More Intense, Especially Through Long-Term Neglect Or Indifference.
-	 Eg.  "Below The Surface, The Old Antagonisms Festered"
-	 Eg.  "We Must Not Allow Our Resentment To Fester"
-	 Synonyms:  rankle , chafe , ferment , brew , smoulder , 
-
- 4   (Of A Person) Deteriorate Physically And Mentally In Isolated Inactivity.
-	 Eg.  "Remand Prisoners Are Left To Fester In Our Jails While They Wait For Trial"
+[35mFester[0m[36m /ˈfɛstə/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: festering
+          • [37m(of a wound or sore) become septic; suppurate.[0m
+	   "a festering abscess"
+  	   [3msynonyms:[0m suppurate, become septic, form pus, secrete pus, discharge, run, weep, ooze ;  come to a head ;  maturate, be purulent ;  rankle, apostemate
+		    "the deep wound in his neck festered"
+          • [37m(of food or rubbish) become rotten and offensive to the senses.[0m
+	   "piles of mouldy grey paper festered by the sink"
+  	   [3msynonyms:[0m rot, moulder, decay, decompose, putrefy, go bad, go off, perish, spoil, deteriorate, disintegrate, degrade, break down, break up ;  mortify, necrotize ;
+                     corrupt
+		    "rubbish festered in the crowded streets"
+          • [37m(of a negative feeling or a problem) become worse or more intense, especially through long-term neglect or indifference.[0m
+	   "below the surface, the old antagonisms festered"
+  	   [3msynonyms:[0m rankle, chafe, gnaw (at one's mind), eat away at one's mind, ferment, brew, smoulder ;  cause bitterness, cause resentment, cause vexation, cause
+                     annoyance
+		    "we must not allow our resentment to fester"
+          • [37m(of a person) deteriorate physically and mentally in isolated inactivity.[0m
+	   "remand prisoners are left to fester in our jails while they wait for trial"
+  [31m[4m[34m[0m[0m[0m
+  [31mfestering[0m 

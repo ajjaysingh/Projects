@@ -1,18 +1,24 @@
-                                                                                      IMPEDE                                                                                      
-  SHORT        To impede something is to delay or block its progress or movement. Carrying six heavy bags will impede your progress if you're trying to walk across town.
-  LONG         Impede comes from the Latin impedire which literally means "to hold the feet," formed from the prefix in- "in" plus pes "foot." Think about walking with a
+[35m                                                                                      IMPEDE                                                                                      [0m
+[91m        SHORT  To impede something is to delay or block its progress or movement. Carrying six heavy bags will impede your progress if you're trying to walk across town.[0m
+[36m         LONG  Impede comes from the Latin impedire which literally means "to hold the feet," formed from the prefix in- "in" plus pes "foot." Think about walking with a
                cast on your foot––how slow and awkward that would be. If you have a hard time reading, that will impeded your progress in math. An impediment
-               is something that impedes, such as a physical defect that affects speech––a speech impediment.
+               is something that impedes, such as a physical defect that affects speech––a speech impediment.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In the opening Allegro, Urbanski impeded forward momentum by inexplicably alternating between breaking up and slowing down the music.
-     >         Also watching was L. R. Goethe, 64, of Mandan, whose route was impeded by the demonstration.
-     >         The UN interim humanitarian coordinator, Michel Yao, also demanded that armed groups withdraw from outside the town’s hospital, saying their presence impeded
-               civilian access.
-     >         He said he found the notion of protesting, with the roads it closed off and the general flow of urban productivity it impeded, “insane.”
-     >         Toyota says the problem happens when the door’s opening is impeded and the motor’s circuit gets overloaded.
+[3m             > Left to its own devices, the private sector is far more likely to impede technological progress than to advance it.[0m
+[3m             > So calls for a more vigorous investigation would . . . impede the investigation.[0m
+[3m             > But it redraws the lines of global trade, impeding the flow of money that built the city.[0m
+[3m             > Sen. Mike Rounds says officials expect Russia investigations to continue, adding that Comey’s firing “will not be allowed to impede in these investigations.”[0m
+[3m             > Instead, he said that any new investigation would only impede current inquiries being conducted by the House and Senate intelligence committees and the F.B.I.[0m
 
- 1   Delay Or Prevent (Someone Or Something) By Obstructing Them; Hinder.
-	 Eg.  "The Sap Causes Swelling Which Can Impede Breathing"
-	 Eg.  "The Programme Has Been Impeded By Several Problems"
-	 Synonyms:  hinder , obstruct , hamper , handicap , delay , 
-	 Antonyms:  facilitate , 
+[35mImpede[0m[36m /ɪmˈpiːd/,[0m [91m[3mverb[0m[0m | verb: impede; 3rd person present: impedes; past tense: impeded; past participle: impeded; gerund or present participle: impeding
+          • [37mdelay or prevent (someone or something) by obstructing them; hinder.[0m
+	   "the sap causes swelling which can impede breathing"
+  	   [3msynonyms:[0m hinder, obstruct, hamper, handicap, hold back, hold up, delay, interfere with, disrupt, retard, slow, slow down, brake, put a brake on, restrain, fetter,
+                     shackle, hamstring, cramp, cripple ;  block, check, bar, curb, stop, thwart, frustrate, baulk, foil, derail, stand in the way of ;
+                     stymie, foul up, screw up ;  scupper, throw a spanner in the works of ;  bork, throw a monkey wrench in the works of ;  cumber
+		    "the programme has been impeded by several problems"
+  	   [3mantonyms:[0m facilitate
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mरोकना[0m         [31mबाधा पहुंचाना[0m  
+     [31mबाधा डालना[0m       [31mअड़चन डालना[0m   
+     [31mअवरोध करना[0m     [31mप्रतिबाधित करना[0m 

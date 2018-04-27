@@ -1,34 +1,38 @@
-                                                                                    RECONCILE                                                                                     
-  SHORT        Reach for the verb reconcile to make different things come together or resolve a matter.
-  LONG         If you've ever had an argument with someone and then made up, you have reconciled. Reconcile is a verb that can mean "to become resigned" like if you're
+[35m                                                                                    RECONCILE                                                                                     [0m
+[91m        SHORT  Reach for the verb reconcile to make different things come together or resolve a matter.[0m
+[36m         LONG  If you've ever had an argument with someone and then made up, you have reconciled. Reconcile is a verb that can mean "to become resigned" like if you're
                reconciled to getting the bottom bunk when you wanted the top. It also means to "bring into agreement and harmony." Words like it are pacify,
-               harmonize, and accommodate — reconcile is definitely an agreeable word!
+               harmonize, and accommodate — reconcile is definitely an agreeable word![0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Washington state needs to reconcile those disturbing patterns, because they are linked.
-     >         His death was met with acerbic statements from members of Congress who have harshly criticized Mr. Obama’s efforts to reconcile with Cuba.
-     >         He loves them, sees them regularly, and intends to reconcile with his ex-wife.
-     >         Homer and Barney eventually reconcile, proclaiming that not even God can stop them now.
-     >         Ms. Sanchez said that Ms. Manu had apologized, and the two are working on reconciling.
+[3m             > We should not be afraid to confront and reconcile our past.”[0m
+[3m             > If the House and the Senate bills differ, the legislation must be reconciled.[0m
+[3m             > They were Erdogan’s harshest words against Israel since the two countries reconciled last year and restored diplomatic ties to the ambassadorial level.[0m
+[3m             > Another thing Olbermann might find difficult to reconcile is the reversal in the two men’s fortunes.[0m
+[3m             > It was his way of marrying everything and its opposite, of reconciling every contradiction.[0m
 
- 1   Restore Friendly Relations Between.
-	 Eg.  "The King And The Archbishop Were Publicly Reconciled"
+[35mReconcile[0m[36m /ˈrɛk(ə)nsʌɪl/,[0m [91m[3mverb[0m[0m | verb: reconcile; 3rd person present: reconciles; past tense: reconciled; past participle: reconciled; gerund or present participle: reconciling
+      [32m1.[0m [37mrestore friendly relations between.[0m
+	   "the king and the archbishop were publicly reconciled"
+          • [37msettle (a quarrel).[0m
+	   "advice on how to reconcile the conflict"
+  	   [3msynonyms:[0m reunite, bring (back) together (again), restore friendly relations between, restore harmony between, make peace between, resolve differences between,
+                     bring to terms ;  pacify, appease, placate, propitiate, mollify ;  conciliate  settle, resolve, patch up, sort out, smooth over,
+                     iron out, put to rights, mend, remedy, heal, cure, rectify
+		    "the news reconciled us"
+  	   [3mantonyms:[0m estrange, alienate
+          • [37mmake or show to be compatible.[0m
+	   "the agreement had to be reconciled with the city's new international relations policy"
+  	   [3msynonyms:[0m make compatible, harmonize, square, make harmonious, synthesize, make congruent, cause to be in agreement, cause to sit happily/easily with ;  adjust,
+                     balance, attune ;  syncretize
+		    "it wasn't easy trying to reconcile his religious beliefs with his career"
+          • [37mmake someone accept (a disagreeable or unwelcome thing).[0m
+	   "he was reconciled to leaving"
+  	   [3msynonyms:[0m accept, come to accept, resign oneself to, come to terms with, learn to live with, get used to, make the best of, submit to, accommodate oneself to,
+                     adjust oneself to, become accustomed to, acclimatize oneself to ;  grin and bear it ;  like it or lump it
+		    "the creditors had to reconcile themselves to drastic losses of income and capital"
 
- 2   Settle (A Quarrel).
-	 Eg.  "Advice On How To Reconcile The Conflict"
-	 Eg.  "The News Reconciled Us"
-	 Eg.  "The Quarrel Was Reconciled"
-	 Synonyms:  reunite , pacify , appease , placate , propitiate , 
-	 Antonyms:  estrange , alienate , 
-
- 3   Make Or Show To Be Compatible.
-	 Eg.  "The Agreement Had To Be Reconciled With The City'S New International Relations Policy"
-	 Eg.  "It Wasn'T Easy Trying To Reconcile His Religious Beliefs With His Career"
-	 Synonyms:  harmonize , square , synthesize , adjust , balance , 
-
- 4   Make Someone Accept (A Disagreeable Or Unwelcome Thing).
-	 Eg.  "He Was Reconciled To Leaving"
-	 Eg.  "The Creditors Had To Reconcile Themselves To Drastic Losses Of Income And Capital"
-	 Synonyms:  accept , 
-
- 5   Make (One Account) Consistent With Another, Especially By Allowing For Transactions Begun But Not Yet Completed.
-	 Eg.  "It Is Not Necessary To Reconcile The Cost Accounts To The Financial Accounts"
+      [32m2.[0m [37mmake (one account) consistent with another, especially by allowing for transactions begun but not yet completed.[0m
+	   "it is not necessary to reconcile the cost accounts to the financial accounts"
+     [31m[4m[34m[0m[0m[0m       [31m[4m[34mverb[0m[0m[0m  
+        [31mसमाधान करना[0m               [31mस्वीकार करना[0m      
+      [31mमेल-मिलाप कराना[0m             [31mझगड़ा मिटाना[0m      

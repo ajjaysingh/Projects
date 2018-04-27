@@ -1,31 +1,34 @@
-                                                                                      ACCEDE                                                                                      
-  SHORT        If you accede, it means you agree with someone or give in to his or her wish.  The word is often used in a political context — the Queen acceded to the
-               Prince's demands for more territory, a larger army, and funnier jesters.
-  LONG         Accede can also be used for everyday situations.  If you accede to your mother's request that you come home before ten, it means you'll be missing that
+[35m                                                                                      ACCEDE                                                                                      [0m
+[91m        SHORT  If you accede, it means you agree with someone or give in to his or her wish.  The word is often used in a political context — the Queen acceded to the
+               Prince's demands for more territory, a larger army, and funnier jesters.[0m
+[36m         LONG  Accede can also be used for everyday situations.  If you accede to your mother's request that you come home before ten, it means you'll be missing that
                midnight movie with your friends.   Accede comes from the Latin accedere, meaning to "approach or enter upon."  It differs slightly from
                concede, which also means consent, but a more reluctant kind. If you were to concede to your mom's 10 PM curfew rather than accede to it, you'd
-               be doing so against your will.
+               be doing so against your will.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Outside groups are calling on the incoming Trump administration to change that approach and to accede to more transparency rather than fighting it.
-     >         Miller said that while such postings are psychological warfare intended to spread a message of fear, “We never accede to that.”
-     >         To sideline their interests is to accede to a backlash that has just begun and will only get worse.
-     >         To work with others, we may first need to acknowledge them – and learning about other perspectives is not the same as acceding to them.
-     >         He was insistent that the leader accede to the plan, or quit: MS-13 would tolerate no dissidents.
+[3m             > The more UN officials demand she does something, the less likely, it strikes me, that she will accede.[0m
+[3m             > Isn’t it ultimately just acceding to and legitimizing GOP obstruction that was more than just obstruction?[0m
+[3m             > “Should the Trump Administration accede to the governor’s request it will no doubt end up in court.”[0m
+[3m             > Charles will bring in many of his own staff when he accedes.[0m
+[3m             > So it’s unfortunate that Mr. Rosenstein faced demands from Democrats at his Tuesday confirmation hearing that no one in his position should accede to.[0m
 
- 1   Agree To A Demand, Request, Or Treaty.
-	 Eg.  "The Authorities Did Not Accede To The Strikers' Demands"
-	 Eg.  "The Authorities Did Not Accede To The Strikers' Demands"
-	 Synonyms:  accept , endorse , allow , recognize , grant , 
-	 Antonyms:  refuse , deny , 
+[35mAccede[0m[36m /əkˈsiːd/,[0m [91m[3mverb formal[0m[0m | verb: accede; 3rd person present: accedes; past tense: acceded; past participle: acceded; gerund or present participle: acceding
+      [32m1.[0m [37magree to a demand, request, or treaty.[0m
+	   "the authorities did not accede to the strikers' demands"
+  	   [3msynonyms:[0m agree to, consent to, accept, assent to, acquiesce in, endorse, comply with, go along with, concur with, allow, recognize, grant, surrender to, yield to,
+                     give in to, give way to, defer to ;  relent, back down
+		    "the authorities did not accede to the strikers' demands"
+  	   [3mantonyms:[0m refuse, deny
 
- 2   Assume An Office Or Position.
-	 Eg.  "Elizabeth I Acceded To The Throne In 1558"
-	 Eg.  "Elizabeth I Acceded To The Throne In 1558"
-	 Synonyms:  assume , attain , inherit , 
-	 Antonyms:  abdicate , renounce , 
-
- 3   Become A Member Of An Organization.
-	 Eg.  "Albania Acceded To The Imf In 1990"
-	 Eg.  "Albania Acceded To The Imf In 1990"
-	 Synonyms:  join , 
-	 Antonyms:  leave , secede , 
+      [32m2.[0m [37massume an office or position.[0m
+	   "Elizabeth I acceded to the throne in 1558"
+  	   [3msynonyms:[0m succeed to, assume, attain, come to, come into, inherit, take over, be elevated to
+		    "Elizabeth I acceded to the throne in 1558"
+  	   [3mantonyms:[0m abdicate, renounce
+          • [37mbecome a member of an organization.[0m
+	   "Albania acceded to the IMF in 1990"
+  	   [3msynonyms:[0m join, become a member of, become (a) party to, sign up to, enrol in
+		    "Albania acceded to the IMF in 1990"
+  	   [3mantonyms:[0m leave, secede
+  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+        [31mमान लेना[0m             [31mसम्मिलित होना[0m    

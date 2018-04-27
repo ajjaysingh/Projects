@@ -1,19 +1,23 @@
-                                                                                     CONVENE                                                                                      
-  SHORT        The verb convene is a somewhat formal way of saying "to bring together for the purpose of a meeting."
-  LONG         Convene is one of those words that lend an air of formality to a situation. We use it in place of the words "call a meeting" for such situations as government
+[35m                                                                                     CONVENE                                                                                      [0m
+[91m        SHORT  The verb convene is a somewhat formal way of saying "to bring together for the purpose of a meeting."[0m
+[36m         LONG  Convene is one of those words that lend an air of formality to a situation. We use it in place of the words "call a meeting" for such situations as government
                assemblages, court hearings, and conferences. Its meaning can be easily seen in its history — it comes from the Latin con-, which means
                "together," and the verb venīre, "to come." Imagine, if the syllables had just fit the music, the John Lennon song "Come together," might have
-               been called Convene.
+               been called Convene.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But the initiative contained some smart reforms that should be reconsidered when the Legislature convenes in January.
-     >         The union says a hastily convened meeting with Lufthansa on Sunday failed to produce a resolution.
-     >         Benjamin Netanyahu convened his Cabinet Sunday in Haifa, the hardest-hit city, where major blazes forced tens of thousands of people from their homes.
-     >         Council is considering a bill that establishes the commission, but legislatures in Maryland and Virginia don’t convene until January.
-     >         Racine said he plans to renew his push for campaign finance reform after the new council convenes in January.
+[3m             > When the Rangers convened for their pregame meeting, Vigneault said, they would talk about process but not outcome — they would cherish the moment.[0m
+[3m             > He convened a committee on affordable housing that produced what he called a “grand bargain” between developers and housing-advocates.[0m
+[3m             > A White House official says the meeting is expected to convene Tuesday afternoon.[0m
+[3m             > He was absent when the group finally convened at 10 p.m., two hours before the legislature would adjourn.[0m
+[3m             > The following year, delegates from over 32 countries convened to negotiate the terms for peace.[0m
 
- 1   Come Or Bring Together For A Meeting Or Activity; Assemble.
-	 Eg.  "He Had Convened A Secret Meeting Of Military Personnel"
-	 Eg.  "He Had Convened A Secret Meeting Of Military Personnel"
-	 Eg.  "The Committee Convened For Its Final Session"
-	 Synonyms:  summon , call , order , hold , convoke , 
-	 Antonyms:  disperse , 
+[35mConvene[0m[36m /kənˈviːn/,[0m [91m[3mverb[0m[0m | verb: convene; 3rd person present: convenes; past tense: convened; past participle: convened; gerund or present participle: convening
+          • [37mcome or bring together for a meeting or activity; assemble.[0m
+	   "he had convened a secret meeting of military personnel"
+  	   [3msynonyms:[0m summon, call, call together, order ;  hold ;  convoke  assemble, gather, meet, get together, come together, congregate, collect, muster ;  foregather
+		    "he had convened a secret meeting of military personnel"
+  	   [3mantonyms:[0m disperse
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mबुलाना[0m       [31mआमन्त्रित करना[0m 
+    [31mआयोजित करना[0m      [31mआह्वान करना[0m  
+      [31mबुलवाना[0m             [31m[0m        

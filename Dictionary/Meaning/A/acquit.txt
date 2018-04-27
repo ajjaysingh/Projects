@@ -1,27 +1,32 @@
-                                                                                      ACQUIT                                                                                      
-  SHORT        To acquit someone is to clear them of charges. Acquitting also has to do with how you carry or present yourself.
-  LONG         If you're accused of a crime, then the best thing that can happen to you is being acquitted — that means you were cleared or exonerated of the charges. A
+[35m                                                                                      ACQUIT                                                                                      [0m
+[91m        SHORT  To acquit someone is to clear them of charges. Acquitting also has to do with how you carry or present yourself.[0m
+[36m         LONG  If you're accused of a crime, then the best thing that can happen to you is being acquitted — that means you were cleared or exonerated of the charges. A
                defense lawyer wants to have his client acquitted. But watch out for another unrelated meaning: acquitting can mean how you behave, conduct, or
-               carry yourself. If you acquit yourself like a champion, then you're acting like a champion.
+               carry yourself. If you acquit yourself like a champion, then you're acting like a champion.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Many similarly convicted policemen in the past have been acquitted on appeal.
-     >         In 2011, Mr Wilders was acquitted of incitement after being accused of encouraging hatred towards Muslims.
-     >         In a separate opinion, Knoll wrote that Crawford should have been acquitted.
-     >         He was also acquitted of all charges involving an eighth man.
-     >         Hill testified against the older teen, but he was acquitted by a jury.
+[3m             > He died five days after being acquitted in a separate double slaying in 2012.[0m
+[3m             > He died five days after being acquitted in a separate double killing in 2012.[0m
+[3m             > He was later acquitted in the killings of two other people.[0m
+[3m             > The jury fully acquitted Stephen DiCarmine, who served as Dewey’s executive...[0m
+[3m             > The firm's former executive director, Stephen DiCarmine, was acquitted of the same charges.[0m
 
- 1   Free (Someone) From A Criminal Charge By A Verdict Of Not Guilty.
-	 Eg.  "She Was Acquitted On All Counts"
-	 Eg.  "The Jury Acquitted Her Of Attempted Arson"
-	 Synonyms:  absolve , clear , exonerate , exculpate , discharge , 
-	 Antonyms:  convict , 
+[35mAcquit[0m[36m /əˈkwɪt/,[0m [91m[3mverb[0m[0m | verb: acquit; 3rd person present: acquits; past tense: acquitted; past participle: acquitted; gerund or present participle: acquitting
+      [32m1.[0m [37mfree (someone) from a criminal charge by a verdict of not guilty.[0m
+	   "she was acquitted on all counts"
+  	   [3msynonyms:[0m absolve, clear, exonerate, exculpate, declare innocent, find innocent, pronounce not guilty ;  discharge, release, liberate, emancipate, free, set free,
+                     deliver, spare, exempt, dismiss ;  vindicate ;  let someone off (the hook)
+		    "the jury acquitted her of attempted arson"
+  	   [3mantonyms:[0m convict
 
- 2   Conduct Oneself Or Perform In A Specified Way.
-	 Eg.  "The Goalkeeper Acquitted Himself Well"
-	 Eg.  "The Boys Acquitted Themselves Exceedingly Well"
-	 Synonyms:  perform , act , behave , 
-
- 3   Discharge (A Duty Or Responsibility).
-	 Eg.  "They Acquitted Themselves Of Their Charge With Vigilance"
-	 Eg.  "They Acquitted Themselves Of Their Important Duty"
-	 Synonyms:  discharge , execute , perform , do , effect , 
+      [32m2.[0m [37mconduct oneself or perform in a specified way.[0m
+	   "the goalkeeper acquitted himself well"
+  	   [3msynonyms:[0m conduct oneself, bear oneself ;  perform, act, behave ;  comport oneself, deport oneself
+		    "the boys acquitted themselves exceedingly well"
+          • [37mdischarge (a duty or responsibility).[0m
+	   "they acquitted themselves of their charge with vigilance"
+  	   [3msynonyms:[0m discharge, execute, perform, do, carry out, effect, implement, bring about, bring off, accomplish, achieve, fulfil, complete ;  pull off ;  effectuate
+		    "they acquitted themselves of their important duty"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+  [31mअपराधमुक्त करना[0m      [31mमुक्त करना[0m   
+   [31mनिर्दोष ठहराना[0m      [31mपुरा करना[0m    
+    [31mविमुक्त करना[0m       [31mरिहा करना[0m    

@@ -1,26 +1,31 @@
-                                                                                      THWART                                                                                      
-  SHORT        A villain's worst nightmare is the superhero who always seems to thwart his efforts, preventing him from carrying out his plans to take over the world.
-  LONG         Thwart is a word you'll hear in a lot of action movies, and usually it's the hero who is trying to thwart the evil plan of some super-villain. Yet even mere
+[35m                                                                                      THWART                                                                                      [0m
+[91m        SHORT  A villain's worst nightmare is the superhero who always seems to thwart his efforts, preventing him from carrying out his plans to take over the world.[0m
+[36m         LONG  Thwart is a word you'll hear in a lot of action movies, and usually it's the hero who is trying to thwart the evil plan of some super-villain. Yet even mere
                mortals can be thwarted in their efforts; the word simply means to prevent someone from carrying out his or her plans. An aggressive driver can
                thwart your attempt to snag a parking space at a crowded mall by pulling into the space before you. An aggressive shopper at that same mall can
-               thwart your efforts to buy the last Dancing Snoopy doll by grabbing it off the shelf first.
+               thwart your efforts to buy the last Dancing Snoopy doll by grabbing it off the shelf first.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Soviet Union poured money and assistance into Cuba, partly out of friendship but more particularly to thwart the US embargo and tweak Washington’s nose.
-     >         He brought them low by misadventure and their own weaknesses, saw them for the thwarted fools they were, and loved them all the more.
-     >         France in particular sees a great opportunity for growing its own financial services sector after years of feeling thwarted by the UK.
-     >         Unfortunately, her plans to share the culture she loves were thwarted on this October evening.
-     >         Cazeneuve said investigators are studying whether the thwarted attack was part of a larger plot.
+[3m             > The 4th Circuit is the first appeals court to examine the revised travel ban, which Trump’s administration rewrote in an attempt to thwart legal challenges.[0m
+[3m             > Chinese officials demanded that she be deported to China — but were thwarted when the American diplomats intervened.[0m
+[3m             > The effort was thwarted, but plans remain to attempt a similar ban.[0m
+[3m             > Just on Thursday, the police thwarted a suspected terrorist attack in central London, arresting a 27-year-old man armed with a bag of knives.[0m
+[3m             > Licensing laws that thwart the self-employed are a major barrier to economic opportunity.[0m
 
- 1   Prevent (Someone) From Accomplishing Something.
-	 Eg.  "He Never Did Anything To Thwart His Father"
-
- 2   Oppose (A Plan, Attempt, Or Ambition) Successfully.
-	 Eg.  "The Government Had Been Able To Thwart All Attempts By Opposition Leaders To Form New Parties"
-	 Eg.  "The Move Was Intended To Thwart Peace Negotiations"
-	 Synonyms:  foil , frustrate , forestall , scotch , derail , 
-	 Antonyms:  assist , facilitate , 
-
- 3   A Structural Crosspiece Forming A Seat For A Rower In A Boat.
-
- 4   From One Side To Another Side Of; Across.
-	 Eg.  "A Pink-Tinged Cloud Spread Thwart The Shore"
+[35mThwart[0m[36m /θwɔːt/,[0m [91m[3mverb[0m[0m | verb: thwart; 3rd person present: thwarts; past tense: thwarted; past participle: thwarted; gerund or present participle: thwarting
+      [32m1.[0m [37mprevent (someone) from accomplishing something.[0m
+	   "he never did anything to thwart his father"
+          • [37moppose (a plan, attempt, or ambition) successfully.[0m
+	   "the government had been able to thwart all attempts by opposition leaders to form new parties"
+  	   [3msynonyms:[0m foil, frustrate, baulk, stand in the way of, forestall ;  scotch, derail, smash, dash ;  stop, check, block, prevent, defeat, impede, obstruct, snooker,
+                     oppose, hinder, hamper ;  upset the apple cart, spike someone's guns ;  put paid to, put the stopper on, put the kibosh on, do for,
+                     stymie, cook someone's goose ;  scupper, put the mockers on, nobble, queer someone's pitch ;  root ;  traverse
+		    "the move was intended to thwart peace negotiations"
+  	   [3mantonyms:[0m assist, facilitate
+    [91m[3mnoun[0m[0m | noun: thwart; plural noun: thwarts
+      [32m1.[0m [37ma structural crosspiece forming a seat for a rower in a boat.[0m
+    [91m[3mpreposition & adverb archaic literary[0m[0m | preposition: thwart; adverb: thwart
+      [32m1.[0m [37mfrom one side to another side of; across.[0m
+	   "a pink-tinged cloud spread thwart the shore"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mआड़ा[0m         [31mबिगाड़ना[0m         [31mटेढ़ा[0m    
+  [31mव्यास-संबंधी[0m    [31mनकाम बनाना[0m        [31mतिरछा[0m    

@@ -1,17 +1,22 @@
-                                                                                    PROTRACTED                                                                                    
-  SHORT        Something protracted has been drawn out, usually in a tedious way. Protracted things are long and seem like they're never going to end.
-  LONG         Anything protracted is lasting longer than you would like. A speech that seems to go on forever is protracted. If an employer and a union can't reach an
+[35m                                                                                    PROTRACTED                                                                                    [0m
+[91m        SHORT  Something protracted has been drawn out, usually in a tedious way. Protracted things are long and seem like they're never going to end.[0m
+[36m         LONG  Anything protracted is lasting longer than you would like. A speech that seems to go on forever is protracted. If an employer and a union can't reach an
                agreement, there could be a protracted strike. Before a movie, the previews are almost always protracted — they never seem to stop. If
-               something is long and annoying, and there's no good reason it couldn't be shorter, it's protracted.
+               something is long and annoying, and there's no good reason it couldn't be shorter, it's protracted.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Fidel Castro began his protracted retreat from public life in August 2006, when a grave intestinal illness forced him to step aside.
-     >         The report said: "The increased availability of NPS in prison has led to some episodes of protracted rage."
-     >         The labor action is related to a protracted dispute with pilots over employment terms.
-     >         On Tuesday, the UN said it had reached an agreement with the Jordanian military after protracted negotiations.
-     >         The contest’s aftermath has become a protracted spectacle.
+[3m             > The protests were part of the broader Forward Together movement led by the NAACP, which won several protracted battles over voter access in the state.[0m
+[3m             > But for many residents of the community in northeastern Fairfax County, the victory is just one win in a protracted fight over the project.[0m
+[3m             > The UK government is set to publish a draft air pollution plan after a protracted legal battle with environmental campaigners.[0m
+[3m             > They will require complete Turkish, Russian, Iranian, US, UK, UN support and agreement, and over a protracted period.[0m
+[3m             > Those other deals, which also involve Airbnb collecting local taxes, were also the result of protracted negotiations.[0m
 
- 1   Lasting For A Long Time Or Longer Than Expected Or Usual.
-	 Eg.  "A Protracted And Bitter Dispute"
-
- 2   Prolong.
-	 Eg.  "He Had Certainly Taken His Time, Even Protracting The Process"
+[35mProtracted[0m[36m /prəˈtraktɪd/,[0m [91m[3madjective[0m[0m | adjective: protracted
+          • [37mlasting for a long time or longer than expected or usual.[0m
+	   "a protracted and bitter dispute"
+[35mProtract[0m[36m /prəˈtrakt/,[0m [91m[3mverb[0m[0m
+	past tense: protracted; past participle: protracted
+          • [37mprolong.[0m
+	   "he had certainly taken his time, even protracting the process"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mदीर्घ[0m           [31mदीर्घकालिक[0m   
+      [31mफैला हुआ[0m           [31mलम्बा[0m      

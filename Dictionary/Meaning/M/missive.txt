@@ -1,20 +1,24 @@
-                                                                                     MISSIVE                                                                                      
-  SHORT        A missive usually refers to the old-school style of hand-written communication on paper (remember that?), but these days you also might hear an email called a
-               missive, too. No matter how you deliver it, a missive is a message.
-  LONG         The noun missive comes from the Latin word missus, meaning "to send."  You may have heard the phrase, "fire off a missive," meaning a note, memo or dispatch
+[35m                                                                                     MISSIVE                                                                                      [0m
+[91m        SHORT  A missive usually refers to the old-school style of hand-written communication on paper (remember that?), but these days you also might hear an email called a
+               missive, too. No matter how you deliver it, a missive is a message.[0m
+[36m         LONG  The noun missive comes from the Latin word missus, meaning "to send."  You may have heard the phrase, "fire off a missive," meaning a note, memo or dispatch
                that was written and sent with urgency and conveyed an important message. It might have been a missive sent from a commander to the troops,
                telling them of a change in the battle plan. Or, maybe it was an urgent love letter to the commander's wife back home, telling her to tie a
-               yellow ribbon round the ole oak tree...
+               yellow ribbon round the ole oak tree...[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Bloggers wrote disparagingly of Castro and the regime, although most of their missives could not be read in Cuba, where Internet access was strictly limited.
-     >         I dug out Trump’s missive the other day and discovered he did not actually say I looked like a dog.
-     >         People write concise missives on the leaves, then affix them to the branches, and what Ms. Christopher calls the Thankful Tree takes blazing form.
-     >         Theallet did not respond to requests for comment on her missive on Nov. 18.
-     >         The priority should be to strike America “until it bleeds to death both militarily and financially”, he said in a public missive.
+[3m             > “I greatly appreciate you informing me, on three separate occasions, that I am not under investigation,” Trump’s missive says, apropos of nothing.[0m
+[3m             > In her missives, she frequently tells Jemison of her encounters with other beaus as well as what others in their “set” are up to.[0m
+[3m             > Critics are not comfortable with his candid Twitter missives; they are insulted when he does not dutifully telegraph his plans to one and all.[0m
+[3m             > As you’d suspect, Lord’s missive mortified Penn State board Chairman Ira M. Lubert, who scurried from Lord’s words like a fox from a hound.[0m
+[3m             > Send regular missives just asking how someone is.[0m
 
- 1   A Letter, Especially A Long Or Official One.
-	 Eg.  "Yet Another Missive From The Foreign Office"
-	 Eg.  "A Missive From The Foreign Office"
-	 Synonyms:  message , communication , letter , word , note , 
-
- 2   A Document In The Form Of A Letter Exchanged By The Parties To A Contract.
+[35mMissive[0m[36m /ˈmɪsɪv/,[0m [91m[3mnoun[0m[0m | noun: missive; plural noun: missives
+          • [37ma letter, especially a long or official one.[0m
+	   "yet another missive from the Foreign Office"
+  	   [3msynonyms:[0m message, communication, letter, word, note, memorandum, line, report, bulletin, communiqué, dispatch, intelligence, piece of information, news,
+                     notification, announcement, greeting, epistle ;  memo ;  tidings
+		    "a missive from the Foreign Office"
+          • [37ma document in the form of a letter exchanged by the parties to a contract.[0m
+                   [31m[4m[34mnoun[0m[0m[0m                                      [31m[4m[34m[0m[0m[0m                   
+                      [31mराजनीतिक संदेश[0m                       [31mराजा द्वारा बिशप के नामनिर्देशन या नामजदगी के लिए पत्र[0m 
+                      [31mऔपचारिक पैग़ाम[0m                                          [31mसंदेश पत्र सरकारी[0m                   

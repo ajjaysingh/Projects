@@ -1,21 +1,29 @@
-                                                                                     STATURE                                                                                      
-  SHORT        Stature is the another way to say "height of a person," like the surprising stature of the movie star who seems so much taller in his action movies.
-  LONG         Stature comes from the Latin word statura, meaning "height, size of body, growth," but today, it  also means "a high level of respect gained by achievement."
+[35m                                                                                     STATURE                                                                                      [0m
+[91m        SHORT  Stature can refer to a person's height or the high level of respect with which she is regarded. Your grandmother might be small in stature, or height, but
+               have great stature, or esteem, in her community.[0m
+[36m         LONG  Stature comes from the Latin word statura, meaning "height, size of body, growth," but today, it  also means "a high level of respect gained by achievement."
                For example, after you win a Nobel Prize, your new stature will bring new fans, more sales of your book, invitations to many exclusive dinner
-               parties, and maybe even your picture on magazine covers all over the world.
+               parties, and maybe even your picture on magazine covers all over the world.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Fidel, more than any other political leader in recent memory, had the stature of a living myth in his own country.
-     >         Every program with a similar national stature—like Michigan and Ohio State—eventually scrambled to do the same thing.
-     >         When I asked Saariaho why female composers of her stature are so rare, she said, “It’s a practical question, I think. Because it’s so time-consuming.”
-     >         In any other circumstance, being tapped by someone of his stature to have a voice at the highest levels of power would be hugely appealing.
-     >         The problem is—and Priebus probably does understand this—the outsized stature of Infowars and Jones in the bizarre information universe where Trump resides.
+[3m             > There are, in fact, plenty of superb candidates in the mold of these three who would bring stature and independence to the job.[0m
+[3m             > Yet it is likely to surrender stature to European competitors exploiting Brexit as an opportunity to capture spoils.[0m
+[3m             > “For a club of the stature of Ajax, it’s been too long that we were away from the international podium,” he says.[0m
+[3m             > He was “coherent, experienced … a man of presidential stature”, he said.[0m
+[3m             > There was also her willingness to work full time without pay — and the fact that no one else of stature wanted the job.[0m
 
- 1   A Person'S Natural Height.
-	 Eg.  "A Man Of Short Stature"
-	 Eg.  "She Was Small In Stature"
-	 Synonyms:  height , size , build , 
-
- 2   Importance Or Reputation Gained By Ability Or Achievement.
-	 Eg.  "An Architect Of International Stature"
-	 Eg.  "An Architect Of International Stature"
-	 Synonyms:  reputation , repute , standing , status , position , 
+[35mStature[0m[36m /ˈstatʃə/,[0m [91m[3mnoun[0m[0m | noun: stature
+          • [37ma person's natural height.[0m
+	   "a man of short stature"
+  	   [3msynonyms:[0m height, tallness, loftiness ;  size, build, physical make-up
+		    "she was small in stature"
+          • [37mimportance or reputation gained by ability or achievement.[0m
+	   "an architect of international stature"
+  	   [3msynonyms:[0m reputation, repute, standing, status, position, prestige, distinction, illustriousness, eminence, pre-eminence, prominence, importance, import,
+                     influence, weight, consequence, account, note, fame, celebrity, renown, acclaim
+		    "an architect of international stature"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mकद[0m       [31mक़द[0m   
+   [31mऊँचाई[0m     [31mऊंचाई[0m  
+   [31mलम्बाई[0m    [31mउच्चता[0m 
+    [31mआकार[0m     [31mमहानता[0m 
+   [31mआकृति[0m     [31mउंचाई[0m  

@@ -1,35 +1,36 @@
-                                                                                     CARCASS                                                                                      
-  SHORT        In the aftermath of Thanksgiving, after turkey sandwiches and turkey noodle soup and picking all the meat off, you're left with nothing more than turkey bones
-               — or the carcass of your holiday bird.
-  LONG         The gruesome word carcass is often used to describe the remains of a dead animal, especially one that's been slaughtered for food. But if that makes you
+[35m                                                                                     CARCASS                                                                                      [0m
+[91m        SHORT  In the aftermath of Thanksgiving, after turkey sandwiches and turkey noodle soup and picking all the meat off, you're left with nothing more than turkey bones
+               — or the carcass of your holiday bird.[0m
+[36m         LONG  The gruesome word carcass is often used to describe the remains of a dead animal, especially one that's been slaughtered for food. But if that makes you
                squeamish, you can think of carcasses in a more figurative light, because a carcass could also mean "the inner structure of something." The
                carcass of an old burned out building, for example, refers to its remaining walls and beams. Or think of the carcass of the couch, its inner
-               foundation, which is supporting your rear right now.
+               foundation, which is supporting your rear right now.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Harvested elk will be tested for CWD, and carcasses that are free of the disease will be processed.
-     >         Tennessee has carcass import restrictions from 24 states and two Canadian provinces.
-     >         A federal lab in Iowa is studying the carcass to see if the diagnosis was accurate.
-     >         Collecting data and tracking carcass routes were his main priorities, but Brinegar said he also kept an eye out for salmon poachers.
-     >         The guide also pointed out the rotting carcasses of a pair of vultures that had been trapped inside the house.
+[3m             > He said the carcasses attract much interest from scientists who weigh and examine the sharks.[0m
+[3m             > Cleavers thwack rhythmically through chicken carcasses; blackened woks sizzle with hunks of ginger and garlic.[0m
+[3m             > The state Department of Natural Resources says five turkey carcasses were found April 28 in Jerome Township.[0m
+[3m             > Some carcasses will be used for teaching and research and some of the meat will be sold at a student-run meat market on campus.[0m
+[3m             > In the basement, a long queue of headless bodies hung from a track in the ceiling, like carcasses in an abattoir.[0m
 
- 1   The Dead Body Of An Animal.
-	 Eg.  "She Saw The Mud-Covered Carcass Of A Sheep"
-	 Eg.  "A Lamb Carcass"
-	 Synonyms:  corpse , cadaver , body , remains , skeleton , 
-
- 2   The Trunk Of An Animal Such As A Cow, Sheep, Or Pig, For Cutting Up As Meat.
-	 Eg.  "The Carcass Has A High Proportion Of Meat To Bone"
-	 Eg.  "A Lamb Carcass"
-	 Synonyms:  corpse , cadaver , body , remains , skeleton , 
-
- 3   The Remains Of A Cooked Bird After All The Edible Parts Have Been Removed.
-
- 4   A Person'S Body, Living Or Dead.
-	 Eg.  "My Obsession Will Last While There'S Life In This Old Carcass"
-	 Eg.  "Shift Your Carcass From The Seat"
-	 Synonyms:  body , person , self , backside , butt , 
-
- 5   The Structural Framework Of A Building, Ship, Or Piece Of Furniture.
-
- 6   The Remains Of Something.
-	 Eg.  "Automotive Carcasses Stripped Of Radios, Hubcaps And Even Body Panels"
+[35mCarcass[0m[36m /ˈkɑːkəs/,[0m [91m[3mnoun[0m[0m | noun: carcass; plural noun: carcasses; noun: carcase; plural noun: carcases
+          • [37mthe dead body of an animal.[0m
+	   "she saw the mud-covered carcass of a sheep"
+  	   [3msynonyms:[0m corpse, cadaver, dead body, body, remains, skeleton, relics ;  stiff ;  corse
+		    "a lamb carcass"
+          • [37mthe trunk of an animal such as a cow, sheep, or pig, for cutting up as meat.[0m
+	   "the carcass has a high proportion of meat to bone"
+  	   [3msynonyms:[0m corpse, cadaver, dead body, body, remains, skeleton, relics ;  stiff ;  corse
+		    "a lamb carcass"
+          • [37mthe remains of a cooked bird after all the edible parts have been removed.[0m
+          • [37ma person's body, living or dead.[0m
+	   "my obsession will last while there's life in this old carcass"
+  	   [3msynonyms:[0m body, person, self ;  backside ;  butt ;  arse ;  ass
+		    "shift your carcass from the seat"
+          • [37mthe structural framework of a building, ship, or piece of furniture.[0m
+          • [37mthe remains of something.[0m
+	   "automotive carcasses stripped of radios, hubcaps and even body panels"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mशव[0m          [31mठठरी[0m    
+      [31mबदन[0m        [31mमृतशरीर[0m  
+      [31mलाश[0m         [31mचौखट[0m    
+     [31mकंकाल[0m        [31mआधार[0m    

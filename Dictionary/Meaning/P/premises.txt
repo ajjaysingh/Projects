@@ -1,36 +1,40 @@
-                                                                                     PREMISES                                                                                     
-  SHORT        The premises of a property consist of the land and buildings on it, usually of a business or organization. If there are no dogs allowed on the premises of a
-               school, you'll have to leave your furry friend at home.
-  LONG         A game of hide-and-go-seek where you can’t leave the house will go a lot faster than one that permits hiding anywhere on the premises, including outdoors.
+[35m                                                                                     PREMISES                                                                                     [0m
+[91m        SHORT  The premises of a property consist of the land and buildings on it, usually of a business or organization. If there are no dogs allowed on the premises of a
+               school, you'll have to leave your furry friend at home.[0m
+[36m         LONG  A game of hide-and-go-seek where you can’t leave the house will go a lot faster than one that permits hiding anywhere on the premises, including outdoors.
                Premises has another, unrelated meaning — it can also be the assumption or hypothesis from which a conclusion is drawn. The English writer
-               Samuel Butler said, “Life is the art of drawing sufficient conclusions from insufficient premises.” Meaning, much of life is about guesswork.
+               Samuel Butler said, “Life is the art of drawing sufficient conclusions from insufficient premises.” Meaning, much of life is about guesswork.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Six retail premises were affected, including the Sue Ryder charity store.
-     >         A gatehouse controls access to the premises by automobile.
-     >         The petrol station has a restaurant on its premises that is popular with travellers.
-     >         But they stress there is a clear need for substance misuse support services and "alternative premises" are being looked at.
-     >         This is not to be confused with the similarly titled Dirty Grandpa, though the premises of both films are almost indistinguishable.
+[3m             > Reporters were escorted off the premises by security.[0m
+[3m             > Police searched several residential and business premises in Frankfurt and the nearby Wetterau region.[0m
+[3m             > At first, Evelyn denied there was a baby on the premises.[0m
+[3m             > On this overcast day, to step onto the motel’s premises on Hollywood Boulevard in Thai Town is to be visually slapped by the absurd.[0m
+[3m             > "Our business model helps our franchisees secure prime real estate locations and reflects a significant level of company investment in the restaurant
+               premises."[0m
 
- 1   A House Or Building, Together With Its Land And Outbuildings, Occupied By A Business Or Considered In An Official Context.
-	 Eg.  "The Company Has Moved To New Premises"
-	 Eg.  "The Company Has Moved To New Premises In Gloucester"
-	 Synonyms:  property , site , establishment , office , place , 
-
- 2   A Previous Statement Or Proposition From Which Another Is Inferred Or Follows As A Conclusion.
-	 Eg.  "If The Premise Is True, Then The Conclusion Must Be True"
-
- 3   An Assertion Or Proposition Which Forms The Basis For A Work Or Theory.
-	 Eg.  "The Fundamental Premise Of The Report"
-	 Eg.  "A Philosophy Based On The Premise That Human Life Consists Of A Series Of Choices"
-	 Synonyms:  proposition , assumption , hypothesis , thesis , presupposition , 
-
- 4   Base An Argument, Theory, Or Undertaking On.
-	 Eg.  "The Reforms Were Premised On Our Findings"
-
- 5   State Or Presuppose (Something) As A Premise.
-	 Eg.  "One School Of Thought Premised That The Cosmos Is Indestructible"
-	 Eg.  "One School Of Thought Premised That The Cosmos Is Indestructible"
-	 Synonyms:  postulate , hypothesize , conjecture , posit , theorize , 
-
- 6   State By Way Of Introduction.
-	 Eg.  "I Will Premise Generally That I Hate Lecturing"
+[35mPremises[0m[36m /ˈprɛmɪsɪz/,[0m [91m[3mnoun[0m[0m | plural noun: premises
+          • [37ma house or building, together with its land and outbuildings, occupied by a business or considered in an official context.[0m
+	   "the company has moved to new premises"
+  	   [3msynonyms:[0m building(s), property, site, establishment, office, place
+		    "the company has moved to new premises in Gloucester"
+[35mPremise[0m [91m[3mnoun[0m[0m    /ˈprɛmɪs/
+	plural noun: premises
+      [32m1.[0m [37ma previous statement or proposition from which another is inferred or follows as a conclusion.[0m
+	   "if the premise is true, then the conclusion must be true"
+          • [37man assertion or proposition which forms the basis for a work or theory.[0m
+	   "the fundamental premise of the report"
+  	   [3msynonyms:[0m proposition, assumption, hypothesis, thesis, presupposition, postulation, postulate, supposition, presumption, surmise, conjecture, speculation, datum,
+                     argument, assertion, belief, thought ;  premiss
+		    "a philosophy based on the premise that human life consists of a series of choices"
+    [91m[3mverb[0m[0m    /prɪˈmʌɪz/
+	plural noun: premises
+      [32m1.[0m [37mbase an argument, theory, or undertaking on.[0m
+	   "the reforms were premised on our findings"
+          • [37mstate or presuppose (something) as a premise.[0m
+	   "one school of thought premised that the cosmos is indestructible"
+  	   [3msynonyms:[0m postulate, hypothesize, conjecture, posit, theorize, suppose, presuppose, surmise, assume, predicate, argue, state, assert ;  hypothecate
+		    "one school of thought premised that the cosmos is indestructible"
+          • [37mstate by way of introduction.[0m
+	   "I will premise generally that I hate lecturing"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+         [31mपरिसर[0m                 [31mघर[0m         

@@ -1,36 +1,45 @@
-                                                                                    DELIBERATE                                                                                    
-  SHORT        To deliberate means to carefully think or talk something through — it also means slow and measured, the pace of this kind of careful decision making. If you
-               chose deliberately, you make a very conscious, well-thought-through choice.
-  LONG         The verb deliberate ends with an "ate" sound — at the end of a trial, after the evidence is presented, the twelve members of a jury retreat to a room to
+[35m                                                                                    DELIBERATE                                                                                    [0m
+[91m        SHORT  To deliberate means to carefully think or talk something through — it also means slow and measured, the pace of this kind of careful decision making. If you
+               chose deliberately, you make a very conscious, well-thought-through choice.[0m
+[36m         LONG  The verb deliberate ends with an "ate" sound — at the end of a trial, after the evidence is presented, the twelve members of a jury retreat to a room to
                deliberate, i.e., talk through the trial and come to a verdict. The adjective deliberate ends with an "it" sound. If you walk with a deliberate
-               pace, you're slow and steady.
+               pace, you're slow and steady.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Since the cardinals deliberate in secret and tell no tales, Harris can give his imagination a long leash.
-     >         Yes, that’s the plan, week after deliberate week.
-     >         “People are much more deliberate about the purchases they make,” NRF CEO Matthew Shay said Sunday.
-     >         “I practiced religiously. It was very deliberate practice.”
-     >         But he denied that there is any deliberate attempt to displace Sunnis from the province or from any other part of Iraq.
+[3m             > With the device on his tongue, he is much slower, but more deliberate.[0m
+[3m             > "To perform this play right beside this man's grave is quite frankly, a deliberate humiliation," she said.[0m
+[3m             > Atoboy is also a deliberate step away from the controlled chaos of the Korean restaurants a few blocks north on 32nd Street.[0m
+[3m             > "We wanted to bring someone in from overseas, we wanted to add that European dimension. That was a very deliberate decision," said Parry.[0m
+[3m             > “These were deliberate attempts by external actors to bombard the FCC’s comment system with a high amount of traffic to our commercial cloud host.”[0m
 
- 1   Done Consciously And Intentionally.
-	 Eg.  "A Deliberate Attempt To Provoke Conflict"
-	 Eg.  "A Deliberate Attempt To Provoke Conflict"
-	 Synonyms:  intentional , calculated , conscious , intended , meant , 
-	 Antonyms:  accidental , unintentional , 
+[35mDeliberate[0m [91m[3madjective[0m[0m | adjective: deliberate    /dɪˈlɪb(ə)rət/
+      [32m1.[0m [37mdone consciously and intentionally.[0m
+	   "a deliberate attempt to provoke conflict"
+  	   [3msynonyms:[0m intentional, calculated, conscious, done on purpose, intended, planned, meant, considered, studied, knowing, wilful, wanton, purposeful, purposive,
+                     premeditated, pre-planned, thought out in advance, prearranged, preconceived, predetermined ;  aforethought ;  voluntary, volitional
+                     ;  prepense
+		    "a deliberate attempt to provoke conflict"
+  	   [3mantonyms:[0m accidental, unintentional
 
- 2   Careful And Unhurried.
-	 Eg.  "A Conscientious And Deliberate Worker"
-	 Eg.  "She Took A Couple Of Small, Deliberate Steps Towards Him"
-	 Eg.  "A Careful And Deliberate Worker"
-	 Synonyms:  careful , cautious , unhurried , measured , regular , 
-	 Antonyms:  hasty , careless , 
-
- 3   Fully Considered; Not Impulsive.
-	 Eg.  "A Deliberate Decision"
-
- 4   Engage In Long And Careful Consideration.
-	 Eg.  "She Deliberated Over The Menu"
-
- 5   Consider (A Question) Carefully.
-	 Eg.  "Jurors Deliberated The Fate Of Those Charged"
-	 Eg.  "There Was A Long Painful Silence While She Deliberated On His Words"
-	 Synonyms:  ponder , consider , contemplate , discuss , debate , 
+      [32m2.[0m [37mcareful and unhurried.[0m
+	   "a conscientious and deliberate worker"
+  	   [3msynonyms:[0m careful, cautious, unhurried, measured, regular, even, steady ;  leisurely ;  laborious, ponderous  methodical, systematic, careful, painstaking,
+                     meticulous, thorough
+		    "she took a couple of small, deliberate steps towards him"
+  	   [3mantonyms:[0m hasty, careless
+          • [37mfully considered; not impulsive.[0m
+	   "a deliberate decision"
+    [91m[3mverb[0m[0m | verb: deliberate; 3rd person present: deliberates; past tense: deliberated; past participle: deliberated; gerund or present participle: deliberating    /dɪˈlɪbəreɪt/
+      [32m1.[0m [37mengage in long and careful consideration.[0m
+	   "she deliberated over the menu"
+          • [37mconsider (a question) carefully.[0m
+	   "jurors deliberated the fate of those charged"
+  	   [3msynonyms:[0m think about, think over, ponder, consider, contemplate, reflect on, muse on, meditate on, ruminate on, mull over, chew over, turn over in one's mind,
+                     give thought to, cogitate about ;  brood over, dwell on ;  put on one's thinking cap, be in a brown study ;  discuss, debate, weigh
+                     up ;  think on ;  pore on ;  excogitate, cerebrate
+		    "there was a long painful silence while she deliberated on his words"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mजानबूझकर[0m            [31mविचारपूर्वक[0m          [31mविचार करना[0m     
+    [31mपर्यालोचन करना[0m           [31mइच्छित[0m               [31mविचारना[0m      
+      [31mविमर्श करना[0m       [31mपहले से सोचा हुआ[0m         [31mराय लेना[0m      
+        [31mविमर्शी[0m             [31mसुचिन्तित[0m           [31mविवेचन करना[0m    
+        [31mसविचार[0m              [31mसोचा-समझा[0m            [31mसलाह लेना[0m     

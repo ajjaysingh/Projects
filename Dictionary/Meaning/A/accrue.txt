@@ -1,25 +1,49 @@
-                                                                                      ACCRUE                                                                                      
-  SHORT        To accrue is to accumulate or to keep growing in value or size. If you can accrue enough extra credit to build up your grade, you won't have to take the final
-               exam.
-  LONG         Early forms of the word accrue were used as early as the 15th century with the meaning "to increase" or "to grow." Many modern uses for accrue involve money
+[35m                                                                                      ACCRUE                                                                                      [0m
+[91m        SHORT  To accrue is to accumulate or to keep growing in value or size. If you can accrue enough extra credit to build up your grade, you won't have to take the final
+               exam.[0m
+[36m         LONG  Early forms of the word accrue were used as early as the 15th century with the meaning "to increase" or "to grow." Many modern uses for accrue involve money
                or finances, as when you accrue, or earn, interest on a bank account. You can accrue debt too, as interest grows on top of money owed until you
-               pay it back. It's possible to accrue benefits over the time you work somewhere, or you can accrue demerits while you're misbehaving somewhere.
+               pay it back. It's possible to accrue benefits over the time you work somewhere, or you can accrue demerits while you're misbehaving somewhere.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Down seven, Washington State accrued five consecutive misses in one possession and grabbed three offensive boards in a row.
-     >         Though he boasts a perfect five-star rating through the online rental hub, he has since accrued more than $4,000 in fines, records show.
-     >         Over the next few years while she looked for a suitable location for the company, Ms. Alexander accrued a four-month waiting list.
-     >         Critics say the West is only interested in Niger’s uranium, whose proceeds accrue mainly to the well-connected.
-     >         Many of these were mandated by legislation and have been tested by litigation, thereby accruing a legal standing of their own.
+[3m             > He plans to focus on the job in hand and gradually accrue more powers.[0m
+[3m             > The restaurant accrues followers over time, and it posts every day in an effort to lure those followers back in.[0m
+[3m             > As a comparison, the report said President Obama’s agencies accrued $3.1 billion in regulatory costs during the same period at the start of his
+               administration.[0m
+[3m             > More typically, drivers will accrue reprimands for minor infractions, similar to points on a normal driver’s license.[0m
+[3m             > Yet independent analysts caution that the benefits would mainly accrue to affluent households, and the provision might not substantially expand coverage among
+               the uninsured.[0m
 
- 1   (Of A Benefit Or Sum Of Money) Be Received By Someone In Regular Or Increasing Amounts Over Time.
-	 Eg.  "Financial Benefits Will Accrue From Restructuring"
-	 Eg.  "Financial Benefits Will Accrue From Restructuring"
-	 Synonyms:  result , arise , follow , ensue , emanate , 
+[35mAccrue[0m[36m /əˈkruː/,[0m [91m[3mverb[0m[0m | verb: accrue; 3rd person present: accrues; past tense: accrued; past participle: accrued; gerund or present participle: accruing
+          • [37m(of a benefit or sum of money) be received by someone in regular or increasing amounts over time.[0m
+	   "financial benefits will accrue from restructuring"
+  	   [3msynonyms:[0m result, result arise, arise follow, follow ensue, ensue emanate, emanate stem, stem spring, spring flow flow ;  be caused by, be brought about by, be
+                     produced by, originate in, attend, attend accompany, accompany be consequent on
+		    "financial benefits will accrue from restructuring"
+          • [37maccumulate or receive (payments or benefits) over time.[0m
+	   "they accrue entitlements to holiday pay"
+  	   [3msynonyms:[0m accumulate, accumulate collect, collect gather, gather build up, mount up, amass, amass grow, grow increase, increase augment, augment be added
+		    "interest is added to the account as it accrues"
+          • [37mmake provision for (a charge) at the end of a financial period for work that has been done but not yet invoiced.[0m
+	   "at 31 December the amount due for the final quarter is accrued"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mवृद्धि होना[0m        [31mउपचित होना[0m   
+       [31mनिकलना[0m       [31mप्रोद्‍भूत होना[0m 
 
- 2   Accumulate Or Receive (Payments Or Benefits) Over Time.
-	 Eg.  "They Accrue Entitlements To Holiday Pay"
-	 Eg.  "Interest Is Added To The Account As It Accrues"
-	 Synonyms:  accumulate , collect , gather , amass , grow , 
+      Origin:  late Middle English: from Old French acreue, past participle of acreistre ‘increase’, from Latin accrescere ‘become larger’ (see accrete).
 
- 3   Make Provision For (A Charge) At The End Of A Financial Period For Work That Has Been Done But Not Yet Invoiced.
-	 Eg.  "At 31 December The Amount Due For The Final Quarter Is Accrued"
+
+Definition of accrue
+    accrued; accruing
+    intransitive verb
+        1 :  to come into existence as a legally enforceable claim
+        
+        2   a :  to come about as a natural growth, increase, or advantage   e.g. the wisdom that accrues with age
+            b :  to come as a direct result of some state or action
+                    e.g. rewards due to the feminine will accrue to me — Germaine Greer
+        
+        3 :  to accumulate or be added periodically interest accrues on a daily basis
+
+
+    transitive verb
+    :  to accumulate or have due after a period of time   e.g. accrue vacation time
+

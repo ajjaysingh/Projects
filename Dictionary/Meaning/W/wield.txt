@@ -1,21 +1,28 @@
-                                                                                      WIELD                                                                                       
-  SHORT        If you wield a tool or a weapon, you handle it effectively. Picture a gallant knight wielding a sword or a skillful chef wielding a whisk.
-  LONG         You don't just have to wield something physical; you can also wield or exert influence or authority. Wield is frequently followed by the word power. If you
+[35m                                                                                      WIELD                                                                                       [0m
+[91m        SHORT  If you wield a tool or a weapon, you handle it effectively. Picture a gallant knight wielding a sword or a skillful chef wielding a whisk.[0m
+[36m         LONG  You don't just have to wield something physical; you can also wield or exert influence or authority. Wield is frequently followed by the word power. If you
                were a king, you could wield great power in your kingdom — exerting your influence over everything from food rations to castle upkeep. As it
-               is, though, you might just wield power over your pet goldfish. Note: wield follows the i before e, except after c spelling rule.
+               is, though, you might just wield power over your pet goldfish. Note: wield follows the i before e, except after c spelling rule.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Some 2,000 years later, this question is especially relevant for America’s criminal-justice system, given the power wielded by federal prosecutors.
-     >         In the months that followed, I practiced wielding the dipstick and centrifuge, and trained my eyes to recognize clues under the microscope.
-     >         Police said the baby’s mother was among about 30 people demonstrating against Friday’s shooting of a man wielding knives.
-     >         As chairman of the Armed Services Committee, he will wield tremendous influence over Pentagon policy.
-     >         Ms. Park has also been accused, in news reports, of letting Ms. Choi wield undue influence in state affairs.
+[3m             > It’s only in this week’s episode that Fred’s ability to deftly wield benevolent sexism to his advantage becomes undeniable.[0m
+[3m             > Despite not being on television regularly these days, Jon Stewart wields an enormous amount of cultural capital in the late-night television landscape.[0m
+[3m             > The country’s Shiite clerical establishment wields enormous power, and “attacks against holy religious entities are typically considered off-limits,” Akbari
+               said.[0m
+[3m             > He’s wielding his influence overseas, offering his support for some of the international political candidates who are clamoring for his endorsement.[0m
+[3m             > Obama is wielding his influence overseas, offering his support for some of the international political candidates who are clamoring for his endorsement.[0m
 
- 1   Hold And Use (A Weapon Or Tool).
-	 Eg.  "A Masked Raider Wielding A Handgun"
-	 Eg.  "One Of Our Assailants Was Wielding A Sword"
-	 Synonyms:  brandish , flourish , wave , twirl , display , 
-
- 2   Have And Be Able To Use (Power Or Influence).
-	 Eg.  "Faction Leaders Wielded Enormous Influence Within The Party"
-	 Eg.  "He Had Wielded Power Since The Coup In 1972"
-	 Synonyms:  exercise , exert , have , hold , maintain , 
+[35mWield[0m[36m /wiːld/,[0m [91m[3mverb[0m[0m | verb: wield; 3rd person present: wields; past tense: wielded; past participle: wielded; gerund or present participle: wielding
+          • [37mhold and use (a weapon or tool).[0m
+	   "a masked raider wielding a handgun"
+  	   [3msynonyms:[0m brandish, flourish, wave, twirl, display, flaunt, hold aloft, show off, swing, shake ;  use, put to use, employ, handle, ply, manipulate, operate
+		    "one of our assailants was wielding a sword"
+          • [37mhave and be able to use (power or influence).[0m
+	   "faction leaders wielded enormous influence within the party"
+  	   [3msynonyms:[0m exercise, exert, be possessed of, have, have at one's disposal, hold, maintain, command, control, manage, be in charge of
+		    "he had wielded power since the coup in 1972"
+  [31m[4m[34m[0m[0m[0m
+      [31mफिराना[0m    
+      [31mहिलाना[0m    
+    [31mहाथ लगाना[0m   
+      [31mबरतना[0m     
+  [31mकाम में लगाना[0m 

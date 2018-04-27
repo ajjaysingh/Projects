@@ -1,30 +1,39 @@
-                                                                                     SCOURGE                                                                                      
-  SHORT        A scourge is a whip — or anything else that is punishing and dreadful. You could confront "a scourge of corruption" or "a scourge of hunger."
-  LONG         As a verb, scourge means to cause suffering. Not surprisingly, it comes from the old French word meaning "to whip." A dictatorship could scourge and oppress
-               its citizens, and an infectious disease could scourge an entire community. When you see scourge, think "suffering."
+[35m                                                                                     SCOURGE                                                                                      [0m
+[91m        SHORT  A scourge is a whip — or anything else that is punishing and dreadful. You could confront "a scourge of corruption" or "a scourge of hunger."[0m
+[36m         LONG  As a verb, scourge means to cause suffering. Not surprisingly, it comes from the old French word meaning "to whip." A dictatorship could scourge and oppress
+               its citizens, and an infectious disease could scourge an entire community. When you see scourge, think "suffering."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Rutland has been using a mixture of law enforcement, treatment and neighborhood revitalization to fight the drug scourge with some success.
-     >         The group’s biggest coup was ousting a scourge of school choice in a Miami-Dade Senate district where Democrats are a majority.
-     >         Almost immediately, she encountered one of the scourges she had read about online: bedbugs.
-     >         When someone brought up the scourge of “fake news,” Trump said it was them, the mainstream news networks, that were the “fake news.”
-     >         Sanders isn’t exactly a scourge of political correctness; he routinely rails against the usual liberal litany of hated isms and phobias.
+[3m             > Measles was once a scourge that infected 3 million to 4 million Americans annually, of whom 400 to 500 died.[0m
+[3m             > Poaching is a scourge in Damaraland, an arid region of rocky outcroppings in northwest Namibia.[0m
+[3m             > There is little doubt that road rage is a growing scourge on our highways.[0m
+[3m             > But the scourge of anti-Israel bias at the United Nations is such an issue.[0m
+[3m             > A century ago, when shipworms were a common scourge, governments around the world paid scientists to study them.[0m
 
- 1   A Whip Used As An Instrument Of Punishment.
-	 Eg.  "He Was Beaten With A Scourge"
-	 Synonyms:  whip , horsewhip , lash , strap , birch , 
+[35mScourge[0m[36m /skəːdʒ/,[0m [91m[3mnoun[0m[0m | noun: scourge; plural noun: scourges
+      [32m1.[0m [37ma whip used as an instrument of punishment.[0m
+	   "he was beaten with a scourge"
+  	   [3msynonyms:[0m whip, horsewhip, lash, strap, birch, switch, flail ;  bullwhip, rawhide ;  cat-o'-nine-tails, knout ;  flagellum, quirt, blacksnake
+		    "he was beaten with a scourge"
 
- 2   A Person Or Thing That Causes Great Trouble Or Suffering.
-	 Eg.  "The Scourge Of Mass Unemployment"
-	 Eg.  "Inflation Was The Scourge Of The Mid-1970S"
-	 Synonyms:  affliction , bane , curse , plague , menace , 
-	 Antonyms:  blessing , godsend , 
+      [32m2.[0m [37ma person or thing that causes great trouble or suffering.[0m
+	   "the scourge of mass unemployment"
+  	   [3msynonyms:[0m affliction, bane, curse, plague, menace, evil, misfortune, burden, cross to bear, thorn in one's flesh/side, bitter pill, trial, nuisance, pest ;
+                     torment, torture, misery, suffering ;  blight, cancer, canker ;  punishment, penalty, visitation
+		    "inflation was the scourge of the mid-1970s"
+  	   [3mantonyms:[0m blessing, godsend
+    [91m[3mverb[0m[0m | verb: scourge; 3rd person present: scourges; past tense: scourged; past participle: scourged; gerund or present participle: scourging
+      [32m1.[0m [37mwhip (someone) as a punishment.[0m
+	   "our people did scourge him severely"
+  	   [3msynonyms:[0m flog, whip, beat, horsewhip, lash, flagellate, flail, strap, birch, cane, thrash, belt, leather ;  bullwhip ;  give someone a hiding, tan someone's hide,
+                     lather, take a strap to, beat the living daylights out of ;  whale ;  switch, stripe, thong ;  quirt
+		    "he was publicly scourged"
 
- 3   Whip (Someone) As A Punishment.
-	 Eg.  "Our People Did Scourge Him Severely"
-	 Eg.  "He Was Publicly Scourged"
-	 Synonyms:  flog , whip , beat , horsewhip , lash , 
-
- 4   Cause Great Suffering To.
-	 Eg.  "Political Methods Used To Scourge And Oppress Workers"
-	 Eg.  "Scurvy Was A Disease Which Scourged The English For Centuries"
-	 Synonyms:  afflict , plague , torment , torture , curse , 
+      [32m2.[0m [37mcause great suffering to.[0m
+	   "political methods used to scourge and oppress workers"
+  	   [3msynonyms:[0m afflict, plague, torment, torture, curse, cause suffering to, oppress, burden, bedevil, beset ;  devastate ;  punish
+		    "scurvy was a disease which scourged the English for centuries"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mकोड़ा[0m       [31mचाबुक से पीटना[0m         [31mबला[0m      
+      [31mविपत्ति[0m         [31mसज़ा देना[0m           [31mआफत[0m      
+       [31mचाबुक[0m          [31mदंड देना[0m          [31mमुसीबत[0m     
+       [31mसज़ा[0m        [31mचाबुक से मारना[0m        [31mबवाल[0m      

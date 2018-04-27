@@ -1,35 +1,41 @@
-                                                                                      LAMENT                                                                                      
-  SHORT        If you are really upset or sorry about something, you might lament it. A lament is full of regret and grief.
-  LONG         If you lament something, then you feel sorry about it. You could lament a mistake you made, or you could lament a horrible thing that happened to a friend.
+[35m                                                                                      LAMENT                                                                                      [0m
+[91m        SHORT  If you are really upset or sorry about something, you might lament it. A lament is full of regret and grief.[0m
+[36m         LONG  If you lament something, then you feel sorry about it. You could lament a mistake you made, or you could lament a horrible thing that happened to a friend.
                Also, a lament is an expression of grief. So if you keep saying how sorry you are about something, someone could say, "Enough of your laments!"
-               There's also an old literary form called "a lament," which expresses feelings of loss in a long dramatic poem.
+               There's also an old literary form called "a lament," which expresses feelings of loss in a long dramatic poem.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Olsen lamented his dropped pass on the second conversion attempt.
-     >         The song itself, grounded in a nicely chiming, almost Byrdsy guitar riff, is a lament for the fallen.
-     >         The Wolverines had only their own sins to lament.
-     >         Although Andino said he was happy Castro is dead, he lamented that communists still control Cuba.
-     >         Chinese President Xi Jinping hailed Castro’s role in spreading communism in the world and lamented the loss of “a close comrade.”
+[3m             > “Without connections, you don’t get a job here,” she laments.[0m
+[3m             > When the company returned home, the raider lamented, smallpox “spread from one tent to another as if the Bad Spirit carried it.”[0m
+[3m             > This time around, instead of Republicans lamenting the passage of Obamacare, Democrats are lamenting the House passage of its replacement, the American Health
+               Care Act.[0m
+[3m             > On social media, the move was celebrated by liberals and, of course, lamented by conservatives.[0m
+[3m             > Afterward, Thomas lamented his lack of free throws.[0m
 
- 1   A Passionate Expression Of Grief Or Sorrow.
-	 Eg.  "His Mother'S Night-Long Laments For His Father"
-	 Eg.  "The Widow'S Laments"
-	 Synonyms:  wail , lamentation , moan , groan , crying , 
+[35mLament[0m[36m /ləˈmɛnt/,[0m [91m[3mnoun[0m[0m | noun: lament; plural noun: laments
+      [32m1.[0m [37ma passionate expression of grief or sorrow.[0m
+	   "his mother's night-long laments for his father"
+  	   [3msynonyms:[0m wail, wailing, lamentation, moan, moaning, groan, weeping, crying, sob, sobbing, keening, howl, complaint ;  jeremiad, ululation
+		    "the widow's laments"
+          • [37ma song, piece of music, or poem expressing grief or sorrow.[0m
+	   "the piper played a lament"
+  	   [3msynonyms:[0m dirge, requiem, elegy, funeral song/chant, burial hymn, dead march, keen, plaint, knell ;  coronach ;  threnody, monody, epicedium
+		    "he sang a lament for the dead"
 
- 2   A Song, Piece Of Music, Or Poem Expressing Grief Or Sorrow.
-	 Eg.  "The Piper Played A Lament"
-	 Eg.  "He Sang A Lament For The Dead"
-	 Synonyms:  dirge , requiem , elegy , dead march , keen , 
+      [32m2.[0m [37ma complaint.[0m
+	   "there were constant laments about the conditions of employment"
+    [91m[3mverb[0m[0m | verb: lament; 3rd person present: laments; past tense: lamented; past participle: lamented; gerund or present participle: lamenting
+      [32m1.[0m [37mexpress passionate grief about.[0m
+	   "he was lamenting the death of his infant daughter"
+  	   [3msynonyms:[0m mourn, grieve (for/over), weep for, shed tears for ;  sorrow, wail, moan, groan, weep, cry, sob, keen, plain, howl, pine for, beat one's breast ;
+                     ululate
+		    "the mourners lamented a life taken so suddenly"
+  	   [3mantonyms:[0m celebrate, rejoice
 
- 3   A Complaint.
-	 Eg.  "There Were Constant Laments About The Conditions Of Employment"
-
- 4   Express Passionate Grief About.
-	 Eg.  "He Was Lamenting The Death Of His Infant Daughter"
-	 Eg.  "The Mourners Lamented A Life Taken So Suddenly"
-	 Synonyms:  mourn , sorrow , wail , moan , groan , 
-	 Antonyms:  celebrate , rejoice , 
-
- 5   Express Regret Or Disappointment About Something.
-	 Eg.  "She Lamented The Lack Of Shops In The Town"
-	 Eg.  "He Lamented The Modernizing Of The Old Buildings"
-	 Synonyms:  bemoan , bewail , deplore , regret , rue , 
+      [32m2.[0m [37mexpress regret or disappointment about something.[0m
+	   "she lamented the lack of shops in the town"
+  	   [3msynonyms:[0m bemoan, bewail, complain about, deplore, regret, rue ;  protest against, speak out against, object to, oppose, disagree with, fulminate against, inveigh
+                     against, rail at, make a fuss about, denounce
+		    "he lamented the modernizing of the old buildings"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mविलाप[0m            [31mरोना[0m      
+        [31mशोक[0m          [31mविलाप करना[0m   

@@ -1,20 +1,22 @@
-                                                                                     PRECLUDE                                                                                     
-  SHORT        To preclude something is to prevent it from happening. A muzzle precludes a dog from biting.
-  LONG         This is a very formal word, but it has a simple meaning: when something is precluded, it can't happen. See the prefix pre in preclude and in prevent? It is
+[35m                                                                                     PRECLUDE                                                                                     [0m
+[91m        SHORT  To preclude something is to prevent it from happening. A muzzle precludes a dog from biting.[0m
+[36m         LONG  This is a very formal word, but it has a simple meaning: when something is precluded, it can't happen. See the prefix pre in preclude and in prevent? It is
                signaling that these words are all about things done before another action would happen — to make it impossible. Staying away from water
-               precludes the possibility of drowning, though it also precludes any chance of having fun swimming.
+               precludes the possibility of drowning, though it also precludes any chance of having fun swimming.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The most extreme example is the big bang creation: Even an infinitesimal change to its explosive expansion value would preclude life.
-     >         As the Supreme Court has long recognized, this guarantee precludes certain forms of entrapment.
-     >         “What happens at the federal level would not preclude a district...from being able” to protect students from discrimination.
-     >         But if Trump follows through on that threat, he could impose new sanctions, justify tariffs on imports and preclude China from some U.S. financing deals.
-     >         The undergirding notion was that to live with physical limitations was to live a partial life: illness or disability precluded fulfilment or freedom or
-               happiness.
+[3m             > But their words did not preclude future upheaval.[0m
+[3m             > The denial does not preclude the possibility that Dietl was hired or paid by someone else connected to Fox News, however.[0m
+[3m             > The Justice Department’s decision doesn’t preclude state authorities from conducting their own investigation and pursuing their own criminal charges.[0m
+[3m             > “There were countries that wanted to say, ‘Thou shalt not, you are precluded from adjusting now.’[0m
+[3m             > The Fish and Wildlife Service in 2011 said that protections for the high-elevation tree were warranted, but precluded by other priorities.[0m
 
- 1   Prevent From Happening; Make Impossible.
-	 Eg.  "The Secret Nature Of His Work Precluded Official Recognition"
-	 Eg.  "His Difficulties Preclude Him From Leading A Normal Life"
-	 Synonyms:  prevent , stop , prohibit , debar , interdict , 
-
- 2   (Of A Situation Or Condition) Prevent Someone From Doing Something.
-	 Eg.  "His Difficulties Preclude Him From Leading A Normal Life"
+[35mPreclude[0m[36m /prɪˈkluːd/,[0m [91m[3mverb[0m[0m | verb: preclude; 3rd person present: precludes; past tense: precluded; past participle: precluded; gerund or present participle: precluding
+          • [37mprevent from happening; make impossible.[0m
+	   "the secret nature of his work precluded official recognition"
+  	   [3msynonyms:[0m prevent, make it impossible for, make it impracticable for, rule out, put a stop to, stop, prohibit, debar, interdict, block, bar, hinder, impede,
+                     inhibit, exclude, disqualify, forbid ;  estop
+		    "his difficulties preclude him from leading a normal life"
+          • [37m(of a situation or condition) prevent someone from doing something.[0m
+	   "his difficulties preclude him from leading a normal life"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mरोकना[0m    [31mरोक देना[0m 

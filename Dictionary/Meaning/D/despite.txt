@@ -1,26 +1,29 @@
-                                                                                     DESPITE                                                                                      
-  SHORT        Despite is used as a preposition when something happens even though it might have been prevented by something else. You might go see a movie despite hearing a
-               review calling it worse than "Showgirls" and "Ishtar" combined.
-  LONG         Despite is just one letter away from despise, and they actually share a root: the Latin verb despicere, meaning "to look down on scornfully." Despite came to
+[35m                                                                                     DESPITE                                                                                      [0m
+[91m        SHORT  Despite is used as a preposition when something happens even though it might have been prevented by something else. You might go see a movie despite hearing a
+               review calling it worse than "Showgirls" and "Ishtar" combined.[0m
+[36m         LONG  Despite is just one letter away from despise, and they actually share a root: the Latin verb despicere, meaning "to look down on scornfully." Despite came to
                mean "contempt" or "scorn" in English, though that use as a noun has mostly dropped out of use. The phrase "in despite of" gradually got
                shortened to the preposition despite and lost its scornful quality. If you accomplish something despite the obstacles in your way, there's no
-               need to feel spiteful about it.
+               need to feel spiteful about it.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But despite his precautions, the 32-year-old California man died Saturday while hunting with an uncle in Western Maryland.
-     >         Despite countless attempts on both continents, he never managed to qualify for either a British or U.S.
-     >         Despite her deep unpopularity throughout the campaign, no Democratic candidate for Senate ever tried to separate themselves from Clinton in any meaningful
-               way.
-     >         He said he doesn’t feel safe, despite having his own scooter rather than using public transport.
-     >         Mr. Trump should dismiss Mr. Cordray on his first day as President despite the appeal, but the bureau has other problems.
+[3m             > Despite roughly half the population being Muslim and speaking the local Berber language, only one Muslim holiday is official – whereas there are six Christian
+               ones.[0m
+[3m             > Despite the president’s praise at times for Mr. Comey, his concerns dated back to the election and grew over time, they said.[0m
+[3m             > Hispanics, despite not expanding their turnout rate, did expand their share of the electorate, reaching 9.2 percent.[0m
+[3m             > Despite well-documented studies that show the benefits of exercise during all stages of pregnancy, globally the prenatal exercise industry is relatively new.[0m
+[3m             > The bill allows Texas to license two family lockdowns, despite court rulings that say such facilities don’t meet requirements to care for kids.[0m
 
- 1   Without Being Affected By; In Spite Of.
-	 Eg.  "He Remains A Great Leader Despite Age And Infirmity"
-	 Eg.  "He Was Forced To Step Down As Mayor Despite His Popularity With Voters"
-	 Synonyms:  notwithstanding , 
-	 Antonyms:  
+[35mDespite[0m[36m /dɪˈspʌɪt/,[0m [91m[3mpreposition[0m[0m | preposition: despite
+      [32m1.[0m [37mwithout being affected by; in spite of.[0m
+	   "he remains a great leader despite age and infirmity"
+  	   [3msynonyms:[0m in spite of, notwithstanding, regardless of, in defiance of, without being affected by, in the face of, for all, even with, undeterred by
+		    "he was forced to step down as mayor despite his popularity with voters"
+  	   [3mantonyms:[0m because of
+    [91m[3mnoun archaic[0m[0m | noun: despite
+      [32m1.[0m [37mcontemptuous treatment or behaviour; outrage.[0m
+	   "the despite done by him to the holy relics"
 
- 2   Contemptuous Treatment Or Behaviour; Outrage.
-	 Eg.  "The Despite Done By Him To The Holy Relics"
-
- 3   Contempt; Disdain.
-	 Eg.  "The Theatre Only Earns My Despite"
+      [32m2.[0m [37mcontempt; disdain.[0m
+	   "the theatre only earns my despite"
+  [31m[4m[34madverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mके बावजूद[0m          [31mविरोध[0m       [31mके होते हुए भी[0m 

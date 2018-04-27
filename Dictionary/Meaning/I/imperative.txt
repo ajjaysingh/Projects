@@ -1,37 +1,41 @@
-                                                                                    IMPERATIVE                                                                                    
-  SHORT        When something absolutely has to be done and cannot be put off, use the adjective imperative.
-  LONG         Imperative is from Latin imperare "to command," and its original use was for a verb form expressing a command: "Do it!" is an imperative sentence. It's still
+[35m                                                                                    IMPERATIVE                                                                                    [0m
+[91m        SHORT  When something absolutely has to be done and cannot be put off, use the adjective imperative.[0m
+[36m         LONG  Imperative is from Latin imperare "to command," and its original use was for a verb form expressing a command: "Do it!" is an imperative sentence. It's still
                used that way, but it's more commonly applied to something so pressing it cannot be put off: "Hiring new workers has become imperative."  It
-               has more immediate force than pressing but less than urgent.
+               has more immediate force than pressing but less than urgent.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Sometimes a play is just a play, and not all of her productions can bear the weight of her imperative.
-     >         Keeping a semblance of self control was imperative and Tottenham began by exerting important authority in midfield, pegging Chelsea back, and keeping
-               confident possession.
-     >         He performed well against the Cowboys, so it’s not imperative he return to his usual spot at right guard on Sunday.
-     >         It is imperative for boomer managers to ensure the proper integration of the millennials into their organizational culture.
-     >         Whatever happens, Mr Abe’s achievement, she says, has been to change female empowerment from a human-rights issue to an economic imperative.
+[3m             > According to this theory, a suicide attempt abruptly brings the person back to their body, connecting the person to the fundamental imperative to survive.[0m
+[3m             > Popular evolutionary psychology holds that jealousy is innate, a biological imperative that evolved to guarantee watchful, possessive males some certainty of
+               their offspring’s paternity.[0m
+[3m             > It was a policy choice, not a crime imperative.[0m
+[3m             > Schiff and other Democrats said it is imperative that the Justice Department appoint a special prosecutor.[0m
+[3m             > Scottish Education Secretary John Swinney acknowledged that the figures were "simply not good enough" and showed that education reforms were now "imperative".[0m
 
- 1   Of Vital Importance; Crucial.
-	 Eg.  "Immediate Action Was Imperative"
-	 Eg.  "It Is Imperative That You Find Him"
-	 Synonyms:  all-important , vital , crucial , critical , essential , 
-	 Antonyms:  unimportant , optional , 
+[35mImperative[0m[36m /ɪmˈpɛrətɪv/,[0m [91m[3madjective[0m[0m | adjective: imperative
+      [32m1.[0m [37mof vital importance; crucial.[0m
+	   "immediate action was imperative"
+  	   [3msynonyms:[0m vitally important, of vital importance, all-important, vital, crucial, critical, essential, of the essence, a matter of life and death, of great
+                     consequence, necessary, indispensable, exigent, pressing, urgent ;  required, compulsory, mandatory, obligatory
+		    "it is imperative that you find him"
+  	   [3mantonyms:[0m unimportant, optional
 
- 2   Giving An Authoritative Command; Peremptory.
-	 Eg.  "The Bell Pealed Again, A Final Imperative Call"
-	 Eg.  "The Imperative Note In Her Voice Was Unmistakable"
-	 Synonyms:  peremptory , commanding , imperious , authoritative , masterful , 
-	 Antonyms:  submissive , 
+      [32m2.[0m [37mgiving an authoritative command; peremptory.[0m
+	   "the bell pealed again, a final imperative call"
+  	   [3msynonyms:[0m peremptory, commanding, imperious, authoritative, masterful, lordly, magisterial, autocratic, dictatorial, domineering, overbearing, assertive, firm,
+                     insistent, bossy, high-handed, overweening
+		    "the imperative note in her voice was unmistakable"
+  	   [3mantonyms:[0m submissive
+          • [37mdenoting the mood of a verb that expresses a command or exhortation, as in come here!.[0m
+    [91m[3mnoun[0m[0m | noun: imperative; plural noun: imperatives
+      [32m1.[0m [37man essential or urgent thing.[0m
+	   "free movement of labour was an economic imperative"
+          • [37ma factor or influence making something necessary.[0m
+	   "the biological imperatives which guide male and female behaviour"
 
- 3   Denoting The Mood Of A Verb That Expresses A Command Or Exhortation, As In Come Here!.
-
- 4   An Essential Or Urgent Thing.
-	 Eg.  "Free Movement Of Labour Was An Economic Imperative"
-
- 5   A Factor Or Influence Making Something Necessary.
-	 Eg.  "The Biological Imperatives Which Guide Male And Female Behaviour"
-
- 6   A Verb Or Phrase In The Imperative Mood.
-
- 7   The Imperative Mood.
-	 Eg.  Noun: The Imperative
+      [32m2.[0m [37ma verb or phrase in the imperative mood.[0m
+          • [37mthe imperative mood.[0m
+	   noun: the imperative
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mअनिवार्य[0m    [31mआज्ञावर्षक[0m 
+   [31mआदेशात्मक[0m     [31mलाज़िमी[0m  
+  [31mआत्यावश्यक[0m   [31mअवश्यकरणीय[0m 

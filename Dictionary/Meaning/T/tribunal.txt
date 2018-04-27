@@ -1,25 +1,28 @@
-                                                                                     TRIBUNAL                                                                                     
-  SHORT        A tribunal is like a court. If you've done something wrong and you get caught it's likely you'll be brought before a tribunal, although not all tribunals are
-               there to determine guilt.
-  LONG         Say, for example, you'd like to join a secret society. That society might convene a tribunal to determine whether you're worthy of joining. One way to
+[35m                                                                                     TRIBUNAL                                                                                     [0m
+[91m        SHORT  A tribunal is like a court. If you've done something wrong and you get caught it's likely you'll be brought before a tribunal, although not all tribunals are
+               there to determine guilt.[0m
+[36m         LONG  Say, for example, you'd like to join a secret society. That society might convene a tribunal to determine whether you're worthy of joining. One way to
                remember tribunal is to focus on the tri at the beginning of the word. A tribunal is there to "try" a case. A tribunal is a group of people who
                oversee a trial. Your mom and dad could be a tribunal. You could also think of it as the group who oversees their tribe, which is, in fact,
-               where the word comes from.
+               where the word comes from.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “The tribunal investigation and trial of the archbishop has already begun,” Byrnes said.
-     >         Secretary-General's envoy to the tribunal, said that the judgment sent a message to leaders around the world.
-     >         They suggested that their clients were unfairly being singled out while the Cambodian government sought to block the tribunal from trying other suspects.
-     >         Both appeared before the Supreme Court Chamber of the U.N.-assisted Khmer Rouge tribunal on Wednesday, and sat impassively before the hearing.
-     >         She recently lost a first review of the Pip decision and has decided a full appeal at tribunal is probably too much to go through.
+[3m             > “What I can’t understand is why they’re putting him in a military tribunal when he’s a civilian,” Reyes said, his voice hoarse with exasperation.[0m
+[3m             > Opposition leaders said 200 of those were being processed by military tribunals in Carabobo state.[0m
+[3m             > Citizens Advice wants a single body set up to oversee enforcement of all employment rights and a £50 cap on employment tribunal fees.[0m
+[3m             > It wants the Polish government to reverse curbs on the constitutional tribunal, which it said endangered the rule of law.[0m
+[3m             > Yes, Mr. Grundfest’s background was impressive, the commission’s lawyers said, but “such credentials are not a license to lecture this tribunal about
+               securities laws.”[0m
 
- 1   A Body Established To Settle Certain Types Of Dispute.
-	 Eg.  "An Industrial Tribunal Ruled That He Was Unfairly Dismissed"
-	 Eg.  "A Rent Tribunal"
-	 Synonyms:  board , panel , committee , 
+[35mTribunal[0m[36m /trʌɪˈbjuːn(ə)l,trɪˈbjuːn(ə)l/,[0m [91m[3mnoun[0m[0m | noun: tribunal; plural noun: tribunals
+      [32m1.[0m [37ma body established to settle certain types of dispute.[0m
+	   "an industrial tribunal ruled that he was unfairly dismissed"
+  	   [3msynonyms:[0m arbitration board/panel, board, panel, committee ;  industrial tribunal
+		    "a rent tribunal"
 
- 2   A Court Of Justice.
-	 Eg.  "An International War Crimes Tribunal"
-	 Eg.  "An International War Crimes Tribunal"
-	 Synonyms:  court , law court , bar , forum , 
-
- 3   A Seat Or Bench For A Judge Or Judges.
+      [32m2.[0m [37ma court of justice.[0m
+	   "an international war crimes tribunal"
+  	   [3msynonyms:[0m court, court of justice, court of law, law court, bar ;  court of enquiry ;  forum
+		    "an international war crimes tribunal"
+          • [37ma seat or bench for a judge or judges.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mअधिकरण[0m 

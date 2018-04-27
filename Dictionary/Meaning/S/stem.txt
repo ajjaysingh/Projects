@@ -1,38 +1,73 @@
-                                                                                       STEM                                                                                       
-  SHORT        Sometimes stem means to originate; other times it means to stop something at its source. You stem the flow of a river, but you can also observe that a river’s
-               flow stems from a spring.
-  LONG         To remember stem’s meaning think of the stem of a plant––it’s where a plant begins but also where you pluck it from the ground. Once teachers realized that
-               the students’ anger stemmed from the overload of homework, they stemmed the rebellion’s tide.
+[35m                                                                                       STEM                                                                                       [0m
+[91m        SHORT  Sometimes stem means to originate; other times it means to stop something at its source. You stem the flow of a river, but you can also observe that a river’s
+               flow stems from a spring.[0m
+[36m         LONG  To remember stem’s meaning think of the stem of a plant––it’s where a plant begins but also where you pluck it from the ground. Once teachers realized that
+               the students’ anger stemmed from the overload of homework, they stemmed the rebellion’s tide.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This showing also stemmed from both patience and maturity that Cekovsky has developed over the past two years.
-     >         Republicans are deeply concerned about ethics in government and the vast potential for corruption stemming from conflicts of interest.
-     >         Ingram said he felt good and that his production stemmed in part from an entire offense playing with purpose against Williams.
-     >         Much of that stemmed from how difficult the Bears made life for Mitchell.
-     >         That decline stems in part from lobbyists finding loopholes in the rules that allow them to avoid registering, including taking on advisory roles.
+[3m             > Sheriff Gary Hutchins says the events stemmed from “some kind of domestic thing.”[0m
+[3m             > It is also shaking up its board and exploring a sale as it struggles to stem losses and get listeners to pay.[0m
+[3m             > He found that while much of it initially looks great, closer examination found damaged stems.[0m
+[3m             > He also tweeted, following the Westminster terror attack in March, that "all terrorist attacks in UK stem from our foreign policy".[0m
+[3m             > The second type of vulnerability stems from a quirk of history.[0m
 
- 1   The Main Body Or Stalk Of A Plant Or Shrub, Typically Rising Above Ground But Occasionally Subterranean.
-	 Eg.  "With Any Shrub Or Tree, Look For Firm Healthy Roots And A Sturdy Straight Stem"
-	 Synonyms:  trunk , stalk , stock , cane , peduncle , 
+[35mStem[0m[36m /stɛm/,[0m [91m[3mnoun[0m[0m | noun: stem; plural noun: stems
+      [32m1.[0m [37mthe main body or stalk of a plant or shrub, typically rising above ground but occasionally subterranean.[0m
+	   "with any shrub or tree, look for firm healthy roots and a sturdy straight stem"
+  	   [3msynonyms:[0m trunk, stalk, stock, cane ;  peduncle
+		    "with any shrub or tree, look for firm healthy roots and a sturdy straight stem"
+          • [37mthe stalk supporting a fruit, flower, or leaf, and attaching it to a larger branch, twig, or stalk.[0m
+	   "the rose has dark foliage and purplish stems"
+  	   [3msynonyms:[0m stalk, shoot, twig ;  bine, pedicel, petiole, peduncle, axis
+		    "the rose has dark foliage and purplish stems"
 
- 2   The Stalk Supporting A Fruit, Flower, Or Leaf, And Attaching It To A Larger Branch, Twig, Or Stalk.
-	 Eg.  "The Rose Has Dark Foliage And Purplish Stems"
-	 Synonyms:  stalk , shoot , twig , bine , pedicel , 
+      [32m2.[0m [37ma long, thin supportive or main section of something.[0m
+	   "the main stem of the wing feathers"
+          • [37mthe slender part of a wine glass between the base and the bowl.[0m
+	   "her fingers tightened on the stem of her glass"
+          • [37mthe tube of a tobacco pipe.[0m
+	   "Stanley eyed his father over the stem of his pipe"
+          • [37ma rod or cylinder in a mechanism, for example the sliding shaft of a bolt or the winding pin of a watch.[0m
+	   "the stem of the bolt edged clear"
+          • [37ma vertical stroke in a letter or musical note.[0m
 
- 3   A Long, Thin Supportive Or Main Section Of Something.
-	 Eg.  "The Main Stem Of The Wing Feathers"
+      [32m3.[0m [37mthe root or main part of a word, to which inflections or formative elements are added.[0m
+          • [37mthe main line of descent of a family or nation.[0m
+	   "the Hellenic tribes were derived from the Aryan stem"
 
- 4   The Slender Part Of A Wine Glass Between The Base And The Bowl.
-	 Eg.  "Her Fingers Tightened On The Stem Of Her Glass"
+      [32m4.[0m [37mthe main upright timber or metal piece at the bow of a ship, to which the ship's sides are joined at the front end.[0m
+	   "the spines and bow stems of abandoned hulks"
 
- 5   The Tube Of A Tobacco Pipe.
-	 Eg.  "Stanley Eyed His Father Over The Stem Of His Pipe"
+      [32m5.[0m [37ma pipe used for smoking crack or opium.[0m
+    [91m[3mverb[0m[0m | verb: stem; 3rd person present: stems; past tense: stemmed; past participle: stemmed; gerund or present participle: stemming
+      [32m1.[0m [37moriginate in or be caused by.[0m
+	   "many of the universities' problems stem from rapid expansion"
+  	   [3msynonyms:[0m have its origins in, arise from, originate from, spring from, derive from, come from, be rooted in, emanate from, issue from, flow from, proceed from,
+                     result from, be consequent on ;  be caused by, be brought on/about by, be produced by
+		    "her depression stems from domestic difficulties"
+  	   [3mantonyms:[0m cause, give rise to, be independent of
 
- 6   A Rod Or Cylinder In A Mechanism, For Example The Sliding Shaft Of A Bolt Or The Winding Pin Of A Watch.
-	 Eg.  "The Stem Of The Bolt Edged Clear"
+      [32m2.[0m [37mremove the stems from (fruit or tobacco leaves).[0m
+	   "her aunt and her mother were stemming currants on the side porch"
 
- 7   A Vertical Stroke In A Letter Or Musical Note.
+      [32m3.[0m [37m(of a boat) make headway against (the tide or current).[0m
+	   "if the wind will only freshen a little, we shall be able to stem the first of the flood"
+[35mStem[0m[36m /stɛm/,[0m [91m[3mverb[0m[0m | verb: stem; 3rd person present: stems; past tense: stemmed; past participle: stemmed; gerund or present participle: stemming
+      [32m1.[0m [37mstop or restrict (the flow of something).[0m
+	   "a nurse did her best to stem the bleeding"
+  	   [3msynonyms:[0m staunch, stop, halt, check, hold back, restrain, restrict, control, contain, curb ;  block, dam ;  slow, lessen, reduce, diminish, retard ;  stanch ;
+                     stay
+		    "paramedics tried to stem the flow of blood"
+          • [37mstop the spread or development of (something undesirable).[0m
+	   "an attempt to stem the rising tide of unemployment"
 
- 8   The Root Or Main Part Of A Word, To Which Inflections Or Formative Elements Are Added.
-
- 9   The Main Line Of Descent Of A Family Or Nation.
-	 Eg.  "The Hellenic Tribes Were Derived From The Aryan Stem"
+      [32m2.[0m [37mslide the tail of one ski or both skis outwards in order to turn or slow down.[0m
+	   "I side-slipped at first, grew tired of it, and stemmed for a while"
+[35mStem[0m [91m[3mabbreviation[0m[0m | noun: STEM
+          • [37mscience, technology, engineering, and mathematics (as an educational category).[0m
+	   "the academy is seeking to appoint a Teaching and Learning Coordinator for STEM subjects"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+         [31mतना[0m              [31mपैदा होना[0m              [31mधड़[0m        
+         [31mडंठल[0m            [31mउत्पन्न होना[0m            [31mतनाआ[0m       
+      [31mपतली डंडी[0m              [31mउठना[0m                [31mगलही[0m       
+     [31mप्रातिपदिका[0m            [31mरोकना[0m                [31mनली[0m        
+       [31mमूलशब्द[0m          [31mप्रतिबंध करना[0m            [31mधातु[0m       

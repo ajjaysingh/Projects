@@ -1,19 +1,27 @@
-                                                                                    DICHOTOMY                                                                                     
-  SHORT        A dichotomy is an idea or classification split in two. When you point out a dichotomy, you draw a clear distinction between two things.
-  LONG         A dichotomy is a contrast between two things. When there are two ideas, especially two opposed ideas — like war and peace, or love and hate — you have a
+[35m                                                                                    DICHOTOMY                                                                                     [0m
+[91m        SHORT  A dichotomy is an idea or classification split in two. When you point out a dichotomy, you draw a clear distinction between two things.[0m
+[36m         LONG  A dichotomy is a contrast between two things. When there are two ideas, especially two opposed ideas — like war and peace, or love and hate — you have a
                dichotomy. You often hear about a "false dichotomy," which occurs when a situation is unfairly represented as an "either/or" scenario. For
                example, the statement "All cars are either small and efficient or large and polluting" creates a false dichotomy because there are some cars
-               that don't fit into either category.
+               that don't fit into either category.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         And in a way, that dichotomy itself points out the problem with defining—let alone actually getting rid of—”fake news.”
-     >         It is this dichotomy that creates a beautiful Chardonnay.
-     >         I felt my cramped religious framework of false dichotomies and moral starkness beginning to collapse.
-     >         The last statement is tautological, and the dichotomy between “change” and “reaction” is a false one.
-     >         In places like El Paso, these sorts of dichotomies are constant.
+[3m             > Dichotomies, not surprisingly, factor into the artist’s work.[0m
+[3m             > Scott Hartley, author of “The Fuzzy and the Techie,” believes society puts a false dichotomy between science and the liberal arts.[0m
+[3m             > Law works as a dichotomy—you’re guilty or not guilty.[0m
+[3m             > Hughes argued it was a false dichotomy in public debate “to pit the environment against the economy”.[0m
+[3m             > There is a false dichotomy between free expression and social justice and there is now something of a culture industry built around that conflict.[0m
 
- 1   A Division Or Contrast Between Two Things That Are Or Are Represented As Being Opposed Or Entirely Different.
-	 Eg.  "A Rigid Dichotomy Between Science And Mysticism"
-	 Eg.  "There Is A Great Dichotomy Between Social Theory And Practice"
-	 Synonyms:  division , separation , divorce , split , gulf , 
+[35mDichotomy[0m[36m /dʌɪˈkɒtəmi,dɪˈkɒtəmi/,[0m [91m[3mnoun[0m[0m | noun: dichotomy; plural noun: dichotomies
+      [32m1.[0m [37ma division or contrast between two things that are or are represented as being opposed or entirely different.[0m
+	   "a rigid dichotomy between science and mysticism"
+  	   [3msynonyms:[0m division, separation, divorce, split, gulf, chasm ;  difference, contrast, disjunction, polarity, lack of consistency, contradiction, antagonism,
+                     conflict ;  contrariety
+		    "there is a great dichotomy between social theory and practice"
 
- 2   Repeated Branching Into Two Equal Parts.
+      [32m2.[0m [37mrepeated branching into two equal parts.[0m
+      [31m[4m[34m[0m[0m[0m    
+          [31mद्विधाकरण[0m        
+        [31mद्विभक्‍तीकरण[0m      
+     [31mदो भागों में विभाजन[0m   
+  [31m(वन और प्राणि) डाइकोगैमी[0m 
+        [31mपृथक्-पक्‍वता[0m      

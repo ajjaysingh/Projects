@@ -1,17 +1,21 @@
-                                                                                   ARBITRATION                                                                                    
-  SHORT        When an uninvolved, impartial person is called in to help settle a dispute, it's called arbitration. The person in charge of the arbitration acts like an
-               official referee, helping both sides come to an agreement.
-  LONG         The noun arbitration comes to English via the Latin word arbitrari, meaning "to judge." In English, arbitration is both the process of using an arbiter to
+[35m                                                                                   ARBITRATION                                                                                    [0m
+[91m        SHORT  When an uninvolved, impartial person is called in to help settle a dispute, it's called arbitration. The person in charge of the arbitration acts like an
+               official referee, helping both sides come to an agreement.[0m
+[36m         LONG  The noun arbitration comes to English via the Latin word arbitrari, meaning "to judge." In English, arbitration is both the process of using an arbiter to
                settle a dispute and the act of that arbiter making a judgment. Many parents know that if the arbitration of your kids' argument was deemed
-               unfair by both kids, you've usually made the right decision.
+               unfair by both kids, you've usually made the right decision.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         An international arbitration tribunal in July said that Beijing’s claims are inconsistent with international law.
-     >         Additionally, Wells Fargo asked Waddoups to dismiss the lawsuit, in case the company's bid for an arbitration order fails.
-     >         Mandating arbitration when signing up for financial products has become standard practice after a Supreme Court decision in 2011 validated the practice.
-     >         Mandatory arbitration rules inserted into account-opening agreements prohibit customers from joining class actions or suing Wells Fargo.
-     >         In October, the Court of Arbitration for Sport extended Jeptoo’s ban to four years from two.
+[3m             > It was reduced to 15 months and, in October, the court of arbitration for sport said she was not an “intentional doper”.[0m
+[3m             > Carpio helped prepare the arbitration case, which the Philippines largely won.[0m
+[3m             > When Santos, by then coaching Portugal, appealed at the Court of Arbitration for Sport, the ban was reduced to four games.[0m
+[3m             > It was later reduced to 15 months by the Court of Arbitration for Sport, who found that she was not an "intentional doper".[0m
+[3m             > Many companies also offer severance pay contingent on signing an arbitration agreement, or a non-disparagement clause.[0m
 
- 1   The Use Of An Arbitrator To Settle A Dispute.
-	 Eg.  "Tayside Regional Council Called For Arbitration To Settle The Dispute"
-	 Eg.  "The Council Called For Arbitration To Settle The Dispute"
-	 Synonyms:  adjudication , mediation , negotiation , conciliation , intervention , 
+[35mArbitration[0m[36m /ɑːbɪˈtreɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: arbitration; plural noun: arbitrations
+          • [37mthe use of an arbitrator to settle a dispute.[0m
+	   "Tayside Regional Council called for arbitration to settle the dispute"
+  	   [3msynonyms:[0m adjudication, mediation, mediatorship, negotiation, conciliation, intervention, interceding, interposition, peacemaking ;  judgement ;  arbitrament
+		    "the council called for arbitration to settle the dispute"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mमध्यस्थता[0m    [31mपंचफ़ैसला[0m 
+    [31mविवाचन[0m     [31mपंच-निर्णय[0m 

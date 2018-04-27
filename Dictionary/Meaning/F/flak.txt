@@ -1,19 +1,23 @@
-                                                                                       FLAK                                                                                       
-  SHORT        If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots from an airplane.
-  LONG         Flak came into English as an abbreviation for the German word Fliegerabwehrkanone, meaning 'aircraft-defense gun.' (Yikes! No wonder they abbreviated it.) If
+[35m                                                                                       FLAK                                                                                       [0m
+[91m        SHORT  If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots from an airplane.[0m
+[36m         LONG  Flak came into English as an abbreviation for the German word Fliegerabwehrkanone, meaning 'aircraft-defense gun.' (Yikes! No wonder they abbreviated it.) If
                you’re dealing with a lot of flak, you’re either in a fighter plane over enemy territory drawing shots, or you’re dealing with a volley of
                criticism that seems like antiaircraft fire. If you show up late for work for a third day, you’ll probably take some flak from your coworkers —
-               they’ll take verbal shots at you.
+               they’ll take verbal shots at you.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “So, hats off to him. He took some flak this election cycle, so I’m glad he could cash in on it.”
-     >         “He said we had gone through the flak and every gunner was shooting except me,” McGuire said.
-     >         Those who check in to the War Hostel are greeted by the owner wearing a helmet and a flak jacket.
-     >         Kelly has caught flak since for taking so long to out Ailes — a decision she still grapples with.
-     >         “The media’s given Billy a lot of flak and I’m pleased Coach James has been sticking up for him,” senior center Ed Cunningham said.
+[3m             > But it wasn't the only company copping flak for poor creativity this week.[0m
+[3m             > “Yeah, I got a lot of flak for that one,” he said.[0m
+[3m             > A trooper in a black helmet and flak jacket was barrelling me toward a police van.[0m
+[3m             > Park Police flak jacket and sweater, utility pants and hiking shoes.[0m
+[3m             > Women get such flak about age and time, but women age much more sensibly than men.[0m
 
- 1   Anti-Aircraft Fire.
-
- 2   Strong Criticism.
-	 Eg.  "You Must Be Strong Enough To Take The Flak If Things Go Wrong"
-	 Eg.  "He Has Come In For A Lot Of Flak From The Press"
-	 Synonyms:  criticism , censure , disapproval , disapprobation , hostility , 
+[35mFlak[0m[36m /flak/,[0m [91m[3mnoun[0m[0m | noun: flak; noun: flack
+          • [37manti-aircraft fire.[0m
+          • [37mstrong criticism.[0m
+	   "you must be strong enough to take the flak if things go wrong"
+  	   [3msynonyms:[0m criticism, censure, disapproval, disapprobation, hostility, complaints ;  castigation, condemnation, denunciation ;  opprobrium, obloquy, calumny,
+                     calumniation, execration, excoriation, vilification, abuse, revilement, lambasting ;  brickbats, knocking, panning, slamming,
+                     tongue-lashing, a bad press ;  stick, verbal, slagging off, slagging
+		    "he has come in for a lot of flak from the press"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+     [31mयानतोड़क तोपें[0m     [31mविमान भेदी गोलाबारी[0m 

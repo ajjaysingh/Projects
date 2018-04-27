@@ -1,38 +1,39 @@
-                                                                                      BLEAK                                                                                       
-  SHORT        Something that is bleak is gloomy and depressing. If it's raining and dark, you might describe the night as bleak. If you have looked for work and no one will
-               hire you, you could describe your prospects as bleak.
-  LONG         If you and the ten people sharing your lifeboat have been adrift for ten days and are down to your last cracker, your situation is bleak. A near synonym is
-               dismal. Bleak is from Middle English bleik, from Old Norse bleikr "white, pale." This word is related to the English word bleach.
+[35m                                                                                      BLEAK                                                                                       [0m
+[91m        SHORT  Something that is bleak is gloomy and depressing. If it's raining and dark, you might describe the night as bleak. If you have looked for work and no one will
+               hire you, you could describe your prospects as bleak.[0m
+[36m         LONG  If you and the ten people sharing your lifeboat have been adrift for ten days and are down to your last cracker, your situation is bleak. A near synonym is
+               dismal. Bleak is from Middle English bleik, from Old Norse bleikr "white, pale." This word is related to the English word bleach.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Residents described bleak spirits among the population under siege as conditions continued to worsen amid no international action.
-     >         Yet even as she adjusted to chasing squirrels, her prognosis was bleak.
-     >         Sonically and lyrically, “We Got It From Here . . .” is informed by the present moment and by Tribe’s present moment — each, bleak.
-     >         International rights groups, the United Nations and domestic critics have excoriated Australian officials for years over the bleak conditions in which the
-               asylum seekers live.
-     >         In France, prospects for a leftist victory in presidential elections in 2017 remain bleak.
+[3m             > The surroundings add beauty to a story that is, at times, intentionally bleak, and the stunning landscape is a constant source of inspiration for Anne.[0m
+[3m             > The future of children growing up in poverty is bleak in many ways.[0m
+[3m             > Now, in this Pens series, they’ve faced every bleak Caps scenario that’s afflicted the team when it was a favorite.[0m
+[3m             > But its prospects of getting such a large hike this time around are bleak.[0m
+[3m             > Q&A: Witty and bleak, director Terence Davies on his work and the Emily Dickinson film we call 'masterful’[0m
 
- 1   (Of An Area Of Land) Lacking Vegetation And Exposed To The Elements.
-	 Eg.  "A Bleak And Barren Moor"
-	 Eg.  "A Bleak Landscape"
-	 Synonyms:  bare , desolate , stark , arid , desert , 
-	 Antonyms:  lush , verdant , 
-
- 2   (Of A Building Or Room) Charmless And Inhospitable; Dreary.
-	 Eg.  "He Looked Round The Bleak Little Room In Despair"
-
- 3   (Of The Weather) Cold And Miserable.
-	 Eg.  "A Bleak Midwinter'S Day"
-	 Eg.  "A Bleak Wind Had Got Up"
-	 Synonyms:  cold , keen , raw , harsh , wintry , 
-	 Antonyms:  warm , balmy , 
-
- 4   (Of A Situation) Not Hopeful Or Encouraging; Unlikely To Have A Favourable Outcome.
-	 Eg.  "He Paints A Bleak Picture Of A Company That Has Lost Its Way"
-	 Eg.  "The Future Looks Bleak"
-	 Synonyms:  unpromising , unfavourable , unpropitious , inauspicious , adverse , 
-	 Antonyms:  promising , hopeful , 
-
- 5   (Of A Person'S Expression) Cold And Forbidding.
-	 Eg.  "His Mouth Was Set And His Eyes Were Bleak"
-
- 6   A Small Silvery Shoaling Fish Of The Carp Family, Found In Eurasian Rivers.
+[35mBleak[0m[36m /bliːk/,[0m [91m[3madjective[0m[0m | adjective: bleak; comparative adjective: bleaker; superlative adjective: bleakest
+          • [37m(of an area of land) lacking vegetation and exposed to the elements.[0m
+	   "a bleak and barren moor"
+  	   [3msynonyms:[0m bare, exposed, desolate, stark, arid, desert, denuded, lunar, open, empty, windswept ;  treeless, forestless, without vegetation, defoliated ;
+                     unsheltered, unprotected, unshielded ;  unwooded
+		    "a bleak landscape"
+  	   [3mantonyms:[0m lush, verdant
+          • [37m(of a building or room) charmless and inhospitable; dreary.[0m
+	   "he looked round the bleak little room in despair"
+          • [37m(of the weather) cold and miserable.[0m
+	   "a bleak midwinter's day"
+  	   [3msynonyms:[0m cold, keen, raw, harsh, wintry ;  piercing, penetrating, biting, nipping, stinging, sharp ;  freezing, icy, icy-cold, frosty, frigid, chilly ;  nippy ;
+                     parky ;  chill
+		    "a bleak wind had got up"
+  	   [3mantonyms:[0m warm, balmy
+          • [37m(of a situation) not hopeful or encouraging; unlikely to have a favourable outcome.[0m
+	   "he paints a bleak picture of a company that has lost its way"
+  	   [3msynonyms:[0m unpromising, unfavourable, unpropitious, inauspicious, adverse, disadvantageous, uninviting, discouraging, disheartening, depressing, cheerless, joyless,
+                     gloomy, sombre, dreary, dismal, wretched, miserable, black, dark, grim, drab, portentous, foreboding, hopeless, ominous
+		    "the future looks bleak"
+  	   [3mantonyms:[0m promising, hopeful
+          • [37m(of a person's expression) cold and forbidding.[0m
+	   "his mouth was set and his eyes were bleak"
+[35mBleak[0m[36m /bliːk/,[0m [91m[3mnoun[0m[0m | noun: bleak; plural noun: bleaks
+          • [37ma small silvery shoaling fish of the carp family, found in Eurasian rivers.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mबेरंग[0m      [31mसूना[0m  

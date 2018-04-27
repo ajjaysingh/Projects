@@ -1,19 +1,21 @@
-                                                                                     EXIGENCY                                                                                     
-  SHORT        Think of a mix of excitement and emergency, and you have exigency, a sudden, urgent crisis. The very word conjures up danger and intrigue that demand a cool
-               head and an immediate effort at a solution.
-  LONG         The meaning of exigency is obvious from its source, the Latin noun exigentia, which means "urgency" and comes from the verb exigere, meaning "to demand or
+[35m                                                                                     EXIGENCY                                                                                     [0m
+[91m        SHORT  Think of a mix of excitement and emergency, and you have exigency, a sudden, urgent crisis. The very word conjures up danger and intrigue that demand a cool
+               head and an immediate effort at a solution.[0m
+[36m         LONG  The meaning of exigency is obvious from its source, the Latin noun exigentia, which means "urgency" and comes from the verb exigere, meaning "to demand or
                require." An emergency situation, or  exigency, is urgent and demands immediate action. Our lives are filled with exigencies, both large and
                small, from a child stuck in a tree to lightning striking your house to catastrophic river flooding. Each is an exigency — it's all a matter of
-               perspective.
+               perspective.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The architect who planned the museum also designed Israel’s nuclear reactor; such is the overlap between culture and political exigency in the country.
-     >         That, though, would be to misunderstand the exigencies of a Spanish title race.
-     >         Over the decades, the highway has attracted American Dreamers of various circumstances and exigencies.
-     >         Sad to say, his role is cut short, possibly because of the exigencies of plot.
-     >         There’s a basic mismatch between the power and ergonomics that full-fat PC gaming requires and the portability exigencies of a mobile computer.
+[3m             > I also found an informative article from 1982 about the exigencies of running a club in Washington.[0m
+[3m             > That’s because the exigencies of bilateral cooperation rob them of the anti-Trump language their rivals are free to employ.[0m
+[3m             > But it’s not the primal exigencies of winning that compel my attention.[0m
+[3m             > This discovery was not enough to survive the exigencies of the Washington real estate market.[0m
+[3m             > The characters in Watts’s novel are rooted to the exigencies of real lives; they’re not chiffon figures in Fitzgerald’s fantasy.[0m
 
- 1   An Urgent Need Or Demand.
-	 Eg.  "Women Worked Long Hours When The Exigencies Of The Family Economy Demanded It"
-	 Eg.  "The Exigencies Of The Continuing War"
-	 Eg.  "Financial Exigency Dictated That The Government Adopt A Peace Policy"
-	 Synonyms:  need , demand , requirement , want , necessity , 
+[35mExigency[0m[36m /ˈɛksɪdʒ(ə)nsi,ˈɛɡzɪdʒ(ə)nsi,ɪɡˈzɪdʒ(ə)nsi,ɛɡˈzɪdʒ(ə)nsi/,[0m [91m[3mnoun[0m[0m | noun: exigency; plural noun: exigencies
+          • [37man urgent need or demand.[0m
+	   "women worked long hours when the exigencies of the family economy demanded it"
+  	   [3msynonyms:[0m need, demand, requirement, want ;  necessity, essential, requisite  urgency, emergency, extremity, crisis, difficulty, pressure
+		    "the exigencies of the continuing war"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+        [31mज़रूरत[0m           [31mअत्यावश्यकता[0m   

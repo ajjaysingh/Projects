@@ -1,20 +1,25 @@
-                                                                                     DISCERN                                                                                      
-  SHORT        If you can make out, pick out, or distinguish something, you can discern it. This is a word for recognizing and perceiving things.
-  LONG         Discerning has to do with being able to see or hear something. In a loud room, it can be hard to discern one person's voice. If there's not much light, you'll
+[35m                                                                                     DISCERN                                                                                      [0m
+[91m        SHORT  If you can make out, pick out, or distinguish something, you can discern it. This is a word for recognizing and perceiving things.[0m
+[36m         LONG  Discerning has to do with being able to see or hear something. In a loud room, it can be hard to discern one person's voice. If there's not much light, you'll
                have trouble discerning the words on a page well enough to read. If you have sloppy handwriting, then it's hard to discern what you wrote. When
-               you can discern something, you can tell what it is; you can identify it.
+               you can discern something, you can tell what it is; you can identify it.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         When it comes to traditional reboots, Netflix has arguably been more discerning than other companies about which shows are revived.
-     >         They do not have time to discern whether someone is carrying a BB gun, a water pistol or a handgun, she said.
-     >         All this information was discerned from telemetry that Schiaparelli transmitted as it hurtled down through the Martian atmosphere.
-     >         She also discerned a feeling of loss, a sense that all the progress advocating for a humane immigration system might be swept away.
-     >         The latest technology can achieve a resolution of a hundred microns, which is what the typical human eye can discern at reading distance.
+[3m             > Peer closely at the photos below, and you might discern that dem bones are people bones.[0m
+[3m             > Filming in a quiet place of rustic isolation, McKenzie narrows her scope of vision to discern and magnify tremors of an involuntary and unconscious power.[0m
+[3m             > Executives resorted to employing such terms as discerning, measured and selective to characterize both the market, and some flabby results.[0m
+[3m             > As for what the Rangers were actually thinking, it was difficult to discern.[0m
+[3m             > So the why of her book becomes easy to discern.[0m
 
- 1   Recognize Or Find Out.
-	 Eg.  "I Can Discern No Difference Between The Two Policies"
-
- 2   Distinguish (Someone Or Something) With Difficulty By Sight Or With The Other Senses.
-	 Eg.  "She Could Faintly Discern The Shape Of A Skull"
-	 Eg.  "In The Dim Light He Could Discern A Handful Of Ghostly Figures"
-	 Synonyms:  perceive , detect , recognize , notice , observe , 
-	 Antonyms:  overlook , miss , 
+[35mDiscern[0m[36m /dɪˈsəːn/,[0m [91m[3mverb[0m[0m | verb: discern; 3rd person present: discerns; past tense: discerned; past participle: discerned; gerund or present participle: discerning
+          • [37mrecognize or find out.[0m
+	   "I can discern no difference between the two policies"
+          • [37mdistinguish (someone or something) with difficulty by sight or with the other senses.[0m
+	   "she could faintly discern the shape of a skull"
+  	   [3msynonyms:[0m perceive, make out, pick out, detect, recognize, notice, observe, see, spot ;  identify, determine, distinguish, differentiate, discriminate, tell apart
+                     ;  become cognizant of, become aware of, become conscious of ;  descry, espy
+		    "in the dim light he could discern a handful of ghostly figures"
+  	   [3mantonyms:[0m overlook, miss
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mपहचानना[0m      [31mविचार करना[0m  
+      [31mजानना[0m          [31mदेखना[0m    
+  [31mअंतर पहचानना[0m     [31mदेख लेना[0m   

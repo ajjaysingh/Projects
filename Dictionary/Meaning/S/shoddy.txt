@@ -1,26 +1,28 @@
-                                                                                      SHODDY                                                                                      
-  SHORT        Shoddy refers to poor materials or quality. Maybe you passed on buying a house because it leaned in an odd way and various and sundry parts were falling off.
-               Sounds like both the materials and workmanship were shoddy.
-  LONG         Shoddy originally referred to something that looked high-quality but wasn’t. Later, a certain type of cloth made with leftover pieces and rags was called a
+[35m                                                                                      SHODDY                                                                                      [0m
+[91m        SHORT  Shoddy refers to poor materials or quality. Maybe you passed on buying a house because it leaned in an odd way and various and sundry parts were falling off.
+               Sounds like both the materials and workmanship were shoddy.[0m
+[36m         LONG  Shoddy originally referred to something that looked high-quality but wasn’t. Later, a certain type of cloth made with leftover pieces and rags was called a
                shoddy. While shoddy often refers to materials or workmanship, questionable ethics can also be referred to as shoddy, as in the shoddy
-               principles of a slumlord or the shoddy morals of someone who steals from their friends.
+               principles of a slumlord or the shoddy morals of someone who steals from their friends.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Shoddy infrastructure has become a roadblock to the development of self-driving cars, vexing engineers and adding time and cost.
-     >         He was eager to send a clear message: One of his early decisions was to fire an analyst whose work he considered shoddy.
-     >         The stakes over the fate of this hardscrabble community of shoddy trailers are high, not just in the international arena but also inside Israel.
-     >         The cost of kowtowing to the union is continued shoddy service.
-     >         The move comes after auditors found questionable spending, missing state-owned property and shoddy management of finances in the past leadership of the
-               department.
+[3m             > “This is shoddy work and sensationalist promotion,” said Tom Long, professor at the Centre for Research and Teaching in Economics.[0m
+[3m             > It’s how we get the Affordable Health Care Act, a profoundly nasty bill whose callousness is just barely matched by its shoddy, haphazard construction.[0m
+[3m             > While the film was roundly celebrated, there was criticism for the shoddy way the film handled colorism.[0m
+[3m             > Years of shoddy drafting combined with a long list of injuries exposed a glaring lack of depth.[0m
+[3m             > We can't even get plans and endless studies done in many years, let alone starting our shoddy construction.[0m
 
- 1   Badly Made Or Done.
-	 Eg.  "We'Re Not Paying Good Money For Shoddy Goods"
-	 Eg.  "We'Re Not Paying Good Money For Shoddy Goods"
-	 Eg.  "Shoddy Workmanship"
-	 Synonyms:  poor-quality , inferior , second-rate , third-rate , low-grade , 
-	 Antonyms:  well made , careful , 
-
- 2   Lacking Moral Principle; Sordid.
-	 Eg.  "A Shoddy Misuse Of The Honours System"
-
- 3   An Inferior Quality Yarn Or Fabric Made From The Shredded Fibre Of Waste Woollen Cloth Or Clippings.
-	 Eg.  "The Production Of Shoddy And Mattress Stuffing"
+[35mShoddy[0m[36m /ˈʃɒdi/,[0m [91m[3madjective[0m[0m | adjective: shoddy; comparative adjective: shoddier; superlative adjective: shoddiest
+      [32m1.[0m [37mbadly made or done.[0m
+	   "we're not paying good money for shoddy goods"
+  	   [3msynonyms:[0m poor-quality, inferior, second-rate, third-rate, low-grade, cheap, cheapjack, tawdry, rubbishy, trashy, gimcrack, jerry-built, crude, tinny ;  tacky,
+                     tatty, junky ;  ropy, duff, rubbish, grotty  careless, slapdash, sloppy, slipshod, scrappy, untidy, messy, hasty, hurried,
+                     negligent, cursory
+		    "we're not paying good money for shoddy goods"
+  	   [3mantonyms:[0m well made, careful
+          • [37mlacking moral principle; sordid.[0m
+	   "a shoddy misuse of the honours system"
+    [91m[3mnoun[0m[0m | noun: shoddy; noun: shoddies
+      [32m1.[0m [37man inferior quality yarn or fabric made from the shredded fibre of waste woollen cloth or clippings.[0m
+	   "the production of shoddy and mattress stuffing"
+  [31m[4m[34madjective[0m[0m[0m      [31m[4m[34mnoun[0m[0m[0m          [31m[4m[34m[0m[0m[0m     
+             [31mतुच्छ[0m                     [31mतुच्छ वस्तु[0m                     [31mबेकाम[0m           

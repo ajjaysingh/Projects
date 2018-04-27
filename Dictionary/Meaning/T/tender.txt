@@ -1,57 +1,89 @@
-                                                                                      TENDER                                                                                      
-  SHORT        If you're tender, it means you're fragile, sensitive, easily bruised or gentle. Young, easily cut beef and a sentimental heart can both be called tender.
-  LONG         The many meanings attributed to tender developed over time. In the early 13th century, the word meant soft or easily injured. About a hundred years later, its
-               meaning expanded to include kind and loving. Skip forward another century, and tender could also imply a lack of maturity.
+[35m                                                                                      TENDER                                                                                      [0m
+[91m        SHORT  If you're tender, it means you're fragile, sensitive, easily bruised or gentle. Young, easily cut beef and a sentimental heart can both be called tender.[0m
+[36m         LONG  The many meanings attributed to tender developed over time. In the early 13th century, the word meant soft or easily injured. About a hundred years later, its
+               meaning expanded to include kind and loving. Skip forward another century, and tender could also imply a lack of maturity.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Earlier this month, Mr Modi announced that 500 and 1,000 rupee notes were no longer legal tender as part of a crackdown on corruption.
-     >         “Life on Mars” was tender and vulnerable, while “Ziggy Stardust” throbbed with yearning — a rebel yell comprehensible in any language.
-     >         Lamb and pork meatballs are tender, light and luscious, draped with tomato sauce and enlivened with fresh mint, red onion and pine nuts.
-     >         Cook until the turnips just begin to become tender but are still slightly crisp, 8 to 10 minutes.
-     >         Indians have been allowed to exchange a small sum of banned notes into legal tender until 24 November as long as they produce an ID.
+[3m             > More than half of the 29 companies allowed to bid for Iran's much-anticipated first tender on oil and gas projects are from Asia or Russia.[0m
+[3m             > The allegations attack his legitimacy, striking at the tender root of his self-image.[0m
+[3m             > My next choice for edibility would be the second-year, tender flowering shoots, which are at their best just about now.[0m
+[3m             > The result is uniformly rare and remarkably tender with fried duck-skin cracklings, candied pecans and sansho pepper contributing significant panache to the
+               finished dish.[0m
+[3m             > Peel and dice the squash, toss it with olive oil and salt, and roast it on a parchment-covered baking sheet at 425 degrees until tender.[0m
 
- 1   Showing Gentleness, Kindness, And Affection.
-	 Eg.  "He Was Being So Kind And Tender"
-	 Eg.  "He Looked A Gentle, Tender Man"
-	 Eg.  "He Placed A Tender Kiss On Fabia'S Brow"
-	 Eg.  "Tender Love Songs"
-	 Synonyms:  caring , kind , kindly , kind-hearted , soft-hearted , 
-	 Antonyms:  hard-hearted , callous , unsympathetic , 
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3madjective[0m[0m | adjective: tender; comparative adjective: tenderer; superlative adjective: tenderest
+      [32m1.[0m [37mshowing gentleness, kindness, and affection.[0m
+	   "he was being so kind and tender"
+  	   [3msynonyms:[0m caring, kind, kindly, kind-hearted, soft-hearted, tender-hearted, compassionate, sympathetic, warm, warm-hearted, feeling, fatherly, motherly, maternal,
+                     gentle, mild, benevolent, generous, giving, humane ;  susceptible, vulnerable ;  touchy-feely  affectionate, fond, loving,
+                     emotional, warm, gentle, soft ;  amorous, adoring, amatory ;  lovey-dovey  romantic, sentimental, emotional, emotive, touching,
+                     moving, poignant, evocative ;  soppy
+		    "he looked a gentle, tender man"
+  	   [3mantonyms:[0m hard-hearted, callous, unsympathetic
+          • [37msolicitous of.[0m
+	   "be tender of a lady's reputation"
 
- 2   Solicitous Of.
-	 Eg.  "Be Tender Of A Lady'S Reputation"
+      [32m2.[0m [37m(of a part of the body) sensitive to pain.[0m
+	   "the pale, tender skin of her forearm"
+  	   [3msynonyms:[0m sore, painful, sensitive, inflamed, raw, red, chafed ;  hurting, aching, throbbing, smarting, stinging, burning, irritated, bruised, wounded, injured
+		    "her ankle was swollen and tender"
+          • [37m(of a plant) easily injured by severe weather and therefore needing protection.[0m
+	   "pelargoniums are colourful but tender plants"
+  	   [3msynonyms:[0m delicate, easily damaged, fragile, breakable, frail
+		    "these flowers are tender"
+  	   [3mantonyms:[0m hardy
+          • [37mrequiring tact or careful handling.[0m
+	   "the issue of conscription was a particularly tender one"
+  	   [3msynonyms:[0m difficult, delicate, tricky, awkward, problematic, troublesome, ticklish ;  controversial, emotive ;  sticky
+		    "the issue of conscription was a particularly tender one"
+  	   [3mantonyms:[0m uncontroversial, straightforward
 
- 3   (Of A Part Of The Body) Sensitive To Pain.
-	 Eg.  "The Pale, Tender Skin Of Her Forearm"
-	 Eg.  "Her Ankle Was Swollen And Tender"
-	 Synonyms:  sore , painful , sensitive , raw , red , 
+      [32m3.[0m [37m(of food) easy to cut or chew; not tough.[0m
+	   "tender green beans"
+  	   [3msynonyms:[0m easily chewed, not tough, chewable, soft, edible, eatable ;  succulent, juicy, ripe ;  tenderized
+		    "simmer for 25–30 minutes until the meat is tender"
+  	   [3mantonyms:[0m tough, leathery
 
- 4   (Of A Plant) Easily Injured By Severe Weather And Therefore Needing Protection.
-	 Eg.  "Pelargoniums Are Colourful But Tender Plants"
-	 Eg.  "These Flowers Are Tender"
-	 Synonyms:  delicate , fragile , breakable , frail , 
-	 Antonyms:  hardy , 
+      [32m4.[0m [37myoung, inexperienced, or vulnerable.[0m
+	   "he started sailing at the tender age of ten"
+  	   [3msynonyms:[0m young, youthful ;  early ;  impressionable, inexperienced, immature, unsophisticated, unseasoned, juvenile, callow, green, raw ;  wet behind the ears
+		    "at the tender age of fifteen"
+  	   [3mantonyms:[0m advanced
 
- 5   Requiring Tact Or Careful Handling.
-	 Eg.  "The Issue Of Conscription Was A Particularly Tender One"
-	 Eg.  "The Issue Of Conscription Was A Particularly Tender One"
-	 Synonyms:  difficult , delicate , tricky , awkward , problematic , 
-	 Antonyms:  uncontroversial , straightforward , 
+      [32m5.[0m [37m(of a ship) leaning or readily inclined to roll in response to the wind.[0m
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3mverb[0m[0m | verb: tender; 3rd person present: tenders; past tense: tendered; past participle: tendered; gerund or present participle: tendering
+      [32m1.[0m [37moffer or present (something) formally.[0m
+	   "he tendered his resignation as leader"
+  	   [3msynonyms:[0m offer, proffer, present, put forward, propose, suggest, advance, submit, set before someone, extend, give, render ;  hand in
+		    "she tendered her resignation"
+          • [37moffer (money) as payment.[0m
+	   "she tendered her fare"
+          • [37mmake a formal written offer to carry out work, supply goods, or buy land, shares, or another asset for a stated fixed price.[0m
+	   "firms of interior decorators have been tendering for the work"
+  	   [3msynonyms:[0m bid, put in a bid, quote, give an estimate, propose a price
+		    "firms of interior decorators have been tendering for the work"
+          • [37mformally offer (a stated fixed price) for carrying out work, supplying goods, etc.[0m
+	   "what price should we tender for a contract?"
+          • [37mseek offers to carry out work at a stated fixed price.[0m
+	   "I don't even know why they tendered it out"
+    [91m[3mnoun[0m[0m | noun: tender; plural noun: tenders
+      [32m1.[0m [37man offer to carry out work, supply goods, or buy land, shares, or another asset at a stated fixed price.[0m
+	   "we invited tenders for up to three more frigates"
+  	   [3msynonyms:[0m bid, offer, quotation, quote, estimate, estimated price, price ;  proposal, submission
+		    "six contractors were invited to submit tenders"
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3mnoun[0m[0m | noun: tender; plural noun: tenders
+      [32m1.[0m [37ma vehicle used by a fire service for carrying specified supplies or equipment or fulfilling a specified role.[0m
+	   "three fire engines, including an emergency tender, attended the scene"
+          • [37ma vehicle used in mobile operations by a public service or the armed forces.[0m
+	   "he was struck several blows on the head and shoved into the police tender"
 
- 6   (Of Food) Easy To Cut Or Chew; Not Tough.
-	 Eg.  "Tender Green Beans"
-	 Eg.  "Simmer For 25–30 Minutes Until The Meat Is Tender"
-	 Synonyms:  soft , edible , eatable , succulent , juicy , 
-	 Antonyms:  tough , leathery , 
+      [32m2.[0m [37ma dinghy or other boat used to ferry people and supplies to and from a ship.[0m
 
- 7   Young, Inexperienced, Or Vulnerable.
-	 Eg.  "He Started Sailing At The Tender Age Of Ten"
-	 Eg.  "At The Tender Age Of Fifteen"
-	 Synonyms:  young , youthful , early , impressionable , inexperienced , 
-	 Antonyms:  advanced , 
+      [32m3.[0m [37ma trailing vehicle closely coupled to a steam locomotive to carry fuel and water.[0m
 
- 8   (Of A Ship) Leaning Or Readily Inclined To Roll In Response To The Wind.
-
- 9   Offer Or Present (Something) Formally.
-	 Eg.  "He Tendered His Resignation As Leader"
-	 Eg.  "She Tendered Her Resignation"
-	 Synonyms:  offer , proffer , present , propose , suggest , 
+      [32m4.[0m [37ma person who looks after someone else or a machine or place.[0m
+	   "Alexei signalled to one of the engine tenders"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mनिविदा[0m           [31mकोमल[0m            [31mदेना[0m     
+      [31mटेंडर[0m            [31mनरम[0m           [31mपेश करना[0m   
+     [31mप्रस्ताव[0m         [31mमुलायम[0m       [31mउपस्थित करना[0m 
+      [31mसुझाव[0m           [31mनाज़ुक[0m      [31mप्रस्ताव करना[0m 

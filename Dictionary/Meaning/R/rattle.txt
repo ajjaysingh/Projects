@@ -1,42 +1,47 @@
-                                                                                      RATTLE                                                                                      
+[35m                                                                                      RATTLE                                                                                      [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He swiped over after an interchange with Özil and, on the stroke of half-time, he rattled the crossbar from an angle on the right.
-     >         And after his free throw rattled out, Kansas State’s Barry Brown had one look at a potential winning jumper.
-     >         He did great, even through washboard sections that rattled our spines and even when a van hugged our tail, flashing its lights to pass.
-     >         “I told our guys, ‘Play every play, we can rattle off 40 or 50 points pretty easily,’” Schremp said.
-     >         Leach conceded that his normally calm quarterback might have gotten uncharacteristically rattled “late in the second half, some.”
+[3m             > For ten minutes or so, Mrs. Bradley rattled off statistics—local statistics—that surprised us all.[0m
+[3m             > A magnitude 3.4 quake rattled the Puget Sound area early Wednesday.[0m
+[3m             > On the phone, Alomar quickly rattled off his topics of choice to me: “human dignity, human rights, happiness, success, failure, equality, inequality,
+               tolerance.”[0m
+[3m             > A few hours later, the mountain was rattled by a second earthquake of magnitude 6.3 along with several aftershocks.[0m
+[3m             > Residents  nervously recall the armored vehicles that appeared that night, the rattle of gunfire and the snarling of motorcycles whisking the wounded to the
+               hospital.[0m
 
- 1   Make Or Cause To Make A Rapid Succession Of Short, Sharp Knocking Sounds.
-	 Eg.  "The Roof Rattled With Little Gusts Of Wind"
-	 Eg.  "We Were Awakened By The Sound Of Stones Rattling Against The Window"
-	 Eg.  "He Put His Hand In His Pocket And Rattled His Small Change"
-	 Synonyms:  clatter , bang , clang , clank , clink , 
+[35mRattle[0m[36m /ˈrat(ə)l/,[0m [91m[3mverb[0m[0m | verb: rattle; 3rd person present: rattles; past tense: rattled; past participle: rattled; gerund or present participle: rattling
+      [32m1.[0m [37mmake or cause to make a rapid succession of short, sharp knocking sounds.[0m
+	   "the roof rattled with little gusts of wind"
+  	   [3msynonyms:[0m clatter, bang, clang, clank, clink, clunk  jingle, jangle, clink, tinkle
+		    "we were awakened by the sound of stones rattling against the window"
+          • [37m(of a vehicle or its occupants) move or travel with a knocking sound.[0m
+	   "trains rattled past at frequent intervals"
+  	   [3msynonyms:[0m jolt, bump, bounce, shake, vibrate, jar ;  judder ;  jounce
+		    "the bus rattled along the bumpy streets"
+          • [37mbe in or occupy (an unnecessarily spacious room or building).[0m
+	   "the house was too big—we just rattled around in it"
 
- 2   (Of A Vehicle Or Its Occupants) Move Or Travel With A Knocking Sound.
-	 Eg.  "Trains Rattled Past At Frequent Intervals"
-	 Eg.  "The Bus Rattled Along The Bumpy Streets"
-	 Synonyms:  jolt , bump , bounce , shake , vibrate , 
+      [32m2.[0m [37mmake (someone) nervous, worried, or irritated.[0m
+	   "she turned quickly, rattled by his presence"
+  	   [3msynonyms:[0m unnerve, disconcert, disturb, fluster, shake, perturb, discompose, discomfit, discountenance, make nervous, put off, throw off balance, ruffle, agitate,
+                     put off one's stroke, upset, frighten, scare ;  faze, throw, get to
+		    "the government were clearly rattled by the campaign"
+    [91m[3mnoun[0m[0m | noun: rattle; plural noun: rattles
+      [32m1.[0m [37ma rapid succession of short, sharp, sounds.[0m
+	   "the rattle of teacups on the tray"
+  	   [3msynonyms:[0m clatter, clattering, clank, clanking, clink, clinking, clanging ;  jingle, jingling, jangle, jangling
+		    "the rattle of bottles as he stacked the crates"
+          • [37ma gurgling sound in the throat of a dying person.[0m
+	   "there was a choking rattle and his eyes turned upwards"
+  	   [3msynonyms:[0m death rattle ;  rale
+		    "there was a choking rattle in his throat"
 
- 3   Be In Or Occupy (An Unnecessarily Spacious Room Or Building).
-	 Eg.  "The House Was Too Big—We Just Rattled Around In It"
+      [32m2.[0m [37ma thing used to make a rattling sound, in particular:[0m
+          • [37ma baby's toy consisting of a container filled with small pellets, which makes a noise when shaken.[0m
+          • [37ma wooden device that makes a loud noise when whirled around, formerly used by spectators at football matches.[0m
+          • [37mthe set of horny rings at the end of a rattlesnake's tail, shaken as a warning.[0m
 
- 4   Make (Someone) Nervous, Worried, Or Irritated.
-	 Eg.  "She Turned Quickly, Rattled By His Presence"
-	 Eg.  "The Government Were Clearly Rattled By The Campaign"
-	 Synonyms:  unnerve , disconcert , disturb , fluster , shake , 
-
- 5   A Rapid Succession Of Short, Sharp, Sounds.
-	 Eg.  "The Rattle Of Teacups On The Tray"
-	 Eg.  "The Rattle Of Bottles As He Stacked The Crates"
-	 Synonyms:  clatter , clank , clink , jingle , jangle , 
-
- 6   A Gurgling Sound In The Throat Of A Dying Person.
-	 Eg.  "There Was A Choking Rattle And His Eyes Turned Upwards"
-	 Eg.  "There Was A Choking Rattle In His Throat"
-	 Synonyms:  death rattle , rale , 
-
- 7   A Thing Used To Make A Rattling Sound, In Particular:
-
- 8   A Baby'S Toy Consisting Of A Container Filled With Small Pellets, Which Makes A Noise When Shaken.
-
- 9   A Wooden Device That Makes A Loud Noise When Whirled Around, Formerly Used By Spectators At Football Matches.
+      [32m3.[0m [37ma person who talks incessantly in a lively or inane way.[0m
+	   "he is such a rattle!"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m    [31m[4m[34mverb[0m[0m[0m
+         [31mखड़खड़[0m              [31mखड़खड़ाहट[0m             [31mखड़खड़ाना[0m      
+     [31mखड़खड़ का शब्द[0m           [31mझुनझुना[0m             [31mखड़खड़ करना[0m     

@@ -1,24 +1,31 @@
-                                                                                    ABDICATION                                                                                    
-  SHORT        Abdication is the formal act of stepping down from something, especially a king giving up the throne. An abdication is a type of resignation.
-  LONG         When a king — or another person in power — gives up that position, they abdicate. Such an act is then called an abdication. The roots of this word mean
+[35m                                                                                    ABDICATION                                                                                    [0m
+[91m        SHORT  Abdication is the formal act of stepping down from something, especially a king giving up the throne. An abdication is a type of resignation.[0m
+[36m         LONG  When a king — or another person in power — gives up that position, they abdicate. Such an act is then called an abdication. The roots of this word mean
                declare in Latin, and that's an important part of the meaning. Abdicating isn't just quitting: it's formally quitting, including a declaration
                of quitting. There’s no such thing as a private abdication. After an abdication, there's a vacuum of power, and there may be a power struggle
-               to fill the empty position.
+               to fill the empty position.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The opposition parties, led by the Social Democrats, demanded the abdication of the Emperor.
-     >         None of this adds up to an immediate crisis, but it does illustrate the degree of President Obama’s abdication.
-     >         Suggesting a federal takeover represents an abdication of our region’s responsibility and is unrealistic.
-     >         But Perdue says that would be an abdication of responsibility.
-     >         What you describe is an abdication of responsibility and a total lack of empathy.
+[3m             > The government is reportedly considering his abdication at the end of 2018, when Akihito turns 85 and marks 30 years of reign.[0m
+[3m             > On March 15th, the news of the tsar’s abdication crossed the Atlantic and reached Trotsky in the Novy Mir office.[0m
+[3m             > It is certainly worth wondering if some applications of computational thinking are trivial, unnecessary or a Stepford Wife-like abdication of devilishly
+               random judgment.[0m
+[3m             > But this approach to fascism does not represent an abdication of moral responsibility.[0m
+[3m             > For all the talk of American greatness, Trump’s actions regarding climate change represent a historic abdication of leadership.[0m
 
- 1   An Act Of Abdicating Or Renouncing The Throne.
-	 Eg.  "Edward Viii Did Not Marry Until After His Abdication"
-	 Eg.  "The Monarchy Is Facing Its Biggest Crisis Since Edward Viii'S Abdication In 1936"
-	 Synonyms:  resignation , retirement , renunciation , surrender , vacation , 
-	 Antonyms:  coronation , 
+[35mAbdication[0m[36m /ˌabdɪˈkeɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: abdication; plural noun: abdications
+      [32m1.[0m [37man act of abdicating or renouncing the throne.[0m
+	   "Edward VIII did not marry until after his abdication"
+  	   [3msynonyms:[0m resignation, retirement ;  relinquishment, renunciation, giving up, surrender, abjuration, vacation, ceding, cession ;  demission
+		    "the monarchy is facing its biggest crisis since Edward VIII's abdication in 1936"
+  	   [3mantonyms:[0m coronation
 
- 2   Failure To Fulfil A Responsibility Or Duty.
-	 Eg.  "We Are Witnessing An Abdication Of Responsibility On The Part Of European Governments"
-	 Eg.  "An Abdication Of Responsibility"
-	 Synonyms:  renunciation , rejection , refusal , abnegation , repudiation , 
-	 Antonyms:  acceptance , 
+      [32m2.[0m [37mfailure to fulfil a responsibility or duty.[0m
+	   "we are witnessing an abdication of responsibility on the part of European governments"
+  	   [3msynonyms:[0m disowning, renunciation, rejection, refusal, avoidance, abnegation, relinquishment, abjuration, repudiation, waiving, yielding, forgoing, abandonment,
+                     surrender, disgorgement, casting aside
+		    "an abdication of responsibility"
+  	   [3mantonyms:[0m acceptance
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mत्याग[0m      [31mअधित्याग[0m  
+    [31mपदत्याग[0m    [31mराज्यत्याग[0m 
+   [31mराज-त्याग[0m        [31m[0m      

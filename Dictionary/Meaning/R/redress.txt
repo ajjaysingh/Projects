@@ -1,26 +1,33 @@
-                                                                                     REDRESS                                                                                      
-  SHORT        The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your
-               parents offer to get a hamster, but instead, you say you want a monkey.
-  LONG         Redress can be used as both a noun and a verb. In the noun form, it is the compensation for setting something right. As a verb it means to correct, right a
+[35m                                                                                     REDRESS                                                                                      [0m
+[91m        SHORT  The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your
+               parents offer to get a hamster, but instead, you say you want a monkey.[0m
+[36m         LONG  Redress can be used as both a noun and a verb. In the noun form, it is the compensation for setting something right. As a verb it means to correct, right a
                wrong, or make restitution for something. The union organizers wanted the company to redress the fact that workers weren't getting lunch
-               breaks.
+               breaks.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Consumer Financial Protection Bureau has nearly replaced the Better Business Bureau as the first stop for dissatisfied customers seeking redress.
-     >         He seeks redress at “the Gate,” where thousands stand in line hoping to meet someone in authority.
-     >         And they have every right to petition for the redress of their grievances.
-     >         But can oysters begin to help redress the natural balance?
-     >         But unconventional friendships are being formed by some of those trying to redress the balance.
+[3m             > In imposing the tariffs on Canadian lumber, Ross was sending a signal that the Trump Administration is serious about redressing what it sees as wrongs.[0m
+[3m             > The list of dismissed cases was only the first step in redressing Dookhan cases.[0m
+[3m             > Mr. Edwards of the A.C.L.U. acknowledged that opioid addiction was a serious issue in need of redress — but not like this.[0m
+[3m             > And he concluded that the only way to redress this inequality was for ordinary people to rise up and seize power.[0m
+[3m             > Whilst the chorus of protests grew, demanding redress and intervention, Wilson eventually obtained a partial retreat from the German government.[0m
 
- 1   Remedy Or Set Right (An Undesirable Or Unfair Situation).
-	 Eg.  "The Question Is How To Redress The Consequences Of Racist Land Policies"
-	 Eg.  "People No Longer Take To The Barricades To Redress Wrongs"
-	 Eg.  "Bad News Is Drowning Out The Good News, But We Aim To Redress The Balance"
-	 Synonyms:  rectify , correct , right , amend , remedy , 
+[35mRedress[0m[36m /rɪˈdrɛs/,[0m [91m[3mverb[0m[0m | verb: redress; 3rd person present: redresses; past tense: redressed; past participle: redressed; gerund or present participle: redressing
+      [32m1.[0m [37mremedy or set right (an undesirable or unfair situation).[0m
+	   "the question is how to redress the consequences of racist land policies"
+  	   [3msynonyms:[0m rectify, correct, put/set/make right, right, put to rights, compensate for, sort out, deal with, amend, remedy, repair, fix, cure, heal, make good,
+                     reform, harmonize, retrieve, improve, better, ameliorate, adjust, resolve, settle, square ;  patch up  even up, regulate, adjust,
+                     equalize, make level, regularize, correct
+		    "people no longer take to the barricades to redress wrongs"
 
- 2   Set Upright Again.
-	 Eg.  "Some Ambitious Architect Being Called To Redress A Leaning Wall"
-
- 3   Remedy Or Compensation For A Wrong Or Grievance.
-	 Eg.  "Those Seeking Redress For An Infringement Of Public Law Rights"
-	 Eg.  "Their Best Hope Of Redress Lay In Court Action"
-	 Synonyms:  compensation , reparation , restitution , recompense , repayment , 
+      [32m2.[0m [37mset upright again.[0m
+	   "some ambitious Architect being called to redress a leaning Wall"
+    [91m[3mnoun[0m[0m | noun: redress; plural noun: redresses
+      [32m1.[0m [37mremedy or compensation for a wrong or grievance.[0m
+	   "those seeking redress for an infringement of public law rights"
+  	   [3msynonyms:[0m compensation, reparation, restitution, recompense, repayment, damages, indemnity, indemnification ;  requital, retribution, satisfaction, remedy,
+                     comeback ;  justice, atonement, amends
+		    "their best hope of redress lay in court action"
+    [31m[4m[34m[0m[0m[0m     [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m 
+          [31mनिवारण[0m                  [31mसमाधान[0m              [31mप्रतिकार करना[0m     
+         [31mदूर करना[0m                 [31mसुधार[0m                   [31mसधारना[0m        
+       [31mनिवारण करना[0m               [31mप्रतिकार[0m               [31mउपाय करना[0m       

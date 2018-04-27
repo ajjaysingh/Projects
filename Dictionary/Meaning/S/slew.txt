@@ -1,40 +1,52 @@
-                                                                                       SLEW                                                                                       
-  SHORT        Of all the many nouns referring to a large group of things, one of the most fun is slew, as in "I saw a whole slew of birds in the tree by the river."
-  LONG         American English is constantly evolving, its richness coming from the many languages feeding into it. The noun slew, for instance, is from the Irish Gaelic
-               sluagh, meaning "multitude." As an unrelated verb, it's the past tense of slay.
+[35m                                                                                       SLEW                                                                                       [0m
+[91m        SHORT  Of all the many nouns referring to a large group of things, one of the most fun is slew, as in "I saw a whole slew of birds in the tree by the river."[0m
+[36m         LONG  American English is constantly evolving, its richness coming from the many languages feeding into it. The noun slew, for instance, is from the Irish Gaelic
+               sluagh, meaning "multitude." As an unrelated verb, it's the past tense of slay.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Not by the animals, but by the zoo staff, who have a slew of projects they want to get done after Thursday’s season closing.
-     >         IIt’s a safe bet that these items are on a slew of wish lists this holiday season.
-     >         ARIZONA’S QB: The Wildcats have had five different players throw a pass this season, thanks to a slew of injuries.
-     >         Federal Reserve is expected to go ahead with an interest rate hike in December, especially after the release of a slew of strong economic data.
-     >         In Republican-dominated Texas, though, campaigners have grown used to battling a slew of proposals from rightwing lawmakers when the legislature convenes
-               every two years.
+[3m             > Acting FBI director Andrew McCabe is set to appear in his place, along with a slew of other security and intelligence officials.[0m
+[3m             > There were also a slew of trolls accusing Weiner of simply trying to get publicity.[0m
+[3m             > Secretariat and Seattle Slew are among several Triple Crown winners who stayed there.[0m
+[3m             > Mr. Massoudi said he remains skeptical of the slew of major networks launching individual subscription packages.[0m
+[3m             > Zimmerman leads the league in hitting, hits, home runs, RBIs, and a slew of other major offensive categories.[0m
 
- 1   Turn Or Slide Violently Or Uncontrollably.
-	 Eg.  "The Renault Slewed From Side To Side In The Snow"
+[35mSlew[0m[36m /sluː/,[0m [91m[3mverb[0m[0m | verb: slew; 3rd person present: slews; past tense: slewed; past participle: slewed; gerund or present participle: slewing; verb: slue; 3rd person present: slues; past tense: slued; past participle: slued; gerund or present participle: slueing; gerund or present participle: sluing
+      [32m1.[0m [37mturn or slide violently or uncontrollably.[0m
+	   "the Renault slewed from side to side in the snow"
 
- 2   (Of An Electronic Device) Undergo Slewing.
-
- 3   A Violent Or Uncontrollable Sliding Movement.
-	 Eg.  "I Was Assaulted By The Thump And Slew Of The Van"
-
- 4   Past Of Slay1.
-
- 5   A Large Number Or Quantity Of Something.
-	 Eg.  "He Asked Me A Slew Of Questions"
-
- 6   Kill (A Person Or Animal) In A Violent Way.
-	 Eg.  "St George Slew The Dragon"
-	 Eg.  "8,000 Men From The Regiment Were Slain"
-	 Eg.  "The Gruesome Slaying Of Eleven Youngsters"
-	 Synonyms:  kill , murder , butcher , slaughter , massacre , 
-
- 7   Murder (Someone) (Used Chiefly In Journalism).
-	 Eg.  "A Man Was Slain With A Shotgun"
-	 Eg.  "8,000 Men From The Regiment Were Slain"
-	 Synonyms:  kill , murder , butcher , slaughter , massacre , 
-
- 8   Greatly Impress Or Amuse (Someone).
-	 Eg.  "You Slay Me, You Really Do"
-	 Eg.  "You Slay Me, You Really Do"
-	 Synonyms:  kill , wow , 
+      [32m2.[0m [37m(of an electronic device) undergo slewing.[0m
+    [91m[3mnoun[0m[0m | noun: slew; plural noun: slews; noun: slue; plural noun: slues
+      [32m1.[0m [37ma violent or uncontrollable sliding movement.[0m
+	   "I was assaulted by the thump and slew of the van"
+[35mSlew[0m[36m /sluː/,[0m [91m[3m[0m[0m
+          • [37mpast of slay1.[0m
+[35mSlew[0m[36m /sluː/,[0m [91m[3mnoun North American informal[0m[0m | noun: slew; plural noun: slews
+          • [37ma large number or quantity of something.[0m
+	   "he asked me a slew of questions"
+[35mSlay[0m[36m /sleɪ/,[0m [91m[3mverb[0m[0m
+	past tense: slew
+          • [37mkill (a person or animal) in a violent way.[0m
+	   "St George slew the dragon"
+  	   [3msynonyms:[0m kill, murder, put to death, do to death, put to the sword, butcher, cut down, cut to pieces, slaughter, massacre, shoot down, gun down, mow down,
+                     assassinate, execute, dispatch, destroy, eliminate, annihilate, exterminate, dispose of ;  wipe out, take out, bump off, do in, do
+                     for, rub out, top, wipe off the face of the earth, blow away, liquidate, stiff ;  waste, smoke, ice, off  murder, killing, homicide,
+                     putting to death, execution, butchery, slaughter, massacre, assassination, dispatch, destruction, extermination ;  liquidation ;
+                     mactation
+		    "8,000 men from the regiment were slain"
+          • [37mmurder (someone) (used chiefly in journalism).[0m
+	   "a man was slain with a shotgun"
+  	   [3msynonyms:[0m kill, murder, put to death, do to death, put to the sword, butcher, cut down, cut to pieces, slaughter, massacre, shoot down, gun down, mow down,
+                     assassinate, execute, dispatch, destroy, eliminate, annihilate, exterminate, dispose of ;  wipe out, take out, bump off, do in, do
+                     for, rub out, top, wipe off the face of the earth, blow away, liquidate, stiff ;  waste, smoke, ice, off
+		    "8,000 men from the regiment were slain"
+          • [37mgreatly impress or amuse (someone).[0m
+	   "you slay me, you really do"
+  	   [3msynonyms:[0m amuse greatly, convulse with mirth/laughter, entertain greatly, make someone laugh ;  have people rolling in the aisles, make someone crack up, kill,
+                     knock dead, be the death of, wow, be a hit with ;  crease up
+		    "you slay me, you really do"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mनिहत[0m           [31mघूमना[0m    
+      [31mधसान[0m           [31mझूलना[0m    
+     [31mअनेकता[0m         [31mघुमाना[0m    
+    [31mमारा हुआ[0m        [31mझुलाना[0m    
+      [31mमोड़[0m        [31mमदहोश करना[0m  
+       [31mफेर[0m       [31mउन्मत्त करना[0m 

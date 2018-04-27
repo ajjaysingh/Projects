@@ -1,21 +1,26 @@
-                                                                                     CURTAIL                                                                                      
-  SHORT        To curtail something is to slow it down, put restrictions on it, or stop it entirely. If I give up cake, I am curtailing my cake-eating.
-  LONG         Curtail is an official-sounding word for stopping or slowing things down. The police try to curtail crime — they want there to be less crime in the world. A
+[35m                                                                                     CURTAIL                                                                                      [0m
+[91m        SHORT  To curtail something is to slow it down, put restrictions on it, or stop it entirely. If I give up cake, I am curtailing my cake-eating.[0m
+[36m         LONG  Curtail is an official-sounding word for stopping or slowing things down. The police try to curtail crime — they want there to be less crime in the world. A
                company may want to curtail their employees' computer time, so they spend more time working and less time goofing around. Teachers try to
                curtail whispering and note-passing in class. When something is curtailed, it's either stopped entirely or stopped quite a bit — it's cut
-               short.
+               short.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Lufthansa is among a number of European airlines to curtail their profit expectation for the year in the face of these earnings headwinds.
-     >         The airship business, which had already been curtailed by the Hindenburg disaster, was ended by war.
-     >         Militia leaders have denied the abuses are systemic, calling them isolated incidents and pledging to curtail them.
-     >         Lake, whose City career was curtailed by injury, went on to be an ambassador for the team.
-     >         But Venezuela’s economic crisis has curtailed aid to Cuba.
+[3m             > The reduction was a welcome development for Mayor Muriel E. Bowser in her struggles to curtail the District’s high rate of homelessness.[0m
+[3m             > Torture and other abuses remain common in Bahrain, according to Amnesty International, and the government continues to curtail freedom of expression,
+               association and assembly.[0m
+[3m             > For the sake of national and regional security, curtailing Pyongyang’s weapons program is clearly the higher priority.[0m
+[3m             > But Mr Cannizzaro is increasingly under pressure to curtail the practice.[0m
+[3m             > “Curtailing spending on all fronts is vital to our national security.”[0m
 
- 1   Reduce In Extent Or Quantity; Impose A Restriction On.
-	 Eg.  "Civil Liberties Were Further Curtailed"
-	 Eg.  "Economic Policies Designed To Curtail Spending"
-	 Synonyms:  reduce , cut , decrease , lessen , diminish , 
-	 Antonyms:  increase , lengthen , 
-
- 2   Deprive Someone Of (Something).
-	 Eg.  "I That Am Curtailed Of This Fair Proportion"
+[35mCurtail[0m[36m /kəːˈteɪl/,[0m [91m[3mverb[0m[0m | verb: curtail; 3rd person present: curtails; past tense: curtailed; past participle: curtailed; gerund or present participle: curtailing
+          • [37mreduce in extent or quantity; impose a restriction on.[0m
+	   "civil liberties were further curtailed"
+  	   [3msynonyms:[0m reduce, cut, cut down, cut back, decrease, lessen, diminish, slim down, tighten up, retrench, pare down, trim, dock, lop, shrink ;  shorten, cut short,
+                     break off, truncate ;  restrict, put a restriction on, limit, put a limit on, curb, put the brakes on, rein in, rein back ;  chop
+		    "economic policies designed to curtail spending"
+  	   [3mantonyms:[0m increase, lengthen
+          • [37mdeprive someone of (something).[0m
+	   "I that am curtailed of this fair proportion"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mघटाना[0m            [31mकाटना[0m     
+  [31mसंक्षिप्त करना[0m       [31mकम करना[0m    

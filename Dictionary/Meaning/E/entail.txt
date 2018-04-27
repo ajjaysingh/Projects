@@ -1,31 +1,34 @@
-                                                                                      ENTAIL                                                                                      
-  SHORT        Entail means what something involves. "The job entailed us standing in the snow for hours dressed as giant, human hot dogs. It entailed far too much
-               humiliation to justify the $3.55 an hour we were paid."
-  LONG         The word entail is connected to the idea of preconditions. If you want something, you better figure out what it entails. If we want to see the movie at 9
+[35m                                                                                      ENTAIL                                                                                      [0m
+[91m        SHORT  Entail means what something involves. "The job entailed us standing in the snow for hours dressed as giant, human hot dogs. It entailed far too much
+               humiliation to justify the $3.55 an hour we were paid."[0m
+[36m         LONG  The word entail is connected to the idea of preconditions. If you want something, you better figure out what it entails. If we want to see the movie at 9
                o'clock, that will entail us waiting in the lobby another hour. If we want to stay out of trouble with our moms, that will entail us calling
-               them and letting them know we're going to be later than we said.
+               them and letting them know we're going to be later than we said.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         And nothing can quite match a face-to-face meeting, with all the surprises that entails.
-     >         “I want to be able to tell a story with these photos, and show people what the project entails.”
-     >         In the 90s, being a hipster entailed wearing horn-rimmed glasses and sweaters while listening to Pavement.
-     >         The firm, listed on the Toronto Stock Exchange, said those figures were “adjusted,” but didn’t specify what that entailed.
-     >         And because it entails the sacrifice of his exalted sense of himself, it seems a Christian act, a loss of self for others’ sake.
+[3m             > Daniel’s ideal day entails relaxing around the house or hearing live music; Joseph relishes yardwork and is fastidious about his car.[0m
+[3m             > Arguably, far more than any bond proposal or parking garage entails.[0m
+[3m             > It entails overseeing more than 200 prosecutors handling high-profile cases ranging from terrorism to wrongdoing on Wall Street, cyber attacks and corruption.[0m
+[3m             > This belief entails a sort of “meritocratic mobility” – and such mobility is indeed a necessary condition for an unequal society to be a fair one.[0m
+[3m             > "If political survival entails my falling short of my principles, it is not worth it," Lopez told Reuters in February.[0m
 
- 1   Involve (Something) As A Necessary Or Inevitable Part Or Consequence.
-	 Eg.  "A Situation Which Entails Considerable Risks"
-	 Eg.  "This Proposal Will Entail Additional Expenditure"
-	 Synonyms:  necessitate , require , need , demand , presuppose , 
+[35mEntail[0m[36m /ɪnˈteɪl,ɛnˈteɪl/,[0m [91m[3mverb[0m[0m | verb: entail; 3rd person present: entails; past tense: entailed; past participle: entailed; gerund or present participle: entailing
+      [32m1.[0m [37minvolve (something) as a necessary or inevitable part or consequence.[0m
+	   "a situation which entails considerable risks"
+  	   [3msynonyms:[0m necessitate, make necessary, require, need, demand, call for ;  presuppose, assume, warrant, be grounds for ;  involve, mean, imply ;  cause, bring
+                     about, produce, result in, end in, culminate in, finish in, terminate in, lead to, give rise to, occasion, engender, generate,
+                     prompt, effect, evoke, elicit, precipitate, trigger, spark off, provoke
+		    "this proposal will entail additional expenditure"
+          • [37mhave as a logically necessary consequence.[0m
 
- 2   Have As A Logically Necessary Consequence.
-
- 3   Limit The Inheritance Of (Property) Over A Number Of Generations So That Ownership Remains Within A Particular Family Or Group.
-	 Eg.  "Her Father'S Estate Was Entailed On A Cousin"
-
- 4   Cause To Experience Or Possess (Something) Permanently Or Inescapably.
-	 Eg.  "I Cannot Get Rid Of The Disgrace Which You Have Entailed Upon Us"
-
- 5   A Limitation Of The Inheritance Of Property To Certain Heirs Over A Number Of Generations.
-	 Eg.  "The Damage Being Done In England By Entails"
-
- 6   A Property Bequeathed Under An Entail.
-	 Eg.  "The Spinning Mills Were Not Part Of The Entail"
+      [32m2.[0m [37mlimit the inheritance of (property) over a number of generations so that ownership remains within a particular family or group.[0m
+	   "her father's estate was entailed on a cousin"
+          • [37mcause to experience or possess (something) permanently or inescapably.[0m
+	   "I cannot get rid of the disgrace which you have entailed upon us"
+    [91m[3mnoun Law[0m[0m | noun: entail; plural noun: entails
+      [32m1.[0m [37ma limitation of the inheritance of property to certain heirs over a number of generations.[0m
+	   "the damage being done in England by entails"
+          • [37ma property bequeathed under an entail.[0m
+	   "the spinning mills were not part of the entail"
+                                    [31m[4m[34m[0m[0m[0m                                  
+  [31mसंपत्ति का उत्तराधिकार इस प्रकार स्थिर करना कि उत्तराधिकारी उसको हस्तांतरित न कर सके[0m 
+                              [31mइस प्रकार स्थिर की गी संपत्ति[0m                            

@@ -1,33 +1,38 @@
-                                                                                     SCUFFLE                                                                                      
-  SHORT        As both a noun and a verb, scuffle involves a fight. As a noun, it is the clash itself, like a scuffle between sworn enemies. As a verb, it means to fight,
-               like a bully who will scuffle with just about anyone.
-  LONG         A scuffle is not an organized bout: it is a free-for-all, with fists flying in any and all directions. As a verb, it tells about the act of this kind of wild
+[35m                                                                                     SCUFFLE                                                                                      [0m
+[91m        SHORT  As both a noun and a verb, scuffle involves a fight. As a noun, it is the clash itself, like a scuffle between sworn enemies. As a verb, it means to fight,
+               like a bully who will scuffle with just about anyone.[0m
+[36m         LONG  A scuffle is not an organized bout: it is a free-for-all, with fists flying in any and all directions. As a verb, it tells about the act of this kind of wild
                fighting, like angry kids who scuffle to try to settle their problems, but it can also mean "dragging one's feet while walking." Here, the
-               meaning is not related to fighting, but rather the sound made by those shuffling feet.
+               meaning is not related to fighting, but rather the sound made by those shuffling feet.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         When the assailant pulled down his pants, the woman resisted and a scuffle ensued, according to the report.
-     >         It showed a brief scuffle on a garden path outside a housing complex in the capital.
-     >         Local media reported scuffles on Friday, as police blocked groups of farmers trying to enter the capital in their vehicles.
-     >         Civic groups mobilized a small crowd to march to the site, where the demonstrators twice scuffled with hired help working for the developer, Achour
-               Development.
-     >         In Britain, an early beachhead for such U.S.-style shopping extravaganzas, Black Friday yields similar cut-rate prices, long lines and occasional scuffles
-               among shoppers.
+[3m             > Whether factory worker, engineer or mathematician, everyone scuffled for money.[0m
+[3m             > The scuffle occurred at the end of the third quarter.[0m
+[3m             > The scuffle occurred at the end of the third quarter on Monday night.[0m
+[3m             > Democrats used that threat to the fullest, forcing Republicans to back down on nearly every major scuffle.[0m
+[3m             > A few residents were injured or fainted from the scuffle and transported to a hospital.[0m
 
- 1   A Short, Confused Fight Or Struggle At Close Quarters.
-	 Eg.  "There Were Minor Scuffles With Police"
-	 Eg.  "There Was A Scuffle Outside The Pub"
-	 Synonyms:  fight , struggle , tussle , brawl , fracas , 
+[35mScuffle[0m[36m /ˈskʌf(ə)l/,[0m [91m[3mnoun[0m[0m | noun: scuffle; plural noun: scuffles
+      [32m1.[0m [37ma short, confused fight or struggle at close quarters.[0m
+	   "there were minor scuffles with police"
+  	   [3msynonyms:[0m fight, struggle, tussle, brawl, fracas, rumpus, melee, free-for-all, rough and tumble, scrimmage, disturbance, brouhaha, commotion ;  donnybrook ;
+                     affray ;  scrap, dust-up, punch-up, set-to, shindy ;  afters ;  roughhouse
+		    "there was a scuffle outside the pub"
 
- 2   An Act Or Sound Of Moving In A Hurried, Confused, Or Shuffling Manner.
-	 Eg.  "He Heard The Scuffle Of Feet"
+      [32m2.[0m [37man act or sound of moving in a hurried, confused, or shuffling manner.[0m
+	   "he heard the scuffle of feet"
+    [91m[3mverb[0m[0m | verb: scuffle; 3rd person present: scuffles; past tense: scuffled; past participle: scuffled; gerund or present participle: scuffling
+      [32m1.[0m [37mengage in a short, confused fight or struggle at close quarters.[0m
+	   "the teacher noticed two pupils scuffling in the corridor"
+  	   [3msynonyms:[0m fight, struggle, tussle, exchange blows, come to blows, brawl, grapple, clash, scrimmage ;  scrap, have a dust-up, have a punch-up, have a set-to ;
+                     roughhouse
+		    "tempers flared as the supporters scuffled with other passengers"
 
- 3   Engage In A Short, Confused Fight Or Struggle At Close Quarters.
-	 Eg.  "The Teacher Noticed Two Pupils Scuffling In The Corridor"
-	 Eg.  "Tempers Flared As The Supporters Scuffled With Other Passengers"
-	 Synonyms:  fight , struggle , tussle , brawl , grapple , 
-
- 4   Move In A Hurried, Confused, Or Awkward Way, Making A Rustling Or Shuffling Sound.
-	 Eg.  "A Drenched Woman Scuffled Through The Doorway"
-
- 5   (Of An Animal Or Person) Move (Something) In A Scrambling Or Confused Manner.
-	 Eg.  "The Rabbit Struggled Free, Scuffling His Front Paws"
+      [32m2.[0m [37mmove in a hurried, confused, or awkward way, making a rustling or shuffling sound.[0m
+	   "a drenched woman scuffled through the doorway"
+          • [37m(of an animal or person) move (something) in a scrambling or confused manner.[0m
+	   "the rabbit struggled free, scuffling his front paws"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m     [31m[4m[34m[0m[0m[0m   
+         [31mहाथापाई[0m          [31mजल्दबाज़ी से काम करना[0m      [31mपैर घसीट कर चलना[0m   
+          [31mलड़ाई[0m                   [31mलड़ना[0m                [31mगुत्थमगुत्था[0m     
+      [31mगड़बड़ उच्चारण[0m           [31mहाथापाई करना[0m            [31mधक्का मुक्की[0m     
+    [31mअव्यवस्थित उच्चारण[0m            [31mझगड़ना[0m                [31mछीना-झपटी[0m       

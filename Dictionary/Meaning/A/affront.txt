@@ -1,24 +1,31 @@
-                                                                                     AFFRONT                                                                                      
-  SHORT        An affront is an action that causes offense. If someone blows smoke in your face after you've asked him to put out his cigarette, you would consider it an
-               affront.
-  LONG         Affronter was an old French word meaning "to confront" or "slap in the face." It's from the Latin, ad frontem, meaning "to the face." Sure, a slap in the face
+[35m                                                                                     AFFRONT                                                                                      [0m
+[91m        SHORT  An affront is an action that causes offense. If someone blows smoke in your face after you've asked him to put out his cigarette, you would consider it an
+               affront.[0m
+[36m         LONG  Affronter was an old French word meaning "to confront" or "slap in the face." It's from the Latin, ad frontem, meaning "to the face." Sure, a slap in the face
                would still be considered an affront, but other non-physical actions would also count. Some would even call a misplaced apostrophe an affront
-               to the English language. Don't confuse affront with effrontery, which means "presumptuousness."
+               to the English language. Don't confuse affront with effrontery, which means "presumptuousness."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Morris, eavesdropping on the conversation, was personally affronted by the description.
-     >         Some Christians saw the Amin mosque as an affront to their community.
-     >         Reactions have ranged from affronted to euphoric, with the most reasonable falling somewhere in between, along a scale of pragmatic ambivalence.
-     >         McCrory’s dark conspiracy portraying himself as a victim of widespread fraud is an affront to the legitimacy of the system.
-     >         Here is a partial list of both the horrors and the mere affronts to decency Trump has visited upon us this week.
+[3m             > The Los Angeles Police Protective League on Wednesday called the parole “outrageous” and an affront to peace officers.[0m
+[3m             > But that outcome seemed less an affront to the Senate culture than payback for, and a natural progression from, the Democrats’ 2013 decision on nominations.[0m
+[3m             > Later on Tuesday, Elliott called the rejection of its proposal “further evidence of self-entrenchment and as a continued affront to proper corporate
+               governance.”[0m
+[3m             > It’s about finding a book that affronts you, and staring it down to the last word.[0m
+[3m             > It says there was “never proof” that he burped to affront the officer.[0m
 
- 1   An Action Or Remark That Causes Outrage Or Offence.
-	 Eg.  "He Took His Son'S Desertion As A Personal Affront"
-	 Eg.  "The Paintings, In His View, Were An Affront To Public Morality"
-	 Synonyms:  insult , offence , indignity , slight , snub , 
-	 Antonyms:  compliment , 
-
- 2   Offend The Modesty Or Values Of.
-	 Eg.  "She Was Affronted By His Familiarity"
-	 Eg.  "She Was Affronted By His Familiarity"
-	 Synonyms:  insult , offend , outrage , mortify , provoke , 
-	 Antonyms:  compliment , 
+[35mAffront[0m[36m /əˈfrʌnt/,[0m [91m[3mnoun[0m[0m | noun: affront; plural noun: affronts
+      [32m1.[0m [37man action or remark that causes outrage or offence.[0m
+	   "he took his son's desertion as a personal affront"
+  	   [3msynonyms:[0m insult, offence, indignity, slight, snub, slur, aspersion, provocation, injury, put down, humiliation ;  outrage, atrocity, scandal, injustice, abuse,
+                     desecration, violation ;  slap in the face, kick in the teeth
+		    "the paintings, in his view, were an affront to public morality"
+  	   [3mantonyms:[0m compliment
+    [91m[3mverb[0m[0m | verb: affront; 3rd person present: affronts; past tense: affronted; past participle: affronted; gerund or present participle: affronting
+      [32m1.[0m [37moffend the modesty or values of.[0m
+	   "she was affronted by his familiarity"
+  	   [3msynonyms:[0m insult, offend, outrage, mortify, provoke, slight, hurt, pique, wound, put out, irk, displease, distress, bother, rankle, needle, vex, gall, scandalize,
+                     disgust, disgruntle, put someone's back up, ruffle someone's feathers, make someone's hackles rise, raise someone's hackles
+		    "she was affronted by his familiarity"
+  	   [3mantonyms:[0m compliment
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mअपमान[0m             [31mनिरादर[0m         [31mअपमानित करना[0m  
+  [31mप्रत्यक्ष अपमान[0m       [31mतिरस्कार[0m       [31mतिरस्कार करना[0m  

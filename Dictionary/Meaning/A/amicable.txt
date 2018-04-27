@@ -1,18 +1,23 @@
-                                                                                     AMICABLE                                                                                     
-  SHORT        The adjective amicable means "friendly" — but in particular, use it when describing relations one might otherwise expect to be unfriendly. The end of a
-               romantic relationship that's less than amicable might involve broken dishes or broken bones.
-  LONG         Amicable, not surprisingly, comes from the Latin word for "friend," amicus. Perhaps the things most commonly described as amicable are divorces. The parties
+[35m                                                                                     AMICABLE                                                                                     [0m
+[91m        SHORT  The adjective amicable means "friendly" — but in particular, use it when describing relations one might otherwise expect to be unfriendly. The end of a
+               romantic relationship that's less than amicable might involve broken dishes or broken bones.[0m
+[36m         LONG  Amicable, not surprisingly, comes from the Latin word for "friend," amicus. Perhaps the things most commonly described as amicable are divorces. The parties
                in a divorce often tend to be so childish and the proceedings so messy that it's nice to have a word that reflects the absence of those
-               qualities. Other nouns that commonly pair with amicable include relationship, split, parting, solution, and breakup.
+               qualities. Other nouns that commonly pair with amicable include relationship, split, parting, solution, and breakup.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Iceland Foods said it received no recent approaches about an amicable resolution of the issue, which was its preferred approach.
-     >         Daimler said the altercation was "a purely private issue, which has now been resolved in an amicable manner".
-     >         Of course it takes two parties to agree, and who knows if they had tried to achieve an amicable split but failed.
-     >         Towards the end of what had been an amicable press conference, this is how the exchange unfolded:
-     >         Later in the day, Peña Nieto said he had spoken with Trump to congratulate him in a  “cordial, amicable and respectful conversation.”
+[3m             > Hours later the White House said amicable negotiations over modifying the deal are on track.[0m
+[3m             > Demetrio described the settlement, the terms of which will remain confidential, as “amicable.”[0m
+[3m             > Mr. Swedish said he hoped that the two companies would reach an amicable resolution on its lawsuit.[0m
+[3m             > “It was a very amicable call,” the statement said.[0m
+[3m             > The White House in a brief statement said: "It was a very amicable call."[0m
 
- 1   Characterized By Friendliness And Absence Of Discord.
-	 Eg.  "An Amicable Settlement Of The Dispute"
-	 Eg.  "We Have Always Enjoyed A Very Amicable Relationship"
-	 Synonyms:  friendly , good-natured , cordial , civil , courteous , 
-	 Antonyms:  unfriendly , hostile , 
+[35mAmicable[0m[36m /ˈamɪkəb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: amicable
+          • [37mcharacterized by friendliness and absence of discord.[0m
+	   "an amicable settlement of the dispute"
+  	   [3msynonyms:[0m friendly, good-natured, cordial, civil, courteous, polite, easy, easy-going, neighbourly, brotherly, fraternal, harmonious, cooperative, civilized ;
+                     non-hostile, peaceable, peaceful, conflict-free
+		    "we have always enjoyed a very amicable relationship"
+  	   [3mantonyms:[0m unfriendly, hostile
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+  [31mसौहार्दपूर्ण[0m    [31mमैत्रीपूर्ण[0m 
+  [31mमित्रतापूर्ण[0m     [31mशांतिशील[0m   

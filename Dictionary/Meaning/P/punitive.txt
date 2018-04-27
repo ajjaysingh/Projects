@@ -1,24 +1,25 @@
-                                                                                     PUNITIVE                                                                                     
-  SHORT        Punitive describes inflicting a punishment. If someone takes punitive action against you, you'll probably whine and complain — you're in trouble and you're
-               about to get punished.
-  LONG         An easy way to remember the meaning of punitive is that it looks like the word punish — both come from the Latin root word punire, "to inflict a penalty on."
+[35m                                                                                     PUNITIVE                                                                                     [0m
+[91m        SHORT  Punitive describes inflicting a punishment. If someone takes punitive action against you, you'll probably whine and complain — you're in trouble and you're
+               about to get punished.[0m
+[36m         LONG  An easy way to remember the meaning of punitive is that it looks like the word punish — both come from the Latin root word punire, "to inflict a penalty on."
                Punitive doesn't always refer to a person-to-person punishment, like a mom disciplining a child. It can also describe the unpleasant result of
-               an action on a large scale, like the punitive effect higher taxes will have on the middle class.
+               an action on a large scale, like the punitive effect higher taxes will have on the middle class.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Years of punitive international sanctions against Iran over its controversial nuclear programme have badly affected Iran’s infrastructure, including roads and
-               the railway network.
-     >         Years of punitive international sanctions against Iran over its controversial nuclear program have also badly affected Iran’s infrastructures, including road
-               and the railway network.
-     >         The more they feel your boundary without it being punitive, the more likely the defiance will abate while the relationship stays intact.
-     >         He also called for punitive tariffs on Chinese goods.
-     >         Its silence raised fears that the government was wary of taking action against Moscow, possibly fearing a punitive response.
+[3m             > The attorney also requested an independent investigation as well as compensatory and economic and punitive damages.[0m
+[3m             > However, BBC correspondents say there is little support in the bloc for punitive measures against Poland.[0m
+[3m             > "We strongly disagree with the US Department of Commerce's decision to impose an unfair and punitive duty on Canadian softwood lumber."[0m
+[3m             > The lawsuit suit seeks an unspecified amount in compensatory and punitive damages for alleged losses including back pay and benefits.[0m
+[3m             > This was perhaps the biggest headache of my odyssey through the criminal justice system – exacerbated because it felt so pointlessly punitive.[0m
 
- 1   Inflicting Or Intended As Punishment.
-	 Eg.  "He Called For Punitive Measures Against The Eastern Bloc"
-	 Eg.  "Truancy Rates Would Decline If Tougher Punitive Measures Against Parents Were Taken"
-	 Synonyms:  penal , disciplinary , corrective , correctional , penitentiary , 
-
- 2   (Of A Tax Or Other Charge) Extremely High.
-	 Eg.  "A Current Punitive Interest Rate Of 31.3 Per Cent"
-	 Eg.  "The Government Plans To Announce Punitive Taxes On Imports"
-	 Synonyms:  harsh , severe , stiff , austere , cruel , 
+[35mPunitive[0m[36m /ˈpjuːnɪtɪv/,[0m [91m[3madjective[0m[0m | adjective: punitive; adjective: punitory
+          • [37minflicting or intended as punishment.[0m
+	   "he called for punitive measures against the Eastern bloc"
+  	   [3msynonyms:[0m penal, disciplinary, corrective, correctional, retributive ;  in retaliation, in reprisal ;  penitentiary, punitory, castigatory
+		    "truancy rates would decline if tougher punitive measures against parents were taken"
+          • [37m(of a tax or other charge) extremely high.[0m
+	   "a current punitive interest rate of 31.3 per cent"
+  	   [3msynonyms:[0m harsh, severe, stiff, austere, cruel, savage, stringent, burdensome, demanding, draconian, drastic, swingeing, crushing, crippling ;  high, sky-high,
+                     inflated, exorbitant, extortionate, excessive, outrageous, inordinate, iniquitous, immoderate, unreasonable
+		    "the government plans to announce punitive taxes on imports"
+  [31m[4m[34madjective[0m[0m[0m
+  [31mदंडात्मक[0m 

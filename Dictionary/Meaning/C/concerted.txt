@@ -1,31 +1,34 @@
-                                                                                    CONCERTED                                                                                     
-  SHORT        If you and your friends launch into singing “Old MacDonald” loudly together, in the middle of the public library, you will all have made a concerted, or
-               cooperative, effort to annoy lots of people.
-  LONG         Concerted is often used to describe a group effort to achieve a particular goal. As you may have guessed, concerted comes from the word concert. While a
+[35m                                                                                    CONCERTED                                                                                     [0m
+[91m        SHORT  If you and your friends launch into singing “Old MacDonald” loudly together, in the middle of the public library, you will all have made a concerted, or
+               cooperative, effort to annoy lots of people.[0m
+[36m         LONG  Concerted is often used to describe a group effort to achieve a particular goal. As you may have guessed, concerted comes from the word concert. While a
                concert can be defined as "a group of musicians playing cooperatively," concert can also designate other types of cooperative behavior. If a
                group of people do anything together — from singing an annoying song to throwing library books at agreed-upon targets — they are acting in
-               concert, or in a concerted manner.
+               concert, or in a concerted manner.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The commission said it welcomed the government's hate crime plans, but said more concerted action was needed.
-     >         There’s now a stepped up, concerted community effort to reverse the disturbing pattern, she said.
-     >         “It was likely going to take a concerted effort ... to put marketplaces in many states on firmer footing.”
-     >         But it takes a concerted effort to achieve as smooth a handover as accomplished by the Bush-Obama teams.
-     >         Ivermectin does not hang around in the body long enough to make a concerted anti-mosquito campaign that relies on it look like a realistic proposition.
+[3m             > Spirit alleges that their refusal is an illegal and concerted plot by the Air Line Pilots Assn. to apply pressure during contract negotiations.[0m
+[3m             > A concerted effort is needed to knock down misinformation and stereotypes.[0m
+[3m             > And ultimately, thanks to Rogers’s concerted efforts, shorter.[0m
+[3m             > Now there is concerted pushback against Stephens’ brand of alternative facts.[0m
+[3m             > Carney says the threats will only increase without a concerted effort to reduce emissions of greenhouse gases.[0m
 
- 1   Jointly Arranged Or Carried Out; Coordinated.
-	 Eg.  "A Concerted Attempt To Preserve Religious Unity"
-	 Eg.  "There Were Calls For Concerted Action"
-	 Synonyms:  joint , united , collaborative , collective , cooperative , 
-	 Antonyms:  separate , individual , 
+[35mConcerted[0m[36m /kənˈsəːtɪd/,[0m [91m[3madjective[0m[0m | adjective: concerted
+      [32m1.[0m [37mjointly arranged or carried out; coordinated.[0m
+	   "a concerted attempt to preserve religious unity"
+  	   [3msynonyms:[0m joint, united, jointly planned, coordinated, collaborative, collective, combined, cooperative, interactive, synergetic
+		    "there were calls for concerted action"
+  	   [3mantonyms:[0m separate, individual
+          • [37mdone with great effort or determination.[0m
+	   "you must make a concerted effort to curb this"
+  	   [3msynonyms:[0m strenuous, vigorous, energetic, active, forceful, forcible, strong, intensive, intense, concentrated ;  all-out
+		    "you must make a concerted effort to curb this behaviour"
+  	   [3mantonyms:[0m half-hearted
 
- 2   Done With Great Effort Or Determination.
-	 Eg.  "You Must Make A Concerted Effort To Curb This"
-	 Eg.  "You Must Make A Concerted Effort To Curb This Behaviour"
-	 Synonyms:  strenuous , vigorous , energetic , active , forceful , 
-	 Antonyms:  half-hearted , 
-
- 3   (Of Music) Arranged In Several Parts Of Equal Importance.
-	 Eg.  "Concerted Secular Music For Voices"
-
- 4   Arrange (Something) By Mutual Agreement Or Coordination.
-	 Eg.  "They Started Meeting Regularly To Concert Their Parliamentary Tactics"
+      [32m2.[0m [37m(of music) arranged in several parts of equal importance.[0m
+	   "concerted secular music for voices"
+[35mConcert[0m[36m /kənˈsəːt/,[0m [91m[3mverb formal[0m[0m
+	past tense: concerted; past participle: concerted
+          • [37marrange (something) by mutual agreement or coordination.[0m
+	   "they started meeting regularly to concert their parliamentary tactics"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+  [31mसम्मिलित[0m    [31mअनुकूल[0m  

@@ -1,15 +1,21 @@
-                                                                                      RATIFY                                                                                      
-  SHORT        To ratify a treaty or contract is to officially approve it by signing or voting for it. You and your brothers and sisters might devise a plan for a family
-               vacation to Disney World, but it would need to be ratified by your parents.
-  LONG         You are most likely to hear the word ratify when talking about laws. In the US, Congress writes bills, but they need to be ratified before they become law. An
+[35m                                                                                      RATIFY                                                                                      [0m
+[91m        SHORT  To ratify a treaty or contract is to officially approve it by signing or voting for it. You and your brothers and sisters might devise a plan for a family
+               vacation to Disney World, but it would need to be ratified by your parents.[0m
+[36m         LONG  You are most likely to hear the word ratify when talking about laws. In the US, Congress writes bills, but they need to be ratified before they become law. An
                amendment to the U.S. Constitution must be ratified by three-fourths of the states, either passed by the state legislatures or by state
-               conventions.
+               conventions.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Convention on the Law of the Sea, which China ratified in 1996.
-     >         Vietnam recently decided not to ratify the U.S.-backed agreement, leaving an opening for China’s pact.
-     >         It must now be ratified by all 28 members of the EU, including Britain, though Theresa May could well abstain.
-     >         Canada was among the signatories to TPP, although both U.S. and Canada have yet to ratify the agreement.
-     >         By the time of that convention, most of the northern states had ratified state constitutions that gradually abolished slavery in the North.
+[3m             > The Paris accord, signed by nearly 200 nations in 2015, was never ratified by the Senate due to the staunch oppositions of Republicans.[0m
+[3m             > Still up for debate is whether Kipchoge’s performance will be recognized by the body that ratifies marathon times, the International Association of Athletics
+               Federations.[0m
+[3m             > Contract terms aren’t expected to be released until the contract is ratified.[0m
+[3m             > A: In March, Nevada became the 36th state to ratify the ERA.[0m
+[3m             > It therefore advised shareholders against ratifying the decisions by the company's bosses and its supervisors.[0m
 
- 1   Sign Or Give Formal Consent To (A Treaty, Contract, Or Agreement), Making It Officially Valid.
-	 Eg.  "Both Countries Were Due To Ratify The Treaty By The End Of The Year"
+[35mRatify[0m[36m /ˈratɪfʌɪ/,[0m [91m[3mverb[0m[0m | verb: ratify; 3rd person present: ratifies; past tense: ratified; past participle: ratified; gerund or present participle: ratifying
+          • [37msign or give formal consent to (a treaty, contract, or agreement), making it officially valid.[0m
+	   "both countries were due to ratify the treaty by the end of the year"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mपुष्टि करना[0m    [31mअनुसमर्थन करना[0m 
+    [31mस्थिर करना[0m      [31mसंपुष्टि करना[0m 
+     [31mद्दढ करना[0m        [31mबहाल करना[0m   

@@ -1,15 +1,18 @@
-                                                                                    PROACTIVE                                                                                     
-  SHORT        The adjective proactive can describe a person who gets things done. If you are proactive, you make things happen, instead of waiting for them to happen to
-               you.
-  LONG         Active means "doing something." The prefix pro- means "before." So if you are proactive, you are ready before something happens. The opposite is being
+[35m                                                                                    PROACTIVE                                                                                     [0m
+[91m        SHORT  The adjective proactive can describe a person who gets things done. If you are proactive, you make things happen, instead of waiting for them to happen to
+               you.[0m
+[36m         LONG  Active means "doing something." The prefix pro- means "before." So if you are proactive, you are ready before something happens. The opposite is being
                reactive, or waiting for things to unfold before responding. Think about winter cold season. A proactive person washes his hands and takes
-               vitamins; a reactive person gets sick and takes cold medicine.
+               vitamins; a reactive person gets sick and takes cold medicine.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The goal is to proactively head off anxiety that could be disruptive in class, Viers said.
-     >         Now working for the Premier League as club support manager, Lake wants officials to be proactive in the welfare of players.
-     >         England will take a "proactive" approach when the third Test against India begins in Mohali on Saturday, says batting coach Mark Ramprakash.
-     >         He passed proactive regulations such as net neutrality to prohibit anticompetitive behavior.
-     >         I did vote, and I’m sorry I was naive and not more proactive to get others to vote, too.
+[3m             > But he promised to be proactive, regardless of whether he hears from the public.[0m
+[3m             > That’s a smart, proactive agenda, one that might serve as a blueprint for other universities facing similar problems.[0m
+[3m             > We agree that PhD students should be proactive in their investigations and in using their supervisor's expertise.[0m
+[3m             > Murphy, the State Department official, said the Southeast Asian representatives proactively raised the issue of North Korea in their meeting with Tillerson.[0m
+[3m             > To be sure, these scattered American movements are not necessarily proactive agents working on behalf of Moscow’s direct interests.[0m
 
- 1   (Of A Person Or Action) Creating Or Controlling A Situation Rather Than Just Responding To It After It Has Happened.
-	 Eg.  "Employers Must Take A Proactive Approach To Equal Pay"
+[35mProactive[0m[36m /prəʊˈaktɪv/,[0m [91m[3madjective[0m[0m | adjective: proactive; adjective: pro-active
+          • [37m(of a person or action) creating or controlling a situation rather than just responding to it after it has happened.[0m
+	   "employers must take a proactive approach to equal pay"
+  [31m[4m[34m[0m[0m[0m
+  [31mसक्रिय[0m 

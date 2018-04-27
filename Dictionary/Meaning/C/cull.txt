@@ -1,36 +1,37 @@
-                                                                                       CULL                                                                                       
-  SHORT        To cull means to select or gather. If you decide to make a literary anthology, you must cull the best possible stories and then arrange them in a pleasing
-               manner.
-  LONG         When you use cull as a verb, the things you gather can be the good or bad ones from a group. In your garden, you can cull the good vegetables for dinner, or
+[35m                                                                                       CULL                                                                                       [0m
+[91m        SHORT  To cull means to select or gather. If you decide to make a literary anthology, you must cull the best possible stories and then arrange them in a pleasing
+               manner.[0m
+[36m         LONG  When you use cull as a verb, the things you gather can be the good or bad ones from a group. In your garden, you can cull the good vegetables for dinner, or
                the rotten ones for the compost pile. In fact, often no judgment of quality is made, as when you cull information from the Internet for your
                next research project. The sorting through will come later. However, if you use the word as a noun, a cull is a selection of things you intend
                to reject, often in reference to a group of animals. An outbreak of a disease such as foot-and-mouth disease can cause authorities to order a
-               cull of farm pigs.
+               cull of farm pigs.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         About 190,000 ducks have been culled in the Netherlands as the authorities try to prevent the spread of bird flu across northern European countries.
-     >         McDermott culled pieces from Wayfair — an antique popcorn machine, espresso maker, tufted settee, an industrial wall sculpture of a film reel.
-     >         Nicks, like most artists, culls inspiration from disparate sources.
-     >         The president-elect’s economic plan is an eclectic mix of ideas culled from previous occupants of the White House.
-     >         From there, sit back, loosen your belts and be prepared for a seemingly endless parade of dishes culled from the globally inspired street food menu.
+[3m             > When they’d order flowers from a farmer, they’d need to cull through the order to pull what they wanted, and the rest would be wasted.[0m
+[3m             > Several countries with relatively small wolf populations including Finland and Norway still pursue controversial annual culls of the animals.[0m
+[3m             > Judge Helen Cull ruled that some details in the case would remain confidential because they were commercially sensitive.[0m
+[3m             > We’ve created this thing called “Ritter Rules” — 10 rules that are culled from the actual guidelines for the treatment of aortic dissection.[0m
+[3m             > Peterson notes that wolves protected under the Endangered Species Act face delisting, culling and poaching in many states.[0m
 
- 1   Reduce The Population Of (A Wild Animal) By Selective Slaughter.
-	 Eg.  "Some Of The Culled Deer Will Be Used For Scientific Research"
-	 Eg.  "He Sees Culling Deer As A Necessity"
-	 Synonyms:  slaughter , kill , destroy , 
+[35mCull[0m[36m /kʌl/,[0m [91m[3mverb[0m[0m | verb: cull; 3rd person present: culls; past tense: culled; past participle: culled; gerund or present participle: culling
+      [32m1.[0m [37mreduce the population of (a wild animal) by selective slaughter.[0m
+	   "some of the culled deer will be used for scientific research"
+  	   [3msynonyms:[0m slaughter, kill, destroy ;  reduce the numbers of, thin out the population of
+		    "he sees culling deer as a necessity"
+          • [37msend (an inferior or surplus farm animal) to be slaughtered.[0m
+	   "unproductive animals can be identified and culled"
 
- 2   Send (An Inferior Or Surplus Farm Animal) To Be Slaughtered.
-	 Eg.  "Unproductive Animals Can Be Identified And Culled"
-
- 3   Select From A Large Quantity; Obtain From A Variety Of Sources.
-	 Eg.  "Anecdotes Culled From Greek And Roman History"
-	 Eg.  "Anecdotes Culled From Greek And Roman History"
-	 Synonyms:  select , choose , pick , take , obtain , 
-
- 4   Pick (Flowers Or Fruit).
-	 Eg.  "Fresh Culled Daffodils"
-
- 5   A Selective Slaughter Of Animals.
-	 Eg.  "Fishermen Are To Campaign For A Seal Cull"
-
- 6   An Inferior Or Surplus Livestock Animal Selected For Culling.
-	 Eg.  "He Keeps His Female Calves And Sells Only Male Calves And Herd Culls"
+      [32m2.[0m [37mselect from a large quantity; obtain from a variety of sources.[0m
+	   "anecdotes culled from Greek and Roman history"
+  	   [3msynonyms:[0m select, choose, pick, take, obtain, get, glean
+		    "anecdotes culled from Greek and Roman history"
+          • [37mpick (flowers or fruit).[0m
+	   "fresh culled daffodils"
+    [91m[3mnoun[0m[0m | noun: cull; plural noun: culls
+      [32m1.[0m [37ma selective slaughter of animals.[0m
+	   "fishermen are to campaign for a seal cull"
+          • [37man inferior or surplus livestock animal selected for culling.[0m
+	   "he keeps his female calves and sells only male calves and herd culls"
+  [31m[4m[34m[0m[0m[0m
+  [31mचुनना[0m 
+  [31mबीनना[0m 

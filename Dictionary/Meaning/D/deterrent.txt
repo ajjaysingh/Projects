@@ -1,25 +1,27 @@
-                                                                                    DETERRENT                                                                                     
-  SHORT        A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent.
-  LONG         People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of
+[35m                                                                                    DETERRENT                                                                                     [0m
+[91m        SHORT  A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent.[0m
+[36m         LONG  People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of
                the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting
                detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the
-               right thing, while a deterrent discourages you from doing the wrong thing.
+               right thing, while a deterrent discourages you from doing the wrong thing.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Arguably that’s deterrent enough for future trysts of opportunity.
-     >         Alexis Rodzianko, president of the American Chamber of Commerce in Russia, said geopolitical tensions have been a big deterrent for potential foreign
-               investors.
-     >         Police hope the technology will act as a deterrent to gun violence and help officers respond more quickly to gun crimes.
-     >         Thurrock Council defended the project, saying it highlighted the "deterrent value of the project".
-     >         “North Korea would have an incentive to strike before they acquired that deterrent.”
+[3m             > The document, seen by the BBC, also says leaders should be "extremely cautious" about using the Trident nuclear deterrent.[0m
+[3m             > Villagers work through a series of deterrents: first they throw rocks at the animals, next they begin to light fires.[0m
+[3m             > But he also quickly realized that many people wouldn’t be able to buy the technology — price is a deterrent, as is space.[0m
+[3m             > It sends a sharp, deterrent message to the hard-right iconoclasts of Alternative für Deutschland that Europe’s mood is shifting.[0m
+[3m             > But the threat of regime change is the very reason the regime wants a nuclear deterrent.[0m
 
- 1   A Thing That Discourages Or Is Intended To Discourage Someone From Doing Something.
-	 Eg.  "Cameras Are A Major Deterrent To Crime"
-	 Eg.  "Complications Of This Nature Are A Deterrent To Investors"
-	 Synonyms:  disincentive , discouragement , damper , brake , curb , 
-	 Antonyms:  incentive , encouragement , 
-
- 2   A Nuclear Weapon Or Weapons System Regarded As Deterring An Enemy From Attack.
-	 Eg.  "Britain'S Nuclear Deterrent"
-
- 3   Able Or Intended To Deter.
-	 Eg.  "The Deterrent Effect Of Heavy Prison Sentences"
+[35mDeterrent[0m[36m /dɪˈtɛr(ə)nt/,[0m [91m[3mnoun[0m[0m | noun: deterrent; plural noun: deterrents
+      [32m1.[0m [37ma thing that discourages or is intended to discourage someone from doing something.[0m
+	   "cameras are a major deterrent to crime"
+  	   [3msynonyms:[0m disincentive, discouragement, dissuasion, damper, brake, curb, check, restraint ;  obstacle, hindrance, impediment, obstruction, block, barrier,
+                     inhibition
+		    "complications of this nature are a deterrent to investors"
+  	   [3mantonyms:[0m incentive, encouragement
+          • [37ma nuclear weapon or weapons system regarded as deterring an enemy from attack.[0m
+	   "Britain's nuclear deterrent"
+    [91m[3madjective[0m[0m | adjective: deterrent
+      [32m1.[0m [37mable or intended to deter.[0m
+	   "the deterrent effect of heavy prison sentences"
+  [31m[4m[34m[0m[0m[0m   [31m[4m[34madjective[0m[0m[0m
+        [31mनिवारक[0m             [31mबचाव का[0m      

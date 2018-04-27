@@ -1,19 +1,24 @@
-                                                                                     DIDACTIC                                                                                     
-  SHORT        When people are didactic, they're teaching or instructing. This word is often used negatively for when someone is acting too much like a teacher.
-  LONG         When you're didactic, you're trying to teach something. Just about everything teachers do is didactic: the same is true of coaches and mentors. Didactic is
+[35m                                                                                     DIDACTIC                                                                                     [0m
+[91m        SHORT  When people are didactic, they're teaching or instructing. This word is often used negatively for when someone is acting too much like a teacher.[0m
+[36m         LONG  When you're didactic, you're trying to teach something. Just about everything teachers do is didactic: the same is true of coaches and mentors. Didactic is
                often used in a negative way. If you heard that a movie is overly didactic, that's probably not good. Most people want to see a story and be
-               entertained when going to the movies, and if it feels like the movie is just telling you what to think, that's didactic in a bad way.
+               entertained when going to the movies, and if it feels like the movie is just telling you what to think, that's didactic in a bad way.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Their music was optimistic, insightful and politically aware, but not didactic.
-     >         It was a didactic approach, at odds with our stereotypes of private collectors as pleasure seekers or investors.
-     >         But to present things that way is to envision a different, perhaps more didactic and moralistic film than Italian director Gianfranco Rosi has provided.
-     >         It all starts to feel excessive and desperately didactic.
-     >         Another use of the fantastic for Le Guin was to bring her ethical concerns into her fiction without becoming didactic.
+[3m             > More openly didactic is “Last Kiosk,” a plywood stage flanked by two panels facing each other.[0m
+[3m             > Plus, it was comedy that presented Chicano culture to a broad audience in a way that was never didactic or self-conscious.[0m
+[3m             > In fact, there’s a long didactic tract in the middle of the book, which is this book that Winston reads.[0m
+[3m             > The film adaptation captures the meat of Young’s text, focusing on the didactic aspects of its premise.[0m
+[3m             > The often emotionally wrenching drama “Fair Haven” pushes back against the faulty practice of ex-gay conversion therapy without turning overly didactic or
+               heavy-handed.[0m
 
- 1   Intended To Teach, Particularly In Having Moral Instruction As An Ulterior Motive.
-	 Eg.  "A Didactic Novel That Set Out To Expose Social Injustice"
-	 Eg.  "The Inmates Preferred Social Rather Than Didactic Activities"
-	 Synonyms:  instructive , educational , educative , informative , doctrinal , 
-
- 2   In The Manner Of A Teacher, Particularly So As To Appear Patronizing.
-	 Eg.  "His Tone Ranged From Didactic To Backslapping"
+[35mDidactic[0m[36m /dɪˈdaktɪk,dʌɪˈdaktɪk/,[0m [91m[3madjective[0m[0m | adjective: didactic
+          • [37mintended to teach, particularly in having moral instruction as an ulterior motive.[0m
+	   "a didactic novel that set out to expose social injustice"
+  	   [3msynonyms:[0m instructive, instructional, educational, educative, informative, informational, doctrinal, preceptive, teaching, pedagogic, academic, scholastic,
+                     tuitional ;  edifying, improving, enlightening, illuminating, heuristic ;  pedantic, moralistic, homiletic ;  propaedeutic
+		    "the inmates preferred social rather than didactic activities"
+          • [37min the manner of a teacher, particularly so as to appear patronizing.[0m
+	   "his tone ranged from didactic to backslapping"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mशिक्षाप्रद[0m    [31mउपदेशात्मक[0m 
+    [31mप्रबोधक[0m     [31mप्रबोधात्मक[0m 

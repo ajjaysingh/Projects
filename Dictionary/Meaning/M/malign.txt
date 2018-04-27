@@ -1,25 +1,34 @@
-                                                                                      MALIGN                                                                                      
-  SHORT        If you malign someone, you badmouth them — just like the jilted girlfriend who tells the whole school her ex has bad breath and head lice.
-  LONG         When you habitually malign people, you risk being described as "a malign influence" — in this case, malign is an adjective that describes a harmful or even
+[35m                                                                                      MALIGN                                                                                      [0m
+[91m        SHORT  If you malign someone, you badmouth them — just like the jilted girlfriend who tells the whole school her ex has bad breath and head lice.[0m
+[36m         LONG  When you habitually malign people, you risk being described as "a malign influence" — in this case, malign is an adjective that describes a harmful or even
                evil person or thing. Whichever way you use the word, its connection to wickedness can be found in its Latin root, malignus, "wicked or bad-
-               natured," which combines male, or "badly" and -gnus, "born."
+               natured," which combines male, or "badly" and -gnus, "born."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         I feel relatively secure in my position, and angry that I do not have a voice in conversations that malign me.
-     >         This is dispiriting to critics of the Western media who do not ascribe its failings to malign conspiracies.
-     >         The Flames maligned special teams came up big in this one.
-     >         The Flames, whose maligned special teams came up big in this one, have traded wins and losses for five games.
-     >         Then remember all those stories about how this team, and its maligned quarterback, were unable to beat winning teams.
+[3m             > In his 2014 book about the movement, Malign Velocities, Benjamin Noys accuses it of offering “false” solutions to current technological and economic dilemmas.[0m
+[3m             > For some it was a welcome antidote to hair metal and Britpop; for others it was simply the most maligned genre in musical history.[0m
+[3m             > His first stop was Hope Village, the maligned D.C. halfway house with a history of security issues and problems connecting residents with jobs.[0m
+[3m             > There are a few poems in “Whereas” that are becoming more prominent in collections by writers of cultures maligned by violence.[0m
+[3m             > Maybe, just maybe, we’re finally ready to embrace what was previously and somewhat disingenuously maligned.[0m
 
- 1   Evil In Nature Or Effect.
-	 Eg.  "She Had A Strong And Malign Influence"
-	 Eg.  "A Malign Influence"
-	 Synonyms:  harmful , evil , bad , baleful , hostile , 
-	 Antonyms:  beneficial , 
-
- 2   (Of A Disease) Malignant.
-
- 3   Speak About (Someone) In A Spitefully Critical Manner.
-	 Eg.  "Don'T You Dare Malign Her In My Presence"
-	 Eg.  "He Accused Them Of Maligning An Innocent Man"
-	 Synonyms:  defame , slander , libel , smear , vilify , 
-	 Antonyms:  praise , 
+[35mMalign[0m[36m /məˈlʌɪn/,[0m [91m[3madjective[0m[0m | adjective: malign
+      [32m1.[0m [37mevil in nature or effect.[0m
+	   "she had a strong and malign influence"
+  	   [3msynonyms:[0m harmful, evil, bad, baleful, hostile, inimical, destructive, malevolent, evil-intentioned, malignant, injurious, spiteful, malicious, vicious ;  malefic,
+                     maleficent
+		    "a malign influence"
+  	   [3mantonyms:[0m beneficial
+          • [37m(of a disease) malignant.[0m
+    [91m[3mverb[0m[0m | verb: malign; 3rd person present: maligns; past tense: maligned; past participle: maligned; gerund or present participle: maligning
+      [32m1.[0m [37mspeak about (someone) in a spitefully critical manner.[0m
+	   "don't you dare malign her in my presence"
+  	   [3msynonyms:[0m defame, slander, libel, blacken someone's name/character, smear, run a smear campaign against, vilify, speak ill of, spread lies about, accuse falsely,
+                     cast aspersions on, run down, misrepresent, calumniate, traduce, denigrate, disparage, slur, derogate, abuse, revile ;  bad-mouth,
+                     knock, drag through the mud/mire, throw/sling/fling mud at, do a hatchet job on ;  rubbish, slag off ;  asperse, vilipend
+		    "he accused them of maligning an innocent man"
+  	   [3mantonyms:[0m praise
+  [31m[4m[34madjective[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+          [31mदुष्ट[0m                 [31mहानिकर[0m        
+       [31mनुक़सानदेह[0m               [31mअपकारी[0m        
+         [31mविघातक[0m                [31mदुःसाध्य[0m       
+  [31mनुक़सान पहुंचानेवाला[0m           [31mतीव्र[0m        
+        [31mहानिकारक[0m                 [31mउग्र[0m         

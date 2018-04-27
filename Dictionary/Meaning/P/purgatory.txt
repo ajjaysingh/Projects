@@ -1,25 +1,28 @@
-                                                                                    PURGATORY                                                                                     
-  SHORT        Being stuck in standstill traffic can feel like purgatory, but this brief spell of unpleasantness is nothing compared to the misery endured by souls waiting
-               to get into heaven, which is the original meaning of the word.
-  LONG         Purgatory comes from a Late Latin verb meaning "to cleanse" — purge shares the same root. In Roman Catholic doctrine, souls atoned for past sins in purgatory
+[35m                                                                                    PURGATORY                                                                                     [0m
+[91m        SHORT  Being stuck in standstill traffic can feel like purgatory, but this brief spell of unpleasantness is nothing compared to the misery endured by souls waiting
+               to get into heaven, which is the original meaning of the word.[0m
+[36m         LONG  Purgatory comes from a Late Latin verb meaning "to cleanse" — purge shares the same root. In Roman Catholic doctrine, souls atoned for past sins in purgatory
                before entering heaven. In fact, for centuries, purgatory was often regarded as an actual physical place. Today, if you say you are in
                purgatory, you feel stuck or not able to continue towards a goal. High school might feel like purgatory because even though you're finished
-               with your carefree childhood, you don't have the freedoms of adulthood yet.
+               with your carefree childhood, you don't have the freedoms of adulthood yet.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Those were a means by which a Catholic sinner might buy his way out of seemingly interminable purgatory after death, speeding directly into heavenly bliss.
-     >         Later it feels like purgatory, a wintry place with flat skies, leaden waters and unwelcome reminders of the past.
-     >         Within 100, the climb had turned into a gasping, gut-wrenching purgatory, each swing of the ax and kick of the toe-spikes a herculean effort.
-     >         Watching England games is "purgatory" for supporters, says former Three Lions captain Terry Butcher.
-     >         Ms. McLorg, the mother of two teenagers, made her way through the crowded lobby, a kind of purgatory for newly arrived Syrians.
+[3m             > For the summer, Purgatory will be adding tubing, which allows participants to slide on tubes down a 300-foot-long synthetic track.[0m
+[3m             > Unlike Roman Catholics, they do not believe in the infallibility of the Pope or in purgatory.[0m
+[3m             > Some people say Palermo is now in a sort of purgatory, still to expiate all its sins.[0m
+[3m             > The Republicans’ first major legislative push of their “unified” government is a flailing disaster that seems to be trapped in purgatory.[0m
+[3m             > He emerged in his boat in the early morning mist, “like Charon, the mythical boatman who ferries souls through purgatory,” said McNicol.[0m
 
- 1   (In Catholic Doctrine) A Place Or State Of Suffering Inhabited By The Souls Of Sinners Who Are Expiating Their Sins Before Going To Heaven.
-	 Eg.  "All Her Sins Were Forgiven And She Would Not Need To Go To Purgatory"
-
- 2   Mental Anguish Or Suffering.
-	 Eg.  "This Was Purgatory, Worse Than Anything She'D Faced In Her Life"
-	 Eg.  "The Pre-Med Year Was A Necessary Term Of Purgatory"
-	 Synonyms:  torment , torture , misery , suffering , affliction , 
-	 Antonyms:  paradise , bliss , 
-
- 3   Having The Quality Of Cleansing Or Purifying.
-	 Eg.  "Infernal Punishments Are Purgatory And Medicinal"
+[35mPurgatory[0m[36m /ˈpəːɡət(ə)ri/,[0m [91m[3mnoun[0m[0m | noun: purgatory; plural noun: purgatories; noun: Purgatory
+      [32m1.[0m [37m(in Catholic doctrine) a place or state of suffering inhabited by the souls of sinners who are expiating their sins before going to heaven.[0m
+	   "all her sins were forgiven and she would not need to go to Purgatory"
+          • [37mmental anguish or suffering.[0m
+	   "this was purgatory, worse than anything she'd faced in her life"
+  	   [3msynonyms:[0m torment, torture, misery, suffering, affliction, anguish, agony, wretchedness, woe, tribulation, hell, hell on earth ;  an ordeal, a nightmare, a
+                     hellhole, an abyss ;  trials and tribulations
+		    "the pre-med year was a necessary term of purgatory"
+  	   [3mantonyms:[0m paradise, bliss
+    [91m[3madjective archaic[0m[0m | adjective: purgatory
+      [32m1.[0m [37mhaving the quality of cleansing or purifying.[0m
+	   "infernal punishments are purgatory and medicinal"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mयातना[0m          [31mशोधन-संबंधी[0m         [31mशोधन-गृह[0m    

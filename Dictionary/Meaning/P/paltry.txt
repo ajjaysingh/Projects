@@ -1,24 +1,30 @@
-                                                                                      PALTRY                                                                                      
-  SHORT        A paltry amount is so small it's not even worth thinking about. In the novel "Oliver Twist," when Oliver is given a paltry amount of gruel — not nearly enough
-               — he asks, "Please, sir, can I have some more?"
-  LONG         Paltry is a laughably small amount — the waiter might chuck a paltry tip in the garbage. If you have only 50 cents in your bank account, it's such a paltry
+[35m                                                                                      PALTRY                                                                                      [0m
+[91m        SHORT  A paltry amount is so small it's not even worth thinking about. In the novel "Oliver Twist," when Oliver is given a paltry amount of gruel — not nearly enough
+               — he asks, "Please, sir, can I have some more?"[0m
+[36m         LONG  Paltry is a laughably small amount — the waiter might chuck a paltry tip in the garbage. If you have only 50 cents in your bank account, it's such a paltry
                amount, you may as well be broke. It can also mean "not worth considering" or "not important." If you keep breaking your promises, your friends
-               will get sick of your paltry excuses.
+               will get sick of your paltry excuses.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Getting the F.C.C. to mandate even today’s paltry amount of video description took more than two decades.
-     >         Refugees were given paltry food rations and had to wait hours in line to get water, Mr. Gebreselase said.
-     >         My paltry effort was to take a screengrab of the email and share it on Twitter with a pithy comment mocking the sender.
-     >         By contrast, Trump drew a paltry 11 endorsements.
-     >         Unable to budge Clowney off the line of scrimmage at the point of attack, the Raiders rushed for a paltry seven yards on 10 carries.
+[3m             > “Women are so underrepresented in the Republican conference that with Republicans controlling Congress, their numbers are so paltry they don’t register in
+               that power hierarchy.”[0m
+[3m             > We’re equally disappointed East Chicago - albeit a paltry 14 percent of its eligible voters - defeated that city’s public school referendum.[0m
+[3m             > Intellectually, your 1916 range of cultural choices would be paltry compared with today’s.[0m
+[3m             > To this crowd, $400,000 is a paltry bonus in a bad year for a middling analyst.[0m
+[3m             > Children, veterans, persons with physical, mental and emotional challenges, the elderly, nearly every person benefits from this paltry sum.[0m
 
- 1   (Of An Amount) Very Small Or Meagre.
-	 Eg.  "She Would Earn A Paltry £33 More A Month"
-	 Eg.  "A Paltry Sum Of Money"
-	 Synonyms:  small , meagre , trifling , insignificant , negligible , 
-	 Antonyms:  considerable , substantial , 
-
- 2   Petty; Trivial.
-	 Eg.  "Naval Glory Struck Him As Paltry"
-	 Eg.  "Naval Glory Struck Him As Paltry"
-	 Synonyms:  worthless , petty , trivial , unimportant , insignificant , 
-	 Antonyms:  important , significant , valuable , 
+[35mPaltry[0m[36m /ˈpɔːltri,ˈpɒltri/,[0m [91m[3madjective[0m[0m | adjective: paltry; comparative adjective: paltrier; superlative adjective: paltriest
+          • [37m(of an amount) very small or meagre.[0m
+	   "she would earn a paltry £33 more a month"
+  	   [3msynonyms:[0m small, meagre, trifling, insignificant, negligible, inadequate, insufficient, scant, scanty, derisory, pitiful, pitiable, pathetic, miserable, sorry,
+                     wretched, puny, trivial, niggardly, beggarly, mean, ungenerous, inappreciable, mere ;  measly, piddling, piffling, mingy, poxy,
+                     dinky ;  exiguous
+		    "a paltry sum of money"
+  	   [3mantonyms:[0m considerable, substantial
+          • [37mpetty; trivial.[0m
+	   "naval glory struck him as paltry"
+  	   [3msynonyms:[0m worthless, petty, trivial, unimportant, insignificant, inconsequential, of little account/consequence, meaningless, negligible, nugatory, minor,
+                     footling, contemptible ;  penny-ante ;  twopenny, twopenny-halfpenny ;  nickel-and-dime, picayune
+		    "naval glory struck him as paltry"
+  	   [3mantonyms:[0m important, significant, valuable
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mतुच्छ[0m     [31mनगण्य[0m  

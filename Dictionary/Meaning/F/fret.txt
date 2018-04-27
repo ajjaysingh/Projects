@@ -1,43 +1,58 @@
-                                                                                       FRET                                                                                       
-  SHORT        When you fret, you worry so much about something that it eats away at you. Many people fret about taking standardized tests, but really, they're nothing to
-               sweat.
-  LONG         Fret comes from the Old English word freton which means to devour like an animal. When you fret over something, it consumes your thoughts. If you tell your
+[35m                                                                                       FRET                                                                                       [0m
+[91m        SHORT  When you fret, you worry so much about something that it eats away at you. Many people fret about taking standardized tests, but really, they're nothing to
+               sweat.[0m
+[36m         LONG  Fret comes from the Old English word freton which means to devour like an animal. When you fret over something, it consumes your thoughts. If you tell your
                mother to not fret about you while you're at a sleepover camp, you're telling her to not worry about you too much. Sometimes it means to be
                agitated though. When you're waiting for the results of an exam, you might fret and wring your hands. In a totally unrelated meaning, a guitar
-               player calls the raised lines on the neck of the guitar that help him play  correctly frets.
+               player calls the raised lines on the neck of the guitar that help him play  correctly frets.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Time magazine called the alt-right “a rising movement” in mid-November, echoing the Week, which fretted over the “rise of the alt-right” in October.
-     >         Fret not: Here are some of the most useful and entertaining tech gifts of the year.
-     >         “If you worry and fret and sit on your hands, then other people will do the business,” Mr. Belmont said.
-     >         With growth so slow, credit-rating agencies fret that the country may struggle to repay its debts.
-     >         It depicts a black woman – topless, intense, fretting angrily – pounding nails into the skeleton of an enormous ship.
+[3m             > No longer will the organization fret about pitch counts and innings limits.[0m
+[3m             > Instead, he zeroes in on the Second Amendment rights of those very abusers, fretting that they are being eroded.[0m
+[3m             > There are times now when I wonder if I weep and fret and withdraw too much, and whether I’m becoming immune to the Prozac.[0m
+[3m             > A smaller group of centrists, meanwhile, fretted that Americans would lose coverage funded by Obamacare.[0m
+[3m             > A former state Republican legislator frets that the event will be like walking "into an ambush".[0m
 
- 1   Be Constantly Or Visibly Anxious.
-	 Eg.  "She Fretted About The Cost Of Groceries"
-	 Eg.  "The Workers Fretted About Being Displaced By Machines"
-	 Synonyms:  worry , agonize , anguish , sorrow , sigh , 
+[35mFret[0m[36m /frɛt/,[0m [91m[3mverb[0m[0m | verb: fret; 3rd person present: frets; past tense: fretted; past participle: fretted; gerund or present participle: fretting
+      [32m1.[0m [37mbe constantly or visibly anxious.[0m
+	   "she fretted about the cost of groceries"
+  	   [3msynonyms:[0m worry, be anxious, feel uneasy, be distressed, be upset, upset oneself, concern oneself, feel unhappy ;  agonize, anguish, sorrow, sigh, pine, brood,
+                     mope ;  fuss, make a fuss, complain, grumble, whine, eat one's heart out ;  stew, feel peeved
+		    "the workers fretted about being displaced by machines"
+          • [37mcause anxiety to.[0m
+	   "his absence during her times awake began to fret her"
+  	   [3msynonyms:[0m trouble, bother, concern, perturb, disturb, disquiet, disconcert, make anxious, cause anxiety, distress, upset, torment, alarm, panic, cause to panic,
+                     agitate ;  rattle, eat away at ;  pother
+		    "his absence began to fret her"
+  	   [3mantonyms:[0m comfort
 
- 2   Cause Anxiety To.
-	 Eg.  "His Absence During Her Times Awake Began To Fret Her"
-	 Eg.  "His Absence Began To Fret Her"
-	 Synonyms:  trouble , bother , concern , perturb , disturb , 
-	 Antonyms:  comfort , 
+      [32m2.[0m [37mgradually wear away (something) by rubbing or gnawing.[0m
+	   "the bay's black waves fret the seafront"
+          • [37mform (a channel or passage) by rubbing or wearing away.[0m
+	   "what shape the sea has fretted into the land"
 
- 3   Gradually Wear Away (Something) By Rubbing Or Gnawing.
-	 Eg.  "The Bay'S Black Waves Fret The Seafront"
+      [32m3.[0m [37mflow or move in small waves.[0m
+	   "squelchy clay that fretted between his toes"
+    [91m[3mnoun British[0m[0m | noun: fret; plural noun: frets
+      [32m1.[0m [37ma state of anxiety.[0m
+	   "an economy in a state of fret and irritation"
+[35mFret[0m[36m /frɛt/,[0m [91m[3mnoun[0m[0m | noun: fret; plural noun: frets
+      [32m1.[0m [37ma repeating ornamental design of vertical and horizontal lines, such as the Greek key pattern.[0m
 
- 4   Form (A Channel Or Passage) By Rubbing Or Wearing Away.
-	 Eg.  "What Shape The Sea Has Fretted Into The Land"
+      [32m2.[0m [37ma device of narrow diagonal bands interlaced through a diamond.[0m
+    [91m[3mverb[0m[0m | verb: fret; 3rd person present: frets; past tense: fretted; past participle: fretted; gerund or present participle: fretting
+      [32m1.[0m [37mdecorate with fretwork.[0m
+	   "intricately carved and fretted balustrades"
+[35mFret[0m[36m /frɛt/,[0m [91m[3mnoun[0m[0m | noun: fret; plural noun: frets
+      [32m1.[0m [37meach of a sequence of ridges on the fingerboard of some stringed musical instruments (such as the guitar), used for fixing the positions of the fingers to produce
+           the desired notes.[0m
+    [91m[3mverb[0m[0m | verb: fret; 3rd person present: frets; past tense: fretted; past participle: fretted; gerund or present participle: fretting
+      [32m1.[0m [37mprovide (a stringed instrument) with frets.[0m
+	   "a fretted neck"
 
- 5   Flow Or Move In Small Waves.
-	 Eg.  "Squelchy Clay That Fretted Between His Toes"
-
- 6   A State Of Anxiety.
-	 Eg.  "An Economy In A State Of Fret And Irritation"
-
- 7   A Repeating Ornamental Design Of Vertical And Horizontal Lines, Such As The Greek Key Pattern.
-
- 8   A Device Of Narrow Diagonal Bands Interlaced Through A Diamond.
-
- 9   Decorate With Fretwork.
-	 Eg.  "Intricately Carved And Fretted Balustrades"
+      [32m2.[0m [37mplay (a note) while pressing the string down against a fret.[0m
+	   "fretted notes"
+[35mFret[0m[36m /frɛt/,[0m [91m[3mnoun Northern English[0m[0m | noun: fret; plural noun: frets; noun: sea fret; plural noun: sea frets
+          • [37ma mist coming in off the sea; a sea fog.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mझल्लाहट[0m       [31mझल्लाना[0m        [31mक्रोध[0m    
+     [31mकुढ़ना[0m     [31mचिड़चिड़ाना[0m      [31mचिढ़ना[0m   

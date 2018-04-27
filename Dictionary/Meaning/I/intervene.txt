@@ -1,33 +1,35 @@
-                                                                                    INTERVENE                                                                                     
-  SHORT        From the Latin "intervenire," meaning “to come between,” the verb intervene means just that: to get involved, to jump in the middle of something, to
-               interfere.
-  LONG         The verb intervene was first recorded around 1600. Since then there haven't been many interventions in its meaning or usage. You should probably intervene in
+[35m                                                                                    INTERVENE                                                                                     [0m
+[91m        SHORT  From the Latin "intervenire," meaning “to come between,” the verb intervene means just that: to get involved, to jump in the middle of something, to
+               interfere.[0m
+[36m         LONG  The verb intervene was first recorded around 1600. Since then there haven't been many interventions in its meaning or usage. You should probably intervene in
                a heated verbal fight between two of your friends before it escalates and gets physical. Especially if they're debating the United States’
-               habit of intervening in international conflicts.
+               habit of intervening in international conflicts.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         This call has grown into a clamor in the intervening six years.
-     >         The words “notice” and “not” reflect each other more vividly without the hard stop of the intervening question mark.
-     >         "The air force intervened, targeted the vehicle the gunmen were in and hit and struck the vehicle, killing what seems as four terrorists," Lerner said.
-     >         But fate intervened when Quick injured his groin in the season opener and Zat-koff twice experienced groin problems.
-     >         The idea is to intervene early, to prevent further trauma or negative impacts down the road.
+[3m             > A leading adversary successfully intervened in a presidential election — possibly with the collusion of the victor.[0m
+[3m             > They also show a woman intervening and hitting Flusche with a tray and a man aggressively pulling him away from the employee.[0m
+[3m             > Lawyers for Shaunkeyia Stephens filed the request to intervene in the lawsuit Tuesday.[0m
+[3m             > Mr. Obama intervened days before leaving office in January, however, commuting the majority of Manning’s remaining sentence and paving the way for her
+               imminent release.[0m
+[3m             > Urias did not force Roberts to intervene, as the manager did in 2016 with Rich Hill and Stripling.[0m
 
- 1   Take Part In Something So As To Prevent Or Alter A Result Or Course Of Events.
-	 Eg.  "He Acted Outside His Authority When He Intervened In The Dispute"
-	 Eg.  "She Intervened In The Row And Drew Up New Guidelines"
-	 Synonyms:  intercede , mediate , arbitrate , conciliate , negotiate , 
+[35mIntervene[0m[36m /ɪntəˈviːn/,[0m [91m[3mverb[0m[0m | verb: intervene; 3rd person present: intervenes; past tense: intervened; past participle: intervened; gerund or present participle: intervening
+      [32m1.[0m [37mtake part in something so as to prevent or alter a result or course of events.[0m
+	   "he acted outside his authority when he intervened in the dispute"
+  	   [3msynonyms:[0m intercede, involve oneself, get involved, interpose oneself, insinuate oneself, step in, cut in ;  mediate, arbitrate, conciliate, negotiate, act as
+                     peacemaker, act as an intermediary ;  interfere, intrude
+		    "she intervened in the row and drew up new guidelines"
+          • [37m(of an event or circumstance) occur as a delay or obstacle to something being done.[0m
+	   "Christmas intervened and the investigation was suspended"
+  	   [3msynonyms:[0m occur, happen, take place, arise, crop up, materialize, come about ;  result, ensue, follow, supervene ;  come to pass, befall, betide ;  hap
+		    "had the war not intervened, they might have married"
+          • [37minterrupt verbally.[0m
+	   "‘It's true!’ he intervened"
+          • [37mbecome involved in a lawsuit as a third party.[0m
 
- 2   (Of An Event Or Circumstance) Occur As A Delay Or Obstacle To Something Being Done.
-	 Eg.  "Christmas Intervened And The Investigation Was Suspended"
-	 Eg.  "Had The War Not Intervened, They Might Have Married"
-	 Synonyms:  occur , happen , arise , materialize , result , 
-
- 3   Interrupt Verbally.
-	 Eg.  "‘It'S True!’ He Intervened"
-
- 4   Become Involved In A Lawsuit As A Third Party.
-
- 5   Occur In The Time Between Events.
-	 Eg.  "To Occupy The Intervening Months She Took A Job In A Hospital"
-
- 6   Be Situated Between Things.
-	 Eg.  "They Heard The Sound Of Distant Gunfire, Muffled By The Intervening Trees"
+      [32m2.[0m [37moccur in the time between events.[0m
+	   "to occupy the intervening months she took a job in a hospital"
+          • [37mbe situated between things.[0m
+	   "they heard the sound of distant gunfire, muffled by the intervening trees"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mहस्तक्षेप करना[0m    [31mबीच में पड़ना[0m 
+    [31mबीच में आना[0m    [31mअंतःक्षेप करना[0m 

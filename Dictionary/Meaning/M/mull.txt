@@ -1,27 +1,34 @@
-                                                                                       MULL                                                                                       
-  SHORT        The verb mull means to think deeply about something, the way you might mull over your choice of what college to attend.
-  LONG         When you mull something over, you ponder or seriously consider it. You could mull over what aid organization to donate money to following a natural disaster,
+[35m                                                                                       MULL                                                                                       [0m
+[91m        SHORT  The verb mull means to think deeply about something, the way you might mull over your choice of what college to attend.[0m
+[36m         LONG  When you mull something over, you ponder or seriously consider it. You could mull over what aid organization to donate money to following a natural disaster,
                or mull over what to study in college. People are most likely to mull over important decisions, but you can use the word mull, almost always
                with over, any time you're giving serious consideration to something. A completely different meaning of mull is "to heat, sweeten and spice,"
-               as when you make mulled cider.
+               as when you make mulled cider.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         While the band mulled over his statement, C.K. continued by noting that being in a band was still better than being a dancer.
-     >         But it may be a welcome gift for PS4 Pro owners, and further indication that developers may be quietly mulling updates to other extant titles.
-     >         Son had time, perhaps too much time, and after mulling over his options, he tried to dribble around the goalkeeper and finish.
-     >         Stanford, who worked at the base for 37 years, says he’s mulling whether to file an appeal before the deadline on Tuesday.
-     >         There's a short wine list, and a mulled cider was available during a recent cold snap.
+[3m             > “Is it fun?” she added, mulling over the question.[0m
+[3m             > He said he’s been mulling a run for months — more seriously in recent weeks.[0m
+[3m             > Or to mull the ethical implications of artificial wombs.[0m
+[3m             > Mulling this over, I get the nod that Scott is ready for me.[0m
+[3m             > Recent reports also suggested Venice was mulling charging visitors a fee to enter St Mark’s Square.[0m
 
- 1   Think About (Something) Deeply And At Length.
-	 Eg.  "She Began To Mull Over The Various Possibilities"
-	 Eg.  "Barney Sat There For A While, Mulling Things Over"
-	 Synonyms:  ponder , consider , contemplate , deliberate , evaluate , 
-
- 2   Warm (An Alcoholic Drink, Especially Wine Or Beer) And Add Sugar And Spices To It.
-	 Eg.  "A Glass Of Mulled Wine"
-
- 3   Humus Formed Under Non-Acid Conditions.
-
- 4   A Promontory.
-	 Eg.  "The Mull Of Kintyre"
-
- 5   Thin, Soft, Plain Muslin, Used In Bookbinding For Joining The Spine Of A Book To Its Cover.
+[35mMull[0m[36m /mʌl/,[0m [91m[3mverb[0m[0m | verb: mull; 3rd person present: mulls; past tense: mulled; past participle: mulled; gerund or present participle: mulling
+          • [37mthink about (something) deeply and at length.[0m
+	   "she began to mull over the various possibilities"
+  	   [3msynonyms:[0m ponder, consider, think over/about, reflect on, contemplate, deliberate, turn over in one's mind, chew over, weigh up, consider the pros and cons of,
+                     cogitate on, meditate on, muse on, ruminate over/on, brood on, have one's mind on, give some thought to, evaluate, examine, study,
+                     review, revolve ;  pore on ;  cerebrate
+		    "Barney sat there for a while, mulling things over"
+[35mMull[0m[36m /mʌl/,[0m [91m[3mverb[0m[0m | verb: mull; 3rd person present: mulls; past tense: mulled; past participle: mulled; gerund or present participle: mulling
+          • [37mwarm (an alcoholic drink, especially wine or beer) and add sugar and spices to it.[0m
+	   "a glass of mulled wine"
+[35mMull[0m[36m /mʌl/,[0m [91m[3mnoun[0m[0m | noun: mull
+          • [37mhumus formed under non-acid conditions.[0m
+[35mMull[0m[36m /mʌl/,[0m [91m[3mnoun Scottish[0m[0m | noun: mull; plural noun: mulls
+          • [37ma promontory.[0m
+	   "the Mull of Kintyre"
+[35mMull[0m[36m /mʌl/,[0m [91m[3mnoun[0m[0m | noun: mull
+          • [37mthin, soft, plain muslin, used in bookbinding for joining the spine of a book to its cover.[0m
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+      [31mविचार करना[0m             [31mधरणिका[0m                [31mउलझन[0m        
+         [31mसोचना[0m                 [31mमल[0m                 [31mगड़बड़[0m       
+         [31mदलना[0m                 [31mमलमल[0m                 [31mघपला[0m        

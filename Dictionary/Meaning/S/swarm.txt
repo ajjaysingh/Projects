@@ -1,44 +1,47 @@
-                                                                                      SWARM                                                                                       
-  SHORT        A swarm is a good word for a large group of bees going on the attack — not good news. Like bees, any group of people or animals can be considered a swarm if
-               they act together and quickly — even fiercely.
-  LONG         On a hot day, when an ice-cream truck shows up, it's usually greeted by a swarm of hot, hungry kids. People at a concert can be a swarm — and people in the
+[35m                                                                                      SWARM                                                                                       [0m
+[91m        SHORT  A swarm is a good word for a large group of bees going on the attack — not good news. Like bees, any group of people or animals can be considered a swarm if
+               they act together and quickly — even fiercely.[0m
+[36m         LONG  On a hot day, when an ice-cream truck shows up, it's usually greeted by a swarm of hot, hungry kids. People at a concert can be a swarm — and people in the
                swarm can be hurt, because there's lots of pushing and shoving. When tickets for a popular movie go on sale, a swarm of people will swarm the
-               theater. As you can see, swarm works as either a noun or verb, and people could teach bees a thing or two about swarming.
+               theater. As you can see, swarm works as either a noun or verb, and people could teach bees a thing or two about swarming.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Government hospitals overwhelmed by swarms of indigent patients failed to give him immediate care.
-     >         The resort, though not even officially open, swarmed with people looking for fun anyway.
-     >         Now researchers are also trying to make them co-operate and work in swarms.
-     >         “We had to run and jump into a stream” to dodge the swarm, he says.
-     >         Google says it should help users navigate "Black Friday swarms", but one expert questioned its usefulness.
+[3m             > With red and white shirts swarming through the Real defence in alarming numbers Torres fell over the outstretched leg of Raphaël Varane inside the box.[0m
+[3m             > Two suspended arrangements of feathers evoke church vaults, but also swarming birds or locusts.[0m
+[3m             > They constantly shifted configuration, some expanding by swarming over their neighbors, others imploding when their constituent villages seceded and joined
+               other polities.[0m
+[3m             > Then the vultures started swarming, asking if she wanted to sell the label.[0m
+[3m             > Still, the distinctions may be lost on motorists who find any swarm of motorcycles disconcerting.[0m
 
- 1   A Large Or Dense Group Of Flying Insects.
-	 Eg.  "A Swarm Of Locusts"
+[35mSwarm[0m[36m /swɔːm/,[0m [91m[3mnoun[0m[0m | noun: swarm; plural noun: swarms
+      [32m1.[0m [37ma large or dense group of flying insects.[0m
+	   "a swarm of locusts"
+          • [37ma large number of honeybees that leave a hive en masse with a newly fertilized queen in order to establish a new colony.[0m
+	   "a swarm of bees"
+  	   [3msynonyms:[0m hive, flight, flock, covey
+		    "a swarm of bees"
+          • [37ma large number of people or things.[0m
+	   "a swarm of journalists"
+  	   [3msynonyms:[0m crowd, multitude, horde, host, mob, gang, throng, stream, mass, body, band, army, troop, legion, flock, herd, pack, drove, sea, array, myriad, pile ;
+                     knot, cluster, group
+		    "there was the usual swarm of gendarmes rushing around"
+          • [37ma series of similar-sized earthquakes occurring together, typically near a volcano.[0m
+          • [37ma large number of minor celestial objects occurring together in space, especially a dense shower of meteors.[0m
+    [91m[3mverb[0m[0m | verb: swarm; 3rd person present: swarms; past tense: swarmed; past participle: swarmed; gerund or present participle: swarming
+      [32m1.[0m [37m(of flying insects) move in or form a swarm.[0m
+	   "swarming locusts"
+          • [37m(of honeybees, ants, or termites) issue from the nest in large numbers in order to mate and found new colonies.[0m
+	   "the bees had swarmed and left the hive"
 
- 2   A Large Number Of Honeybees That Leave A Hive En Masse With A Newly Fertilized Queen In Order To Establish A New Colony.
-	 Eg.  "A Swarm Of Bees"
-	 Synonyms:  hive , flight , flock , covey , 
-
- 3   A Large Number Of People Or Things.
-	 Eg.  "A Swarm Of Journalists"
-	 Eg.  "There Was The Usual Swarm Of Gendarmes Rushing Around"
-	 Synonyms:  crowd , multitude , horde , host , mob , 
-
- 4   A Series Of Similar-Sized Earthquakes Occurring Together, Typically Near A Volcano.
-
- 5   A Large Number Of Minor Celestial Objects Occurring Together In Space, Especially A Dense Shower Of Meteors.
-
- 6   (Of Flying Insects) Move In Or Form A Swarm.
-	 Eg.  "Swarming Locusts"
-
- 7   (Of Honeybees, Ants, Or Termites) Issue From The Nest In Large Numbers In Order To Mate And Found New Colonies.
-	 Eg.  "The Bees Had Swarmed And Left The Hive"
-
- 8   Move Somewhere In Large Numbers.
-	 Eg.  "Protesters Were Swarming Into The Building"
-	 Eg.  "Reporters And Photographers Were Swarming All Over The Place"
-	 Synonyms:  flock , crowd , throng , stream , surge , 
-
- 9   Be Crowded Or Overrun With (Moving People Or Things).
-	 Eg.  "The Place Was Swarming With Police"
-	 Eg.  "The Field Was Swarming With Sightseers"
-	 Synonyms:  
+      [32m2.[0m [37mmove somewhere in large numbers.[0m
+	   "protesters were swarming into the building"
+  	   [3msynonyms:[0m flock, crowd, throng, stream, surge, flood, seethe, pack, crush
+		    "reporters and photographers were swarming all over the place"
+          • [37mbe crowded or overrun with (moving people or things).[0m
+	   "the place was swarming with police"
+  	   [3msynonyms:[0m be crowded with, be thronged with, be overrun with, be full of, abound in, be teeming with, be bristling with, bristle with, be alive with, be crawling
+                     with, be infested with, overflow with, brim with, be prolific in, be abundant in ;  be thick with, be lousy with
+		    "the field was swarming with sightseers"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+          [31mझुंड[0m             [31mझुंड में होना[0m      [31mमधुमक्खियों का झुंड[0m 
+          [31mभीड़[0m               [31mभीड़ लगाना[0m               [31mसमूह[0m        
+           [31mदल[0m              [31mवृक्ष पर चढ़ना[0m             [31mभीड[0m         

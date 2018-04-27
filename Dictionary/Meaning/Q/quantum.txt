@@ -1,26 +1,28 @@
-                                                                                     QUANTUM                                                                                      
-  SHORT        While quantum refers to a general quantity or size, it is most often used in physics as a measure of the smallest amount of something — usually energy — that
-               something can possess. The plural form is quanta.
-  LONG         In the 17th century, the word quantum, from the Latin word for "how much," referred to a portion. Quantum is usually a noun referring to a specific amount of
+[35m                                                                                     QUANTUM                                                                                      [0m
+[91m        SHORT  While quantum refers to a general quantity or size, it is most often used in physics as a measure of the smallest amount of something — usually energy — that
+               something can possess. The plural form is quanta.[0m
+[36m         LONG  In the 17th century, the word quantum, from the Latin word for "how much," referred to a portion. Quantum is usually a noun referring to a specific amount of
                something. However, it can also be used as an adjective, as in the phrase "quantum leap," where it refers to a sudden, important change.
                Outside of physics, the word might be used with "not" to refer to something insignificant, as in "There's not a quantum of truth in what you
-               say."
+               say."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “The people who try to build quantum computers, who sit on the floor upstairs from me, said fifteen years last year,” he told me.
-     >         Scientists at Sussex University say they are close to building a large scale quantum computer.
-     >         The Eagleworks scientists propose that the microwave photons are pushing against something called “quantum vacuum virtual plasma” — something that hasn't been
-               proven to exist.
-     >         Such bespoke materials might enable new classes of devices for quantum computing, spin sensing and more.
-     >         In the exotic world of quantum physics, Microsoft has set itself apart from its competitors by choosing a different path.
+[3m             > Hawking also discussed “M-theory,” which Leron Borsten of PhysicsWorld.com explains as “proposal for a unified quantum theory of the fundamental constituents
+               and forces of nature.”[0m
+[3m             > The project aims to exploit the bizarre behaviour shown by quantum systems to develop new technologies, such as super-secure communication systems and
+               miniature, ultra-accurate sensors.[0m
+[3m             > He received a bachelor’s degree in philosophy in 1951, writing an undergraduate thesis on causality in quantum mechanics, and a master’s degree in 1952.[0m
+[3m             > Quantum computing is still in its early days.[0m
+[3m             > Because a quantum of something is the smallest possible amount.[0m
 
- 1   A Discrete Quantity Of Energy Proportional In Magnitude To The Frequency Of The Radiation It Represents.
+[35mQuantum[0m[36m /ˈkwɒntəm/,[0m [91m[3mnoun[0m[0m | noun: quantum; plural noun: quanta
+      [32m1.[0m [37ma discrete quantity of energy proportional in magnitude to the frequency of the radiation it represents.[0m
+          • [37man analogous discrete amount of any other physical quantity, such as momentum or electric charge.[0m
+          • [37mthe unit quantity of acetylcholine released at a neuromuscular junction by a single synaptic vesicle, contributing a discrete small voltage to the measured
+            end-plate potential.[0m
 
- 2   An Analogous Discrete Amount Of Any Other Physical Quantity, Such As Momentum Or Electric Charge.
-
- 3   The Unit Quantity Of Acetylcholine Released At A Neuromuscular Junction By A Single Synaptic Vesicle, Contributing A Discrete Small Voltage To The Measured End-Plate Potential.
-
- 4   A Required Or Allowed Amount, Especially An Amount Of Money Legally Payable In Damages.
-	 Eg.  "The Court Must Determine The Quantum Of Compensation Due"
-
- 5   A Share Or Portion.
-	 Eg.  "Each Man Has Only A Quantum Of Compassion"
+      [32m2.[0m [37ma required or allowed amount, especially an amount of money legally payable in damages.[0m
+	   "the court must determine the quantum of compensation due"
+          • [37ma share or portion.[0m
+	   "each man has only a quantum of compassion"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mमात्रा[0m    [31mप्रमात्रा[0m 

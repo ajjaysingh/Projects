@@ -1,21 +1,26 @@
-                                                                                     PRUDENT                                                                                      
-  SHORT        Describe an action as prudent if it is the wise thing to do under the existing circumstances. If you're getting in trouble, it is probably prudent to keep
-               your mouth closed and just listen.
-  LONG         If you show good and careful judgment when handling practical matters, you can be described as prudent. Similarly, a wise and well-thought-through decision or
+[35m                                                                                     PRUDENT                                                                                      [0m
+[91m        SHORT  Describe an action as prudent if it is the wise thing to do under the existing circumstances. If you're getting in trouble, it is probably prudent to keep
+               your mouth closed and just listen.[0m
+[36m         LONG  If you show good and careful judgment when handling practical matters, you can be described as prudent. Similarly, a wise and well-thought-through decision or
                action can be called prudent. The word comes from a contracted form of the Latin prōvidēns from the verb "to foresee." The English word
-               provident "wise in planning for the future" is the non-contracted descendent of the same Latin root.
+               provident "wise in planning for the future" is the non-contracted descendent of the same Latin root.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         “The plan is modest, prudent and incredibly cheap,” he writes.
-     >         Given that, the education watchdog aptly named ProfessorWatchlist.org created a tool that would help them make a prudent decision while signing up for
-               classes.
-     >         Weinberger’s guidelines sound sensible and impressively prudent; they rightly focus on the connection between means and ends, as must any effective strategy.
-     >         She said it’s prudent to align the workforce to meet the needs of the business.
-     >         It said China will maintain a “prudent and neutral” monetary stance.
+[3m             > While there are no guidelines for checking your vitamin D blood level, it may be prudent in people with osteoporosis or certain other health conditions.[0m
+[3m             > Automakers soon must decide "when is it prudent to lift off the accelerator," Lentz said.[0m
+[3m             > It was a prudent move for both teams.[0m
+[3m             > But bad debts are creeping up too at India’s better-regarded—and usually more prudent—private banks.[0m
+[3m             > Defense Secretary Jim Mattis said “she’s just on her way up there because that’s where we thought it was most prudent.”[0m
 
- 1   Acting With Or Showing Care And Thought For The Future.
-	 Eg.  "No Prudent Money Manager Would Authorize A Loan Without First Knowing Its Purpose"
-	 Eg.  "It Is Not Always Prudent To Approach Strangers Found In Desolate Spots"
-	 Eg.  "A Prudent Approach To Borrowing"
-	 Eg.  "Phyllis Was A Prudent Shopper"
-	 Synonyms:  wise , well judged , judicious , sagacious , sage , 
-	 Antonyms:  unwise , imprudent , incautious , extravagant , 
+[35mPrudent[0m[36m /ˈpruːd(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: prudent
+          • [37macting with or showing care and thought for the future.[0m
+	   "no prudent money manager would authorize a loan without first knowing its purpose"
+  	   [3msynonyms:[0m wise, well judged, judicious, sagacious, sage, shrewd, advisable, well advised, politic, sensible, commonsensical  cautious, careful, canny, chary, wary,
+                     circumspect, far-sighted, forearmed ;  forehanded ;  forethoughtful  thrifty, provident, economical, canny, sparing, frugal,
+                     abstemious, scrimping
+		    "it is not always prudent to approach strangers found in desolate spots"
+  	   [3mantonyms:[0m unwise, imprudent, incautious, extravagant
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mविवेकी[0m      [31mबुद्धिमान[0m 
+     [31mचतुर[0m       [31mदूरदर्शी[0m  
+   [31mमितव्ययी[0m      [31mप्राज्ञ[0m  
+    [31mसावधान[0m     [31mप्रज्ञावान[0m 

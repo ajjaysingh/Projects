@@ -1,24 +1,27 @@
-                                                                                     ARCHAIC                                                                                      
-  SHORT        If you use the adjective archaic you are referring to something outmoded, belonging to an earlier period. Rotary phones and cassette players already seem so
-               archaic!
-  LONG         The adjective archaic means something that belongs to an earlier or antiquated time. It can also mean something that is outdated but can still be found in the
+[35m                                                                                     ARCHAIC                                                                                      [0m
+[91m        SHORT  If you use the adjective archaic you are referring to something outmoded, belonging to an earlier period. Rotary phones and cassette players already seem so
+               archaic![0m
+[36m         LONG  The adjective archaic means something that belongs to an earlier or antiquated time. It can also mean something that is outdated but can still be found in the
                present and therefore could seem out of place. The word comes from archaic (i.e., ancient) Greek, archaikos, and literally means "from
-               Classical Greek culture," though its meaning has broadened as it's been used in English.
+               Classical Greek culture," though its meaning has broadened as it's been used in English.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Beaked Perchten, frightening female figures who appear at Epiphany, probably derive from far more archaic beliefs.
-     >         A monolithic ax from the archaic woodland civilization of early Americans.
-     >         Navy, still wedded to archaic battleships, had only three carriers in the Pacific.
-     >         “Giuliani represents the old: an archaic system that systematically devalues black life.”
-     >         To them, heavy industry was something archaic, which you saw in a book.
+[3m             > “It’s an archaic system … It’s really a bad thing for the country,” the president said.[0m
+[3m             > Last week, Trump called House and Senate rules “archaic,” and urged they be abandoned.[0m
+[3m             > The kaiser was the product of an archaic monarchical system — the bad luck of the draw.[0m
+[3m             > Checks and balances are “an archaic system” and “really a bad thing for the country,” President Donald Trump said during an interview with Fox News.[0m
+[3m             > During an interview with Fox News to discuss his first 100 days as president, Trump denounced the constitutional system of checks and balances as “archaic.”[0m
 
- 1   Very Old Or Old-Fashioned.
-	 Eg.  "Prisons Are Run On Archaic Methods"
-	 Eg.  "An Archaic Word"
-	 Synonyms:  obsolete , obsolescent , out of date , old-fashioned , outmoded , 
-	 Antonyms:  new , modern , 
-
- 2   (Of A Word Or A Style Of Language) No Longer In Everyday Use But Sometimes Used To Impart An Old-Fashioned Flavour.
-	 Eg.  "A Term With A Rather Archaic Ring To It"
-
- 3   Of An Early Period Of Art Or Culture, Especially The 7Th–6Th Centuries Bc In Greece.
-	 Eg.  "The Archaic Temple At Corinth"
+[35mArchaic[0m[36m /ɑːˈkeɪɪk/,[0m [91m[3madjective[0m[0m | adjective: archaic
+          • [37mvery old or old-fashioned.[0m
+	   "prisons are run on archaic methods"
+  	   [3msynonyms:[0m obsolete, obsolescent, out of date, anachronistic, old-fashioned, outmoded, behind the times, bygone, antiquated, antique, superannuated, antediluvian,
+                     past its prime, having seen better days, olde worlde, old-fangled ;  ancient, very old, aged, prehistoric, primitive, of yore ;
+                     extinct, defunct, discontinued, discarded, fossilized, dead ;  passé, démodé ;  old hat, out of the ark
+		    "an archaic word"
+  	   [3mantonyms:[0m new, modern
+          • [37m(of a word or a style of language) no longer in everyday use but sometimes used to impart an old-fashioned flavour.[0m
+	   "a term with a rather archaic ring to it"
+          • [37mof an early period of art or culture, especially the 7th–6th centuries BC in Greece.[0m
+	   "the archaic temple at Corinth"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+   [31mपुरातन[0m   [31mप्राचीन[0m 

@@ -1,23 +1,30 @@
-                                                                                      CANDID                                                                                      
-  SHORT        Straightforward and truthful talk might be described with the adjective candid.  If you're always candid, your parents will know that they can trust you.
-  LONG         A serious-minded politician might suggest engaging in a "candid discussion" about a complicated topic like health care or the environment, because candid
+[35m                                                                                      CANDID                                                                                      [0m
+[91m        SHORT  Straightforward and truthful talk might be described with the adjective candid.  If you're always candid, your parents will know that they can trust you.[0m
+[36m         LONG  A serious-minded politician might suggest engaging in a "candid discussion" about a complicated topic like health care or the environment, because candid
                means "open" or "frank." Remember that TV show Candid Camera? It was called that because its hidden cameras supposedly showed a candid view of
                reality. In photography, candid has become a noun meaning "an unposed photo." The word comes from Latin candidus, meaning "white," which was
-               later extended to mean "pure." Candid talk provides the pure, unvarnished truth.
+               later extended to mean "pure." Candid talk provides the pure, unvarnished truth.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Watson, alternatively, has been candid about a wish to protect her back catalogue, aware she will always be associated with the Harry Potter films.
-     >         Even at its most melancholy depths, it brims with candid, earnest, indefatigable life.
-     >         Sometimes you get honest and candid, and sometimes you get antagonistic or defensive.
-     >         Bozmoski, a former climate denier, is particularly candid about Trump, whom he calls “freaking crazy.”
-     >         “But willing to give him counsel and willing to share experiences and have candid conversations about their views and their backgrounds.”
+[3m             > In person, she’s warm and candid, with a wry, wicked sense of humour and elfin looks.[0m
+[3m             > Asked what he learned from that experience, McIlroy was candid.[0m
+[3m             > Order was eventually restored after Ripa returned to “Live” with a candid live monologue about her feelings on the whole situation.[0m
+[3m             > She is keen to portray a candid version of herself, pimples and all.[0m
+[3m             > “I think I’m very candid and speak from my heart,” Freeze said.[0m
 
- 1   Truthful And Straightforward; Frank.
-	 Eg.  "His Responses Were Remarkably Candid"
-	 Eg.  "His Responses Were Remarkably Candid"
-	 Synonyms:  frank , outspoken , forthright , blunt , open , 
-	 Antonyms:  secretive , guarded , insincere , 
+[35mCandid[0m[36m /ˈkandɪd/,[0m [91m[3madjective[0m[0m | adjective: candid
+      [32m1.[0m [37mtruthful and straightforward; frank.[0m
+	   "his responses were remarkably candid"
+  	   [3msynonyms:[0m frank, outspoken, forthright, blunt, open, honest, truthful, sincere, direct, straightforward, plain-spoken, bluff, unreserved, downright, not afraid to
+                     call a spade a spade, straight from the shoulder, unvarnished, bald ;  heart-to-heart, intimate, personal, man-to-man, woman-to-
+                     woman ;  upfront, on the level ;  on the up and up ;  round, free-spoken
+		    "his responses were remarkably candid"
+  	   [3mantonyms:[0m secretive, guarded, insincere
 
- 2   (Of A Photograph Of A Person) Taken Informally, Especially Without The Subject'S Knowledge.
-	 Eg.  "It Is Better To Let The Photographer Mingle Among The Guests And Take Candid Shots"
-	 Eg.  "It'S Better To Let The Photographer Mingle And Take Candid Shots"
-	 Synonyms:  unposed , informal , uncontrived , unstudied , impromptu , 
+      [32m2.[0m [37m(of a photograph of a person) taken informally, especially without the subject's knowledge.[0m
+	   "it is better to let the photographer mingle among the guests and take candid shots"
+  	   [3msynonyms:[0m unposed, informal, uncontrived, unstudied, impromptu ;  spontaneous, extemporary, natural
+		    "it's better to let the photographer mingle and take candid shots"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mखरा[0m        [31mस्पष्ट[0m   
+  [31mस्पष्टवादी[0m      [31mसच्चा[0m   
+    [31mनिष्कपट[0m         [31m[0m      

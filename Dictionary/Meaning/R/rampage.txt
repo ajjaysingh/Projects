@@ -1,21 +1,24 @@
-                                                                                     RAMPAGE                                                                                      
-  SHORT        A rampage is when a group of people is destructive and out of control, like an angry, violent riot following an unpopular political decision.
-  LONG         A single individual can go on a rampage, wreaking havoc and destruction, but the word most often describes the actions of an angry mob. You can also use
+[35m                                                                                     RAMPAGE                                                                                      [0m
+[91m        SHORT  A rampage is when a group of people is destructive and out of control, like an angry, violent riot following an unpopular political decision.[0m
+[36m         LONG  A single individual can go on a rampage, wreaking havoc and destruction, but the word most often describes the actions of an angry mob. You can also use
                rampage as a verb, as when furious football fans rampage through a town overturning cars and setting things on fire. The word was originally
-               Scottish, from the Middle English ramp, "rave or rush wildly about."
+               Scottish, from the Middle English ramp, "rave or rush wildly about."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But mental health professionals question the efficacy of rampaging in a faux cubicle or whacking airborne glasses.
-     >         The $19.99 boots are made from polyurethane, the same material as other Rampage boots.
-     >         But there is no evidence that APG played any role in the shooting rampage, investigators said.
-     >         We feel the war rampaging through in faces like the rookie pilot, frightful before his first mission, not to return, we later hear.
-     >         You’ll recall that the Alexandrians made their fateful rampage on the Savior outpost last season as part of a deal they struck with him.
+[3m             > John Podesta: Trump is on a rampage to endanger the planet.[0m
+[3m             > Like the first two games, Thursday night provided another opening rampage.[0m
+[3m             > Police find no evidence of racism in San Diego pool party rampage.[0m
+[3m             > Peter Selis, 49, a white man, targeted African-American or Hispanic victims during Sunday evening's rampage, according to witnesses.[0m
+[3m             > The rampage began when the armed man forced a woman from her green SUV in Pico Rivera, a community southeast of downtown Los Angeles.[0m
 
- 1   (Especially Of A Large Group Of People) Move Through A Place In A Violent And Uncontrollable Manner.
-	 Eg.  "Several Thousand Demonstrators Rampaged Through The City"
-	 Eg.  "Stone-Throwing Mobs Rampaged Through The Streets"
-	 Synonyms:  riot , storm , charge , tear , rave , 
-
- 2   A Period Of Violent And Uncontrollable Behaviour By A Group Of People.
-	 Eg.  "Thugs Went On The Rampage And Wrecked A Classroom"
-	 Eg.  "A Sacked Chef Went On The Rampage In His Kitchen"
-	 Synonyms:  berserk , wild , violent , frenzied , riotous , 
+[35mRampage[0m [91m[3mverb[0m[0m | verb: rampage; 3rd person present: rampages; past tense: rampaged; past participle: rampaged; gerund or present participle: rampaging    /ramˈpeɪdʒ/
+      [32m1.[0m [37m(especially of a large group of people) move through a place in a violent and uncontrollable manner.[0m
+	   "several thousand demonstrators rampaged through the city"
+  	   [3msynonyms:[0m rush wildly/madly, riot, run riot, go on the rampage, run amok, go berserk, storm, charge, tear ;  rave ;  steam
+		    "stone-throwing mobs rampaged through the streets"
+    [91m[3mnoun[0m[0m | noun: rampage; plural noun: rampages    /ramˈpeɪdʒ,ˈrampeɪdʒ/
+      [32m1.[0m [37ma period of violent and uncontrollable behaviour by a group of people.[0m
+	   "thugs went on the rampage and wrecked a classroom"
+  	   [3msynonyms:[0m berserk, out of control, wild, violent, frenzied, running amok, rioting, riotous, destructive, rampaging ;  postal
+		    "a sacked chef went on the rampage in his kitchen"
+    [31m[4m[34mnoun[0m[0m[0m      [31m[4m[34mverb[0m[0m[0m        [31m[4m[34m[0m[0m[0m    
+        [31mहिसात्मक आचरण[0m        [31mक्रोध में उधर-इधर दौड़ना[0m            [31mहंगामा[0m          

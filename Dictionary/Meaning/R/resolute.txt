@@ -1,18 +1,27 @@
-                                                                                     RESOLUTE                                                                                     
-  SHORT        Use the adjective resolute to describe a purposeful and determined person, someone who wants to do something very much, and won't let anything get in the way.
-  LONG         "Milo thought for just a moment and then, with a resolute 'I shall,' volunteered to go," Norton Juster writes in the classic children's novel The Phantom
+[35m                                                                                     RESOLUTE                                                                                     [0m
+[91m        SHORT  Use the adjective resolute to describe a purposeful and determined person, someone who wants to do something very much, and won't let anything get in the way.[0m
+[36m         LONG  "Milo thought for just a moment and then, with a resolute 'I shall,' volunteered to go," Norton Juster writes in the classic children's novel The Phantom
                Tollbooth. From the way Milo said "I shall," we can infer that he was quite confident in his split-second decision, or at least made himself
                appear to be so. Some  near-synonyms for this word include resolved, adamant, unswerving, and unwavering. If you make a "resolute refusal" of
-               something, you're declaring you don't like it and never will.
+               something, you're declaring you don't like it and never will.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Initially, Mr. Trump might look like a winner, resolute in his defense of the working class.
-     >         In the days since the election, there have been many calls for anti-Trump forces to remain resolute in their resistance.
-     >         The NATO-led Resolute Support mission response teams at the airfield were treating the wounded and investigating the incident.
-     >         “An explosive device was detonated on Bagram airfield resulting in multiple casualties,” the Nato-led “Resolute Support” mission said in a statement.
-     >         "Resolute implementation of the policy package is essential to restore investor confidence," Ms Lagarde said.
+[3m             > Minnesota Gov. Mark Dayton, a Democrat, is resolute on that issue: “I would not entertain that notion,” he said.[0m
+[3m             > On October 7th, the Nobel committee announced that it would award him the Peace Prize for his “resolute efforts” to end the civil war.[0m
+[3m             > Mr. Sessions was resolute on Sunday in arguing that the United States needed a more exacting immigration policy.[0m
+[3m             > That image, of Trump and his visitors gathered around the Resolute desk in the Oval Office, sends a clear and unmistakable message.[0m
+[3m             > Clinical in the first leg, resolute in the second, Juventus are deservedly through to the last four.[0m
 
- 1   Admirably Purposeful, Determined, And Unwavering.
-	 Eg.  "He Was Resolute In His Fight To Uphold Liberal Values"
-	 Eg.  "France'S Resolute Defence Of Verdun"
-	 Synonyms:  determined , purposeful , purposive , resolved , decided , 
-	 Antonyms:  irresolute , half-hearted , 
+[35mResolute[0m[36m /ˈrɛzəluːt/,[0m [91m[3madjective[0m[0m | adjective: resolute
+          • [37madmirably purposeful, determined, and unwavering.[0m
+	   "he was resolute in his fight to uphold liberal values"
+  	   [3msynonyms:[0m determined, purposeful, purposive, resolved, decided, adamant, single-minded, firm, unswerving, unwavering, undaunted, fixed, set, intent, insistent ;
+                     steadfast, staunch, stalwart, earnest, manful, deliberate, unfaltering, unhesitating, unflinching, persevering, persistent,
+                     pertinacious, indefatigable, tenacious, bulldog, strong-minded, strong-willed, unshakeable, unshaken, steely, four-square,
+                     dedicated, committed, constant ;  stubborn, dogged, obstinate, obdurate, inflexible, relentless, intransigent, implacable,
+                     unyielding, unbending, immovable, unrelenting ;  spirited, brave, bold, courageous, plucky, stout, stout-hearted, mettlesome,
+                     indomitable, strenuous, vigorous, gritty, stiff ;  rock-ribbed ;  gutsy, spunky ;  perseverant, indurate
+		    "France's resolute defence of Verdun"
+  	   [3mantonyms:[0m irresolute, half-hearted
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mदृढ़[0m      [31mदृढ़निश्चयी[0m 
+     [31mस्थिर[0m      [31mदृढ़संकल्पी[0m 

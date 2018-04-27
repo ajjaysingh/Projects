@@ -1,34 +1,46 @@
-                                                                                     SUBDUED                                                                                      
-  SHORT        The adjective subdued refers to something, like a sound, that has a lowered intensity. Your loud conversation with a friend in the back of the classroom is
-               likely to become subdued when the teacher passes out the exams.
-  LONG         The word subdued is related to the Latin word, subdere, which means "to subtract from." Something that is subdued has lost some of its strength or intensity.
+[35m                                                                                     SUBDUED                                                                                      [0m
+[91m        SHORT  The adjective subdued refers to something, like a sound, that has a lowered intensity. Your loud conversation with a friend in the back of the classroom is
+               likely to become subdued when the teacher passes out the exams.[0m
+[36m         LONG  The word subdued is related to the Latin word, subdere, which means "to subtract from." Something that is subdued has lost some of its strength or intensity.
                Subdued lighting might create a romantic mood at a restaurant. And a subdued child is one who is no longer having a fit. A subdued economy is
-               probably pretty sluggish.
+               probably pretty sluggish.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The normally buoyant capital has been a notably subdued place since Castro’s death was announced Friday.
-     >         Cuba’s government declared nine days of national mourning after Castro died and this normally vibrant city has been notably subdued.
-     >         Lined up outdoors at the Coppelia ice cream parlor in downtown Havana, conversations were more subdued than the animated tones for which Cubans are famed.
-     >         Apart from the chanting students, Havana life went on largely as normal, only quieter and more subdued following the news of Castro's death.
-     >         He could not miss in the fourth, racing through the set with a barrage of spectacular shots against a subdued Cilic.
+[3m             > Police say the man barricaded himself in a beer cooler and told police to shoot him, but they subdued him with a stun device.[0m
+[3m             > The latter are justified in their subdued skepticism.[0m
+[3m             > In consequence, Spain never fully subdued the Maya.[0m
+[3m             > Across at Le Pen’s reception, the atmosphere was more subdued, but not what might be expected following her electoral thrashing.[0m
+[3m             > Many of the sculptures bear the colors that match their counterparts in the natural world, mostly subdued umbers and rusts, creams and taupes.[0m
 
- 1   (Of A Person Or Their Manner) Quiet And Rather Reflective Or Depressed.
-	 Eg.  "I Felt Strangely Subdued As I Drove Home"
-	 Eg.  "Lewis'S Subdued Air Had Changed To One Of High Good Humour"
-	 Eg.  "They Chatted In Subdued Tones"
-	 Synonyms:  sombre , low-spirited , downcast , sad , dejected , 
-	 Antonyms:  lively , cheerful , loud , noisy , 
+[35mSubdued[0m[36m /səbˈdjuːd/,[0m [91m[3madjective[0m[0m | adjective: subdued
+      [32m1.[0m [37m(of a person or their manner) quiet and rather reflective or depressed.[0m
+	   "I felt strangely subdued as I drove home"
+  	   [3msynonyms:[0m sombre, low-spirited, downcast, sad, dejected, depressed, low, gloomy, despondent, dispirited, disheartened, forlorn, woebegone ;  restrained, repressed,
+                     inactive, spiritless, lifeless, dull, unresponsive, withdrawn, pensive, thoughtful, preoccupied, quiet ;  down in the mouth, down in
+                     the dumps, out of sorts, in the doldrums, with a long face ;  brassed off, cheesed off, browned off ;  teed off, ticked off  hushed,
+                     muted, quiet, low, soft, gentle, whispered, murmured, faint, muffled, indistinct, inaudible ;  noiseless, soundless, silent, still,
+                     calm
+		    "Lewis's subdued air had changed to one of high good humour"
+  	   [3mantonyms:[0m lively, cheerful, loud, noisy
 
- 2   (Of Colour Or Lighting) Soft And Restrained.
-	 Eg.  "A Subdued Glow Came Through The Curtains"
-	 Eg.  "The Subdued Light Made Mary Appear Pale"
-	 Synonyms:  dim , muted , soft , low-key , subtle , 
-	 Antonyms:  bright , 
-
- 3   Overcome, Quieten, Or Bring Under Control (A Feeling Or Person).
-	 Eg.  "She Managed To Subdue An Instinct To Applaud"
-	 Eg.  "He Is Said To Have Slain Or Subdued All Those Who Had Plotted Against Him"
-	 Eg.  "She Could Not Subdue Her Longing For Praise"
-	 Synonyms:  conquer , defeat , vanquish , overpower , overcome , 
-
- 4   Bring (A Country Or People) Under Control By Force.
-	 Eg.  "Charles Went On A Campaign To Subdue The Saxons"
+      [32m2.[0m [37m(of colour or lighting) soft and restrained.[0m
+	   "a subdued glow came through the curtains"
+  	   [3msynonyms:[0m dim, muted, toned down, softened, soft, lowered, shaded, low-key, subtle, unobtrusive, understated ;  sombre, dreary, dark
+		    "the subdued light made Mary appear pale"
+  	   [3mantonyms:[0m bright
+[35mSubdue[0m[36m /səbˈdjuː/,[0m [91m[3mverb[0m[0m
+	past tense: subdued; past participle: subdued
+          • [37movercome, quieten, or bring under control (a feeling or person).[0m
+	   "she managed to subdue an instinct to applaud"
+  	   [3msynonyms:[0m conquer, defeat, vanquish, get the better of, overpower, overcome, overwhelm, crush, quash, quell, beat, trounce, subjugate, master, suppress, gain the
+                     upper hand over, triumph over, tame, bring someone to their knees, hold in check, humble, chasten, cow ;  lick, thrash, wipe the
+                     floor with, clobber, demolish, hammer, make mincemeat of, walk all over  curb, restrain, hold back, constrain, contain, inhibit,
+                     repress, suppress, stifle, smother, check, keep in check, arrest, bridle, rein in ;  control, govern, master, quash, quell ;
+                     moderate, tone down, diminish, lessen, damp ;  lick, nip in the bud, keep a/the lid on
+		    "he is said to have slain or subdued all those who had plotted against him"
+          • [37mbring (a country or people) under control by force.[0m
+	   "Charles went on a campaign to subdue the Saxons"
+  [31m[4m[34madjective[0m[0m[0m
+      [31mमातहत[0m     
+      [31mवशीभूत[0m    
+  [31mअधीन किया हुआ[0m 
+   [31mनरम किया हुआ[0m 

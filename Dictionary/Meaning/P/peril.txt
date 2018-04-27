@@ -1,24 +1,28 @@
-                                                                                      PERIL                                                                                       
-  SHORT        If you realize mid-climb that your rock climbing rope is frayed, you might be in peril. The word peril means imminent danger to life and limb.
-  LONG         Peril comes from the Latin peric(u)lum, meaning danger. Today it's often used in tandem with the word mortal, which relates to death. For example, you're in
+[35m                                                                                      PERIL                                                                                       [0m
+[91m        SHORT  If you realize mid-climb that your rock climbing rope is frayed, you might be in peril. The word peril means imminent danger to life and limb.[0m
+[36m         LONG  Peril comes from the Latin peric(u)lum, meaning danger. Today it's often used in tandem with the word mortal, which relates to death. For example, you're in
                mortal peril when you're flying down a cliff-side trail on your mountain bike and you hit loose gravel. Peril can also describe dangers of a
                less physical sort, though it's less common. If your employer sinks your 401K into what turns out to be a Ponzi scheme, he's put your
-               retirement in peril.
+               retirement in peril.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         That’s the debate that Britain – bigger, richer, more powerful – keeps avoiding at its peril.
-     >         Most impressively, she keeps The Shallows from devolving into B-movie fluff by making her character’s peril feel all too real.
-     >         In Ross, Trump has tapped a like-minded businessman who understands the prospects for both profit and peril in restoring American manufacturing.
-     >         From ignoring the peril to our planet to helping heal the planet.
-     >         Ladies and gentlemen, I added the bits from candidate Trump as a reminder of the peril we face.
+[3m             > Guterres told a UK-hosted international conference on Somalia that the “country’s future hangs in the balance between peril and potential”.[0m
+[3m             > The peril of irrigation for farmers is evaporation.[0m
+[3m             > Murray’s once-ascendant political career appears now to be in peril, at least, and perhaps over.[0m
+[3m             > There’s a car crash and an off-screen death, as well as threats and characters in peril.[0m
+[3m             > Shortly after being diagnosed with type I diabetes, Amanda Perkins learned about the perils of pre-existing conditions when she starting trying to buy health
+               insurance.[0m
 
- 1   Serious And Immediate Danger.
-	 Eg.  "You Could Well Place Us Both In Peril"
-	 Eg.  "A Situation Fraught With Peril"
-	 Synonyms:  danger , jeopardy , risk , hazard , insecurity , 
-	 Antonyms:  safety , security , 
-
- 2   The Risks Or Difficulties That Arise From A Particular Situation Or Activity.
-	 Eg.  "She First Witnessed The Perils Of Pop Stardom A Decade Ago"
-
- 3   Expose To Danger; Threaten.
-	 Eg.  "Jonathon Perilled His Life For Love Of David"
+[35mPeril[0m[36m /ˈpɛrɪl,ˈpɛr(ə)l/,[0m [91m[3mnoun[0m[0m | noun: peril; plural noun: perils
+      [32m1.[0m [37mserious and immediate danger.[0m
+	   "you could well place us both in peril"
+  	   [3msynonyms:[0m danger, jeopardy, risk, riskiness, hazard, insecurity, uncertainty, menace, threat, perilousness ;  pitfall, problem
+		    "a situation fraught with peril"
+  	   [3mantonyms:[0m safety, security
+          • [37mthe risks or difficulties that arise from a particular situation or activity.[0m
+	   "she first witnessed the perils of pop stardom a decade ago"
+    [91m[3mverb archaic[0m[0m | verb: peril; 3rd person present: perils; past tense: perilled; past participle: perilled; past tense: periled; past participle: periled; gerund or present participle: perilling; gerund or present participle: periling
+      [32m1.[0m [37mexpose to danger; threaten.[0m
+	   "Jonathon perilled his life for love of David"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mजोखिम[0m      [31mखतरा[0m  
+    [31mआपदा[0m      [31mशंका[0m  

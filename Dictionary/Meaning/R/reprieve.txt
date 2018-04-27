@@ -1,32 +1,36 @@
-                                                                                     REPRIEVE                                                                                     
-  SHORT        A reprieve is a break in or cancellation of a painful or otherwise lousy situation. If you're being tortured, a reprieve is a break from whatever's tormenting
-               you.
-  LONG         For some, a night at the opera is a night of punishing boredom during which the only reprieve is the intermission. For others, it's baseball that feels like
+[35m                                                                                     REPRIEVE                                                                                     [0m
+[91m        SHORT  A reprieve is a break in or cancellation of a painful or otherwise lousy situation. If you're being tortured, a reprieve is a break from whatever's tormenting
+               you.[0m
+[36m         LONG  For some, a night at the opera is a night of punishing boredom during which the only reprieve is the intermission. For others, it's baseball that feels like
                torture. The seventh-inning stretch is the only reprieve from a night of endless waiting. Often, you'll hear reprieve used when a court or
                governor decides not to execute a prisoner. That prisoner is given a reprieve and will be allowed to live. He probably won't get a reprieve
-               from prison, though, unless he's found innocent.
+               from prison, though, unless he's found innocent.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         If you don’t receive it, I will have been reprieved.
-     >         Even Thanksgiving did not provide a reprieve from the extraordinary public efforts to cast doubt on Mr. Romney.
-     >         Hampshire remain in the top flight after being reprieved by the ECB, which relegated Durham after the county accepted a £3.8m financial aid package.
-     >         But their reprieve came just one day after word that the pardoned turkey alumni group has shrunk in the past year.
-     >         Shadows stretch for yards by 3 p.m., and by 5, the cold returns and the reprieve from winter is over.
+[3m             > Kevin Hart winces and weeps and keeps looking at his associates offstage, as if begging for reprieve.[0m
+[3m             > Urias offered Roberts a reprieve from one horror, but induced a different sort of fright.[0m
+[3m             > So this stopover in Seoul was meant to be a brief reprieve.[0m
+[3m             > Amid the celebration, there was acknowledgment that Macron’s victory may be just a temporary reprieve, since anti-E.U. forces remain powerful and growing in
+               France.[0m
+[3m             > Second, would a Le Pen defeat be anything more than a temporary reprieve from the ongoing European crisis?[0m
 
- 1   Cancel Or Postpone The Punishment Of (Someone, Especially Someone Condemned To Death).
-	 Eg.  "Under The New Regime, Prisoners Under Sentence Of Death Were Reprieved"
-	 Eg.  "She Was Sentenced To Death, But Was Reprieved"
-	 Synonyms:  pardon , spare , acquit , amnesty , respite , 
-	 Antonyms:  charge , punish , 
-
- 2   Abandon Or Postpone Plans To Close Or Abolish (Something).
-	 Eg.  "The Threatened Pits Could Be Reprieved"
-	 Eg.  "The Accident And Emergency Unit Has Also Been Reprieved"
-	 Synonyms:  save , rescue , 
-
- 3   A Cancellation Or Postponement Of A Punishment.
-	 Eg.  "He Accepted The Death Sentence And Refused To Appeal For A Reprieve"
-	 Eg.  "He Was Saved By A Last-Minute Reprieve"
-	 Synonyms:  remission , respite , pardon , amnesty , acquittal , 
-
- 4   A Cancellation Or Postponement Of An Undesirable Event.
-	 Eg.  "A Mother Who Faced Eviction Has Been Given A Reprieve"
+[35mReprieve[0m[36m /rɪˈpriːv/,[0m [91m[3mverb[0m[0m | verb: reprieve; 3rd person present: reprieves; past tense: reprieved; past participle: reprieved; gerund or present participle: reprieving
+      [32m1.[0m [37mcancel or postpone the punishment of (someone, especially someone condemned to death).[0m
+	   "under the new regime, prisoners under sentence of death were reprieved"
+  	   [3msynonyms:[0m grant a stay of execution to, cancel/postpone/commute/remit someone's punishment ;  pardon, spare, acquit, grant an amnesty to, amnesty ;  let off, let
+                     off the hook ;  respite
+		    "she was sentenced to death, but was reprieved"
+  	   [3mantonyms:[0m charge, punish
+          • [37mabandon or postpone plans to close or abolish (something).[0m
+	   "the threatened pits could be reprieved"
+  	   [3msynonyms:[0m save, rescue, grant a stay of execution to, give a respite to ;  take off the hit list
+		    "the accident and emergency unit has also been reprieved"
+    [91m[3mnoun[0m[0m | noun: reprieve; plural noun: reprieves
+      [32m1.[0m [37ma cancellation or postponement of a punishment.[0m
+	   "he accepted the death sentence and refused to appeal for a reprieve"
+  	   [3msynonyms:[0m stay of execution, cancellation of punishment, postponement of punishment, remission, suspension of punishment, respite ;  pardon, amnesty, acquittal ;
+                     continuance ;  let-off
+		    "he was saved by a last-minute reprieve"
+          • [37ma cancellation or postponement of an undesirable event.[0m
+	   "a mother who faced eviction has been given a reprieve"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+      [31mदण्डविराम[0m         [31mदण्डविराम करना[0m     [31mदंड निलंबित करना[0m 

@@ -1,34 +1,35 @@
-                                                                                     REELING                                                                                      
-  SHORT        A reel is a cylinder that can be wound with flexible material like film or fishing line. If you found dozens of reels of old home movies in your grandparents'
-               attic, you'd search for a projector.
-  LONG         You might find an old movie reel, a reel of copper wire, or a fishing reel. Use the reel on your fishing pole to reel in your fish! Yes, it’s a verb, too. And
+[35m                                                                                     REELING                                                                                      [0m
+[91m        SHORT  A reel is a cylinder that can be wound with flexible material like film or fishing line. If you found dozens of reels of old home movies in your grandparents'
+               attic, you'd search for a projector.[0m
+[36m         LONG  You might find an old movie reel, a reel of copper wire, or a fishing reel. Use the reel on your fishing pole to reel in your fish! Yes, it’s a verb, too. And
                it’s a lively folk dance — or the music for it — from Scotland (Highland reel), or America (Virginia reel). As a verb, reel also means to sway
-               from dizziness. If an ear infection messes with your balance, you might reel down the hall like you were drunk.
+               from dizziness. If an ear infection messes with your balance, you might reel down the hall like you were drunk.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         When Luther’s along, he often fills the time looking for sports cars and then reeling off facts and figures about them.
-     >         Argentine officials claimed at the time that China was retaliating for trade restrictions they imposed on Chinese manufacturing imports that had left local
-               competitors reeling.
-     >         Miami isn’t likely to throw much against the reeling Niners, who have dropped nine in a row.
-     >         Many in the camp are still reeling from Sunday night, when North Dakota law enforcement officials deployed water cannons amid sub-freezing temperatures.
-     >         But scientists say they’re steadily reeling in that whopper and by next summer will have the first Aquatic Environmental DNA Atlas available for the public.
+[3m             > A day after President Trump’s sudden firing of the F.B.I. director, James Comey, Washington was still reeling from the decision and its implications.[0m
+[3m             > In 1000 a.d., at the time of our imaginary overflight, both societies were reeling from a succession of terrible droughts.[0m
+[3m             > These are high-paying jobs and a godsend for cities reeling from factory layoffs.[0m
+[3m             > The country was reeling from each new revelation about its president.[0m
+[3m             > South Korea is still reeling from the money-for-influence scandal that engulfed the former president, who is currently awaiting trial after being impeached.[0m
 
- 1   Wind Something On To A Reel By Turning The Reel.
-	 Eg.  "Sailplanes Are Often Launched By Means Of A Wire Reeled In By A Winch"
+[35mReel[0m[36m /riːl/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: reeling
+      [32m1.[0m [37mwind something on to a reel by turning the reel.[0m
+	   "sailplanes are often launched by means of a wire reeled in by a winch"
+          • [37mbring in a fish attached to a line by turning a reel and winding in the line.[0m
+	   "he reeled in a good perch"
 
- 2   Bring In A Fish Attached To A Line By Turning A Reel And Winding In The Line.
-	 Eg.  "He Reeled In A Good Perch"
+      [32m2.[0m [37mlose one's balance and stagger or lurch violently.[0m
+	   "he punched Connolly in the ear, sending him reeling"
+  	   [3msynonyms:[0m stagger, lurch, sway, rock, stumble, totter, wobble, falter, waver, swerve, pitch, roll
+		    "Cormack reeled as the ship began to roll"
+          • [37mwalk in a staggering or lurching manner, especially while drunk.[0m
+	   "the two reeled out of the bar arm in arm"
+          • [37mfeel shocked, bewildered, or giddy.[0m
+	   "the Prime Minister was reeling from a savaging inflicted in the Commons"
+  	   [3msynonyms:[0m be shaken by, be stunned by, be in shock after, be shocked by, be numb from, be dazed by, be taken aback by, be staggered by, be aghast at, be
+                     dumbfounded at, be dumbstruck at, be upset by, be bowled over by, feel giddy/dizzy from, feel confused by
+		    "the Government was still reeling from the currency crisis"
 
- 3   Lose One'S Balance And Stagger Or Lurch Violently.
-	 Eg.  "He Punched Connolly In The Ear, Sending Him Reeling"
-	 Eg.  "Cormack Reeled As The Ship Began To Roll"
-	 Synonyms:  stagger , lurch , sway , rock , stumble , 
-
- 4   Walk In A Staggering Or Lurching Manner, Especially While Drunk.
-	 Eg.  "The Two Reeled Out Of The Bar Arm In Arm"
-
- 5   Feel Shocked, Bewildered, Or Giddy.
-	 Eg.  "The Prime Minister Was Reeling From A Savaging Inflicted In The Commons"
-	 Eg.  "The Government Was Still Reeling From The Currency Crisis"
-	 Synonyms:  
-
- 6   Dance A Reel.
+      [32m3.[0m [37mdance a reel.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mरीलिंग[0m 

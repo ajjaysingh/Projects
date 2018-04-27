@@ -1,18 +1,27 @@
-                                                                                     RETICENT                                                                                     
-  SHORT        Reticent means either quiet or restrained. If you're reticent about your feelings, you like to keep them to yourself, and you're probably quiet in rowdy
-               groups where everyone is talking over each other.
-  LONG         The original meaning of reticent describes someone who doesn’t like to talk. Be careful in your context, however. Reticent can refer to someone who is
+[35m                                                                                     RETICENT                                                                                     [0m
+[91m        SHORT  Reticent means either quiet or restrained. If you're reticent about your feelings, you like to keep them to yourself, and you're probably quiet in rowdy
+               groups where everyone is talking over each other.[0m
+[36m         LONG  The original meaning of reticent describes someone who doesn’t like to talk. Be careful in your context, however. Reticent can refer to someone who is
                restrained and formal, but it can also refer to someone who doesn’t want to draw attention to herself or who prefers seclusion to other people.
-               Don’t confuse reticent with reluctant, which means unwilling.
+               Don’t confuse reticent with reluctant, which means unwilling.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The locals are private about their traditions, reticent about discussing them and completely opposed to being photographed by outsiders.
-     >         We both knew that it had to deal with Arthur, but we were very reticent, very frightened of the implications of that.
-     >         But Chinese inventors were more reticent about seeking patent rights abroad.
-     >         Even the horn player, who was so reticent in the concerto that he could barely be heard, did himself proud here.
-     >         One reason teams are reticent to trade prospects isn’t always because of their upside on the field, but because they essentially amount to cheap labor.
+[3m             > But, he concedes, “All seven engineering schools at Saclay are reticent about institutional integration at the moment.”[0m
+[3m             > Alone at my desk, I entered into a kind of dialogue with these strangers I was too reticent to approach in person.[0m
+[3m             > A close friend of mine, whom I immensely admire, enthusiastically supported Sen. Bernie Sanders in the presidential primary, but was reticent to vote for
+               Clinton.[0m
+[3m             > A reluctant person is unwilling, but a reticent one is silent.[0m
+[3m             > But some who spoke with him for the film said he was not always so reticent.[0m
 
- 1   Not Revealing One'S Thoughts Or Feelings Readily.
-	 Eg.  "She Was Extremely Reticent About Her Personal Affairs"
-	 Eg.  "Smith Was Extremely Reticent About His Personal Affairs"
-	 Synonyms:  reserved , withdrawn , introverted , restrained , inhibited , 
-	 Antonyms:  expansive , garrulous , 
+[35mReticent[0m[36m /ˈrɛtɪs(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: reticent
+          • [37mnot revealing one's thoughts or feelings readily.[0m
+	   "she was extremely reticent about her personal affairs."
+  	   [3msynonyms:[0m reserved, withdrawn, introverted, restrained, inhibited, diffident, shy, modest, unassuming, shrinking, distant, undemonstrative, wouldn't say boo to a
+                     goose ;  uncommunicative, unforthcoming, unresponsive, tight-lipped, close-mouthed, close-lipped, quiet, taciturn, silent, guarded,
+                     secretive, private, media-shy, playing one's cards close to one's chest ;  mum
+		    "Smith was extremely reticent about his personal affairs."
+  	   [3mantonyms:[0m expansive, garrulous
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mअल्पभाषी[0m     [31mकम बोलने वाला[0m 
+
+
+[37m > Reluctant or unwilling to speak.[0m

@@ -1,17 +1,22 @@
-                                                                                     SPORADIC                                                                                     
-  SHORT        Sporadic is an adjective that you can use to refer to something that happens or appears often, but not constantly or regularly. The mail carrier comes every
-               day but the plumber's visits are sporadic––he comes as needed.
-  LONG         A specialized use of sporadic is to describe a disease that appears only occasionally in random cases, and is therefore not an epidemic.  English borrowed the
-               word sporadic from Greek sporadikós "scattered." A very near synonym is intermittent.
+[35m                                                                                     SPORADIC                                                                                     [0m
+[91m        SHORT  Sporadic is an adjective that you can use to refer to something that happens or appears often, but not constantly or regularly. The mail carrier comes every
+               day but the plumber's visits are sporadic––he comes as needed.[0m
+[36m         LONG  A specialized use of sporadic is to describe a disease that appears only occasionally in random cases, and is therefore not an epidemic.  English borrowed the
+               word sporadic from Greek sporadikós "scattered." A very near synonym is intermittent.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         There have been sporadic incidents of spillover fire that Israel has generally dismissed as tactical errors of the Assad regime.
-     >         In recent years, Fidel was given to writing his reflections in a sporadic series of columns published in the official Communist Party newspaper, Granma.
-     >         Services are sporadic at best, while the economy is teetering.
-     >         There is rudimentary lighting in the tomb, but the electricity is spotty, and there are sporadic blackouts.
-     >         We kept in touch during the campaign, drank the occasional Miller High Life in his office and exchanged the sporadic email.
+[3m             > When they do seek care, it is sporadic.[0m
+[3m             > Though the initiative gets sporadic media coverage, it is hardly general public knowledge.[0m
+[3m             > The wife’s visits became sporadic, and the husband’s stopped altogether.[0m
+[3m             > Over the next decade, Tulum’s moonlight raves and yoga classes continued, as did the sporadic evictions.[0m
+[3m             > This new turn for a long-running series offered a fine presentation of sporadic gems.[0m
 
- 1   Occurring At Irregular Intervals Or Only In A Few Places; Scattered Or Isolated.
-	 Eg.  "Sporadic Fighting Broke Out"
-	 Eg.  "We Braved The Sporadic Showers"
-	 Synonyms:  occasional , infrequent , irregular , periodical , periodic , 
-	 Antonyms:  frequent , regular , steady , continuous , 
+[35mSporadic[0m[36m /spəˈradɪk/,[0m [91m[3madjective[0m[0m | adjective: sporadic
+          • [37moccurring at irregular intervals or only in a few places; scattered or isolated.[0m
+	   "sporadic fighting broke out"
+  	   [3msynonyms:[0m occasional, infrequent, irregular, periodical, periodic, scattered, patchy, isolated, odd, uneven ;  intermittent, spasmodic, on and off, random, fitful,
+                     desultory, erratic, unpredictable
+		    "we braved the sporadic showers"
+  	   [3mantonyms:[0m frequent, regular, steady, continuous
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mछिटपुट[0m     [31mछितराया हुआ[0m 
+   [31mयत्र-तत्र[0m      [31mछुट-फुट[0m   

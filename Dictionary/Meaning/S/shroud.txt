@@ -1,38 +1,42 @@
-                                                                                      SHROUD                                                                                      
-  SHORT        Are the rules of calculus shrouded in mystery to you? The verb shroud means to hide or cover something or someone. The fog might shroud the valley, or that
-               long-sleeved, ankle-length dress might shroud the tan you worked so hard on in Mexico over Christmas break.
-  LONG         It used to be that corpses were dressed for burial not in person’s best outfit but in a shroud — a garment, often white, made to cover the body. When ghosts,
+[35m                                                                                      SHROUD                                                                                      [0m
+[91m        SHORT  Are the rules of calculus shrouded in mystery to you? The verb shroud means to hide or cover something or someone. The fog might shroud the valley, or that
+               long-sleeved, ankle-length dress might shroud the tan you worked so hard on in Mexico over Christmas break.[0m
+[36m         LONG  It used to be that corpses were dressed for burial not in person’s best outfit but in a shroud — a garment, often white, made to cover the body. When ghosts,
                zombies or mummies are depicted in rags, they are wearing the remains of their burial shrouds. If you should hide from them by covering
-               yourself with an abandoned tarp, you will be shrouding yourself from sight.
+               yourself with an abandoned tarp, you will be shrouding yourself from sight.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         In the enigmatic, haunting Hoarfrost series he used the old solvent technique to transfer ghost images from newspapers on to shrouds of chiffon and cotton.
-     >         Exactly how Christie’s downfall came about remains shrouded, but Kushner’s ability to achieve goals without leaving obvious signs fits his pattern.
-     >         He tried to inject a dose of optimism about the hobbled accord whose outlook for implementation is shrouded in uncertainty.
-     >         With a damp fog shrouding the football stadium at Western Michigan, P.J.
-     >         An artwork that will see visitors shrouded in artificial fog is to be part of a performance art exhibition at the Tate Modern.
+[3m             > The peaks, shrouded in silence, offer views over Lake Mead, high desert and the oasis of Vegas in the distance.[0m
+[3m             > The one she admits was shrouded for far too long in a fog of narcotics.[0m
+[3m             > “Crowd Shroud” is a mixed-up sedan chair — a hired conveyance once used to carry aristocrats through crowded London streets while sequestered from the rabble.[0m
+[3m             > He draped it with a large black shroud and wheeled it around in front of the jury in simulation of a funeral procession.[0m
+[3m             > The organization is shrouded by a nasty mist that shimmers with impending doom.[0m
 
- 1   A Length Of Cloth Or An Enveloping Garment In Which A Dead Person Is Wrapped For Burial.
-	 Eg.  "He Was Buried In A Linen Shroud"
-	 Eg.  "The Turin Shroud"
-	 Synonyms:  winding sheet , chrisom , 
+[35mShroud[0m[36m /ʃraʊd/,[0m [91m[3mnoun[0m[0m | noun: shroud; plural noun: shrouds
+      [32m1.[0m [37ma length of cloth or an enveloping garment in which a dead person is wrapped for burial.[0m
+	   "he was buried in a linen shroud"
+  	   [3msynonyms:[0m winding sheet, grave clothes, burial clothes, cerements, chrisom
+		    "the Turin Shroud"
+          • [37ma protective casing or cover.[0m
+	   "the trigger shroud prevents snagging on clothing"
 
- 2   A Protective Casing Or Cover.
-	 Eg.  "The Trigger Shroud Prevents Snagging On Clothing"
+      [32m2.[0m [37ma thing that envelops or obscures something.[0m
+	   "a shroud of mist"
+  	   [3msynonyms:[0m covering, cover, pall, cloak, mask, mantle, blanket, sheet, layer, overlay, envelope, cloud, veil, screen, curtain, canopy
+		    "a shroud of mist"
 
- 3   A Thing That Envelops Or Obscures Something.
-	 Eg.  "A Shroud Of Mist"
-	 Eg.  "A Shroud Of Mist"
-	 Synonyms:  covering , cover , pall , cloak , mask , 
+      [32m3.[0m [37ma set of ropes forming part of the standing rigging of a sailing boat and supporting the mast or topmast.[0m
+          • [37meach of the lines joining the canopy of a parachute to the harness.[0m
+	   noun: shroud line; plural noun: shroud lines
+    [91m[3mverb[0m[0m | verb: shroud; 3rd person present: shrouds; past tense: shrouded; past participle: shrouded; gerund or present participle: shrouding
+      [32m1.[0m [37mwrap or dress (a body) in a shroud for burial.[0m
+	   "the body was washed and shrouded"
 
- 4   A Set Of Ropes Forming Part Of The Standing Rigging Of A Sailing Boat And Supporting The Mast Or Topmast.
-
- 5   Each Of The Lines Joining The Canopy Of A Parachute To The Harness.
-	 Eg.  Noun: Shroud Line; Plural Noun: Shroud Lines
-
- 6   Wrap Or Dress (A Body) In A Shroud For Burial.
-	 Eg.  "The Body Was Washed And Shrouded"
-
- 7   Cover Or Envelop So As To Conceal From View.
-	 Eg.  "Mountains Shrouded By Cloud"
-	 Eg.  "A Sea Mist Shrouded The Jetties"
-	 Synonyms:  cover , envelop , veil , cloak , curtain , 
+      [32m2.[0m [37mcover or envelop so as to conceal from view.[0m
+	   "mountains shrouded by cloud"
+  	   [3msynonyms:[0m cover, envelop, veil, cloak, curtain, swathe, wrap, blanket, screen, cloud, mantle, conceal, hide, disguise, mask, obscure, surround, overlay, clothe ;
+                     enshroud
+		    "a sea mist shrouded the jetties"
+    [31m[4m[34m[0m[0m[0m     [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m 
+           [31mकफन[0m                     [31mकफ़न[0m                   [31mढांकना[0m        
+        [31mशव परिधान[0m                 [31mढक्कन[0m                    [31mढकना[0m         
+  [31mमुर्दा लपेटने की चादर[0m            [31mआवरण[0m                   [31mछिपाना[0m        

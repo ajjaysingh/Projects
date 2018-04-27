@@ -1,18 +1,23 @@
-                                                                                     SUBVERT                                                                                      
-  SHORT        When you subvert something, your words or actions criticize or undermine the usual way of doing something or common values. The girl who wears a tuxedo to the
-               prom might subvert traditional ideas about beauty.
-  LONG         To subvert an institution like a school or a government is to overthrow it or stop its normal way of functioning. Subvert comes from the Latin word
+[35m                                                                                     SUBVERT                                                                                      [0m
+[91m        SHORT  When you subvert something, your words or actions criticize or undermine the usual way of doing something or common values. The girl who wears a tuxedo to the
+               prom might subvert traditional ideas about beauty.[0m
+[36m         LONG  To subvert an institution like a school or a government is to overthrow it or stop its normal way of functioning. Subvert comes from the Latin word
                subvertere, which combines the prefix sub, under, and the suffix vertere, to turn. So you can imagine something that subverts as overturning or
-               flipping the usual way of doing things, like a student who subverts a teacher's authority, causing chaos in the classroom.
+               flipping the usual way of doing things, like a student who subverts a teacher's authority, causing chaos in the classroom.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Now 79, Beatty has made a career out of subverting norms, so few will be shocked that his latest film does the same.
-     >         Most ingeniously, it subverts the glamorous, dutiful image of Kate, here a closet feminist not content to be a “plastic doll” for public display.
-     >         Biller subverts the genre’s gender roles, focusing on a powerful but lonely female villain.
-     >         He subverted the sunny title phrase of “I Don’t Worry About a Thing” with the next line: “because I know nothing’s gonna be all right.”
-     >         Notably, he also subverts the idea that this violation will be the most defining or interesting thing about her.
+[3m             > The Russians need no longer expend their energies trying to subvert the integrity of our political system.[0m
+[3m             > The need for community engagement is crucial, and something Barbieri said is essential to subverting disaster.[0m
+[3m             > How British democracy was subverted through a covert, far-reaching plan of coordination enabled by a US billionaire.[0m
+[3m             > On “Silicon Valley,” for example, Nanjiani’s character fulfills some stereotypes and subverts others.[0m
+[3m             > One of the more interesting new songs, “We’ve Been Here Before,” actually subverts that process.[0m
 
- 1   Undermine The Power And Authority Of (An Established System Or Institution).
-	 Eg.  "An Attempt To Subvert Democratic Government"
-	 Eg.  "A Plot To Subvert The State"
-	 Eg.  "He Tried To Subvert The Minds Of Innocent Teenagers"
-	 Synonyms:  destabilize , unsettle , overthrow , overturn , topple , 
+[35mSubvert[0m[36m /səbˈvəːt/,[0m [91m[3mverb[0m[0m | verb: subvert; 3rd person present: subverts; past tense: subverted; past participle: subverted; gerund or present participle: subverting
+          • [37mundermine the power and authority of (an established system or institution).[0m
+	   "an attempt to subvert democratic government"
+  	   [3msynonyms:[0m destabilize, unsettle, overthrow, overturn ;  bring down, bring about the downfall of, topple, depose, oust, supplant, unseat, dethrone, disestablish,
+                     dissolve ;  disrupt, wreak havoc on, sabotage, ruin, upset, destroy, annihilate, demolish, wreck, undo, undermine, undercut, weaken,
+                     impair, damage  corrupt, pervert, warp, deprave, defile, debase, distort, contaminate, poison, embitter ;  vitiate
+		    "a plot to subvert the state"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+        [31mपलट देना[0m             [31mध्वंस करना[0m     
+         [31mउतारना[0m         [31mव्‍यवस्‍था भंग करना[0m 

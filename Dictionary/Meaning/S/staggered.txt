@@ -1,40 +1,44 @@
-                                                                                    STAGGERED                                                                                     
-  SHORT        If you see someone stagger out of a bar, or walk unsteadily, like he's about to fall, chances are he's had a few too many drinks.
-  LONG         The word stagger isn't just used to describe the physical action of stumbling. When you're really shocked about a piece of news, it can stagger or shock you.
+[35m                                                                                    STAGGERED                                                                                     [0m
+[91m        SHORT  If you see someone stagger out of a bar, or walk unsteadily, like he's about to fall, chances are he's had a few too many drinks.[0m
+[36m         LONG  The word stagger isn't just used to describe the physical action of stumbling. When you're really shocked about a piece of news, it can stagger or shock you.
                When you want to spread something out overtime, like paying a large bill, you can stagger the payments over time.  But, remember that if you
-               fall behind, the debt you fall into might stagger you.
+               fall behind, the debt you fall into might stagger you.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         So the N.W.H.L.’s players were staggered when they were notified on Thursday that their salaries would be cut to keep the league afloat this season.
-     >         There were those, France recalls, who, desperate to maintain the sexual freedom that had given their community meaning, staggered forward in acute denial.
-     >         Elections are staggered, so as to distribute them across time.
-     >         But Woodley knocked down Thompson twice in Round 4, the second time punishing him while Thompson remarkably staggered to his feet.
-     >         Between August and December, China is holding staggered local elections across the country — an exercise in “grass-roots democracy” on a daunting scale.
+[3m             > At the end the drunken crew staggered through the palace, smashing the crockery and setting the whole place afire.[0m
+[3m             > Five large sheets of paper, marked in black and hung in a staggered arrangement, are complemented by black thread and pieces of burned felt.[0m
+[3m             > When Jones arrived, they were already drunk, and staggered back aboard their boat.[0m
+[3m             > Margins were squeezed by the company's decision to pass on commodity prices to consumers in developing and emerging markets in a staggered manner.[0m
+[3m             > The Party Ponies tried to form ranks, but they staggered and giggled and they all smelled like root beer.[0m
 
- 1   Walk Or Move Unsteadily, As If About To Fall.
-	 Eg.  "He Staggered To His Feet, Swaying A Little"
-	 Eg.  "Sonny Took The Blow On The Temple And Staggered Sideways"
-	 Synonyms:  lurch , reel , sway , teeter , totter , 
+[35mStagger[0m[36m /ˈstaɡə/,[0m [91m[3mverb[0m[0m
+	past tense: staggered; past participle: staggered
+      [32m1.[0m [37mwalk or move unsteadily, as if about to fall.[0m
+	   "he staggered to his feet, swaying a little"
+  	   [3msynonyms:[0m lurch, walk unsteadily, reel, sway, teeter, totter, stumble, wobble, move clumsily, weave, flounder, falter, pitch, roll
+		    "Sonny took the blow on the temple and staggered sideways"
+          • [37mcontinue in existence or operation uncertainly or precariously.[0m
+	   "the treasury staggered from one crisis to the next"
+          • [37mwaver in purpose; hesitate.[0m
+          • [37m(of a blow) cause (someone) to walk or move unsteadily, as if about to fall.[0m
+	   "the collision staggered her and she fell"
 
- 2   Continue In Existence Or Operation Uncertainly Or Precariously.
-	 Eg.  "The Treasury Staggered From One Crisis To The Next"
+      [32m2.[0m [37mastonish or deeply shock.[0m
+	   "I was staggered to find it was six o'clock"
+  	   [3msynonyms:[0m astonish, amaze, nonplus, startle, astound, surprise, bewilder, stun, flabbergast, shock, shake, stop someone in their tracks, stupefy, leave open-
+                     mouthed, take someone's breath away, dumbfound, daze, benumb, confound, disconcert, shatter, take aback, jolt, shake up ;  bowl
+                     over, knock for six, floor, blow someone's mind, strike dumb  astonished, astounded, amazed, stunned, thunderstruck, shattered,
+                     flabbergasted, nonplussed, taken aback, startled, surprised, bewildered, shocked, shell-shocked, shaken, stupefied, open-mouthed ;
+                     dumbfounded, dumbstruck, speechless, at a loss for words ;  dazed, benumbed, confounded, disconcerted, shaken up ;  bowled over,
+                     knocked for six, floored, flummoxed, caught on the hop, caught on the wrong foot, unable to believe one's eyes/ears ;  gobsmacked
+		    "I saw a sight that staggered me"
 
- 3   Waver In Purpose; Hesitate.
-
- 4   (Of A Blow) Cause (Someone) To Walk Or Move Unsteadily, As If About To Fall.
-	 Eg.  "The Collision Staggered Her And She Fell"
-
- 5   Astonish Or Deeply Shock.
-	 Eg.  "I Was Staggered To Find It Was Six O'Clock"
-	 Eg.  "I Saw A Sight That Staggered Me"
-	 Eg.  "She Was Staggered To Hear She Had A Rival"
-	 Synonyms:  astonish , amaze , nonplus , startle , astound , 
-
- 6   Arrange (Events, Payments, Hours, Etc.) So That They Do Not Occur At The Same Time.
-	 Eg.  "Meetings Are Staggered Throughout The Day"
-	 Eg.  "Meetings Are Staggered Throughout The Day"
-	 Synonyms:  overlap , 
-
- 7   Arrange (Objects Or Parts) In A Zigzag Formation Or So That They Are Not In Line.
-	 Eg.  "Stagger The Screws At Each Joint"
-	 Eg.  "Stagger The Screws At Each Joint"
-	 Synonyms:  alternate , step , 
+      [32m3.[0m [37marrange (events, payments, hours, etc.) so that they do not occur at the same time.[0m
+	   "meetings are staggered throughout the day"
+  	   [3msynonyms:[0m spread (out), space (out), time at intervals, overlap
+		    "meetings are staggered throughout the day"
+          • [37marrange (objects or parts) in a zigzag formation or so that they are not in line.[0m
+	   "stagger the screws at each joint"
+  	   [3msynonyms:[0m alternate, step, arrange in a zigzag
+		    "stagger the screws at each joint"
+  [31m[4m[34m[0m[0m[0m
+  [31mटेढ़े[0m 

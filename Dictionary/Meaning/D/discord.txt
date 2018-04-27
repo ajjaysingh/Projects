@@ -1,40 +1,43 @@
-                                                                                     DISCORD                                                                                      
-  SHORT        Discord is the strife and tension that arises when two sides disagree on something, like the high-pitched screaming of two kids fighting over the front seat
-               of the car.
-  LONG         Discord can be broken down into the prefix dis, meaning "different," and cord, which stems from an old word for "heart." So that leaves us with "different
+[35m                                                                                     DISCORD                                                                                      [0m
+[91m        SHORT  Discord is the strife and tension that arises when two sides disagree on something, like the high-pitched screaming of two kids fighting over the front seat
+               of the car.[0m
+[36m         LONG  Discord can be broken down into the prefix dis, meaning "different," and cord, which stems from an old word for "heart." So that leaves us with "different
                hearts." So if we're talking about music, discord means a lack of harmony — tones that clash so badly your ears bleed. But when there's discord
-               between people, their hearts are in different places — which usually results in more than a few raised voices clashing disharmoniously.
+               between people, their hearts are in different places — which usually results in more than a few raised voices clashing disharmoniously.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         For more than half a century, Obama recalled, the relationship “was marked by discord and profound political disagreements.”
-     >         “For nearly six decades, the relationship between the United States and Cuba was marked by discord and profound political disagreements,” he continued.
-     >         The dust-up was evidence of further discord among Republicans over Trump's candidacy.
-     >         However, as Americans gather this year, there is rancor and discord following the victory of Donald Trump in the 2016 presidential election.
-     >         Foreign countries, many of which pushed for the Skhirat agreement, have added to the discord.
+[3m             > The column’s headline: “The wall of discord,” a nod to Trump’s signature pledge to build a wall along the almost-2,000 mile border.[0m
+[3m             > This biography offers stunning insight, relayed with RBC’s inimitable panache, into the depths of DiMaggio’s inner discord.[0m
+[3m             > Benefits are also a major source of discord.[0m
+[3m             > We live in the age of trolls, sowing discord and spreading lies.[0m
+[3m             > As you might expect it contained a hilarious discord in the horns section, some off-key sonata and – LOL – a polytonal finale.[0m
 
- 1   Disagreement Between People.
-	 Eg.  "A Prosperous Family Who Showed No Signs Of Discord"
-	 Eg.  "Stress Resulting From Financial Difficulties Or Family Discord"
-	 Synonyms:  strife , conflict , friction , hostility , disagreement , 
-	 Antonyms:  agreement , accord , harmony , 
+[35mDiscord[0m [91m[3mnoun[0m[0m | noun: discord    /ˈdɪskɔːd/
+      [32m1.[0m [37mdisagreement between people.[0m
+	   "a prosperous family who showed no signs of discord"
+  	   [3msynonyms:[0m strife, conflict, friction, hostility ;  disagreement, lack of agreement, dissension, dispute, difference of opinion, discordance, disunity, division,
+                     incompatibility, variance ;  antagonism, antipathy, enmity, opposition, bad feeling, ill feeling, bad blood, argument, quarrelling,
+                     squabbling, bickering, wrangling, feuding, contention, clashing, falling-out, war, vendetta ;  jar ;  disaccord
+		    "stress resulting from financial difficulties or family discord"
+  	   [3mantonyms:[0m agreement, accord, harmony
+          • [37mlack of agreement or harmony between things.[0m
+	   "the discord between indigenous and Western cultures"
 
- 2   Lack Of Agreement Or Harmony Between Things.
-	 Eg.  "The Discord Between Indigenous And Western Cultures"
-
- 3   Lack Of Harmony Between Notes Sounding Together.
-	 Eg.  "The Music Faded In Discord"
-	 Eg.  "The Music Faded In Discord"
-	 Synonyms:  dissonance , disharmony , cacophony , jarring , 
-	 Antonyms:  harmony , 
-
- 4   A Chord Which (In Conventional Harmonic Terms) Is Regarded As Unpleasing Or Requiring Resolution By Another.
-	 Eg.  Plural Noun: Discords
-
- 5   Any Interval Except Unison, An Octave, A Perfect Fifth Or Fourth, A Major Or Minor Third And Sixth, Or Their Octaves.
-
- 6   A Single Note Dissonant With Another.
-
- 7   (Of People) Disagree.
-	 Eg.  "We Discorded Commonly On Two Points"
-
- 8   (Of Things) Be Different.
-	 Eg.  "The Party'S Views Were Apt To Discord With Those Of The Leading Members Of The Government"
+      [32m2.[0m [37mlack of harmony between notes sounding together.[0m
+	   "the music faded in discord"
+  	   [3msynonyms:[0m dissonance, discordance, lack of harmony, disharmony, cacophony, jarring, jangling
+		    "the music faded in discord"
+  	   [3mantonyms:[0m harmony
+          • [37ma chord which (in conventional harmonic terms) is regarded as unpleasing or requiring resolution by another.[0m
+	   plural noun: discords
+          • [37many interval except unison, an octave, a perfect fifth or fourth, a major or minor third and sixth, or their octaves.[0m
+          • [37ma single note dissonant with another.[0m
+    [91m[3mverb archaic[0m[0m | verb: discord; 3rd person present: discords; past tense: discorded; past participle: discorded; gerund or present participle: discording    /dɪsˈkɔːd/
+      [32m1.[0m [37m(of people) disagree.[0m
+	   "we discorded commonly on two points"
+          • [37m(of things) be different.[0m
+	   "the party's views were apt to discord with those of the leading members of the government"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m
+         [31mकलह[0m                [31mमतभेद[0m         [31mनाइत्तिफ़ाक़ होना[0m 
+         [31mफूट[0m              [31mअसामंजस्य[0m         [31mविसंगत हो जाना[0m  
+       [31mविसंगति[0m              [31mअनैक्य[0m           [31mअसम्मत होना[0m    
+        [31mविरोध[0m              [31mविस्वरता[0m           [31mविरोध करना[0m    

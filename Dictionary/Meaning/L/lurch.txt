@@ -1,29 +1,33 @@
-                                                                                      LURCH                                                                                       
-  SHORT        To lurch is to suddenly move — usually forward. If you are on a ship that lurches a lot during a storm, you may find your body lurching in one direction and
-               your stomach going in the opposite one.
-  LONG         The verb lurch can refer to any abrupt movement, but it often has the sense of a sharp turn up, down, or sideways. If you invest in the stock market, you have
+[35m                                                                                      LURCH                                                                                       [0m
+[91m        SHORT  To lurch is to suddenly move — usually forward. If you are on a ship that lurches a lot during a storm, you may find your body lurching in one direction and
+               your stomach going in the opposite one.[0m
+[36m         LONG  The verb lurch can refer to any abrupt movement, but it often has the sense of a sharp turn up, down, or sideways. If you invest in the stock market, you have
                to be prepared for sudden losses and gains as the stock market can lurch up or down on a whim. The verb also means to make sudden jerking
-               movements when walking, as if you cannot control your movements.
+               movements when walking, as if you cannot control your movements.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The U.S. government, anxious over Castro’s lurch to the left, began imposing economic restrictions and backing plots to overthrow him.
-     >         Legend sings — “Marching Into the Dark” shows off the album’s distinctive sound, with Mills’ nimble guitar playing over a lurching funk groove.
-     >         Temer’s administration has lurched from one scandal to the next, but until now, none has directly implicated the president.
-     >         But there’s little sign that Labour’s lurch to the left has put it any closer to power.
-     >         But they described how he lurched from one priority to another and had trouble building a loyal team.
+[3m             > My stomach lurches and I fling open the car door.[0m
+[3m             > The man lurched and lost his hold on the pillar and plunged over the edge of the platform to the tracks below.[0m
+[3m             > As a transit reporter for The Times, I spend a lot of time interviewing New Yorkers on lurching subway trains and jam-packed platforms.[0m
+[3m             > Rather than scramble back toward the center, Labour lurched further left.[0m
+[3m             > That’s where condemned inmate Kenneth Williams lurched and convulsed 20 times during a lethal injection execution Thursday that began with midazolam.[0m
 
- 1   Make An Abrupt, Unsteady, Uncontrolled Movement Or Series Of Movements; Stagger.
-	 Eg.  "The Car Lurched Forward"
-	 Eg.  "He Lurched Into The Kitchen"
-	 Eg.  "Scott Was Hurled Across A Bulkhead As The Ship Lurched"
-	 Synonyms:  stagger , stumble , sway , reel , roll , 
-	 Antonyms:  tiptoe , 
-
- 2   An Abrupt Uncontrolled Movement, Especially An Unsteady Tilt Or Roll.
-	 Eg.  "The Boat Gave A Violent Lurch And He Missed His Footing"
-
- 3   Leave An Associate Or Friend Abruptly And Without Assistance Or Support When They Are In A Difficult Situation.
-	 Eg.  "He Left You In The Lurch When You Needed Him Most"
-	 Eg.  "I Wouldn'T Have Left The Club If It Meant Leaving Them In The Lurch"
-	 Eg.  "Up To Ninety Farmers Will Be Left In The Lurch Following The Decision To Stop Funding"
-	 Synonyms:  abandon , desert , betray , forsake , abandon , 
-	 Antonyms:  help , support , 
+[35mLurch[0m[36m /ləːtʃ/,[0m [91m[3mverb[0m[0m | verb: lurch; 3rd person present: lurches; past tense: lurched; past participle: lurched; gerund or present participle: lurching
+      [32m1.[0m [37mmake an abrupt, unsteady, uncontrolled movement or series of movements; stagger.[0m
+	   "the car lurched forward"
+  	   [3msynonyms:[0m stagger, stumble, sway, reel, roll, weave, totter, flounder, falter, wobble, slip, move clumsily  sway, reel, list, roll, pitch, toss, keel, veer,
+                     labour, flounder, heel, swerve, make heavy weather ;  pitchpole
+		    "he lurched into the kitchen"
+  	   [3mantonyms:[0m tiptoe
+    [91m[3mnoun[0m[0m | noun: lurch; plural noun: lurches
+      [32m1.[0m [37man abrupt uncontrolled movement, especially an unsteady tilt or roll.[0m
+	   "the boat gave a violent lurch and he missed his footing"
+[35mLurch[0m[36m /ləːtʃ/,[0m [91m[3mnoun[0m[0m | noun: lurch
+          • [37mleave an associate or friend abruptly and without assistance or support when they are in a difficult situation.[0m
+	   "he left you in the lurch when you needed him most"
+  	   [3msynonyms:[0m leave in trouble, let down, leave helpless, leave stranded, leave high and dry, abandon, desert, betray ;  bail on ;  forsake  abandon, desert, leave,
+                     leave high and dry, turn one's back on, cast aside, break (up) with ;  jilt, strand, leave stranded, throw over ;  run/walk out on,
+                     dump, ditch ;  give someone the push, give someone the elbow, give someone the big E, bin off ;  forsake
+		    "I wouldn't have left the club if it meant leaving them in the lurch"
+  	   [3mantonyms:[0m help, support, come to the aid of, stick by
+    [31m[4m[34mnoun[0m[0m[0m        [31m[4m[34m[0m[0m[0m    
+  [31mअचानक एक ओर को लड़खड़ाहट[0m    [31mजहाज का यकायक उलट जाना[0m  

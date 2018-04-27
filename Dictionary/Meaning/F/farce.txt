@@ -1,27 +1,30 @@
-                                                                                      FARCE                                                                                       
-  SHORT        A farce is a broad satire or comedy, though now it's used to describe something that is supposed to be serious but has turned ridiculous. If a defendant is
-               not treated fairly, his lawyer might say that the trial is a farce.
-  LONG         As a type of comedy, a farce uses improbable situations, physical humor and silliness to entertain. Spoof films such as "Spaceballs," a comedy based on the
+[35m                                                                                      FARCE                                                                                       [0m
+[91m        SHORT  A farce is a broad satire or comedy, though now it's used to describe something that is supposed to be serious but has turned ridiculous. If a defendant is
+               not treated fairly, his lawyer might say that the trial is a farce.[0m
+[36m         LONG  As a type of comedy, a farce uses improbable situations, physical humor and silliness to entertain. Spoof films such as "Spaceballs," a comedy based on the
                Star Wars movies, are farces. If a real-life event or situation is a farce, it feels this ridiculous. An election is a farce, if the outcome
                has been determined before the voting begins. And class can feel like a farce if your substitute teacher knows less about the subject than you
-               do.
+               do.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         That would be a tragedy for all Thais, brought about by predictable economic farce.
-     >         Writer/director David O. Russell’s black comic farce is as brilliant as it is hysterically funny.
-     >         Writer-director David O. Russell’s black comic farce is as brilliant as it is hysterically funny.
-     >         A comic high point of the movie is a messy sexual accident played for farce.
-     >         "It is all a make-up and a farce," he said.
+[3m             > That episode occasioned Karl Marx’s celebrated statement about the way history repeats itself: “the first time as tragedy, the second time as farce.”[0m
+[3m             > He added another two-run single in the sixth, as the game descended into farce.[0m
+[3m             > And how does such a balancing farce work to address an estimated $700 million deficit the year after next?[0m
+[3m             > Based on Thornton Wilder’s piquant comedy “The Matchmaker,”  “Hello, Dolly!” flies its farce flag proudly.[0m
+[3m             > It’s a thoughtful drama and a hilarious farce, a play popping with rhymed couplets and earthy ­f-bombs.[0m
 
- 1   A Comic Dramatic Work Using Buffoonery And Horseplay And Typically Including Crude Characterization And Ludicrously Improbable Situations.
-	 Eg.  "He Toured The Backwoods In Second-Rate Farces"
-	 Eg.  "At One Or Two Points The Stories Approach Bedroom Farce"
-	 Synonyms:  slapstick , burlesque , vaudeville , travesty , buffoonery , 
-	 Antonyms:  tragedy , 
-
- 2   The Dramatic Genre Represented By Farces.
-	 Eg.  "The Choreographed Confusion Of Real Farce"
-
- 3   An Event Or Situation That Is Absurd Or Disorganized.
-	 Eg.  "The Debate Turned Into A Drunken Farce"
-	 Eg.  "He Denounced The Trial As A Farce"
-	 Synonyms:  absurdity , mockery , travesty , sham , pretence , 
+[35mFarce[0m[36m /fɑːs/,[0m [91m[3mnoun[0m[0m | noun: farce; plural noun: farces
+          • [37ma comic dramatic work using buffoonery and horseplay and typically including crude characterization and ludicrously improbable situations.[0m
+	   "he toured the backwoods in second-rate farces"
+  	   [3msynonyms:[0m slapstick comedy, broad comedy, slapstick, burlesque, vaudeville, travesty, buffoonery ;  skit, squib ;  pasquinade
+		    "at one or two points the stories approach bedroom farce"
+  	   [3mantonyms:[0m tragedy
+          • [37mthe dramatic genre represented by farces.[0m
+	   "the choreographed confusion of real farce"
+          • [37man event or situation that is absurd or disorganized.[0m
+	   "the debate turned into a drunken farce"
+  	   [3msynonyms:[0m absurdity, mockery, travesty, sham, pretence, masquerade, charade, piece of futility, joke, waste of time, laughing stock ;  apology, excuse, poor
+                     substitute ;  shambles
+		    "he denounced the trial as a farce"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mस्वांग[0m    [31mढोंग[0m  
+  [31mप्रहसन[0m    [31mपाखंड[0m 

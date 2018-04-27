@@ -1,26 +1,36 @@
-                                                                                     PALPABLE                                                                                     
-  SHORT        When something is palpable, you can touch or handle it, even though the word is often used to describe things that usually can't be handled or touched, such
-               as emotions or sensations.
-  LONG         You probably won't see palpable used to describe, say, an egg or a doorknob or a motorcycle. Palpable is usually reserved for situations in which something
+[35m                                                                                     PALPABLE                                                                                     [0m
+[91m        SHORT  When something is palpable, you can touch or handle it, even though the word is often used to describe things that usually can't be handled or touched, such
+               as emotions or sensations.[0m
+[36m         LONG  You probably won't see palpable used to describe, say, an egg or a doorknob or a motorcycle. Palpable is usually reserved for situations in which something
                invisible becomes so intense that it feels as though it has substance or weight. When the towers came down, the sense of sadness was so great,
-               it was palpable.
+               it was palpable.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         As she talks about him, she folds over herself, head in her skirt, and the fear is palpable in her eyes.
-     >         “I just remember feeling a palpable sense of awe at The Band’s musicianship,” he said by email.
-     >         Their sense of loss is palpable, as Trump understood.
-     >         The people’s anger was real and palpable, and yet it was also vulnerable to whomever in charge.
-     >         Max spoke about an invisible, ever-present sense of vulnerability that for many women is palpable.
+[3m             > Welsh fears of being overrun by immigrants — a key motivator of Brexit voters last year — is palpable.[0m
+[3m             > The plan was poorly handled and executed; the fallout and chaos it caused were palpable.[0m
+[3m             > And above all, a luminous star of physical prowess and palpable romantic presence.[0m
+[3m             > It’s with a palpable sense of unease that the federal panel contemplates using tweets and speeches and websites to determine presidential intent.[0m
+[3m             > When Blige split with her husband and manager of 13 years, there was palpable excitement for new music.[0m
 
- 1   Able To Be Touched Or Felt.
-	 Eg.  "The Palpable Bump At The Bridge Of The Nose"
-	 Eg.  "A Palpable Bump At The Bridge Of The Nose"
-	 Synonyms:  tangible , noticeable , solid , concrete , material , 
+[35mPalpable[0m[36m /ˈpalpəb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: palpable
+      [32m1.[0m [37m(of a feeling or atmosphere) so intense as to seem almost tangible.[0m
+	   "a palpable sense of loss"
+  	   [3msynonyms:[0m perceptible, perceivable, visible, noticeable, appreciable, discernible, detectable, observable, tangible, recognizable, notable, unmistakable,
+                     transparent, indisputable, self-evident, incontrovertible, incontestable, undeniable ;  obvious, clear, plain, plain to see,
+                     evident, apparent, manifest, patent, marked, conspicuous, pronounced, striking, distinct ;  as plain as a pikestaff, as plain as the
+                     nose on one's face, standing/sticking out like a sore thumb, standing/sticking out a mile, right under one's nose, staring one in
+                     the face, writ large, beyond doubt, beyond question, written all over someone, as clear as day, blinding, inescapable, overt, open,
+                     undisguised, unconcealed, glaring, blatant, flagrant, barefaced, gross, stark
+		    "his reluctance was palpable"
+  	   [3mantonyms:[0m intangible, imperceptible
+          • [37mplain to see or comprehend.[0m
+	   "to talk of dawn raids in the circumstances is palpable nonsense"
 
- 2   (Of A Feeling Or Atmosphere) So Intense As To Seem Almost Tangible.
-	 Eg.  "A Palpable Sense Of Loss"
-	 Eg.  "His Reluctance Was Palpable"
-	 Synonyms:  perceptible , visible , noticeable , appreciable , discernible , 
-	 Antonyms:  intangible , imperceptible , 
-
- 3   Plain To See Or Comprehend.
-	 Eg.  "To Talk Of Dawn Raids In The Circumstances Is Palpable Nonsense"
+      [32m2.[0m [37mable to be touched or felt.[0m
+	   "the palpable bump at the bridge of the nose"
+  	   [3msynonyms:[0m tangible, touchable, noticeable, detectable, solid, concrete, material, substantial, real
+		    "a palpable bump at the bridge of the nose"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mस्पष्ट[0m         [31mसाफ[0m    
+   [31mस्पर्शनीय[0m    [31mसुस्पष्ट[0m  
+     [31mमहसूस[0m     [31mछूने योग्य[0m 
+  [31mस्पष्टगोचर[0m        [31m[0m      

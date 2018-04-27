@@ -1,23 +1,28 @@
-                                                                                      CONFER                                                                                      
-  SHORT        If you gab, chat, and talk it up with someone, you have conversation, but if you're looking for input from each other as you talk, you confer, or consult,
-               together. They had a family meeting to confer about a schedule for sharing the new laptop.
-  LONG         Many uses of the verb confer involve consulting with another person or as a group. Confer has a second use meaning "bestow," which means to award or hand over
+[35m                                                                                      CONFER                                                                                      [0m
+[91m        SHORT  If you gab, chat, and talk it up with someone, you have conversation, but if you're looking for input from each other as you talk, you confer, or consult,
+               together. They had a family meeting to confer about a schedule for sharing the new laptop.[0m
+[36m         LONG  Many uses of the verb confer involve consulting with another person or as a group. Confer has a second use meaning "bestow," which means to award or hand over
                something. You can confer a medal on a winner or hero, or you can confer status through a promotion or assignment. Each year the teacher would
-               confer the special honor of summer hamster-sitter on one responsible student.
+               confer the special honor of summer hamster-sitter on one responsible student.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Inclusion on the list confers on the state an obligation to safeguard the tradition.
-     >         New Zealand’s government recently conferred the rights of a person on a national park sacred to the Maori people.
-     >         Might the introspection and retrospection of writing serve as one source of grace that transforms it from a gift received to a gift conferred?
-     >         Scientists initially theorized that Zika’s long tenure in Africa and Asia may have conferred widespread immunity.
-     >         This is a compelling vision, conferring a meaning and purpose higher than animal satisfaction to the base act of eating.
+[3m             > To be sure, horses confer an advantage on flat ground.[0m
+[3m             > Durán and his engaging son, Robin, who is an actor in Panama, confer in Spanish.[0m
+[3m             > And Trump advisers and top European far-right leaders conferred in the weeks after the U.S. election.[0m
+[3m             > The leaders of a short-lived 2002 coup against Chavez cited the right conferred by the new constitution to rebel against undemocratic governments.[0m
+[3m             > Western says it will confer degrees and certificates to 2,605 students at Diddle Arena in Bowling Green.[0m
 
- 1   Grant (A Title, Degree, Benefit, Or Right).
-	 Eg.  "The Minister May Have Exceeded The Powers Conferred On Him By Parliament"
-	 Eg.  "The Queen Conferred An Honorary Knighthood On Him"
-	 Synonyms:  
-	 Antonyms:  withhold , remove , 
+[35mConfer[0m[36m /kənˈfəː/,[0m [91m[3mverb[0m[0m | verb: confer; 3rd person present: confers; past tense: conferred; past participle: conferred; gerund or present participle: conferring
+      [32m1.[0m [37mgrant (a title, degree, benefit, or right).[0m
+	   "the Minister may have exceeded the powers conferred on him by Parliament"
+  	   [3msynonyms:[0m bestow on, present with/to, grant to, award to, decorate with, honour with, give to, give out to, gift with, endow with, vest in, hand out to, extend to,
+                     vouchsafe to, accord to
+		    "the Queen conferred an honorary knighthood on him"
+  	   [3mantonyms:[0m withhold, remove
 
- 2   Have Discussions; Exchange Opinions.
-	 Eg.  "The Officials Were Conferring With Allies"
-	 Eg.  "She Broke Off To Confer With Her Colleagues"
-	 Synonyms:  consult , talk , speak , converse , communicate , 
+      [32m2.[0m [37mhave discussions; exchange opinions.[0m
+	   "the officials were conferring with allies"
+  	   [3msynonyms:[0m consult, have discussions, discuss things, exchange views, talk, have a talk, speak, converse, communicate, have a chat, have a tête-à-tête ;  negotiate,
+                     have negotiations, have talks, parley, palaver ;  have a confab, chew the fat/rag, jaw, rap, powwow ;  confabulate
+		    "she broke off to confer with her colleagues"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+     [31mप्रदान करना[0m        [31mमन्त्रणा करना[0m   

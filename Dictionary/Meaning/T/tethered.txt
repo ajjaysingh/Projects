@@ -1,21 +1,24 @@
-                                                                                     TETHERED                                                                                     
-  SHORT        Tethered describes something that's tied up, like a horse that's tethered to a fence or a dog that's tethered to the person who is walking it.
-  LONG         Whenever you confine a person or an animal to keep them in one place, they're tethered. A bank robber might leave his hostages tethered together in the vault,
+[35m                                                                                     TETHERED                                                                                     [0m
+[91m        SHORT  Tethered describes something that's tied up, like a horse that's tethered to a fence or a dog that's tethered to the person who is walking it.[0m
+[36m         LONG  Whenever you confine a person or an animal to keep them in one place, they're tethered. A bank robber might leave his hostages tethered together in the vault,
                and you might keep your fence-jumping dog tethered to the porch when she's out in your yard. The root word is the Old Norse tjoðr, tether,
-               which was used only as a noun to describe the rope that ties animals until the late 15th century, when the verb form developed.
+               which was used only as a noun to describe the rope that ties animals until the late 15th century, when the verb form developed.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Americans jumped on holiday deals this weekend but spending is increasingly moving online, highlighting the high-wire act that faces retailers tethered to
-               stores.
-     >         They are tethered to the curb like horses at the hitching post.
-     >         All of these stories are tethered to something true, but exaggerate it or misconstrue it to the point of unrecognizability.
-     >         On my visits, there was always a bunch of foil birthday balloons tethered in a corner.
-     >         Abe had hoped that the Trans-Pacific Partnership would keep the U.S. tethered to the region; wishful thinking it turns out.
+[3m             > He uses his cellphone, which is tethered to his wheelchair, for dictation.[0m
+[3m             > A wrinkled helium balloon from his February birthday party is still tethered, loosely, to one handlebar.[0m
+[3m             > If Anthony remains, the downside will be another season of ruminations on his brand being tethered to a loser and his supposed championship window closing.[0m
+[3m             > To understand this new trend, scientists in 2002 began installing sensors on lines tethered to the floor of the Eurasian basin, called moorings.[0m
+[3m             > Police say they’ll use tethered drones at the start line in Hopkinton, Massachusetts, to keep a close eye on the crowds.[0m
 
- 1   Tie (An Animal) With A Rope Or Chain So As To Restrict Its Movement.
-	 Eg.  "The Horse Had Been Tethered To A Post"
-	 Eg.  "The Horse Had Been Tethered To A Post"
-	 Synonyms:  tie , hitch , rope , chain , fasten , 
-	 Antonyms:  unleash , release , 
+[35mTether[0m[36m /ˈtɛðə/,[0m [91m[3mverb[0m[0m
+	past tense: tethered; past participle: tethered
+      [32m1.[0m [37mtie (an animal) with a rope or chain so as to restrict its movement.[0m
+	   "the horse had been tethered to a post"
+  	   [3msynonyms:[0m tie, tie up, hitch, rope, chain ;  fasten, secure ;  bind, fetter, shackle, restrain
+		    "the horse had been tethered to a post"
+  	   [3mantonyms:[0m unleash, release
 
- 2   Use (A Smartphone) In Order To Connect A Computer Or Other Device To The Internet.
-	 Eg.  "One Prediction Is That Tethering Will Cost Around $30 Per Month, Probably With Some Cap On The Amount Of Data Transfer Allowed"
+      [32m2.[0m [37muse (a smartphone) in order to connect a computer or other device to the Internet.[0m
+	   "one prediction is that tethering will cost around $30 per month, probably with some cap on the amount of data transfer allowed"
+  [31m[4m[34m[0m[0m[0m
+  [31mटेदर[0m 

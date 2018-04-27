@@ -1,22 +1,27 @@
-                                                                                     AFFLUENT                                                                                     
-  SHORT        You know you're driving through an affluent neighborhood when you see large houses, perfect landscaping, and expensive cars. Use affluent to describe wealthy
-               people or areas.
-  LONG         In Middle English, affluent meant "abundant, flowing," from Old French, from Latin affluēns, from affluere "to abound in," from the prefix ad- "to, at" plus
+[35m                                                                                     AFFLUENT                                                                                     [0m
+[91m        SHORT  You know you're driving through an affluent neighborhood when you see large houses, perfect landscaping, and expensive cars. Use affluent to describe wealthy
+               people or areas.[0m
+[36m         LONG  In Middle English, affluent meant "abundant, flowing," from Old French, from Latin affluēns, from affluere "to abound in," from the prefix ad- "to, at" plus
                fluere "to flow." The meaning of "abundant, flowing" is still seen in phrases such as "affluent prose." But mostly, when you use the word
-               affluent, the thing understood to be flowing is cash.
+               affluent, the thing understood to be flowing is cash.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Even affluent suburban high schools usually do not require AP or International Baccalaureate for all students.
-     >         But he said he supports the idea of offering vouchers to all families, including affluent ones with children who already attend elite private schools.
-     >         This is paid by less than one-quarter of 1 percent of the most affluent estates and applies only to couples worth more than $10.9 million.
-     >         Gap is even getting squeezed by its own sister brands, as Banana Republic chases a more affluent crowd and Old Navy woos the frugal.
-     >         While vacant buildings are quickly bought in affluent parts of Boston, New York City and Seattle, they pile up in Baltimore and Albany.
+[3m             > His profession and location might indicate that Tanner is affluent, part of the storied Silicon Valley tech boom.[0m
+[3m             > And not just in the affluent West, Chinese consumers are developing an insatiable taste for them too.[0m
+[3m             > It’s in an affluent neighborhood on the northeast side of Santa Fe.[0m
+[3m             > Insulting affluent consumers who simply think the product isn’t worth the money is a questionable marketing strategy.[0m
+[3m             > Hinckley told me that creative, affluent professionals are the company’s typical customers.[0m
 
- 1   (Especially Of A Group Or Area) Having A Great Deal Of Money; Wealthy.
-	 Eg.  "The Affluent Societies Of The Western World"
-	 Eg.  "A Residence In The Affluent Part Of Montreal"
-	 Synonyms:  wealthy , rich , prosperous , opulent , well off , 
-	 Antonyms:  poor , 
+[35mAffluent[0m[36m /ˈaflʊənt/,[0m [91m[3madjective[0m[0m | adjective: affluent
+      [32m1.[0m [37m(especially of a group or area) having a great deal of money; wealthy.[0m
+	   "the affluent societies of the western world"
+  	   [3msynonyms:[0m wealthy, rich, prosperous, opulent, well off, moneyed, cash rich, with deep pockets, well-to-do, comfortable ;  propertied, substantial, of means, of
+                     substance, with deep pockets, in clover, plutocratic ;  silk-stocking ;  well heeled, rolling in it/money, in the money, made of
+                     money, filthy rich, stinking rich, loaded, flush, on easy street, quids in, worth a packet/bundle
+		    "a residence in the affluent part of Montreal"
+  	   [3mantonyms:[0m poor, impoverished
 
- 2   (Of Water) Flowing Freely Or In Great Quantity.
-
- 3   A Tributary Stream.
+      [32m2.[0m [37m(of water) flowing freely or in great quantity.[0m
+    [91m[3mnoun archaic[0m[0m | noun: affluent; plural noun: affluents
+      [32m1.[0m [37ma tributary stream.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mसंपन्न[0m       [31mधनी[0m      [31mसहायक-नदी[0m 

@@ -1,22 +1,29 @@
-                                                                                      TUSSLE                                                                                      
-  SHORT        A tussle is a rowdy fight. If the rambunctious kids you're babysitting get into a tussle, you may have to separate them for a while and calm them down.
-  LONG         Though a tussle is often a physical fight, it's rarely a serious one. Two wrestling dogs, a couple of scuffling teenagers — these are examples of tussles. The
+[35m                                                                                      TUSSLE                                                                                      [0m
+[91m        SHORT  A tussle is a rowdy fight. If the rambunctious kids you're babysitting get into a tussle, you may have to separate them for a while and calm them down.[0m
+[36m         LONG  Though a tussle is often a physical fight, it's rarely a serious one. Two wrestling dogs, a couple of scuffling teenagers — these are examples of tussles. The
                word tussle is Scottish, a variant of touselen, which is related to tousle, or "dishevel or muss," which you might do to a little kid's hair.
-               The root of both is the Old English tousen, "handle or push about roughly."
+               The root of both is the Old English tousen, "handle or push about roughly."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Ktunaxa lost the first two rounds of legal tussling.
-     >         Household worries about inflation are already rising after high-profile pricing tussles between supermarkets and big brands such as Typhoo and Walkers crisps.
-     >         Sunday night, Green Bay Packers tight end Jared Cook was in a tussle with another defender.
-     >         The variety of pitfalls does not bode fantastically, even if Manchester United go into this tussle with problems of their own.
-     >         Of the many confusing and unsatisfying parts of this rugged Georgetown-Maryland tussle, there is one matter that is quite clear.
+[3m             > What inspired his cheerful contempt for the feudal barons who tussle over the Iron Throne while their serfs starve in the muck?[0m
+[3m             > At Blum & Poe, he is showing three new interconnected bodies of work that focus on wrestlers — tussling, in close-up and their images rendered in profile.[0m
+[3m             > Yet what Mr. Staible marvels at most is that it survived the tussles between generations about who would run the company, how and when.[0m
+[3m             > As expected, two-time champion Selby was able to recuperate overnight and returned refreshed by engaging in an immense tussle with his 41-year-old Scottish
+               opponent.[0m
+[3m             > The emerging tussle echoes longstanding U.S.-Europe disputes stemming from the rivalry between Boeing and Airbus SE.[0m
 
- 1   A Vigorous Struggle Or Scuffle, Typically In Order To Obtain Or Achieve Something.
-	 Eg.  "There Was A Tussle For The Ball"
-	 Eg.  "In The Ensuing Tussle His Glasses Were Smashed"
-	 Eg.  "An Acrimonious Tussle Between The Two Departments"
-	 Synonyms:  scuffle , fight , struggle , skirmish , brawl , 
-
- 2   Engage In A Vigorous Struggle Or Scuffle.
-	 Eg.  "The Demonstrators Tussled With Police"
-	 Eg.  "Demonstrators Tussled With Police"
-	 Synonyms:  scuffle , fight , struggle , brawl , grapple , 
+[35mTussle[0m[36m /ˈtʌs(ə)l/,[0m [91m[3mnoun[0m[0m | noun: tussle; plural noun: tussles
+      [32m1.[0m [37ma vigorous struggle or scuffle, typically in order to obtain or achieve something.[0m
+	   "there was a tussle for the ball"
+  	   [3msynonyms:[0m scuffle, fight, struggle, skirmish, brawl, scrimmage, scramble, scrum, fisticuffs, wrestling match, rough and tumble, free-for-all, fracas, fray, rumpus,
+                     melee, disturbance ;  donnybrook ;  affray ;  scrap, dust-up, punch-up, set-to, shindy, shindig, run-in, spat, ruck, ruckus ;  ding-
+                     dong, bust-up, bit of argy-bargy ;  afters ;  rammy, swedge ;  roughhouse ;  stoush ;  broil, miff  argument, quarrel, squabble,
+                     contretemps, disagreement, contention, clash, war of words ;  row
+		    "in the ensuing tussle his glasses were smashed"
+    [91m[3mverb[0m[0m | verb: tussle; 3rd person present: tussles; past tense: tussled; past participle: tussled; gerund or present participle: tussling
+      [32m1.[0m [37mengage in a vigorous struggle or scuffle.[0m
+	   "the demonstrators tussled with police"
+  	   [3msynonyms:[0m scuffle, fight, struggle, exchange blows, come to blows, brawl, grapple, wrestle, clash, scrimmage ;  scrap, have a dust-up, have a punch-up, have a set-
+                     to ;  rough-house
+		    "demonstrators tussled with police"
+  [31m[4m[34m[0m[0m[0m
+  [31mखींचतान,संघर्ष[0m 

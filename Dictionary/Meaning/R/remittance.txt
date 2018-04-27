@@ -1,20 +1,24 @@
-                                                                                    REMITTANCE                                                                                    
-  SHORT        A remittance is a payment that gets sent somewhere else. If you get a bill in the mail, you will usually have at least a week to send your remittance.
-  LONG         To "remit" is to send money or make a payment and what you send is called remittance. Buying anything from a website involves a remittance — usually from a
+[35m                                                                                    REMITTANCE                                                                                    [0m
+[91m        SHORT  A remittance is a payment that gets sent somewhere else. If you get a bill in the mail, you will usually have at least a week to send your remittance.[0m
+[36m         LONG  To "remit" is to send money or make a payment and what you send is called remittance. Buying anything from a website involves a remittance — usually from a
                grownup's credit card, just as keeping your cell phone going requires a regular remittance to cover minutes and messages. If you go on a trip
-               and run out of money, you might need an emergency remittance for a plane or train ticket to get home.
+               and run out of money, you might need an emergency remittance for a plane or train ticket to get home.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The government began taking a greater cut of remittances.
-     >         Congress and use all legal means against Trump's plan for blocking remittances.
-     >         “I feel most deeply to regret that I have earned nothing in order to make any remittance,” Pierce told his family.
-     >         Mass deportations might also result in the loss of many millions of dollars in remittances for Mexico.
-     >         His threat to swipe the remittances immigrants in the US send back to Mexico is another worry.
+[3m             > There are 14 approved therapies in the U.S. for treating MS, with the disease typically defined by periods of remittance and relapse.[0m
+[3m             > Federal authorities alleged that Banamex officials allowed more than 30 million remittances from the United States to Mexico worth about $8.8 billion.[0m
+[3m             > Federal authorities alleged that Banamex officials allowed more than 30 million remittances from the U.S. to Mexico worth roughly $8.8 billion.[0m
+[3m             > Remittances from the Somali diaspora in the west are also being blocked due to counter-terrorism measures.[0m
+[3m             > Rodrigue also said the potential loss of remittances would cause difficulties.[0m
 
- 1   A Sum Of Money Sent In Payment Or As A Gift.
-	 Eg.  "Complete Your Booking Form And Send It Together With Your Remittance"
-	 Eg.  "Complete The Booking Form And Send It Together With Your Remittance"
-	 Eg.  "He Gets A Remittance Once Every Three Months"
-	 Synonyms:  payment , settlement , money , fee , cheque , 
+[35mRemittance[0m[36m /rɪˈmɪt(ə)ns/,[0m [91m[3mnoun[0m[0m | noun: remittance; plural noun: remittances
+          • [37ma sum of money sent in payment or as a gift.[0m
+	   "complete your booking form and send it together with your remittance"
+  	   [3msynonyms:[0m payment, settlement, money, fee ;  cheque, money order, transfer of funds ;  negotiable instrument ;  monies  allowance, sum of money, consideration
+		    "complete the booking form and send it together with your remittance"
+          • [37mthe action of sending money in payment or as a gift.[0m
+	   "remittance may be made by credit card"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mप्रेषण[0m       [31mप्रेषित धन[0m  
+   [31mभेजा हुआ धन[0m   [31mभेजी गई रक़म[0m 
 
- 2   The Action Of Sending Money In Payment Or As A Gift.
-	 Eg.  "Remittance May Be Made By Credit Card"
+      Origin:  "remittance may be made by credit card"

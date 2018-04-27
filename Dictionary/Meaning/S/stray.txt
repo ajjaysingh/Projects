@@ -1,48 +1,51 @@
-                                                                                      STRAY                                                                                       
-  SHORT        Little Red Riding Hood strayed from the path and ended up getting eaten by the Big Bad Wolf. When you stray, you wander off without paying attention to where
-               you're going, and sometimes you get in trouble.
-  LONG         Stray can be used as a verb or as a noun. Your attention may stray when you're tired and listening to a very boring lecture. You may be the kind of person who
+[35m                                                                                      STRAY                                                                                       [0m
+[91m        SHORT  Little Red Riding Hood strayed from the path and ended up getting eaten by the Big Bad Wolf. When you stray, you wander off without paying attention to where
+               you're going, and sometimes you get in trouble.[0m
+[36m         LONG  Stray can be used as a verb or as a noun. Your attention may stray when you're tired and listening to a very boring lecture. You may be the kind of person who
                brings home strays, the dogs and cats that have wandered away from their homes and are lost and hungry. When you're organizing your sock drawer
-               and you've got one sock without a mate, you might find the stray sock left behind in the dryer.
+               and you've got one sock without a mate, you might find the stray sock left behind in the dryer.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         That wound up the buffalo in the far west, only a stray bull being seen here and there afterwards,” according to the handbook.
-     >         Just before it was set to be released, someone noticed a stray punctuation mark.
-     >         “I can be far more creative now,” he said, as he snipped stray hairs from Saif’s acutely angled neckline.
-     >         Dovaleh’s tragedy is that he has strayed from, even betrayed, the person he was.
-     >         Mischief may stray into the province of criminality if it incites violence.
+[3m             > That band was a taut pop-punk missile, and especially on its first two albums, it didn’t stray far from its mission.[0m
+[3m             > Scythians, Romans, Africans, “Hindoos,” ancient Greeks, ancient Assyrians, ancient Egyptians, the inhabitants of Atlantis, even straying bands of Welsh.[0m
+[3m             > In both processes — called “cable meggering” and “stray current testing” — technicians must first isolate individual sections of the track or the power
+               cables.[0m
+[3m             > They’d get stuck on really basic obstacles like any kind of carpet fringe or stray cable, or just bop around in circles not cleaning anything.[0m
+[3m             > Surprisingly, this was not the most serious stray bullet incident at a major league baseball game.[0m
 
- 1   Move Away Aimlessly From A Group Or From The Right Course Or Place.
-	 Eg.  "Dog Owners Are Urged Not To Allow Their Dogs To Stray"
-	 Eg.  "A Young Gazelle Which Had Strayed From The Herd"
-	 Eg.  "We Appeared To Have Strayed A Long Way From Our Original Topic"
-	 Synonyms:  drift , digress , deviate , wander , drift , 
+[35mStray[0m[36m /streɪ/,[0m [91m[3mverb[0m[0m | verb: stray; 3rd person present: strays; past tense: strayed; past participle: strayed; gerund or present participle: straying
+      [32m1.[0m [37mmove away aimlessly from a group or from the right course or place.[0m
+	   "dog owners are urged not to allow their dogs to stray"
+  	   [3msynonyms:[0m wander off, go astray, drift, get separated ;  get lost, lose one's way  digress, deviate, wander, drift, get sidetracked, go off at a tangent ;  get off
+                     the subject, lose the thread ;  divagate
+		    "a young gazelle which had strayed from the herd"
+          • [37m(of the eyes or a hand) move idly or casually.[0m
+	   "her eyes strayed to the telephone"
+          • [37mbe unfaithful to a spouse or partner.[0m
+	   "men who stray are seen as more exciting and desirable"
+  	   [3msynonyms:[0m be unfaithful, have affairs, philander ;  play around, carry on, play the field
+		    "the younger the men were, the more likely they were to stray"
+          • [37mwander or roam.[0m
+	   "over these mounds the shepherd strays"
+    [91m[3madjective[0m[0m | adjective: stray
+      [32m1.[0m [37mnot in the right place; separated from the group or target.[0m
+	   "he pushed a few stray hairs from her face"
+  	   [3msynonyms:[0m random, chance, accidental, freak, unexpected, casual, haphazard ;  odd, isolated, lone, single ;  scattered, occasional, incidental
+		    "she was killed by a stray bullet"
+          • [37m(of a domestic animal) having no home or having wandered away from home.[0m
+	   "stray dogs"
+  	   [3msynonyms:[0m homeless, lost, strayed, gone astray ;  abandoned, unclaimed ;  wandering, vagrant
+		    "a stray dog"
 
- 2   (Of The Eyes Or A Hand) Move Idly Or Casually.
-	 Eg.  "Her Eyes Strayed To The Telephone"
+      [32m2.[0m [37m(of a physical quantity) arising as a consequence of the laws of physics, but unwanted and usually having a detrimental effect on the operation of equipment.[0m
+	   "stray capacitance"
+    [91m[3mnoun[0m[0m | noun: stray; plural noun: strays
+      [32m1.[0m [37ma stray person or thing, especially a domestic animal.[0m
+	   "the council employs two wardens to deal with strays"
+  	   [3msynonyms:[0m homeless animal, stray dog/cat ;  homeless person, waif, foundling ;  pye-dog
+		    "the council employs two wardens to deal with strays"
 
- 3   Be Unfaithful To A Spouse Or Partner.
-	 Eg.  "Men Who Stray Are Seen As More Exciting And Desirable"
-	 Eg.  "The Younger The Men Were, The More Likely They Were To Stray"
-	 Synonyms:  philander , 
-
- 4   Wander Or Roam.
-	 Eg.  "Over These Mounds The Shepherd Strays"
-
- 5   Not In The Right Place; Separated From The Group Or Target.
-	 Eg.  "He Pushed A Few Stray Hairs From Her Face"
-	 Eg.  "She Was Killed By A Stray Bullet"
-	 Synonyms:  random , chance , accidental , freak , unexpected , 
-
- 6   (Of A Domestic Animal) Having No Home Or Having Wandered Away From Home.
-	 Eg.  "Stray Dogs"
-	 Eg.  "A Stray Dog"
-	 Synonyms:  homeless , lost , abandoned , unclaimed , wandering , 
-
- 7   (Of A Physical Quantity) Arising As A Consequence Of The Laws Of Physics, But Unwanted And Usually Having A Detrimental Effect On The Operation Of Equipment.
-	 Eg.  "Stray Capacitance"
-
- 8   A Stray Person Or Thing, Especially A Domestic Animal.
-	 Eg.  "The Council Employs Two Wardens To Deal With Strays"
-	 Synonyms:  waif , foundling , pye-dog , 
-
- 9   Electrical Phenomena Interfering With Radio Reception.
+      [32m2.[0m [37melectrical phenomena interfering with radio reception.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m     [31m[4m[34m[0m[0m[0m   
+         [31mभटका हुआ[0m              [31mभटका हुआ पशु[0m             [31mविचलित पशु[0m      
+        [31mबिखरा हुआ[0m             [31mभटका हुआ बच्चा[0m            [31mगुमराह पशु[0m      
+         [31mपथभ्रष्ट[0m           [31mइक्का-दुक्का मामला[0m        [31mभटके हुए जानवर[0m    

@@ -1,32 +1,37 @@
-                                                                                    EXPATRIATE                                                                                    
-  SHORT        An expatriate is someone who lives in another country by choice. If you leave your split-level ranch in Ohio and move to a writers' commune in Paris for good,
-               you've become an expatriate.
-  LONG         Expatriate can also be a verb, so that American in Paris has expatriated. There was a scene of expatriates, or expats, living in Paris in the roaring '20s
+[35m                                                                                    EXPATRIATE                                                                                    [0m
+[91m        SHORT  An expatriate is someone who lives in another country by choice. If you leave your split-level ranch in Ohio and move to a writers' commune in Paris for good,
+               you've become an expatriate.[0m
+[36m         LONG  Expatriate can also be a verb, so that American in Paris has expatriated. There was a scene of expatriates, or expats, living in Paris in the roaring '20s
                that included writers like F. Scott Fitzgerald and Gertrude Stein. The word used to mean to get kicked out of your native country — it's from
                the French word expatrier which means "banish." The prefix ex means "out of" and  the Latin patria "one's native country," but the word took a
-               turn and now refers to people who left without getting shoved out.
+               turn and now refers to people who left without getting shoved out.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Canada’s Liberal government is poised to restore the voting rights of expatriates who have lived outside the country for five or more consecutive years.
-     >         Already some Marshallese have migrated to join growing communities of fellow expatriates in Hawaii and elsewhere in the United States.
-     >         One is George Birnie, a British expatriate, and the other is the Independent Workers Union of Great Britain, a trade union.
-     >         The Minneapolis area is home to a large population of Somali expatriates.
-     >         So far, however, none of the would-be expatriates has followed through.
+[3m             > By the middle of 2012, senior expatriate employees were evacuated from Syria and relocated to Cairo, where they oversaw the plant’s operations remotely.[0m
+[3m             > Across the Atlantic Ocean, another banished expatriate, this one in New York City, was also absorbed in the news from his homeland.[0m
+[3m             > The concerns about coal expressed by environmentalists and climate researchers in the West are voiced here mostly by white expatriates and foreign
+               nongovernmental organizations.[0m
+[3m             > The cause, ostensibly, was a ban on Turkish officials campaigning for votes among Turkish expatriates in Europe.[0m
+[3m             > Close to 3 million expatriate Turkish citizens in 57 countries were also eligible to vote between March 27 and April 9 at Turkish diplomatic missions.[0m
 
- 1   A Person Who Lives Outside Their Native Country.
-	 Eg.  "American Expatriates In London"
-
- 2   An Exile.
-	 Eg.  "The Level Of Salary Paid To Expatriates Working Overseas"
-	 Synonyms:  emigrant , non-native , émigré , migrant , economic migrant , 
-	 Antonyms:  national , 
-
- 3   Denoting Or Relating To A Person Living Outside Their Native Country.
-	 Eg.  "Expatriate Workers"
-	 Eg.  "Expatriate Workers"
-	 Synonyms:  emigrant , non-native , émigré , refugee , expat , 
-	 Antonyms:  native , indigenous , 
-
- 4   Send (A Person Or Money) Abroad.
-	 Eg.  "We Expatriated The Prisoners Of War Immediately After The End Of The War"
-	 Eg.  "He Never Visited Europe—Still Less Was He Tempted To Expatriate Himself"
-	 Synonyms:  
+[35mExpatriate[0m [91m[3mnoun[0m[0m | noun: expatriate; plural noun: expatriates    /ɪksˈpatrɪət,ɪksˈpeɪtrɪət,ɛksˈpatrɪət,ɛksˈpeɪtrɪət/
+      [32m1.[0m [37ma person who lives outside their native country.[0m
+	   "American expatriates in London"
+          • [37man exile.[0m
+	   "the level of salary paid to expatriates working overseas"
+  	   [3msynonyms:[0m emigrant, non-native, émigré, migrant, economic migrant, guest worker ;  displaced person, refugee, exile ;  Gastarbeiter ;  expat, DP
+		    "the level of salary paid to expatriates working overseas"
+  	   [3mantonyms:[0m national
+    [91m[3madjective[0m[0m | adjective: expatriate    /ɪksˈpatrɪət,ɪksˈpeɪtrɪət,ɛksˈpatrɪət,ɛksˈpeɪtrɪət/
+      [32m1.[0m [37mdenoting or relating to a person living outside their native country.[0m
+	   "expatriate workers"
+  	   [3msynonyms:[0m emigrant, living abroad, working abroad, non-native, émigré ;  displaced, refugee, exiled ;  expat
+		    "expatriate workers"
+  	   [3mantonyms:[0m native, indigenous
+          • [37mexpelled from one's native country.[0m
+    [91m[3mverb[0m[0m | verb: expatriate; 3rd person present: expatriates; past tense: expatriated; past participle: expatriated; gerund or present participle: expatriating    /ɪksˈpatrɪeɪt,ɪksˈpeɪtrɪeɪt,ɛksˈpeɪtrɪeɪt,ɛksˈpatrɪeɪt/
+      [32m1.[0m [37msend (a person or money) abroad.[0m
+	   "we expatriated the prisoners of war immediately after the end of the war"
+  	   [3msynonyms:[0m settle abroad, live abroad, relocate abroad
+		    "he never visited Europe—still less was he tempted to expatriate himself"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mप्रवासी[0m        [31mनिर्वासित करना[0m   [31mदेश-निकाला देना[0m 

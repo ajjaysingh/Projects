@@ -1,27 +1,37 @@
-                                                                                     CONTEND                                                                                      
-  SHORT        To defend a belief or keep affirming that it's true is to contend. People used to contend that the earth was flat, but eventually, when no one dropped off the
-               edge no matter how far they traveled, the "round" theory won.
-  LONG         One of the meanings of contend is from the French "to strive with," and it is a literal fighting, as in "to contend with fists." Most contemporary uses of the
+[35m                                                                                     CONTEND                                                                                      [0m
+[91m        SHORT  To defend a belief or keep affirming that it's true is to contend. People used to contend that the earth was flat, but eventually, when no one dropped off the
+               edge no matter how far they traveled, the "round" theory won.[0m
+[36m         LONG  One of the meanings of contend is from the French "to strive with," and it is a literal fighting, as in "to contend with fists." Most contemporary uses of the
                verb contend illustrate competitions of proof or defense, where a person will contend that something is true, or better, or wrong. It is still
-               a striving but more of a verbal kind, where what you contend is what you hope to convince others is correct.
+               a striving but more of a verbal kind, where what you contend is what you hope to convince others is correct.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The tribe contends its reservation of land includes rights to Missouri River water that the government has long allowed others to use illegally.
-     >         North Dakota officials contend the Corps should not allow people to be on the land without a permit.
-     >         Each company contends the other received several billion dollars in financial backing that contravenes international trade rules.
-     >         They contended that drawing out the study process will create uncertainty that will hamper business.
-     >         Some experts contend that Raúl, 85, held back true economic changes because his brother opposed them.
+[3m             > Critics contend the bill will allow religious agencies to freely discriminate against same-sex Kansas residents looking to adopt.[0m
+[3m             > The 42-year-old was one of the favorites after contending for victory at his previous two starts in Florida, but never quite fired on all cylinders and
+               finished equal 32nd.[0m
+[3m             > Pelosi’s office contended that she made it clear that she disagreed with the decision and said she only heard positive comments from lawmakers about Conroy.[0m
+[3m             > The airline is liable, the civil suit contends, “given Captain Rowe’s position of authority on the flight and within the company.”[0m
+[3m             > Second, the economy must also contend with the opportunity costs of Iranian money squandered by the regime in exporting its revolution and supporting proxies
+               such as Syria’s Bashar al-Assad.[0m
 
- 1   Struggle To Surmount (A Difficulty).
-	 Eg.  "She Had To Contend With His Uncertain Temper"
-	 Eg.  "The Peasants Had To Contend With Lack Of Food And Primitive Living Conditions"
-	 Synonyms:  face , resist , withstand , 
+[35mContend[0m[36m /kənˈtɛnd/,[0m [91m[3mverb[0m[0m | verb: contend; 3rd person present: contends; past tense: contended; past participle: contended; gerund or present participle: contending
+      [32m1.[0m [37mstruggle to surmount (a difficulty).[0m
+	   "she had to contend with his uncertain temper"
+  	   [3msynonyms:[0m grapple with, take on, deal with, cope with, withstand, pit oneself against, face, resist,
+		    "the peasants had to contend with lack of food and primitive living conditions"
+          • [37mcompete with others in a struggle to achieve (something).[0m
+	   "factions within the government were contending for the succession to the presidency"
+  	   [3msynonyms:[0m vie, wage war, struggle, challenge, skirmish, war, clash, oppose, fight, squabble, compete, grapple, battle, wrestle, cross swords, strive, lock horns,
+                     tussle, contest, scuffle, combat, go head to head, join battle,
+		    "none of the groups contending for power is strong enough yet"
 
- 2   Compete With Others In A Struggle To Achieve (Something).
-	 Eg.  "Factions Within The Government Were Contending For The Succession To The Presidency"
-	 Eg.  "None Of The Groups Contending For Power Is Strong Enough Yet"
-	 Synonyms:  compete , challenge , vie , contest , strive , 
+      [32m2.[0m [37massert something as a position in an argument.[0m
+	   "he contends that the judge was wrong"
+  	   [3msynonyms:[0m profess, aver, hold, pronounce, insist, state, allege, claim, assert, maintain, declare, argue, affirm, plead, avow,
+		    "the plaintiffs contended that their business plan was confidential"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+      [31mसंघर्ष करना[0m          [31mविवाद करना[0m     
+       [31mबहस करना[0m              [31mझगड़ना[0m       
+      [31mविरोध करना[0m            [31mदावा करना[0m     
+   [31mदृढ़तापूर्वक कहना[0m   [31mतर्क प्रस्तुत करना[0m 
 
- 3   Assert Something As A Position In An Argument.
-	 Eg.  "He Contends That The Judge Was Wrong"
-	 Eg.  "The Plaintiffs Contended That Their Business Plan Was Confidential"
-	 Synonyms:  assert , maintain , hold , claim , argue , 
+      Origin:  late Middle English (in the sense ‘compete for (something)’): from Old French contendre or Latin contendere, from con- ‘with’ + tendere ‘stretch, strive’.

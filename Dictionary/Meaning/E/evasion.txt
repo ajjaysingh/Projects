@@ -1,25 +1,31 @@
-                                                                                     EVASION                                                                                      
-  SHORT        Evasion is the act of physically escaping from something, like your evasion of your ex-girlfriend at the prom — you kept dancing. Now that's fancy footwork.
-  LONG         Evasion also means "dodging something you are supposed to do" like your evasion of your chores by pretending to be sick. Evasion can also mean "the deliberate
+[35m                                                                                     EVASION                                                                                      [0m
+[91m        SHORT  Evasion is the act of physically escaping from something, like your evasion of your ex-girlfriend at the prom — you kept dancing. Now that's fancy footwork.[0m
+[36m         LONG  Evasion also means "dodging something you are supposed to do" like your evasion of your chores by pretending to be sick. Evasion can also mean "the deliberate
                act of failing to pay money," like tax evasion, not paying your taxes. Though evasion comes from the Latin word evadere, "to escape," if you
-               owe the government money, you'll surely be caught eventually.
+               owe the government money, you'll surely be caught eventually.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But user confidentiality has also caused headaches for governments, who worry the currencies are being used for drug dealing, money laundering or tax evasion.
-     >         Chris Christie, who investigated him for tax evasion and improper campaign contributions.
-     >         Yet there are doubts about whether the demonetization drive will truly make an impact on corruption and tax evasion.
-     >         In 2005, Jared’s father was sentenced to two years in the slammer for tax evasion, witness tampering and making illegal campaign contributions.
-     >         As a federal prosecutor, Christie prosecuted Kushner’s father, who in 2005 was sent to prison for tax evasion, witness tampering and illegal campaign
-               contributions.
+[3m             > He later spent time in prison for illegal campaign donations, tax evasion and witness tampering.[0m
+[3m             > In the 1990s, Alamo served four years in prison after he was convicted of income tax evasion.[0m
+[3m             > These evasions infuriate the watchdog groups in their efforts to hold a shadowy industry to account, but do not always scuttle them.[0m
+[3m             > Busse also pleaded guilty in November to conspiracy to defraud the United States, tax evasion and failing to report payments of more than $10,000.[0m
+[3m             > The seeming disavowal amounts to a deeply strange evasion of the themes that animate the book and the new Hulu adaptation.[0m
 
- 1   The Action Of Evading Something.
-	 Eg.  "Their Adroit Evasion Of Almost All Questions"
-	 Eg.  "Her Quick-Witted Evasion Of An Assassination Attempt"
-	 Synonyms:  
-	 Antonyms:  confrontation , 
-
- 2   An Indirect Answer; A Prevaricating Excuse.
-	 Eg.  Plural Noun: Evasions
-	 Eg.  "The Protestations And Evasions Of A Witness"
-	 Eg.  "She Grew Tired Of All The Evasion"
-	 Synonyms:  hedging , fencing , equivocation , 
-	 Antonyms:  
+[35mEvasion[0m[36m /ɪˈveɪʒ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: evasion
+          • [37mthe action of evading something.[0m
+	   "their adroit evasion of almost all questions"
+  	   [3msynonyms:[0m avoidance, dodging, eluding, elusion, sidestepping, bypassing, circumvention, shunning, shirking ;  getting out of, finding a way round ;  ducking, the
+                     go-by ;  bilking
+		    "her quick-witted evasion of an assassination attempt"
+  	   [3mantonyms:[0m confrontation
+          • [37man indirect answer; a prevaricating excuse.[0m
+	   plural noun: evasions
+  	   [3msynonyms:[0m prevarication, evasiveness, beating about the bush, hedging, fencing, shilly-shallying, shuffling, dodging the issue, dodging, sidestepping the issue,
+                     sidestepping, pussyfooting, equivocation, vagueness, quibbling, cavilling, temporization, stalling, stalling for time ;  humming and
+                     hawing ;  ducking, ducking the issue ;  tergiversation
+		    "she grew tired of all the evasion"
+  	   [3mantonyms:[0m directness
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mअपवंचन[0m         [31mवंचन[0m    
+     [31mबहाना[0m        [31mटालमटोल[0m   
+       [31mछल[0m          [31mटालना[0m    
+     [31mपरिहार[0m         [31mबचना[0m    

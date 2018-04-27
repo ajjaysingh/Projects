@@ -1,23 +1,30 @@
-                                                                                     ASSUAGE                                                                                      
-  SHORT        If you assuage an unpleasant feeling, you make it go away. Assuaging your hunger by eating a bag of marshmallows may cause you other unpleasant feelings.
-  LONG         The most common things that we assuage are fears, concerns, guilt, grief, anxiety, and anger. That makes a lot of sense — these are all things we seek relief
+[35m                                                                                     ASSUAGE                                                                                      [0m
+[91m        SHORT  If you assuage an unpleasant feeling, you make it go away. Assuaging your hunger by eating a bag of marshmallows may cause you other unpleasant feelings.[0m
+[36m         LONG  The most common things that we assuage are fears, concerns, guilt, grief, anxiety, and anger. That makes a lot of sense — these are all things we seek relief
                from. The word comes from Old French assouagier, from the Latin root suavis, "sweet" — think of adding a bit of honey to something unpleasant.
-               A word with a similar meaning is mollify.
+               A word with a similar meaning is mollify.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Parents often try assuaging their own feelings of culpability for a relationship breakdown by allowing a damaging degree of leniency.
-     >         He sought to assuage his critics, insisting that he was not a communist.
-     >         Eventually the anger that cannot be assuaged through policy will be turned outwards, towards other nations.
-     >         In contrast, he suggested that Bolton’s hawkish stance was perhaps because he was trying to “assuage guilt” over “not serving in combat”.
-     >         “Donald Trump may not possess the capacity to assuage those fears, but he owes it to this nation to try.”
+[3m             > According to the New York Times, Trump’s advisers must indulge a “ritualistic need to criticize the Russia investigation to assuage an anxious and angry
+               president.”[0m
+[3m             > “The re-acceleration in jobs should assuage fears that economic growth is slowing in any meaningful way.”[0m
+[3m             > Stronger hiring would help assuage concerns that the economy is stumbling, nearly eight years into its recovery from the Great Recession.[0m
+[3m             > One glance at the creatures was unlikely to assuage nervous onlookers.[0m
+[3m             > However, it did nothing to assuage sheriffs’ concerns.[0m
 
- 1   Make (An Unpleasant Feeling) Less Intense.
-	 Eg.  "The Letter Assuaged The Fears Of Most Members"
-	 Eg.  "An Aching Pain That Could Never Be Assuaged"
-	 Synonyms:  relieve , ease , alleviate , soothe , mitigate , 
-	 Antonyms:  aggravate , 
-
- 2   Satisfy (An Appetite Or Desire).
-	 Eg.  "An Opportunity Occurred To Assuage Her Desire For Knowledge"
-	 Eg.  "Her Physical Hunger Could Be Quickly Assuaged"
-	 Synonyms:  satisfy , fulfil , gratify , appease , indulge , 
-	 Antonyms:  intensify , 
+[35mAssuage[0m[36m /əˈsweɪdʒ/,[0m [91m[3mverb[0m[0m | verb: assuage; 3rd person present: assuages; past tense: assuaged; past participle: assuaged; gerund or present participle: assuaging
+          • [37mmake (an unpleasant feeling) less intense.[0m
+	   "the letter assuaged the fears of most members"
+  	   [3msynonyms:[0m relieve, ease, alleviate, soothe, mitigate, dampen, allay, calm, palliate, abate, lull, temper, suppress, smother, stifle, subdue, tranquillize, mollify,
+                     moderate, modify, tone down, attenuate, dilute, lessen, diminish, decrease, reduce, lower ;  put an end to, put a stop to, take the
+                     edge off ;  kill ;  lenify
+		    "an aching pain that could never be assuaged"
+  	   [3mantonyms:[0m aggravate
+          • [37msatisfy (an appetite or desire).[0m
+	   "an opportunity occurred to assuage her desire for knowledge"
+  	   [3msynonyms:[0m satisfy, fulfil, gratify, appease, indulge, relieve, slake, sate, satiate, quench, quell, overcome, check, keep in check, dull, blunt, allay, take the
+                     edge off, diminish
+		    "her physical hunger could be quickly assuaged"
+  	   [3mantonyms:[0m intensify
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mशांत करना[0m    [31mठंडा कर देना[0m 
+    [31mमृदु करना[0m       [31mकम करना[0m   

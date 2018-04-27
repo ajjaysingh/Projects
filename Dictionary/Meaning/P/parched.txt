@@ -1,26 +1,38 @@
-                                                                                     PARCHED                                                                                      
-  SHORT        Something parched is excessively dry and hot, in extreme need of water, like a desert, a neglected plant, or your throat after a five-kilometer run.
-  LONG         Some foods, like corn, beans, or grains, may be parched, or toasted, to bring out their flavor and help preserve them. American Indians parched corn to make
+[35m                                                                                     PARCHED                                                                                      [0m
+[91m        SHORT  Something parched is excessively dry and hot, in extreme need of water, like a desert, a neglected plant, or your throat after a five-kilometer run.[0m
+[36m         LONG  Some foods, like corn, beans, or grains, may be parched, or toasted, to bring out their flavor and help preserve them. American Indians parched corn to make
                it keep and remain edible over the winter. They taught this to the new colonists, and parched corn later became a staple of explorers like
                Lewis and Clark, as well as soldiers during the Civil War. Laura Ingalls Wilder wrote of parched corn, "It crackled and crunched, and its taste
-               was sweet and brown."
+               was sweet and brown."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Dusty and parched, I headed straight for the pool.
-     >         It was the first significant rainfall for parched Los Angeles since mid-October.
-     >         Yet we also can look at Kansas’ 24-21 overtime win over Texas and feel joy, for the parched did drink.
-     >         Each time, they leave the land more parched, with less water and grass for forage.
-     >         When she was done speaking, her heart was hammering and her mouth felt parched.
+[3m             > In the parched Atacama Desert, the Chinchorro created history’s first mummies.[0m
+[3m             > Start with the fact that in these parched environs, only splashes of vines are visible from the highway.[0m
+[3m             > In Africa it often brings excessive rains to the east while the southern cone gets parched.[0m
+[3m             > Rains fell in both countries, but the human toll was highest in Peru’s normally parched northern desert.[0m
+[3m             > In this vial sit the parched remains of yet another species soon to be extinguished in pursuit of ourselves.[0m
 
- 1   Make Or Become Dry Through Intense Heat.
-	 Eg.  "A Piece Of Grassland Parched By The Sun"
-	 Eg.  "The Parched Earth"
-	 Eg.  "The Parching Southern Sun"
-	 Synonyms:  dry , bone dry , arid , sun-baked , baked , 
-	 Antonyms:  wet , soaking , 
-
- 2   Roast (Corn, Peas, Etc.) Lightly.
-
- 3   Extremely Thirsty.
-	 Eg.  "I'M Parched—I'Ll Die Without A Drink"
-	 Eg.  "Can I Have A Drink, Please? I'M Parched"
-	 Synonyms:  thirsty , dry , athirst , thirstful , 
+[35mParched[0m[36m /pɑːtʃt/,[0m [91m[3madjective[0m[0m | adjective: parched; past participle: parched
+          • [37mdried out with heat.[0m
+	   "the parched earth"
+  	   [3msynonyms:[0m dry, as dry as a bone, bone dry, dried up, dried out, arid, waterless, desiccated, dehydrated, sun-baked, baked, burned, scorched, seared, withered,
+                     shrivelled ;  sere, adust ;  exsiccated
+		    "the parched earth"
+  	   [3mantonyms:[0m wet, soaking
+          • [37mextremely thirsty.[0m
+	   "I'm parched—I'll die without a drink"
+  	   [3msynonyms:[0m thirsty, dehydrated, dry ;  gasping ;  spitting chips ;  athirst ;  thirstful, droughty, sitient
+		    "Can I have a drink, please? I'm parched"
+          • [37mlightly roasted.[0m
+	   "parched corn"
+[35mParch[0m[36m /pɑːtʃ/,[0m [91m[3mverb[0m[0m
+	past tense: parched; past participle: parched
+          • [37mmake or become dry through intense heat.[0m
+	   "a piece of grassland parched by the sun"
+  	   [3msynonyms:[0m searing, scorching, blistering, flaming, blazing (hot), baking (hot), burning, fiery, torrid, withering ;  boiling, boiling hot, sizzling, roasting,
+                     sweltering
+		    "the parching southern sun"
+          • [37mroast (corn, peas, etc.) lightly.[0m
+  [31m[4m[34madjective[0m[0m[0m
+     [31mसूखा[0m   
+   [31mभूना हुआ[0m 
+  [31mझुलसा हुआ[0m 

@@ -1,25 +1,30 @@
-                                                                                      DELVE                                                                                       
-  SHORT        The verb delve means to dig into, loosen, or investigate. She delved into her family's history and discovered an inventor, a checkers champion, and a circus
-               equestrian in her ancestry.
-  LONG         Delve has a literal meaning of to dig into the earth ("to delve the soil," as in preparing a garden, for example), but this sense is rare now. The verb is
-               most often used in the more figurative sense — like to delve into a problem or into someone's personal life.
+[35m                                                                                      DELVE                                                                                       [0m
+[91m        SHORT  The verb delve means to dig into, loosen, or investigate. She delved into her family's history and discovered an inventor, a checkers champion, and a circus
+               equestrian in her ancestry.[0m
+[36m         LONG  Delve has a literal meaning of to dig into the earth ("to delve the soil," as in preparing a garden, for example), but this sense is rare now. The verb is
+               most often used in the more figurative sense — like to delve into a problem or into someone's personal life.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         When sites like ancestry.com made tracing family history more accessible, she delved further into research.
-     >         Castro attended a Jesuit academy before studying law at the University of Havana, where he delved into both sports and politics.
-     >         Castro attended a Jesuit academy before studying law at the University of Havana, where he delved both sports and politics.
-     >         Describing himself as “a wayward Santa for the Christmas-obsessed,” he delves into inappropriate gifts and his “unhealthy love of true-crime holiday horror
-               stories.”
-     >         The city charter prohibits council members from delving into administrative matters, yet creates no penalty for doing so.
+[3m             > The piece delves into the psyche of a young woman who experiences extreme visual and auditory hallucinations.[0m
+[3m             > The most prominent liberal commentators now, like Maddow and Hayes, are more grounded and forensic, delving into policy without drifting away from its human
+               impact.[0m
+[3m             > Monday’s Business section delves into the wonky world of network neutrality.[0m
+[3m             > Yet delve a bit deeper and the list reveals some less obvious ways to become one of the super-rich.[0m
+[3m             > The council will delve into the designation process and Trump's review at a meeting next Monday, according to a notice from Treasury.[0m
 
- 1   Reach Inside A Receptacle And Search For Something.
-	 Eg.  "She Delved In Her Pocket"
-	 Eg.  "She Delved In Her Pocket"
-	 Synonyms:  scour , ransack , 
+[35mDelve[0m[36m /dɛlv/,[0m [91m[3mverb[0m[0m | verb: delve; 3rd person present: delves; past tense: delved; past participle: delved; gerund or present participle: delving
+      [32m1.[0m [37mreach inside a receptacle and search for something.[0m
+	   "she delved in her pocket"
+  	   [3msynonyms:[0m rummage (about/around/round) in, search (through), hunt through, scrabble about/around in, root about/around in, ferret (about/around) in, fish
+                     about/around in, poke about/around in, dig in, grub about/around in, go through, burrow in ;  rifle through, scour, ransack, turn
+                     upside down, turn inside out ;  rootle around in ;  fossick through ;  roust around in
+		    "she delved in her pocket"
+          • [37mresearch or make painstaking enquiries into something.[0m
+	   "the society is determined to delve deeper into the matter"
+  	   [3msynonyms:[0m investigate, conduct investigations into, make enquiries into, enquire into, probe, examine, explore, research, study, look into, go into ;  try to get
+                     to the bottom of
+		    "the society is determined to delve deeper into the matter"
 
- 2   Research Or Make Painstaking Enquiries Into Something.
-	 Eg.  "The Society Is Determined To Delve Deeper Into The Matter"
-	 Eg.  "The Society Is Determined To Delve Deeper Into The Matter"
-	 Synonyms:  investigate , probe , examine , explore , research , 
-
- 3   Dig; Excavate.
-	 Eg.  "When Adam Delved And Eve Span, Who Was Then The Gentleman?"
+      [32m2.[0m [37mdig; excavate.[0m
+	   "when Adam delved and Eve span, who was then the gentleman?"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+      [31mतल्लीन करना[0m             [31mसंगम[0m            [31mफावडे से खोदना[0m   

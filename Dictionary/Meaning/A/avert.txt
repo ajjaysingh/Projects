@@ -1,20 +1,24 @@
-                                                                                      AVERT                                                                                       
-  SHORT        To avert is to turn away or to prevent. You might avert your gaze or avert a disaster — either way, you are avoiding something.
-  LONG         The verb avert comes from Latin roots that mean "to turn away from." Averting has that sense of deflecting, turning away, or preventing something (usually
-               bad) from happening. You might put salt on an icy sidewalk to avert accidents, or you might avert a toddler's meltdown by supplying a lollipop.
+[35m                                                                                      AVERT                                                                                       [0m
+[91m        SHORT  To avert is to turn away or to prevent. You might avert your gaze or avert a disaster — either way, you are avoiding something.[0m
+[36m         LONG  The verb avert comes from Latin roots that mean "to turn away from." Averting has that sense of deflecting, turning away, or preventing something (usually
+               bad) from happening. You might put salt on an icy sidewalk to avert accidents, or you might avert a toddler's meltdown by supplying a lollipop.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The crisis was averted after Kennedy sent warships to intercept the missiles, but the Soviets extracted a U.S. promise not to invade Cuba again.
-     >         We hope wealthy league executives and even wealthier team owners didn’t avert their eyes, as they have done for decades.
-     >         The country was "on the brink of revolt", which could only be averted with such radical action.
-     >         “By acting now, a debt crisis can be averted by reforming government on our own terms,” Ryan said.
-     >         Less wasteful cooling methods could avert that rise, which would have climate-changing implications, no matter the coolant used.
+[3m             > Any excuse to avert my eyes from the other passengers.[0m
+[3m             > He fundamentally believes that the “Sunshine Policy” is the only option to avert a renewed conflict.[0m
+[3m             > Even its sponsors aren’t sure whether the requirement would avert future accidents or help locate out-of-use well lines whose owners are no longer in
+               business.[0m
+[3m             > The lopsided, 79-18 Senate vote sends the huge bill to the White House in plenty of time to avert a midnight Friday shutdown deadline.[0m
+[3m             > The 309-118 vote sends the bill to the Senate in time to act before a midnight Friday deadline to avert a government shutdown.[0m
 
- 1   Turn Away (One'S Eyes Or Thoughts).
-	 Eg.  "She Averted Her Eyes While We Made Stilted Conversation"
-	 Eg.  "She Averted Her Head"
-	 Synonyms:  
+[35mAvert[0m[36m /əˈvəːt/,[0m [91m[3mverb[0m[0m | verb: avert; 3rd person present: averts; past tense: averted; past participle: averted; gerund or present participle: averting
+      [32m1.[0m [37mturn away (one's eyes or thoughts).[0m
+	   "she averted her eyes while we made stilted conversation"
+  	   [3msynonyms:[0m turn aside, turn away, turn to one side
+		    "she averted her head"
 
- 2   Prevent Or Ward Off (An Undesirable Occurrence).
-	 Eg.  "Talks Failed To Avert A Rail Strike"
-	 Eg.  "An Attempt To Avert Political Chaos"
-	 Synonyms:  prevent , stop , avoid , forestall , preclude , 
+      [32m2.[0m [37mprevent or ward off (an undesirable occurrence).[0m
+	   "talks failed to avert a rail strike"
+  	   [3msynonyms:[0m prevent, stop, avoid, nip in the bud ;  stave off, head off, ward off ;  forestall, preclude
+		    "an attempt to avert political chaos"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mटालना[0m    [31mबचा लेना[0m 

@@ -1,27 +1,31 @@
-                                                                                      GUTTED                                                                                      
-  SHORT        Your gut is part of your digestive system — it's where food goes after you eat it, to get broken down into nutrients and waste. The expression to "go with
-               your gut" means to follow your instincts, how you feel in your belly.
-  LONG         Your gut is quite literally your intestines, although the word is frequently used for any part of your digestive system, especially your stomach. Eating too
+[35m                                                                                      GUTTED                                                                                      [0m
+[91m        SHORT  Your gut is part of your digestive system — it's where food goes after you eat it, to get broken down into nutrients and waste. The expression to "go with
+               your gut" means to follow your instincts, how you feel in your belly.[0m
+[36m         LONG  Your gut is quite literally your intestines, although the word is frequently used for any part of your digestive system, especially your stomach. Eating too
                much ice cream can give you an ache in your gut. When gut is a verb, it means to clean the internal organs out of a fish or other animal you
-               intend to eat, or to completely empty a building. Colloquially, if you have guts, you're very brave.
+               intend to eat, or to completely empty a building. Colloquially, if you have guts, you're very brave.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The opposition in Zimbabwe was “gutted by Clinton’s loss”, the newspaper reported.
-     >         Cluley gutted an auto shop to open her gallery about two years ago.
-     >         Environmental rules are almost certain to be gutted in the name of accelerating projects.
-     >         South Australia Premier Jay Weatherill said on Thursday he felt “gutted” by the defeat.
-     >         Gutted to hear the seal breeding colony at Ohau Point has been destroyed in the quake.
+[3m             > Pictures showed the inside of the bus gutted and part of the front and the roof scorched.[0m
+[3m             > They are gutted and despatched to markets around the world.[0m
+[3m             > On Twitter a friend wrote: "Gutted to hear about Sam, such a horrible thing to happen to anyone. Thoughts are with his family."[0m
+[3m             > Most of those laws were gutted or struck down by federal courts.[0m
+[3m             > St. George, about an hour’s drive north of Cairo, is still gutted.[0m
 
- 1   Bitterly Disappointed Or Upset.
-	 Eg.  "I Know How Gutted The Players Must Feel"
+[35mGutted[0m[36m /ˈɡʌtɪd/,[0m [91m[3madjective British informal[0m[0m | adjective: gutted
+          • [37mbitterly disappointed or upset.[0m
+	   "I know how gutted the players must feel"
+[35mGut[0m[36m /ɡʌt/,[0m [91m[3mverb[0m[0m
+	past tense: gutted; past participle: gutted
+      [32m1.[0m [37mremove the intestines and other internal organs from (a fish or other animal) before cooking it.[0m
+	   "the pilchards had to be gutted and salted"
+  	   [3msynonyms:[0m disembowel, eviscerate, draw, dress, clean, remove the innards from, remove the guts from ;  embowel, disbowel, exenterate, gralloch, paunch
+		    "the pilchards had to be gutted and salted"
+          • [37mremove or destroy completely the internal parts of (a building or other structure).[0m
+	   "the fire gutted most of the factory"
+  	   [3msynonyms:[0m devastate, destroy, demolish, wipe out, lay waste to, ravage, consume, ruin, leave in ruins, wreck, raze, level, flatten ;  despoil
+		    "the entire church was gutted by fire"
 
- 2   Remove The Intestines And Other Internal Organs From (A Fish Or Other Animal) Before Cooking It.
-	 Eg.  "The Pilchards Had To Be Gutted And Salted"
-	 Synonyms:  disembowel , eviscerate , draw , dress , clean , 
-
- 3   Remove Or Destroy Completely The Internal Parts Of (A Building Or Other Structure).
-	 Eg.  "The Fire Gutted Most Of The Factory"
-	 Eg.  "The Entire Church Was Gutted By Fire"
-	 Synonyms:  devastate , destroy , demolish , ravage , consume , 
-
- 4   Cause (Someone) To Feel Extremely Upset Or Disappointed.
-	 Eg.  "It Guts Me To Think About What My Mother And Brother Missed Out On"
+      [32m2.[0m [37mcause (someone) to feel extremely upset or disappointed.[0m
+	   "it guts me to think about what my mother and brother missed out on"
+  [31m[4m[34m[0m[0m[0m
+  [31mनिराश[0m 

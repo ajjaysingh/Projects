@@ -1,42 +1,43 @@
-                                                                                       MIRE                                                                                       
-  SHORT        A mire is mushy ground like quicksand, so if you feel yourself trapped in a sticky situation, consider yourself mired. One gets mired IN something — like in a
-               dispute or in a love triangle.
-  LONG         Mire still has its original, though less-used, sense of a slushy, muddy bit of land that gives way underfoot, also known as a quagmire. One of the most famous
+[35m                                                                                       MIRE                                                                                       [0m
+[91m        SHORT  A mire is mushy ground like quicksand, so if you feel yourself trapped in a sticky situation, consider yourself mired. One gets mired IN something — like in a
+               dispute or in a love triangle.[0m
+[36m         LONG  Mire still has its original, though less-used, sense of a slushy, muddy bit of land that gives way underfoot, also known as a quagmire. One of the most famous
                mires in literary history was the one haunted by the Hound of the Baskervilles in Conan Doyle's classic. Have the fibs you told your beloved
-               come back to haunt you? You're stuck in a mire then, a treacherous situation it's going to be pretty hard to squirm out of.
+               come back to haunt you? You're stuck in a mire then, a treacherous situation it's going to be pretty hard to squirm out of.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But oil prices have crashed, Venezuela is mired in crisis, and no other easy income source is coming to the Cuban government’s rescue.
-     >         The drop in unemployment came despite recent poor economic data as the country remains mired in recession.
-     >         Fisher replaced offensive coordinator Frank Cignetti with Boras in St. Louis last December while the Rams were mired in 31st place in total offense.
-     >         Michigan leads the all-time series 58-48-6, but is mired in the worst slump in a storied series that dates to 1897.
-     >         With the issue mired in municipal election politics, they deferred action.
+[3m             > When the United States landed a man on the moon almost half a century ago, China was mired in political turmoil.[0m
+[3m             > Sprint is showing some signs of recent success, but the company is mired in debt and hasn’t turned a profit in about a decade.[0m
+[3m             > The discoveries once again fractured the consensus about the early American history, miring it in dispute.[0m
+[3m             > In South Korea, Park Geun-hye, the country’s first female president, was mired in a corruption scandal that threatened to unseat her.[0m
+[3m             > She called him the “representative of subjugated France”; he said that she would mire France in civil war.[0m
 
- 1   A Stretch Of Swampy Or Boggy Ground.
-	 Eg.  "Acres Of Land Had Been Reduced To A Mire"
+[35mMire[0m[36m /mʌɪə/,[0m [91m[3mnoun[0m[0m | noun: mire; plural noun: mires
+      [32m1.[0m [37ma stretch of swampy or boggy ground.[0m
+	   "acres of land had been reduced to a mire"
+          • [37msoft mud or dirt.[0m
+	   "the roads retained their winter mire"
+  	   [3msynonyms:[0m mud, slime, sludge, dirt, filth, ooze, muck
+		    "her horse was spattered with mire"
+          • [37ma wetland area or ecosystem based on peat.[0m
+	   "when it's wet it's a mire out there"
+  	   [3msynonyms:[0m swamp, bog, morass, peat bog, quagmire, quag, slough, sump, quicksand, fen, fenland, swampland, marshland, wetland, salt marsh, saltings, salina ;
+                     bayou, moor
+		    "when it's wet it's a mire out there"
 
- 2   Soft Mud Or Dirt.
-	 Eg.  "The Roads Retained Their Winter Mire"
-	 Eg.  "Her Horse Was Spattered With Mire"
-	 Synonyms:  mud , slime , sludge , dirt , filth , 
-
- 3   A Wetland Area Or Ecosystem Based On Peat.
-	 Eg.  "When It'S Wet It'S A Mire Out There"
-	 Synonyms:  swamp , bog , morass , quagmire , quag , 
-
- 4   A Complicated Or Unpleasant Situation From Which It Is Difficult To Extricate Oneself.
-	 Eg.  "The Service Is Sinking In The Mire Of Its Own Regulations"
-
- 5   Cause To Become Stuck In Mud.
-	 Eg.  "Sometimes A Heavy Truck Gets Mired Down"
-	 Eg.  "Frank'S Horse Got Mired In A Bog Hole"
-	 Synonyms:  sink , 
-
- 6   Cover Or Spatter With Mud.
-	 Eg.  "The Horse Waded Through The Red Mud That Mired It To Its Hocks"
-	 Eg.  "The Children Were Mired From Playing Outside"
-	 Synonyms:  dirty , soil , muddy , begrime , spatter , 
-
- 7   Involve Someone Or Something In (A Difficult Situation).
-	 Eg.  "The Economy Is Mired In Its Longest Recession Since The War"
-	 Eg.  "Since His Fall From Grace He Had Been Mired In Lawsuits"
-	 Synonyms:  entangle , embroil , enmesh , involve , 
+      [32m2.[0m [37ma complicated or unpleasant situation from which it is difficult to extricate oneself.[0m
+	   "the service is sinking in the mire of its own regulations"
+    [91m[3mverb[0m[0m | verb: mire; 3rd person present: mires; past tense: mired; past participle: mired; gerund or present participle: miring
+      [32m1.[0m [37mcause to become stuck in mud.[0m
+	   "sometimes a heavy truck gets mired down"
+  	   [3msynonyms:[0m get bogged down, sink, sink down, stick in the mud
+		    "Frank's horse got mired in a bog hole"
+          • [37mcover or spatter with mud.[0m
+	   "the horse waded through the red mud that mired it to its hocks"
+  	   [3msynonyms:[0m dirty, soil, muddy, begrime, spatter, smear, make muddy/dirty, cake with dirt/soil
+		    "the children were mired from playing outside"
+          • [37minvolve someone or something in (a difficult situation).[0m
+	   "the economy is mired in its longest recession since the war"
+  	   [3msynonyms:[0m entangle, tangle up, embroil, enmesh, catch up, mix up, involve, bog down
+		    "since his fall from grace he had been mired in lawsuits"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mकीचड़[0m        [31mदलदल में फँसाना[0m        [31mकर्दम[0m      

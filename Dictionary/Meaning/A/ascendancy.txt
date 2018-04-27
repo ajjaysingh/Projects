@@ -1,19 +1,26 @@
-                                                                                    ASCENDANCY                                                                                    
-  SHORT        When you assume ascendancy over someone else, you become more powerful than they are. Ascendancy is the state of being in a higher position.
-  LONG         If you look at ascendancy, you see the word, ascend, which means to go up. Ascendancy is not so much about going up, but about being up. Another word for it
+[35m                                                                                    ASCENDANCY                                                                                    [0m
+[91m        SHORT  When you assume ascendancy over someone else, you become more powerful than they are. Ascendancy is the state of being in a higher position.[0m
+[36m         LONG  If you look at ascendancy, you see the word, ascend, which means to go up. Ascendancy is not so much about going up, but about being up. Another word for it
                is dominance, especially in the context of foreign or domestic relations. In school, if you question a teacher's ascendancy, you might be told
-               to go to the principal's office. In this case, you're challenging the teacher's authority.
+               to go to the principal's office. In this case, you're challenging the teacher's authority.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But perhaps most crucial was the ascendancy of cheaper but just-as-good local alternatives.
-     >         The modern-day inheritors of the legacy of 1930s fascism — what the heroes of Cable Street rose up against — are in the ascendancy.
-     >         One part of Trump’s ascendancy reflects the great political success of Frank’s life.
-     >         “A major component of Murray’s ascendancy to world No1 this season is his substantial improvement on second serve,” O’Shannessy says.
-     >         The U.S. climate announcements may be new this week, but their origins extend far earlier than Trump’s ascendancy.
+[3m             > “The increasing identification with the Plains Aborigines speaks volumes to the ascendancy of the pro-Taiwan view of history.”[0m
+[3m             > They laboured for long periods and even when in the ascendancy after the interval, still ran aground so often on Crystal Palace’s resistance.[0m
+[3m             > Big fat novels by older white men are no longer in the ascendancy as they once were.[0m
+[3m             > Grime’s ascendancy in the states continued with Stormzy and Skepta, who managed to draw decent crowds despite early times on the running order.[0m
+[3m             > That interpersonal tension forms the spine of the film, which charts Tommy’s ascendancy in the sport, and the gradual decline of his father’s influence.[0m
 
- 1   Occupation Of A Position Of Dominant Power Or Influence.
-	 Eg.  "The Ascendancy Of Good Over Evil"
-	 Eg.  "The Ascendancy Of Good Over Evil"
-	 Synonyms:  dominance , domination , supremacy , superiority , predominance , 
-	 Antonyms:  subordination , 
-
- 2   Short For Protestant Ascendancy.
+[35mAscendancy[0m[36m /əˈsɛnd(ə)nsi/,[0m [91m[3mnoun[0m[0m | noun: ascendancy; noun: ascendency
+          • [37moccupation of a position of dominant power or influence.[0m
+	   "the ascendancy of good over evil"
+  	   [3msynonyms:[0m dominance, domination, supremacy, superiority, predominance, pre-eminence, primacy, dominion, hegemony, authority, mastery, control, command, power,
+                     sway, rule, sovereignty, lordship, leadership, influence ;  the upper hand, the whip hand, the edge, advantage ;  predomination,
+                     paramountcy, prepotence, prepotency, prepollency
+		    "the ascendancy of good over evil"
+  	   [3mantonyms:[0m subordination
+          • [37mshort for Protestant ascendancy.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mप्रभुत्व[0m      [31mप्रभुता[0m  
+   [31mप्रधानता[0m      [31mप्रभाव[0m   
+    [31mअधिकार[0m     [31mसर्वाधिकार[0m 
+   [31mप्राबल्य[0m        [31mबस[0m     

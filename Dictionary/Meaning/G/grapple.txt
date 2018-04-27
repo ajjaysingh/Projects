@@ -1,37 +1,41 @@
-                                                                                     GRAPPLE                                                                                      
-  SHORT        When you wrestle with something — literally or figuratively — you grapple with it, or try to overcome it.
-  LONG         If you trace the word grapple back to its French roots, you’ll discover that the word originally referred to "a grape hook," a pronged tool used to harvest
+[35m                                                                                     GRAPPLE                                                                                      [0m
+[91m        SHORT  When you wrestle with something — literally or figuratively — you grapple with it, or try to overcome it.[0m
+[36m         LONG  If you trace the word grapple back to its French roots, you’ll discover that the word originally referred to "a grape hook," a pronged tool used to harvest
                grapes. If you think about how awkward it would be to harvest grapes, with the individual grapes ready to scatter everywhere, it makes sense
                that grapple eventually evolved to include a verb form used to describe struggling with something unruly. You might grapple with a budget
-               shortfall, grapple for answers, grapple with a wrestling opponent, or grapple with a new technology.
+               shortfall, grapple for answers, grapple with a wrestling opponent, or grapple with a new technology.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Governments in Boston, California, Florida and Maine have also grappled with the issue.
-     >         The exhibit also features prints by other German Expressionists, who grappled with the rapid industrialism leading up to World War I.
-     >         Expecting to be assassinated, the hero of this excellent novel grapples with guilt over his actions in Indonesia.
-     >         Radiant melodies grappled with clutter and noise; longing and reverence collided with snark and despair.
-     >         “Merchant” is, after all, a play that depicts anti-Semitism and grapples, more broadly, with prejudice and the failure of empathy.
+[3m             > Mr Moon's reputation as a pragmatic and experienced politician should help him grapple with this challenge, but he will face a number of critical obstacles.[0m
+[3m             > Mrs. Horiot’s business relies on orders from around the European Union, so she grapples with extra layers of European bureaucracy and regulations imposed by
+               Brussels.[0m
+[3m             > Because it’s a newer crime, legal systems grapple with how to prosecute.[0m
+[3m             > But freshmen lawmakers - after three special sessions in two years to grapple with budget woes - seem particularly interested in redrafting the constitution.[0m
+[3m             > Meanwhile, senators began to grapple with the controversial healthcare bill repealing Obamacare finally passed by the House the day before.[0m
 
- 1   Engage In A Close Fight Or Struggle Without Weapons; Wrestle.
-	 Eg.  "Passers-By Grappled With The Man After The Knife Attack"
-	 Eg.  "He Threw Himself Forward And Grappled With Him"
-	 Synonyms:  wrestle , struggle , tussle , brawl , fight , 
+[35mGrapple[0m[36m /ˈɡrap(ə)l/,[0m [91m[3mverb[0m[0m | verb: grapple; 3rd person present: grapples; past tense: grappled; past participle: grappled; gerund or present participle: grappling
+      [32m1.[0m [37mengage in a close fight or struggle without weapons; wrestle.[0m
+	   "passers-by grappled with the man after the knife attack"
+  	   [3msynonyms:[0m wrestle, struggle, tussle ;  brawl, fight, scuffle, clash, combat, battle ;  close, engage
+		    "he threw himself forward and grappled with him"
+          • [37mseize hold of (someone).[0m
+	   "he grappled the young man around the throat"
+  	   [3msynonyms:[0m seize, grab, lay hold of, take hold of, grip, hold, grasp, clasp, clench, catch hold of, catch, lay one's hands on, get one's hands on
+		    "he launched into the crowd to grapple his unfortunate prey"
+  	   [3mantonyms:[0m let go of, release
+          • [37mstruggle to deal with or overcome (a difficulty or challenge).[0m
+	   "other towns are still grappling with the problem"
+  	   [3msynonyms:[0m tackle, confront, address oneself to, face, attend to, attack, get down to ;  deal with, cope with, get/come to grips with ;  concentrate on, focus on,
+                     apply oneself to, devote oneself to ;  get stuck into, get cracking on, get weaving on, have a crack at, have a go at, have a shot
+                     at, have a stab at
+		    "a writer grappling with the problems of exile"
+  	   [3mantonyms:[0m avoid
 
- 2   Seize Hold Of (Someone).
-	 Eg.  "He Grappled The Young Man Around The Throat"
-	 Eg.  "He Launched Into The Crowd To Grapple His Unfortunate Prey"
-	 Synonyms:  seize , grab , grip , hold , grasp , 
-	 Antonyms:  release , 
+      [32m2.[0m [37mseize or hold with a grappling hook.[0m
+    [91m[3mnoun[0m[0m | noun: grapple; plural noun: grapples
+      [32m1.[0m [37man act of grappling.[0m
+          • [37ma wrestling match.[0m
 
- 3   Struggle To Deal With Or Overcome (A Difficulty Or Challenge).
-	 Eg.  "Other Towns Are Still Grappling With The Problem"
-	 Eg.  "A Writer Grappling With The Problems Of Exile"
-	 Synonyms:  tackle , confront , face , attack , 
-	 Antonyms:  avoid , 
-
- 4   Seize Or Hold With A Grappling Hook.
-
- 5   An Act Of Grappling.
-
- 6   A Wrestling Match.
-
- 7   An Instrument For Seizing Hold Of Something; A Grappling Hook.
+      [32m2.[0m [37man instrument for seizing hold of something; a grappling hook.[0m
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mपकड़ना[0m             [31mकुश्ती[0m            [31mबाहुयुद्ध[0m    
+    [31mहाथापाई करना[0m           [31mपेंच[0m         [31mएक प्रकार की हुक[0m 

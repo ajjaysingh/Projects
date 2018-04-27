@@ -1,17 +1,25 @@
-                                                                                      PARLAY                                                                                      
-  SHORT        If you parlay a bet, then you take the winnings from one bet and bet it again on something else. You might have seen a gambler on TV parlay her winnings into
-               a huge fortune.
-  LONG         The verb parlay is often used to talk about gambling, but it can be used more broadly to describe any initial stake that you turn into something much larger.
+[35m                                                                                      PARLAY                                                                                      [0m
+[91m        SHORT  If you parlay a bet, then you take the winnings from one bet and bet it again on something else. You might have seen a gambler on TV parlay her winnings into
+               a huge fortune.[0m
+[36m         LONG  The verb parlay is often used to talk about gambling, but it can be used more broadly to describe any initial stake that you turn into something much larger.
                You might parlay you early investment in your brother’s company into a high-paying leadership role. Parlay also has a noun form that describes
-               these kinds of transactions. You might notice your Uncle Bob once again betting a baseball parlay.
+               these kinds of transactions. You might notice your Uncle Bob once again betting a baseball parlay.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         But he made it to the top division and parlayed that success into a Hollywood career.
-     >         Martins, meanwhile, parlayed his move into an even richer contract for next season that will reportedly net him roughly $9 million.
-     >         Q: How did you parlay your experience at Nordstrom to Target?
-     >         It was like arriving with a seal of “original product,” and El Diablito, clever and garrulous, quickly parlayed that into a position of power.
-     >         What kind of odds could you have gotten on a preseason parlay of Notre Dame losing to Navy and Duke?
+[3m             > It’s betting on the worst parlay of all-time.[0m
+[3m             > That was legitimately impressive, and so she parlayed that into quite a following.[0m
+[3m             > Twenty-three years her junior, he parlayed their brief 2008 marriage into a spot on the Italian version of the reality show “Celebrity Island.”[0m
+[3m             > “It became a hit,” he says, frankly, and he parlayed that success into a job at Perception/Today.[0m
+[3m             > Together, the changes allowed Chavez to parlay a five-year presidential term into a 13-year presidency, and ushered in two decades of socialist rule.[0m
 
- 1   Turn An Initial Stake Or Winnings From A Previous Bet Into (A Greater Amount) By Gambling.
-	 Eg.  "Parlaying A Small Bankroll Into Big Winnings"
+[35mParlay[0m[36m /ˈpɑːleɪ/,[0m [91m[3mverb[0m[0m | verb: parlay; 3rd person present: parlays; past tense: parlayed; past participle: parlayed; gerund or present participle: parlaying
+      [32m1.[0m [37mturn an initial stake or winnings from a previous bet into (a greater amount) by gambling.[0m
+	   "parlaying a small bankroll into big winnings"
+          • [37mtransform into (something greater or more valuable).[0m
+	   "a banker who parlayed a sizeable inheritance into a financial empire"
+    [91m[3mnoun[0m[0m | noun: parlay; plural noun: parlays
+      [32m1.[0m [37ma cumulative series of bets in which winnings accruing from each transaction are used as a stake for a further bet.[0m
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mबाज़ी[0m 
+   [31mदाँव[0m 
 
- 2   A Cumulative Series Of Bets In Which Winnings Accruing From Each Transaction Are Used As A Stake For A Further Bet.
+      Origin:  late 19th century: from French paroli, from Italian, from paro ‘like’, from Latin par ‘equal’.

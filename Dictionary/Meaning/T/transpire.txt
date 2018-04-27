@@ -1,28 +1,31 @@
-                                                                                    TRANSPIRE                                                                                     
-  SHORT        Transpire is a fancy way of saying "happen." You might go to a fortune teller to find out what will transpire in the future.
-  LONG         Originally used to express when information became known or came to light, many purists will tell you that's really the best way to use transpire. It can also
+[35m                                                                                    TRANSPIRE                                                                                     [0m
+[91m        SHORT  Transpire is a fancy way of saying "happen." You might go to a fortune teller to find out what will transpire in the future.[0m
+[36m         LONG  Originally used to express when information became known or came to light, many purists will tell you that's really the best way to use transpire. It can also
                mean releasing vapor into the air, like when a plant transpires water through its leaves on a hot day. Note: you'll usually encounter this word
-               in its past tense: for example, "We had to watch the replay to figure out what had transpired."
+               in its past tense: for example, "We had to watch the replay to figure out what had transpired."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Neither side generated any quality opportunities in the first 45 minutes, though as the half transpired, the Hoyas began to find their way.
-     >         Still, Orgeron said he went to bed Friday night unsure of what would transpire.
-     >         “As time transpires, Fredericksburg isn’t as sleepy as 20 years ago, and it keeps growing,” said Bates.
-     >         Something unusual is transpiring here, on the outskirts of big-time football.
-     >         Discussing what transpired several years ago, he was again the Senator: speaking deliberately, using three-dollar words, filibustering over an admittedly
-               difficult topic.
+[3m             > On Cocker’s lips, everything that ever transpired in Room 29 sounds hilarious and tragic.[0m
+[3m             > Nothing that transpired in downtown D.C. suggests these squads are remotely close.[0m
+[3m             > The police spokesman wouldn’t say how many bounty hunters were involved, when the shots were fired and what exactly transpired in the parking lot.[0m
+[3m             > But what transpired in the 12 to 14 hours leading up to Sunday’s win, and the message it sent, was far more significant.[0m
+[3m             > Anfield was a nervous place and with good reason, it transpired.[0m
 
- 1   (Of A Secret Or Something Unknown) Come To Be Known; Be Revealed.
-	 Eg.  "It Transpired That Millions Of Dollars Of Debt Had Been Hidden In A Complex Web Of Transactions"
-	 Eg.  "It Transpired That Mr. Washington Had Been In London Throughout The Period Of The Robberies"
-	 Synonyms:  emerge , materialize , 
+[35mTranspire[0m[36m /tranˈspʌɪə,trɑːnˈspʌɪə/,[0m [91m[3mverb[0m[0m | verb: transpire; 3rd person present: transpires; past tense: transpired; past participle: transpired; gerund or present participle: transpiring
+      [32m1.[0m [37m(of a secret or something unknown) come to be known; be revealed.[0m
+	   "it transpired that millions of dollars of debt had been hidden in a complex web of transactions"
+  	   [3msynonyms:[0m become known, become apparent, be revealed, be disclosed, come to light, emerge, come out, get out, be discovered, be uncovered, materialize, leak out,
+                     turn out, be made public
+		    "it transpired that Mr. Washington had been in London throughout the period of the robberies"
+          • [37mprove to be the case.[0m
+	   "as it transpired, he was right"
+          • [37moccur; happen.[0m
+	   "I'm going to find out exactly what transpired"
+  	   [3msynonyms:[0m happen, occur, take place, come about, come to pass, crop up, turn up, arise, chance, ensue, befall, be realized, take shape ;  pan out, end up
+		    "the visitors explained where they had come from and what had transpired there"
 
- 2   Prove To Be The Case.
-	 Eg.  "As It Transpired, He Was Right"
-
- 3   Occur; Happen.
-	 Eg.  "I'M Going To Find Out Exactly What Transpired"
-	 Eg.  "The Visitors Explained Where They Had Come From And What Had Transpired There"
-	 Synonyms:  happen , occur , arise , chance , ensue , 
-
- 4   (Of A Plant Or Leaf) Give Off Water Vapour Through The Stomata.
-	 Eg.  "A Cactus Does Not Transpire As Freely As Most Plants"
+      [32m2.[0m [37m(of a plant or leaf) give off water vapour through the stomata.[0m
+	   "a cactus does not transpire as freely as most plants"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+   [31mभाप बनकर उड़ जाना[0m    [31m(ला.) प्रकट हो जाना[0m 
+         [31mरिसना[0m             [31mमालूम हो जाना[0m    
+      [31mभाप हो जाना[0m             [31mखुल जाना[0m      

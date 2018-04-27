@@ -1,30 +1,34 @@
-                                                                                   DEBILITATING                                                                                   
-  SHORT        Something that's debilitating seriously affects someone or something's strength or ability to carry on with regular activities, like a debilitating illness.
-  LONG         Debilitating comes from the Latin word debilis, meaning "weak." That's why you'll often see the adjective used to describe illness. After all, serious
+[35m                                                                                   DEBILITATING                                                                                   [0m
+[91m        SHORT  Something that's debilitating seriously affects someone or something's strength or ability to carry on with regular activities, like a debilitating illness.[0m
+[36m         LONG  Debilitating comes from the Latin word debilis, meaning "weak." That's why you'll often see the adjective used to describe illness. After all, serious
                diseases weaken the body. Other things that can be debilitating are those that can stop you from reaching a goal, like a debilitating snow
-               storm that forces you to stay home, or debilitating shyness that keeps you from reaching out to the people you want to meet.
+               storm that forces you to stay home, or debilitating shyness that keeps you from reaching out to the people you want to meet.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Another scuba-related idea was to create a diving suit infected with fungus that would cause a debilitating disease.
-     >         “We were replacing an operation that was physically very debilitating for the mechanics.”
-     >         Eventually this plan was abandoned, as was another that involved preparing a custom-made diving-suit infected with a fungus that would cause a debilitating
-               skin disease.
-     >         Woodside struggled with a debilitating stutter well into college, one that got worse the more he thought about it.
-     >         If you have ever had a toothache, you know how debilitating it can be.
+[3m             > Depression is often a debilitating condition, as are many other mental health problems.[0m
+[3m             > Unfortunately, Sunday’s presidential election confirms that the French ambivalence to liberty remains alive—and debilitating.[0m
+[3m             > Others, torn by guilt, start charities to combat the debilitating effects of Agent Orange, a toxic defoliant sprayed by American warplanes.[0m
+[3m             > What kind of "quality" is there after death, or for that matter, a damaging and debilitating heart attack?[0m
+[3m             > Trichiasis is present when turned-in eyelashes scratch the eyeball – a debilitatingly painful condition that may lead to progressive and irreversible visual
+               impairment.[0m
 
- 1   (Of A Disease Or Condition) Making Someone Very Weak And Infirm.
-	 Eg.  "Debilitating Back Pain"
-
- 2   Tending To Weaken Something.
-	 Eg.  "The Debilitating Effects Of Underinvestment"
-
- 3   Make (Someone) Very Weak And Infirm.
-	 Eg.  "He Was Severely Debilitated By A Stomach Upset"
-	 Eg.  "He Was Suffering The Debilitating Effects Of Flu"
-	 Synonyms:  wearing , exhausting , tiring , 
-	 Antonyms:  restorative , 
-
- 4   Hinder, Delay, Or Weaken.
-	 Eg.  "Hard Drugs Destroy Families And Debilitate Communities"
-	 Eg.  "She Was Severely Debilitated By A Stomach Upset"
-	 Synonyms:  weaken , enfeeble , enervate , devitalize , sap , 
-	 Antonyms:  strengthen , invigorate , 
+[35mDebilitating[0m[36m /dɪˈbɪlɪteɪtɪŋ/,[0m [91m[3madjective[0m[0m | adjective: debilitating
+          • [37m(of a disease or condition) making someone very weak and infirm.[0m
+	   "debilitating back pain"
+          • [37mtending to weaken something.[0m
+	   "the debilitating effects of underinvestment"
+[35mDebilitate[0m[36m /dɪˈbɪlɪteɪt/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: debilitating
+          • [37mmake (someone) very weak and infirm.[0m
+	   "he was severely debilitated by a stomach upset"
+  	   [3msynonyms:[0m weakening, enfeebling, enervating, enervative, devitalizing, draining, sapping, wearing, exhausting, tiring ;  impairing, crippling, paralysing
+		    "he was suffering the debilitating effects of flu"
+  	   [3mantonyms:[0m restorative
+          • [37mhinder, delay, or weaken.[0m
+	   "hard drugs destroy families and debilitate communities"
+  	   [3msynonyms:[0m weaken, make weak, make feeble, enfeeble, enervate, devitalize, sap, drain, exhaust, weary, tire, fatigue, wear out, prostrate ;  undermine, impair,
+                     render infirm, indispose, incapacitate, disable, paralyse, immobilize, lay low, put out of action, confine to bed, confine to a
+                     wheelchair ;  knock out, do in, knacker, shatter ;  torpefy
+		    "she was severely debilitated by a stomach upset"
+  	   [3mantonyms:[0m strengthen, invigorate
+  [31m[4m[34m[0m[0m[0m
+  [31mकमजोरी लाने वाली[0m 

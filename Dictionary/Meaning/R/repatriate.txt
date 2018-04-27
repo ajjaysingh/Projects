@@ -1,23 +1,27 @@
-                                                                                    REPATRIATE                                                                                    
-  SHORT        When a country repatriates people, they are usually refugees who are being sent back to their homeland, often against their wishes.
-  LONG         It is possible for a person to repatriate himself, choosing to return to a country he's left for political or economic reasons, but the verb repatriate is
+[35m                                                                                    REPATRIATE                                                                                    [0m
+[91m        SHORT  When a country repatriates people, they are usually refugees who are being sent back to their homeland, often against their wishes.[0m
+[36m         LONG  It is possible for a person to repatriate himself, choosing to return to a country he's left for political or economic reasons, but the verb repatriate is
                more often used to mean "send refugees home." It might sound like a modern political term, but repatriate has been used since the 1600s. It
-               comes from the Latin word repatriare, "return to one's own country," from the prefix re, "back," and patria, "native land."
+               comes from the Latin word repatriare, "return to one's own country," from the prefix re, "back," and patria, "native land."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Mexican government is expanding efforts to resettle repatriated nationals, who were growing in number even before Trump’s victory.
-     >         According to Amnesty International, the Bangladeshi government has begun forcibly repatriating the asylum seekers by the thousands, in defiance of
-               international law.
-     >         Authorities in Bangladesh have been detaining and repatriating hundreds of fleeing Rohingya.
-     >         Funding might also come from taxes on repatriated money, as companies receive incentives to return cash that they have been accumulating overseas.
-     >         Like Toyota’s profits from North America, GM’s take gets repatriated back to the homeland.
+[3m             > The two cousins resolved they would find his grave and repatriate his remains.[0m
+[3m             > Some state governments are offering small grants to repatriated migrants who are setting up businesses.[0m
+[3m             > If the $2.6 trillion overseas were repatriated at once, two things would happen.[0m
+[3m             > French authorities "weren't interested in repatriating her", he said, so she was sent to a sanctuary in Kent.[0m
+[3m             > It is unclear what will happen to the collection then, but the seminary said the artifacts would be safeguarded as it worked to repatriate them.[0m
 
- 1   Send (Someone) Back To Their Own Country.
-	 Eg.  "The Last German Pows Were Repatriated In November 1948"
+[35mRepatriate[0m[36m /riːˈpatrɪeɪt,riːˈpeɪeɪt/,[0m [91m[3mverb[0m[0m | verb: repatriate; 3rd person present: repatriates; past tense: repatriated; past participle: repatriated; gerund or present participle: repatriating
+      [32m1.[0m [37msend (someone) back to their own country.[0m
+	   "the last German POWs were repatriated in November 1948"
+          • [37mreturn to one's own country.[0m
+	   "the majority came to America as migrant workers who intended to repatriate to Hungary"
+          • [37msend or bring (money) back to one's own country.[0m
+	   "foreign firms would be permitted to repatriate all profits"
+    [91m[3mnoun[0m[0m | noun: repatriate; plural noun: repatriates
+      [32m1.[0m [37ma person who has been repatriated.[0m
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+      [31mस्वदेश भेजना[0m        [31mदेश-प्रत्यावर्तन[0m  
+  [31mअपने देश को लौट आना[0m      [31mदेश वापस भेजना[0m   
 
- 2   Return To One'S Own Country.
-	 Eg.  "The Majority Came To America As Migrant Workers Who Intended To Repatriate To Hungary"
-
- 3   Send Or Bring (Money) Back To One'S Own Country.
-	 Eg.  "Foreign Firms Would Be Permitted To Repatriate All Profits"
-
- 4   A Person Who Has Been Repatriated.
+      Origin:  early 17th century (earlier (late 16th century) as repatriation ): from late Latin repatriat- ‘returned to one's country’, from the verb repatriare, from re-
+               ‘back’ + Latin patria ‘native land’.

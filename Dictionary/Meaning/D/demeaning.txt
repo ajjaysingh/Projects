@@ -1,31 +1,37 @@
-                                                                                    DEMEANING                                                                                     
-  SHORT        The adjective demeaning describes something that lowers a person's reputation or dignity. If your boss always asks you to pick up her dry cleaning and get her
-               coffee, you might feel like you usually get the demeaning jobs.
-  LONG         The adjective demeaning comes from the verb demean, which itself is based on the construction of the word "debase." The word demean has two almost opposite
+[35m                                                                                    DEMEANING                                                                                     [0m
+[91m        SHORT  The adjective demeaning describes something that lowers a person's reputation or dignity. If your boss always asks you to pick up her dry cleaning and get her
+               coffee, you might feel like you usually get the demeaning jobs.[0m
+[36m         LONG  The adjective demeaning comes from the verb demean, which itself is based on the construction of the word "debase." The word demean has two almost opposite
                meanings, to degrade and to conduct oneself in a particular manner, usually a proper one. The adjective, however, always describes something
                that is degrading. Overhearing two friends gossiping about you can be a demeaning experience, even if they're just criticizing your new
-               haircut.
+               haircut.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         She’s a longtime dance hall hostess, a demeaning job where men paid to grope women while the women politely fended them off.
-     >         Ofcom said the comments had a "mocking and demeaning tone".
-     >         In context, the term “cheap eats” starts to seem demeaning.
-     >         Nobody is demeaning or diminishing who anybody is.
-     >         It will all be a grotesque spectacle, demeaning the players and diminishing and compromising the public esteem for the court.
+[3m             > My reply: Let’s stop deriding and demeaning each other as daily substitutes for debate and discourse.[0m
+[3m             > It defines hazing as “any activity which is cruel, abusive, humiliating, oppressive, demeaning or harmful,” whether physical or psychological.[0m
+[3m             > “Your argument is demeaning the priceless value of citizenship,” he told Mr. Parker.[0m
+[3m             > Conservative Justice Anthony Kennedy also rebuked Parker, saying, "It seems to me that your argument is demeaning the priceless value of citizenship."[0m
+[3m             > Justice Anthony Kennedy told lawyer Robert Parker that his argument “is demeaning the priceless value of citizenship.”[0m
 
- 1   Causing Someone To Lose Their Dignity And The Respect Of Others.
-	 Eg.  "The Poster Was Not Demeaning To Women"
-
- 2   Cause A Severe Loss In The Dignity Of And Respect For (Someone Or Something).
-	 Eg.  "I Had Demeaned The Profession"
-	 Eg.  "A Demeaning Experience"
-	 Synonyms:  degrading , humiliating , shameful , abject , ignominious , 
-	 Antonyms:  
-
- 3   Do Something That Is Beneath One'S Dignity.
-	 Eg.  "Good Potential Mps Would Not Demean Themselves By Setting Out To Acquire Popularity"
-	 Eg.  "His Actions Only Served To Demean Him In The Eyes Of The Public"
-	 Synonyms:  discredit , lower , degrade , debase , devalue , 
-	 Antonyms:  dignify , exalt , 
-
- 4   Conduct Oneself In A Particular Way.
-	 Eg.  "No Man Demeaned Himself So Honourably"
+[35mDemeaning[0m[36m /dɪˈmiːnɪŋ/,[0m [91m[3madjective[0m[0m | adjective: demeaning
+          • [37mcausing someone to lose their dignity and the respect of others.[0m
+	   "the poster was not demeaning to women"
+[35mDemean[0m[36m /dɪˈmiːn/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: demeaning
+          • [37mcause a severe loss in the dignity of and respect for (someone or something).[0m
+	   "I had demeaned the profession"
+  	   [3msynonyms:[0m degrading, humiliating, shaming, shameful, bringing shame, mortifying, abject, lowering, ignominious, undignified, inglorious, discrediting ;  menial ;
+                     infra dig
+		    "a demeaning experience"
+  	   [3mantonyms:[0m ennobling
+          • [37mdo something that is beneath one's dignity.[0m
+	   "good potential MPs would not demean themselves by setting out to acquire popularity"
+  	   [3msynonyms:[0m discredit, lower, lower someone's dignity, lower someone's status, degrade, debase, devalue, demote ;  cheapen, abase, humble, humiliate, disgrace,
+                     dishonour ;  condescend, deign, stoop, descend
+		    "his actions only served to demean him in the eyes of the public"
+  	   [3mantonyms:[0m dignify, exalt
+[35mDemean[0m[36m /dɪˈmiːn/,[0m [91m[3mverb archaic[0m[0m
+	gerund or present participle: demeaning
+          • [37mconduct oneself in a particular way.[0m
+	   "no man demeaned himself so honourably"
+  [31m[4m[34m[0m[0m[0m
+  [31mनीचा दिखा[0m 

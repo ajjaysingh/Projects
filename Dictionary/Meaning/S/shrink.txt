@@ -1,42 +1,48 @@
-                                                                                      SHRINK                                                                                      
-  SHORT        Shrink is the informal word you can use to talk about a therapist. Talking about your problems with her can hopefully help you shrink them, or make them
-               smaller.
-  LONG         The word shrink is related to the Swedish skrynka meaning "to wrinkle." Think about what happens to a lone forgotten fruit at the bottom of your fridge
+[35m                                                                                      SHRINK                                                                                      [0m
+[91m        SHORT  Shrink is the informal word you can use to talk about a therapist. Talking about your problems with her can hopefully help you shrink them, or make them
+               smaller.[0m
+[36m         LONG  The word shrink is related to the Swedish skrynka meaning "to wrinkle." Think about what happens to a lone forgotten fruit at the bottom of your fridge
                drawer. After a while, it begins to wrinkle or shrink. Clothes washed in hot water tend to shrink, so be wary of the setting on your washing
-               machine. The use of shrink as referring to therapists started as late as the 1960s — with the idea of a psychologist being a "head-shrinker."
+               machine. The use of shrink as referring to therapists started as late as the 1960s — with the idea of a psychologist being a "head-shrinker."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The strategy also reflects the reality of a shrinking British army.
-     >         The shrinking value of the currency has meant that withdrawing the equivalent of $5 from the ATM produces a fistful of at least 100 bills.
-     >         In the rearview mirror, the shrinking Sierra Nevadas.
-     >         The belt of destroyed towns and villages continues for hundreds of miles along the jagged perimeter of the Islamic State’s shrinking domain.
-     >         "Our plan to change our business model, shrink the company and reduce our risk profile has been successful," Sherin said.
+[3m             > Activity in the UK's industrial and construction sectors shrank in March, new figures show.[0m
+[3m             > Farge said glaciers started to shrink from around 1910 and then entered “rapid and continual” melting from the 1970s onwards.[0m
+[3m             > In the eighteenth century, the tally shrank further, to 1,400.[0m
+[3m             > As your principal shrinks, so too does the interest you pay, since you’re charged interest only on the remaining balance.[0m
+[3m             > Analysts say the foundation for bitcoin's gains was set last July in a process called "halving," in which rewards offered to bitcoin miners shrink.[0m
 
- 1   Become Or Make Smaller In Size Or Amount.
-	 Eg.  "The Workforce Shrank To A Thousand"
-	 Eg.  "A Sweater That Shrank In The Wash"
-	 Eg.  "The Summer Sun Had Shrunk And Dried The Wood"
-	 Synonyms:  contract , diminish , lessen , reduce , decrease , 
-	 Antonyms:  expand , increase , 
+[35mShrink[0m[36m /ʃrɪŋk/,[0m [91m[3mverb[0m[0m | verb: shrink; 3rd person present: shrinks; past tense: shrank; past participle: shrunk; past participle: shrunken; gerund or present participle: shrinking
+      [32m1.[0m [37mbecome or make smaller in size or amount.[0m
+	   "the workforce shrank to a thousand"
+  	   [3msynonyms:[0m get smaller, become/grow smaller, contract, diminish, lessen, reduce, decrease, dwindle, narrow, shorten, slim, decline, fall off, drop off, condense,
+                     deflate, shrivel, wither  make smaller, contract, lessen, reduce, decrease, narrow, shorten, truncate, abbreviate, condense, slim
+                     down, pare down, concentrate, abridge, compress, squeeze, deflate, shrivel, wither
+		    "a sweater that shrank in the wash"
+  	   [3mantonyms:[0m expand, increase
+          • [37m(of clothes or material) become smaller as a result of being immersed in water.[0m
+	   "she wore a sweater which had shrunk slightly"
+          • [37m(of a person's face or other part of the body) wrinkled or shrivelled through old age or illness.[0m
+	   adjective: shrunken
+          • [37mslip a metal tyre or other fitting on to (something) while it is expanded with heat and allow it to tighten in place.[0m
+	   "the metal is unsuitable for shrinking on to wooden staves"
 
- 2   (Of Clothes Or Material) Become Smaller As A Result Of Being Immersed In Water.
-	 Eg.  "She Wore A Sweater Which Had Shrunk Slightly"
-
- 3   (Of A Person'S Face Or Other Part Of The Body) Wrinkled Or Shrivelled Through Old Age Or Illness.
-	 Eg.  Adjective: Shrunken
-	 Eg.  "A Tiny Shrunken Face And Enormous Eyes"
-
- 4   Move Back Or Away, Especially Because Of Fear Or Disgust.
-	 Eg.  "She Shrank Away From Him, Covering Her Face"
-	 Eg.  "He Shrank Back Against The Wall"
-	 Synonyms:  recoil , retreat , withdraw , flinch , blench , 
-
- 5   Be Averse To Or Unwilling To Do (Something Difficult Or Unappealing).
-	 Eg.  "I Don'T Shrink From My Responsibilities"
-	 Eg.  "He Doesn'T Shrink From Naming Names"
-	 Synonyms:  recoil , demur , flinch , 
-	 Antonyms:  confront , 
-
- 6   Become Withdrawn.
-
- 7   A Psychiatrist.
-	 Eg.  "You Should See A Shrink"
+      [32m2.[0m [37mmove back or away, especially because of fear or disgust.[0m
+	   "she shrank away from him, covering her face"
+  	   [3msynonyms:[0m draw back, recoil, jump back, spring back, jerk back, pull back, start back, back away, retreat, withdraw ;  flinch, shy away, blench, start, wince,
+                     cringe, cower, quail
+		    "he shrank back against the wall"
+          • [37mbe averse to or unwilling to do (something difficult or unappealing).[0m
+	   "I don't shrink from my responsibilities"
+  	   [3msynonyms:[0m recoil, shy away, hang back, demur, flinch ;  have scruples about, scruple about, have misgivings about, have qualms about, be loath to, be reluctant to,
+                     be unwilling to, be disinclined to, be indisposed to, be sorry to, be averse to, be slow to ;  be chary of, fight shy of, not be in
+                     favour of, be against, be opposed to, be hesitant to, be diffident about, be bashful about, be shy about, be coy about, be ashamed
+                     to, be afraid to, hesitate to, hate to, not like to, not have the heart to, drag one's feet/heels over, waver about, vacillate
+                     about, think twice about, baulk at, quail at, mind doing something ;  boggle at ;  disrelish something
+		    "he doesn't shrink from naming names"
+  	   [3mantonyms:[0m confront, be eager to
+          • [37mbecome withdrawn.[0m
+    [91m[3mnoun informal[0m[0m | noun: shrink; plural noun: shrinks
+      [32m1.[0m [37ma psychiatrist.[0m
+	   "you should see a shrink"
+      [31m[4m[34m[0m[0m[0m        [31m[4m[34mverb[0m[0m[0m      [31m[4m[34mnoun[0m[0m[0m  
+            [31mझिझक[0m                     [31mसिकुड़ना[0m           [31mमानसिक रोगों का चिकित्सक[0m 

@@ -1,19 +1,20 @@
-                                                                                      TRUCE                                                                                       
-  SHORT        When two warring sides decide to call it quits, it's called a truce — an agreement to end the fighting.
-  LONG         When there's a truce, the two sides stop attacking each other, catch their breath, and try to work out a peace deal. A truce isn't a permanent solution: it's
+[35m                                                                                      TRUCE                                                                                       [0m
+[91m        SHORT  When two warring sides decide to call it quits, it's called a truce — an agreement to end the fighting.[0m
+[36m         LONG  When there's a truce, the two sides stop attacking each other, catch their breath, and try to work out a peace deal. A truce isn't a permanent solution: it's
                more like a time-out. People with other kinds of conflicts talk about truces, too. If you and your sister are in an ongoing battle, one of you
-               could say, "Can we please call a truce?" That means you'll take a break from squabbling, at least for a while.
+               could say, "Can we please call a truce?" That means you'll take a break from squabbling, at least for a while.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Venezuela’s opposition said Wednesday the government has abandoned Vatican-brokered talks, potentially ending a short-lived political truce in the deeply
-               polarized nation.
-     >         That truce would then allow for political dialogue to address ethnic groups’ demands for federal autonomy, as well as reforms to the army-drafted
-               constitution.
-     >         The truce brought residents of the capital, Sanaa, a brief respite from air strikes.
-     >         The national election threatens an informal, fragile truce between states that have legalized the drug and the federal government.
-     >         Secretary of State John Kerry that the warring parties had agreed to an open-ended truce and to work toward the formation of a unity government.
+[3m             > We used a similar technique to bring about truces among rival gangs such as Lynch Mob and Choppa City.[0m
+[3m             > The DMZ also includes the truce village of Panmunjom, which despite animosities is a popular tourist spot drawing visitors on both sides.[0m
+[3m             > A temporary truce under President George W. Bush, which effectively limited Canadian exports to the United States, expired in 2015.[0m
+[3m             > Even the Ares and Apollo cabins called a temporary truce to attend.[0m
+[3m             > North and South Korea are technically still at war because their 1950-53 conflict ended in a truce, not a peace treaty.[0m
 
- 1   An Agreement Between Enemies Or Opponents To Stop Fighting Or Arguing For A Certain Time.
-	 Eg.  "The Guerrillas Called A Three-Day Truce"
-	 Eg.  "The Rebels Agreed To A Truce"
-	 Synonyms:  ceasefire , armistice , peace , break , respite , 
-	 Antonyms:  fighting , 
+[35mTruce[0m[36m /truːs/,[0m [91m[3mnoun[0m[0m | noun: truce; plural noun: truces
+          • [37man agreement between enemies or opponents to stop fighting or arguing for a certain time.[0m
+	   "the guerrillas called a three-day truce"
+  	   [3msynonyms:[0m ceasefire, armistice, suspension of hostilities, cessation of hostilities, peace ;  break, respite, lull, moratorium ;  treaty, peace treaty ;  let-up
+		    "the rebels agreed to a truce"
+  	   [3mantonyms:[0m fighting, hostilities
+  [31m[4m[34m[0m[0m[0m
+  [31mयुद्धविराम संधि[0m 

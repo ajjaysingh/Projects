@@ -1,22 +1,25 @@
-                                                                                  DISCRETIONARY                                                                                   
-  SHORT        Discretionary means it's up to you to decide. Bathing regularly is a discretionary act, so you can opt not to do it if you want; note, however, that your
-               friends might disagree with us on this.
-  LONG         Discretionary is often used to describe money that isn’t designated for a particular purpose. It’s up to the people in charge to decide how discretionary
+[35m                                                                                  DISCRETIONARY                                                                                   [0m
+[91m        SHORT  Discretionary means it's up to you to decide. Bathing regularly is a discretionary act, so you can opt not to do it if you want; note, however, that your
+               friends might disagree with us on this.[0m
+[36m         LONG  Discretionary is often used to describe money that isn’t designated for a particular purpose. It’s up to the people in charge to decide how discretionary
                funds should be spent. Discretionary comes from the word discretion, which can be used to mean “the right to decide something based on one’s
                own judgment.” If you're given a task to complete at your discretion, you can decide how you want to do it — or whether you want to do it at
-               all.
+               all.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         It’s also crucial to make the agency subject to annual discretionary appropriations so it must compete with other priorities.
-     >         They were neutral or slightly negative about consumer discretionary and real estate shares.
-     >         “Travel is the function of discretionary spending,” Mr. Townsend said.
-     >         The arbitrator ruled that the school board disagreeing with discretionary judgment is not grounds for termination for incompetence.
-     >         It will also help build laboratories for teaching and research and provide discretionary funds for strategic initiatives and leadership programs.
+[3m             > U.S. stocks opened lower on Thursday as Macy's weak earnings weighed on the consumer discretionary sector.[0m
+[3m             > Six of the 11 major S&P 500 sectors were lower, with consumer discretionary dropping 0.6 percent due to Disney and Priceline.[0m
+[3m             > She said discretionary transfers such as the one Henderson used in her case are “an option available to every parent.”[0m
+[3m             > Trim discretionary costs that aren’t high on your list of values, he says.[0m
+[3m             > Louisiana’s budget runs to $31.2 billion a year, but its discretionary programs, such as health care, account for $3.6 billion.[0m
 
- 1   Available For Use At The Discretion Of The User.
-	 Eg.  "There Has Been An Increase In Year-End Discretionary Bonuses"
-	 Eg.  "A 12.5 Per Cent Discretionary Service Charge"
-	 Synonyms:  optional , non-compulsory , voluntary , non-mandatory , elective , 
-	 Antonyms:  compulsory , obligatory , 
-
- 2   Denoting Or Relating To Investment Funds Placed With A Broker Or Manager Who Has Discretion To Invest Them On The Client'S Behalf.
-	 Eg.  "Discretionary Portfolios"
+[35mDiscretionary[0m[36m /dɪˈskrɛʃ(ə)n(ə)ri/,[0m [91m[3madjective[0m[0m | adjective: discretionary
+          • [37mavailable for use at the discretion of the user.[0m
+	   "there has been an increase in year-end discretionary bonuses"
+  	   [3msynonyms:[0m optional, non-compulsory, voluntary, at one's discretion, up to the individual, non-mandatory, elective, open to choice ;  open, unrestricted ;
+                     permissive ;  discretional
+		    "a 12.5 per cent discretionary service charge"
+  	   [3mantonyms:[0m compulsory, obligatory
+          • [37mdenoting or relating to investment funds placed with a broker or manager who has discretion to invest them on the client's behalf.[0m
+	   "discretionary portfolios"
+  [31m[4m[34m[0m[0m[0m
+  [31mविवेकाधीन[0m 

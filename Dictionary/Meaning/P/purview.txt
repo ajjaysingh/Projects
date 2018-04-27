@@ -1,18 +1,20 @@
-                                                                                     PURVIEW                                                                                      
-  SHORT        The range or scope of something is its purview. If your occupation is chef, performing surgery is way outside your purview.
-  LONG         Anything inside a range of interest or activity is within a purview. A supervisor is in charge of certain workers — other workers are outside her purview. The
+[35m                                                                                     PURVIEW                                                                                      [0m
+[91m        SHORT  The range or scope of something is its purview. If your occupation is chef, performing surgery is way outside your purview.[0m
+[36m         LONG  Anything inside a range of interest or activity is within a purview. A supervisor is in charge of certain workers — other workers are outside her purview. The
                surgeon general deals with medical issues: the defense budget is outside his purview. When a business expands, it's trying to increase its
                purview. If you go to the dentist and ask her to paint a picture of your tooth rather than extracting it, you're likely to discover you've gone
-               way beyond her purview.
+               way beyond her purview.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         For years, immigration enforcement was the purview of the federal government, which managed to deport tens of thousands each year.
-     >         His purview was never entirely spelled out, which gave him latitude to exert influence without clear responsibility.
-     >         But Frosh said the action was “completely within the purview of the courts.”
-     >         In India, wealth generated outside the taxman’s purview is also stored in property, business assets and precious metals and gems.
-     >         They are, after all, traditionally the purview of Democratic candidates, not Republicans.
+[3m             > The department also charges a $2,250 fee for those who fall under its purview.[0m
+[3m             > Invention didn’t cease, but in the 1950s new instruments, and particularly electronic ones, were the purview of the avant-garde and of commercial music.[0m
+[3m             > But the agents, possibly acting beyond their purview, told him that he needed police reports.[0m
+[3m             > “Think of math as something that’s the purview of the home, not just the school,” Dr. Beilock said.[0m
+[3m             > As the dark ages passed and civilization began to ramp up into modernity, beer was the purview of women and monasteries.[0m
 
- 1   The Scope Of The Influence Or Concerns Of Something.
-	 Eg.  "Such A Case Might Be Within The Purview Of The Legislation"
-
- 2   Range Of Experience Or Thought.
-	 Eg.  "Social Taboos Meant That Little Information Was Likely To Come Within The Purview Of Women Generally"
+[35mPurview[0m[36m /ˈpəːvjuː/,[0m [91m[3mnoun formal[0m[0m | noun: purview
+          • [37mthe scope of the influence or concerns of something.[0m
+	   "such a case might be within the purview of the legislation"
+          • [37mrange of experience or thought.[0m
+	   "social taboos meant that little information was likely to come within the purview of women generally"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mक्षेत्र[0m     [31mकार्यक्षेत्र[0m 

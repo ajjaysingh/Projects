@@ -1,24 +1,28 @@
-                                                                                     STIMULUS                                                                                     
-  SHORT        A stimulus causes an action or response, like the ringing of your alarm clock if you didn't sleep through it.
-  LONG         Stimulus is a word often used in biology — something that causes a reaction in an organ or cell, for example. In financial and economic contexts, a stimulus
+[35m                                                                                     STIMULUS                                                                                     [0m
+[91m        SHORT  A stimulus causes an action or response, like the ringing of your alarm clock if you didn't sleep through it.[0m
+[36m         LONG  Stimulus is a word often used in biology — something that causes a reaction in an organ or cell, for example. In financial and economic contexts, a stimulus
                may be an incentive: the money you spend on your membership is a stimulus for hitting the gym. Though it can be a synonym for stimulant, they
                are not always used interchangeably. A stimulant is often a chemical or drug that increases activity — think caffeine. For more than one
-               stimulus, use stimuli, not stimuluses.
+               stimulus, use stimuli, not stimuluses.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Abe came to power in 2012 promising to revive the economy with a policy mix including fiscal stimulus, but it has remained stubbornly weak.
-     >         The second reason to be sceptical of a Trump boom is that a massive fiscal stimulus would be poorly timed.
-     >         Things got worse before Obama took office, and his stimulus grew somewhat in response.
-     >         Treasury yields spiked on expectations that the new administration would boost debt-funded stimulus spending and stoke inflation.
-     >         This was economic stimulus, extending the Christmas shopping season.
+[3m             > It is a waistcoat with thirty-two embedded vibratory motors, connected to a smartphone app that translates sound frequencies into tactile stimuli.[0m
+[3m             > That’s a signal to the Fed to cut back on the stimulus it provides the economy through lower interest rates.[0m
+[3m             > Moon promised to put together a huge stimulus package, to create 810,000 public- sector positions and to reduce long working hours.[0m
+[3m             > In 2011, rather than austerity, the economy still was ripe for more stimulus.[0m
+[3m             > Fed officials also were discussing the details and timing of ending a related stimulus program, the Fed’s vast investments in Treasuries and mortgage-backed
+               securities.[0m
 
- 1   A Thing Or Event That Evokes A Specific Functional Reaction In An Organ Or Tissue.
-	 Eg.  "Areas Of The Brain Which Respond To Auditory Stimuli"
-
- 2   A Thing That Arouses Activity Or Energy In Someone Or Something; A Spur Or Incentive.
-	 Eg.  "If The Tax Were Abolished, It Would Act As A Stimulus To Exports"
-	 Eg.  "Cheap Energy Provided A Major Stimulus To Economic Development In Western Europe"
-	 Synonyms:  spur , stimulant , encouragement , impetus , boost , 
-	 Antonyms:  deterrent , discouragement , 
-
- 3   An Interesting And Exciting Quality.
-	 Eg.  "She Loved The Stimulus Of The Job"
+[35mStimulus[0m[36m /ˈstɪmjʊləs/,[0m [91m[3mnoun[0m[0m | noun: stimulus; plural noun: stimuli
+          • [37ma thing or event that evokes a specific functional reaction in an organ or tissue.[0m
+	   "areas of the brain which respond to auditory stimuli"
+          • [37ma thing that arouses activity or energy in someone or something; a spur or incentive.[0m
+	   "if the tax were abolished, it would act as a stimulus to exports"
+  	   [3msynonyms:[0m spur, stimulant, encouragement, impetus, boost, prompt, prod, incentive, inducement, inspiration, fillip ;  motive, motivation, impulse ;  provocation,
+                     goad, incitement ;  shot in the arm, kick up the backside ;  precipitant
+		    "cheap energy provided a major stimulus to economic development in western Europe"
+  	   [3mantonyms:[0m deterrent, discouragement
+          • [37man interesting and exciting quality.[0m
+	   "she loved the stimulus of the job"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+      [31mप्रोत्साहन[0m           [31mउद्दीपन[0m      
+       [31mउत्तेजना[0m       [31mकार्यप्रेरक वस्तु[0m 

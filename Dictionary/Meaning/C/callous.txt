@@ -1,26 +1,31 @@
-                                                                                     CALLOUS                                                                                      
-  SHORT        A callous person is insensitive or emotionally hardened. If you laugh at your little sister while she's trying to show you her poetry, you're being callous.
-  LONG         Callous comes from the Latin root callum for hard skin.  If you walk barefoot a lot, your feet will become calloused. We usually use callous in the
+[35m                                                                                     CALLOUS                                                                                      [0m
+[91m        SHORT  A callous person is insensitive or emotionally hardened. If you laugh at your little sister while she's trying to show you her poetry, you're being callous.[0m
+[36m         LONG  Callous comes from the Latin root callum for hard skin.  If you walk barefoot a lot, your feet will become calloused. We usually use callous in the
                metaphorical sense for emotionally hardened. If someone is unmoved by other people's problems, you might say he shows a callous indifference to
-               human suffering.
+               human suffering.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         War had been an inevitable outcome: an anonymous and ultimately callous economic system, decorated with flags and lies, had sent millions to their deaths.
-     >         “In a callous display of indifference to human life, Mr. Pina sold others the same drugs that nearly killed him.”
-     >         In any event, you'd think politicians would know better than to make such easily misinterpreted, callous remarks.
-     >         “His callous behavior and willingness to sell the bodies of his young victims for his own financial gain is abhorrent.”
-     >         Morally, they earned Negan’s retribution with their callous disregard for his people.
+[3m             > “It shows how callous these drug dealers are,” Synan said.[0m
+[3m             > When talking to detectives, “he did so in a very callous manner and in fact multiple times laughed as he described what transpired,” Dyer said.[0m
+[3m             > The adverts, callous and lacking humanity, are a picture of the market at its worst.[0m
+[3m             > But now the conceit of callous incompetence masquerading as leadership just doesn’t seem as funny as it once did.[0m
+[3m             > As the problems with Wells’ sales culture ballooned, management still remained callous to the problems or even actively worked to hide it.[0m
 
- 1   Showing Or Having An Insensitive And Cruel Disregard For Others.
-	 Eg.  "His Callous Comments About The Murder Made Me Shiver"
-	 Eg.  "His Callous Disregard For The Feelings And Wishes Of Others"
-	 Synonyms:  heartless , unfeeling , uncaring , cold , cold-hearted , 
-	 Antonyms:  kind , compassionate , 
-
- 2   Variant Spelling Of Callus.
-
- 3   A Thickened And Hardened Part Of The Skin Or Soft Tissue, Especially In An Area That Has Been Subjected To Friction.
-
- 4   The Bony Healing Tissue Which Forms Around The Ends Of Broken Bone.
-
- 5   A Hard Formation Of Tissue, Especially New Tissue Formed Over A Wound.
-	 Eg.  "The Exposed Surface Will Quickly Form Healing Callus"
+[35mCallous[0m[36m /ˈkaləs/,[0m [91m[3madjective[0m[0m | adjective: callous
+      [32m1.[0m [37mshowing or having an insensitive and cruel disregard for others.[0m
+	   "his callous comments about the murder made me shiver"
+  	   [3msynonyms:[0m heartless, unfeeling, uncaring, cold, cold-hearted, hard, as hard as nails, hard-hearted, with a heart of stone, stony-hearted, insensitive, lacking
+                     compassion, hard-bitten, cold-blooded, hardened, case-hardened, harsh, cruel, ruthless, brutal ;  unsympathetic, uncharitable,
+                     indifferent, unconcerned, unsusceptible, insensible, bloodless, soulless ;  hard-boiled ;  indurate, indurated, marble-hearted
+		    "his callous disregard for the feelings and wishes of others"
+  	   [3mantonyms:[0m kind, compassionate
+    [91m[3mnoun[0m[0m | noun: callous; plural noun: callouses
+      [32m1.[0m [37mvariant spelling of callus.[0m
+[35mCallus[0m[36m /ˈkaləs/,[0m [91m[3mnoun[0m[0m
+	noun: callous
+          • [37ma thickened and hardened part of the skin or soft tissue, especially in an area that has been subjected to friction.[0m
+          • [37mthe bony healing tissue which forms around the ends of broken bone.[0m
+          • [37ma hard formation of tissue, especially new tissue formed over a wound.[0m
+	   "the exposed surface will quickly form healing callus"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mकठोर[0m      [31mनिर्दयी[0m 
+  [31mघट्टेदार[0m    [31mबेदर्द[0m  

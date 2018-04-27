@@ -1,24 +1,26 @@
-                                                                                   EMANCIPATION                                                                                   
-  SHORT        Emancipation is being set free from the control of someone or something. Your emancipation from your parents comes when you turn 18 and are legally considered
-               an adult.
-  LONG         The word appears most memorably in "the Emancipation Proclamation," Abraham Lincoln's order of 1863 that freed the slaves in the U.S. Emancipation can
+[35m                                                                                   EMANCIPATION                                                                                   [0m
+[91m        SHORT  Emancipation is being set free from the control of someone or something. Your emancipation from your parents comes when you turn 18 and are legally considered
+               an adult.[0m
+[36m         LONG  The word appears most memorably in "the Emancipation Proclamation," Abraham Lincoln's order of 1863 that freed the slaves in the U.S. Emancipation can
                describe any kind of liberation: "If you're really chafing under the rigors of practicing for the upcoming game, you and your teammates can go
-               on strike for emancipation from the grueling schedule your coach has decreed."
+               on strike for emancipation from the grueling schedule your coach has decreed."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Born a decade after Emancipation, he was sworn in as a civil servant, an Interior Department laborer, in 1909.
-     >         Luther advocated moderate emancipation for women, but of the show’s 10 portraits, only one is female — an upper-class wife rendered by Batholomäus Bruyn the
-               Elder.
-     >         The new monument features the African American experience in Texas, from exploration in the 1500s to slavery and emancipation to achievement in arts and
-               science.
-     >         And yet, a little over a decade later, Abraham Lincoln signed the Emancipation Proclamation.
-     >         The new monument features the African-American experience in Texas, from exploration in the 1500s to slavery and emancipation to achievement in arts and
-               science.
+[3m             > The following year, many of those former slaves and their allies celebrated the anniversary of their emancipation.[0m
+[3m             > Yet, in other states the focus was primarily on promoting a strong system of public education for all citizens after the Civil War and emancipation.[0m
+[3m             > A vision of global emancipation deployed as one warble in a long chauvinist blare.[0m
+[3m             > Then she told reporters that her objection stemmed from her commitment to female emancipation.[0m
+[3m             > For the YPJ fighters, their ambitions for female emancipation are far greater than eliminating Isis.[0m
 
- 1   The Fact Or Process Of Being Set Free From Legal, Social, Or Political Restrictions; Liberation.
-	 Eg.  "The Social And Political Emancipation Of Women"
-	 Eg.  "The Emancipation Of The Serfs"
-	 Synonyms:  liberation , release , discharge , untying , freedom , 
-	 Antonyms:  enslavement , slavery , 
-
- 2   The Freeing Of Someone From Slavery.
-	 Eg.  "The Early Struggle For Emancipation From Slavery"
+[35mEmancipation[0m[36m /ɪˌmansɪˈpeɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: emancipation; plural noun: emancipations
+          • [37mthe fact or process of being set free from legal, social, or political restrictions; liberation.[0m
+	   "the social and political emancipation of women"
+  	   [3msynonyms:[0m freeing, liberation, liberating, setting free, release, releasing, letting loose/out, setting loose/free, discharge ;  unchaining, unfettering,
+                     unshackling, untying, unyoking, uncaging, unbridling ;  freedom, liberty ;  manumission ;  disenthralment
+		    "the emancipation of the serfs"
+  	   [3mantonyms:[0m enslavement, slavery
+          • [37mthe freeing of someone from slavery.[0m
+	   "the early struggle for emancipation from slavery"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mमुक्ति[0m     [31mदास्यमुक्ति[0m 
+     [31mउद्धार[0m     [31mबन्धनमुक्ति[0m 
+     [31mमोक्ष[0m            [31m[0m      

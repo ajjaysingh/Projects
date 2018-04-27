@@ -1,25 +1,28 @@
-                                                                                     SABOTAGE                                                                                     
-  SHORT        Sabotage isn't very nice: It's when you ruin or disrupt something by messing up a part of it on purpose. Loosening the blades on your competitor's ice skates
-               would definitely be considered sabotage.
-  LONG         Sabotage comes from the French word saboter, which literally means “walk noisily.” That's funny, because the last thing you'd want to do when committing an
+[35m                                                                                     SABOTAGE                                                                                     [0m
+[91m        SHORT  Sabotage isn't very nice: It's when you ruin or disrupt something by messing up a part of it on purpose. Loosening the blades on your competitor's ice skates
+               would definitely be considered sabotage.[0m
+[36m         LONG  Sabotage comes from the French word saboter, which literally means “walk noisily.” That's funny, because the last thing you'd want to do when committing an
                act of sabotage is stomp around and get caught. It’s believed that sabotage came into use in 1910 as a noun, and then later in 1918 as a verb.
-               Apparently, people only became so cruel in the last century or so.
+               Apparently, people only became so cruel in the last century or so.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         War may have caused some of the destruction, but the uniformity of the damage suggests sabotage, too.
-     >         Part detective, part confidant, they specialize in sabotaging extramarital relationships by steering lovers away from cheating spouses.
-     >         Last week, Russian officials announced the arrest of several Ukrainians accused of plotting acts of sabotage in Crimea.
-     >         Millions, even billions, of people could be hurt because of a single U.S. election, especially if America’s reversal sabotages the climate efforts of other
-               countries.
-     >         Earlier this month, a number of Ukrainian citizens were arrested in Crimea and accused of plotting acts of sabotage against Russia.
+[3m             > “In all honesty, that piece is what really sabotaged my creative momentum,” he said.[0m
+[3m             > Unhappily, President Trump and congressional Republicans are in full sabotage mode and threatening to bus these unfortunates back to their doorsteps.[0m
+[3m             > The mission, Operation Glowing Symphony, sought to sabotage the Islamic State’s ability to spread extremist content across the internet, The Post said.[0m
+[3m             > "I've heard that players try and sabotage it," he said.[0m
+[3m             > Speculation about sabotage was rife, as this archive news report from the Guardian shows.[0m
 
- 1   Deliberately Destroy, Damage, Or Obstruct (Something), Especially For Political Or Military Advantage.
-	 Eg.  "Power Lines From South Africa Were Sabotaged By Rebel Forces"
-	 Eg.  "A Guerrilla Group Sabotaged The National Electricity Grid"
-	 Eg.  "It Would Be Very Easy For Me To Sabotage Your Plans"
-	 Synonyms:  wreck , vandalize , destroy , obstruct , disrupt , 
-
- 2   The Action Of Sabotaging Something.
-	 Eg.  "A Coordinated Campaign Of Sabotage"
-	 Eg.  "The Fire May Have Been An Act Of Sabotage"
-	 Eg.  "This Procedure Is Open To Sabotage By An Awkward Participant"
-	 Synonyms:  vandalism , destruction , obstruction , disruption , impairment , 
+[35mSabotage[0m[36m /ˈsabətɑːʒ/,[0m [91m[3mverb[0m[0m | verb: sabotage; 3rd person present: sabotages; past tense: sabotaged; past participle: sabotaged; gerund or present participle: sabotaging
+      [32m1.[0m [37mdeliberately destroy, damage, or obstruct (something), especially for political or military advantage.[0m
+	   "power lines from South Africa were sabotaged by rebel forces"
+  	   [3msynonyms:[0m wreck, deliberately damage, vandalize, destroy, obstruct, disrupt, cripple, impair, incapacitate  disrupt, spoil, ruin, wreck, undermine, filibuster,
+                     impair, damage, threaten, subvert ;  throw a spanner in the works of, muller ;  throw a monkey wrench in the works of
+		    "a guerrilla group sabotaged the national electricity grid"
+    [91m[3mnoun[0m[0m | noun: sabotage
+      [32m1.[0m [37mthe action of sabotaging something.[0m
+	   "a coordinated campaign of sabotage"
+  	   [3msynonyms:[0m wrecking, deliberate damage, vandalism, destruction, obstruction, disruption, crippling, impairment, incapacitation ;  ecotage  disruption, spoiling,
+                     ruining, wrecking, undermining, filibustering, impairment, damage, subversion ;  a spanner in the works ;  a monkey wrench in the
+                     works
+		    "the fire may have been an act of sabotage"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+      [31mतोड़-फोड़[0m        [31mनुक़सान पहुंचाना[0m       [31mअंतर्ध्वंस[0m    

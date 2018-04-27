@@ -1,19 +1,23 @@
-                                                                                      ELICIT                                                                                      
-  SHORT        When you elicit, you're bringing out a response of some sort. A good comedian elicits a lot of laughs.
-  LONG         Elicit has to do with creating or provoking a response. A great speech will elicit cheers — a bad speech will elicit boos. Teachers try to elicit responses
+[35m                                                                                      ELICIT                                                                                      [0m
+[91m        SHORT  When you elicit, you're bringing out a response of some sort. A good comedian elicits a lot of laughs.[0m
+[36m         LONG  Elicit has to do with creating or provoking a response. A great speech will elicit cheers — a bad speech will elicit boos. Teachers try to elicit responses
                from students. If a friend smiles at you, it will probably elicit a smile of your own. In court, a lawyer might try to elicit mistakes and
-               inconsistencies in the testimony of a witness. In all cases, whatever is elicited is some kind of response.
+               inconsistencies in the testimony of a witness. In all cases, whatever is elicited is some kind of response.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         While it’s been more than 70 years since the images were captured, the associated memories still have the power to elicit a smile from Laird.
-     >         “Not yet, Bill,” the chaplain said, eliciting laughter.
-     >         Phoning the callers and texters to say she no longer had this number elicited reactions ranging from apologetic to suspicious. Still,
-     >         Even in his later years, Castro would often meet Chinese leaders with a bear hug, eliciting surprise and delight from his hosts.
-     >         The graham caramel torte with chocolate ganache and Swiss meringue, like the rest of the evening’s dishes elicits oohs and ahhs.
+[3m             > Usually, when junior professors publish scholarly articles, they are lucky to elicit more than a yawn.[0m
+[3m             > It is easy to be horrified by Buchanan’s gleeful excesses, but that is the reaction he’s hoping to elicit.[0m
+[3m             > To his friends and allies, he elicits an array of anodyne, even appealing, adjectives: unpredictable, fearless, irascible, sly.[0m
+[3m             > The election elicited some heated rhetoric, with opponents of the new council describing skid row as a giant drug market.[0m
+[3m             > Again, it attempted to parrot the vibrations back, and this time it seemed to elicit a reaction.[0m
 
- 1   Evoke Or Draw Out (A Reaction, Answer, Or Fact) From Someone.
-	 Eg.  "I Tried To Elicit A Smile From Joanna"
-	 Eg.  "The Police Claimed That His Fingerprints Had Been Found In Order To Elicit Admissions From Him"
-	 Synonyms:  obtain , extract , evoke , induce , excite , 
-
- 2   Draw Forth (Something That Is Latent Or Potential) Into Existence.
-	 Eg.  "A Corrupt Heart Elicits In An Hour All That Is Bad In Us"
+[35mElicit[0m[36m /ɪˈlɪsɪt/,[0m [91m[3mverb[0m[0m | verb: elicit; 3rd person present: elicits; past tense: elicited; past participle: elicited; gerund or present participle: eliciting
+          • [37mevoke or draw out (a reaction, answer, or fact) from someone.[0m
+	   "I tried to elicit a smile from Joanna"
+  	   [3msynonyms:[0m obtain, bring out, draw out, extract, evoke, bring about, bring forth, induce, excite, give rise to, call forth, prompt, generate, engender, spark off,
+                     trigger, kindle ;  extort, exact, wrest, derive, provoke, wring, screw, squeeze ;  worm out
+		    "the police claimed that his fingerprints had been found in order to elicit admissions from him"
+          • [37mdraw forth (something that is latent or potential) into existence.[0m
+	   "a corrupt heart elicits in an hour all that is bad in us"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mनिकालना[0m       [31mप्रकाश में लाना[0m 
+    [31mप्राप्त करना[0m      [31mसार निकालना[0m   

@@ -1,36 +1,42 @@
-                                                                                     DISSENT                                                                                      
-  SHORT        To dissent is to publicly disagree with an official opinion or decision. Dissent is also a noun referring to public disagreement.
-  LONG         Both verb and noun are often used in reference to a statement by a judge who disagrees with a decision made by other judges. Dissent is also used to refer to
+[35m                                                                                     DISSENT                                                                                      [0m
+[91m        SHORT  To dissent is to publicly disagree with an official opinion or decision. Dissent is also a noun referring to public disagreement.[0m
+[36m         LONG  Both verb and noun are often used in reference to a statement by a judge who disagrees with a decision made by other judges. Dissent is also used to refer to
                political opposition to government policies. The verb derives from Middle English, from Latin dissentire, from the prefix dis- "apart" plus
-               sentire "to feel."
+               sentire "to feel."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         It is used to keep others in line, a passive aggressive bit of genius to keep dissent at a manageable level.
-     >         But critics call him a dictator, who led a government that did not tolerate opposition and dissent, accused of numerous alleged human rights abuses.
-     >         The country’s government oversaw the worst crackdown on dissent in nearly three decades.
-     >         The government conducted surveillance on anyone suspected of dissent.
-     >         Cuba’s military and security services remain firmly in control of the state and allow no organized opposition or public dissent.
+[3m             > The US is founded on the idea of rebellion, which puts dissent, curiously, in the conservative tradition, and superficially Americans are more respectful of
+               authority.[0m
+[3m             > Within the West Wing, there was little apparent dissent over the president’s decision to fire Comey, according to the accounts of several White House
+               officials.[0m
+[3m             > Ms. DeVos ended her speech by encouraging the students to maintain grace as they face adversity and dissent.[0m
+[3m             > “The electoral authorities validated the constituent assembly, and perhaps most important, we haven’t seen the military express dissent,” he said.[0m
+[3m             > One of the two current Commissioners under the new chairman, Mignon Clyburn, issued a statement strongly dissenting from the FCC’s policy shift.[0m
 
- 1   The Holding Or Expression Of Opinions At Variance With Those Commonly Or Officially Held.
-	 Eg.  "There Was No Dissent From This View"
-	 Eg.  "There Were Murmurs Of Dissent From The Opposition Benches"
-	 Synonyms:  disagreement , argument , dispute , demur , disapproval , 
-	 Antonyms:  agreement , acceptance , 
-
- 2   Refusal To Accept The Doctrines Of An Established Or Orthodox Church; Nonconformity.
-	 Eg.  Noun: Dissent
-	 Eg.  "Rural Communities With A Long Tradition Of Dissent"
-
- 3   (In Sport) The Offence Of Expressing Disagreement With The Referee'S Decision.
-	 Eg.  "He Was Sent Off For Dissent"
-
- 4   A Statement By A Judge Giving Reasons As To Why He Or She Disagrees With A Decision Made By The Other Judges In A Court Case.
-	 Eg.  Plural Noun: Dissents
-	 Eg.  "He Wasted No Time In Cranking Out Nine Majority Opinions, As Well As Three Dissents"
-
- 5   Hold Or Express Opinions That Are At Variance With Those Commonly Or Officially Held.
-	 Eg.  "Two Members Dissented From The Majority"
-
- 6   Disagree With The Doctrine Of An Established Or Orthodox Church.
-	 Eg.  "We Do Not Dissent From The Points That Have Been Made"
-	 Synonyms:  differ , demur , diverge , dispute , challenge , 
-	 Antonyms:  assent , agree , accept , 
+[35mDissent[0m[36m /dɪˈsɛnt/,[0m [91m[3mnoun[0m[0m | noun: dissent
+      [32m1.[0m [37mthe holding or expression of opinions at variance with those commonly or officially held.[0m
+	   "there was no dissent from this view"
+  	   [3msynonyms:[0m disagreement, lack of agreement, difference of opinion, argument, dispute, demur ;  disapproval, objection, protest, opposition, defiance,
+                     insubordination ;  conflict, friction, strife ;  arguing, quarrelling, wrangling, bickering
+		    "there were murmurs of dissent from the opposition benches"
+  	   [3mantonyms:[0m agreement, acceptance
+          • [37mrefusal to accept the doctrines of an established or orthodox Church; nonconformity.[0m
+	   noun: Dissent
+          • [37m(in sport) the offence of expressing disagreement with the referee's decision.[0m
+	   "he was sent off for dissent"
+          • [37ma statement by a judge giving reasons as to why he or she disagrees with a decision made by the other judges in a court case.[0m
+	   plural noun: dissents
+    [91m[3mverb[0m[0m | verb: dissent; 3rd person present: dissents; past tense: dissented; past participle: dissented; gerund or present participle: dissenting
+      [32m1.[0m [37mhold or express opinions that are at variance with those commonly or officially held.[0m
+	   "two members dissented from the majority"
+          • [37mdisagree with the doctrine of an established or orthodox Church.[0m
+	   "we do not dissent from the points that have been made"
+  	   [3msynonyms:[0m differ, demur, diverge ;  disagree with, fail to agree with, express disagreement with, be at variance/odds with, argue with, take issue with ;
+                     decline/refuse to support, not ratify, protest against, object to, dispute, challenge, quibble over ;  reject, repudiate, renounce,
+                     abjure
+		    "we do not dissent from the points that have been made"
+  	   [3mantonyms:[0m assent, agree, accept
+    [31m[4m[34m[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mअसहमति[0m                  [31mमतभेद[0m               [31mमतभेद करना[0m      
+       [31mअसहमत होना[0m               [31mअसम्मति[0m              [31mविरोध करना[0m      
+        [31mविमत होना[0m            [31mनाइत्तिफ़ाक़ी[0m         [31mअन्यथा विचारना[0m    
+  [31mअस्वीकृति प्रकट करना[0m      [31mविचार-विभिन्नता[0m          [31mएतराज़ करना[0m     

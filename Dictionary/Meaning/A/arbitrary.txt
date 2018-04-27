@@ -1,36 +1,34 @@
-                                               ARBITRARY                                               
-  SHORT        Something that's arbitrary seems like it's chosen at random instead of following a
-               consistent rule. Team members would dislike their coach using a
-               totally arbitrary method to pick starting players.
-  LONG         Even though arbitrary comes from a word meaning "judge" (arbiter), that doesn't
-               mean judges are always fair. Calling a decision-maker arbitrary is
-               usually a negative thing, suggesting the person is making rules
-               based on whim rather than justice. A coach who selects starting
-               players arbitrarily isn't strictly applying a rule; he could just be
-               picking names out of a hat.
-                                       EXAMPLES FROM VOCABULARY:                                       
-     >         He also said that for every new regulation created under his administration, two
-               would have to be eliminated — a promise that struck many as
-               arbitrary.
-     >         Mr Muhammad blames what he calls “the arbitrary and unpredictable devices of the
-               offshore markets”.
-     >         Her love of “anything” Japanese, while it may come as a surprise to fans, is
-               anything but arbitrary.
-     >         Commercial imaging systems typically trace only a zig-zag pattern over a
-               rectangular area, because arbitrary beam paths can distort the
-               image.
-     >         Cyber does not recognize these arbitrary lines that we have drawn.
+[35m                                                                                    ARBITRARY                                                                                     [0m
+[91m        SHORT  Something that's arbitrary seems like it's chosen at random instead of following a consistent rule. Team members would dislike their coach using a totally
+               arbitrary method to pick starting players.[0m
+[36m         LONG  Even though arbitrary comes from a word meaning "judge" (arbiter), that doesn't mean judges are always fair. Calling a decision-maker arbitrary is usually a
+               negative thing, suggesting the person is making rules based on whim rather than justice. A coach who selects starting players arbitrarily isn't
+               strictly applying a rule; he could just be picking names out of a hat.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Yet those labels are arbitrary divisions of the color spectrum; there’s no definitive point where the wavelengths of light we call “orange” turn into “red.”[0m
+[3m             > Burgum said in his veto message that the “across-the-board appropriation is both arbitrary and an inefficient use” of the state’s “scarce financial
+               resources.”[0m
+[3m             > But now, I was the one whose fate was subject to the whims of arbitrary justice.[0m
+[3m             > He criticised any attempt to impose “arbitrary numbers” on the number of migrants the UK should accept each year.[0m
+[3m             > Recklessly, its drafters introduced just one day before the vote legislative language that an independent expert called “incoherent, arbitrary, and
+               technically complex.”[0m
 
- 1   Based On Random Choice Or Personal Whim, Rather Than Any Reason Or System.
-	 Eg.  "An Arbitrary Decision"
-	 Eg.  "An Arbitrary Decision From The Top"
-	 Synonyms:  capricious , whimsical , random , chance , erratic , 
-	 Antonyms:  rational , reasoned , 
+[35mArbitrary[0m[36m /ˈɑːbɪt(rə)ri/,[0m [91m[3madjective[0m[0m | adjective: arbitrary
+      [32m1.[0m [37mbased on random choice or personal whim, rather than any reason or system.[0m
+	   "an arbitrary decision"
+  	   [3msynonyms:[0m capricious, whimsical, random, chance, erratic, unpredictable, inconsistent, wild, hit-or-miss, haphazard, casual ;  unmotivated, motiveless, unreasoned,
+                     unreasonable, unsupported, irrational, illogical, groundless, unjustifiable, unjustified, wanton ;  discretionary, personal,
+                     subjective ;  discretional
+		    "an arbitrary decision from the top"
+  	   [3mantonyms:[0m rational, reasoned
 
- 2   (Of Power Or A Ruling Body) Unrestrained And Autocratic In The Use Of Authority.
-	 Eg.  "A Country Under Arbitrary Government"
-	 Eg.  "The Arbitrary Power Of A Prince"
-	 Synonyms:  despotic , tyrannical , peremptory , summary , autocratic , 
-	 Antonyms:  democratic , accountable , 
+      [32m2.[0m [37m(of power or a ruling body) unrestrained and autocratic in the use of authority.[0m
+	   "a country under arbitrary government"
+  	   [3msynonyms:[0m despotic, tyrannical, tyrannous, peremptory, summary, autocratic, dictatorial, authoritarian, draconian, autarchic, anti-democratic ;  oppressive,
+                     repressive, undemocratic, illiberal ;  imperious, domineering, high-handed ;  absolute, uncontrolled, unlimited, unrestrained
+		    "the arbitrary power of a prince"
+  	   [3mantonyms:[0m democratic, accountable
 
- 3   (Of A Constant Or Other Quantity) Of Unspecified Value.
+      [32m3.[0m [37m(of a constant or other quantity) of unspecified value.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mमनमाना[0m     [31mएकपक्षीय[0m 

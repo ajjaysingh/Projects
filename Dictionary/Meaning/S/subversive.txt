@@ -1,24 +1,29 @@
-                                                                                    SUBVERSIVE                                                                                    
-  SHORT        You might want to call someone subversive if they are sneakily trying to undermine something, from the social structure of your high school to an entire
-               system of government.
-  LONG         You can use subversive as a noun or an adjective without changing it one whit. Note the prefix sub meaning "underneath" with the remainder coming from the
+[35m                                                                                    SUBVERSIVE                                                                                    [0m
+[91m        SHORT  You might want to call someone subversive if they are sneakily trying to undermine something, from the social structure of your high school to an entire
+               system of government.[0m
+[36m         LONG  You can use subversive as a noun or an adjective without changing it one whit. Note the prefix sub meaning "underneath" with the remainder coming from the
                Latin vertere "to turn." Think about a subversive as a sneaky kind of revolutionary who tries to turn the system from underneath. Art or
-               literature is considered subversive if it attempts to undermine the morals and traditions of a society.
+               literature is considered subversive if it attempts to undermine the morals and traditions of a society.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         I’ve seen how subversive ideas have to be embedded in productions so only those “in the know” get the message.
-     >         Every neighborhood had its “Committee for the Defense of the Revolution” keeping watch for subversive tendencies.
-     >         The government claims the Gulen movement "brainwashed" young people - and formed a subversive "parallel state".
-     >         A crime scene, one critic sneered, though the ecstatic nocturnal residue is also wickedly subversive: a closeted gay man airing filthy laundry in public pre-
-               Stonewall.
-     >         First the media is accused of inciting, then sympathizing, then associating – until they suddenly find themselves accused of being full-fledged terrorists and
-               subversives.
+[3m             > His smirking and somewhat subversive accommodation to this Pharisaism is to emphasize the ways in which Black English is more complex than Standard English.[0m
+[3m             > And as he began to experiment with writing his own songs, DuBrul found his voice in culturally subversive lyrics.[0m
+[3m             > The country’s leaders constantly try to block material considered subversive.[0m
+[3m             > The state government order said social media networking sites were being used by "anti-national and subversive elements" to harm peace in the state.[0m
+[3m             > In the futuristic “Arlington,” a prisoner and the man monitoring her attempt a subversive romance.[0m
 
- 1   Seeking Or Intended To Subvert An Established System Or Institution.
-	 Eg.  "Subversive Literature"
-	 Eg.  "He Was Arrested And Charged With Subversive Activities"
-	 Synonyms:  disruptive , inflammatory , insurgent , seditious , revolutionary , 
-
- 2   A Subversive Person.
-	 Eg.  "The Government Claimed We Were Subversives Or Terrorists"
-	 Eg.  "She Was Designated As A Dangerous Subversive"
-	 Synonyms:  troublemaker , dissident , agitator , revolutionary , insurgent , 
+[35mSubversive[0m[36m /səbˈvəːsɪv/,[0m [91m[3madjective[0m[0m | adjective: subversive
+      [32m1.[0m [37mseeking or intended to subvert an established system or institution.[0m
+	   "subversive literature"
+  	   [3msynonyms:[0m disruptive, troublemaking, inflammatory, insurgent, insurrectionary, insurrectionist, rabble-rousing ;  seditious, revolutionary, treasonous,
+                     treacherous, mutinous, rebellious, rebel, renegade, unpatriotic, dissident, disloyal, perfidious, insubordinate, underground,
+                     undermining, corrupting, discrediting, destructive, harmful
+		    "he was arrested and charged with subversive activities"
+    [91m[3mnoun[0m[0m | noun: subversive; plural noun: subversives
+      [32m1.[0m [37ma subversive person.[0m
+	   "the government claimed we were subversives or terrorists"
+  	   [3msynonyms:[0m troublemaker, dissident, agitator, revolutionary, revolutionist, insurgent, insurrectionist, insurrectionary, renegade, rebel, mutineer, traitor
+		    "she was designated as a dangerous subversive"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mविनाशक[0m            [31mनाशकर[0m     
+  [31mध्वंस करनेवाला[0m    [31mउलट देने वाला[0m 
+      [31mतबाहकुन[0m       [31mनाश करने वाला[0m 

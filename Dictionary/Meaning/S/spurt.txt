@@ -1,28 +1,32 @@
-                                                                                      SPURT                                                                                       
+[35m                                                                                      SPURT                                                                                       [0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Cunningham made back-to-back layups to spark a 7-0 spurt to open the half.
-     >         And that makes you wonder if their growth spurt was really as pronounced as it once seemed.
-     >         “Every so often there is a bit of muddy water that spurts out of the tap on my patio.”
-     >         The device will release a spurt of nitrogen gas, kicking up dust and gravel, which it will then collect.
-     >         But Corpus Christi is the much larger of the two cities, a tourism destination, currently undergoing a huge industrial growth spurt.
+[3m             > There was no mistaking how Washington pulled off the 26-0 spurt: It played efficient defense against Thomas, and John Wall found his shot.[0m
+[3m             > “Play defense for 48 minutes. We’ve got to find ways to limit their spurts.”[0m
+[3m             > Boston led by 15 at the end of the third before a 9-0 spurt by the Wizards to start the final period closed the gap.[0m
+[3m             > The organization said the latest spurt, which began in October and marks the fifth epidemic “wave” of H7N9, is the worst one so far.[0m
+[3m             > The spurt got the crowd and the Navy players on the sideline back into the game.[0m
 
- 1   Gush Out In A Sudden And Forceful Stream.
-	 Eg.  "He Cut His Finger, And Blood Spurted Over The Sliced Potatoes"
-	 Eg.  "He Cut His Finger, And Blood Spurted Over The Sliced Potatoes"
-	 Synonyms:  squirt , shoot , spray , fountain , jet , 
+[35mSpurt[0m[36m /spəːt/,[0m [91m[3mverb[0m[0m | verb: spurt; 3rd person present: spurts; past tense: spurted; past participle: spurted; gerund or present participle: spurting
+      [32m1.[0m [37mgush out in a sudden and forceful stream.[0m
+	   "he cut his finger, and blood spurted over the sliced potatoes"
+  	   [3msynonyms:[0m squirt, shoot, spray, fountain, jet, erupt ;  gush, pour, stream, rush, pump, surge, spew, spill, flow, course, well, spring, burst, issue, emanate ;
+                     disgorge, discharge, emit, belch forth, expel, eject ;  sloosh
+		    "he cut his finger, and blood spurted over the sliced potatoes"
+          • [37mcause to gush out suddenly.[0m
+	   "the kettle boiled and spurted scalding water"
 
- 2   Cause To Gush Out Suddenly.
-	 Eg.  "The Kettle Boiled And Spurted Scalding Water"
+      [32m2.[0m [37mmove with a sudden burst of speed.[0m
+	   "the other car had spurted to the top of the ramp"
+    [91m[3mnoun[0m[0m | noun: spurt; plural noun: spurts
+      [32m1.[0m [37ma sudden gushing stream.[0m
+	   "a sudden spurt of blood gushed into her eyes"
+  	   [3msynonyms:[0m squirt, spray, fountain, jet, spout ;  gush, outpouring, stream, rush, surge, burst, spill, flow, flood, cascade, torrent
+		    "the sudden spurt of water scared the bird away"
 
- 3   Move With A Sudden Burst Of Speed.
-	 Eg.  "The Other Car Had Spurted To The Top Of The Ramp"
-
- 4   A Sudden Gushing Stream.
-	 Eg.  "A Sudden Spurt Of Blood Gushed Into Her Eyes"
-	 Eg.  "The Sudden Spurt Of Water Scared The Bird Away"
-	 Synonyms:  squirt , spray , fountain , jet , spout , 
-
- 5   A Sudden Marked Burst Or Increase Of Activity Or Speed.
-	 Eg.  "Late In The Race He Put On A Spurt And Reached Second Place"
-	 Eg.  "Daisy Put On A Spurt To Hurry Down To The River"
-	 Synonyms:  sprint , rush , 
+      [32m2.[0m [37ma sudden marked burst or increase of activity or speed.[0m
+	   "late in the race he put on a spurt and reached second place"
+  	   [3msynonyms:[0m burst of speed, turn of speed, increase of speed, burst of energy, sprint, rush
+		    "Daisy put on a spurt to hurry down to the river"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+         [31mउछाल[0m                 [31mझपटना[0m               [31mस्फुरण[0m       
+          [31mकूद[0m          [31mझपट्टे से काम करना[0m         [31mप्रवेग[0m       

@@ -1,17 +1,21 @@
-                                                                                      CLERGY                                                                                      
-  SHORT        In the Christian church, the clergy is the entire class of religious officials, from priests to pastors to bishops and beyond. If you have a sense that your
-               life path lies in helping others practice their faith, you should go into the clergy
-  LONG         Clergy comes from the word clerk, which in turn comes from cleric. If the only clerks you think of are those that work in shoe stores, think of it this way:
+[35m                                                                                      CLERGY                                                                                      [0m
+[91m        SHORT  In the Christian church, the clergy is the entire class of religious officials, from priests to pastors to bishops and beyond. If you have a sense that your
+               life path lies in helping others practice their faith, you should go into the clergy[0m
+[36m         LONG  Clergy comes from the word clerk, which in turn comes from cleric. If the only clerks you think of are those that work in shoe stores, think of it this way:
                when you join the ministry of a church, the idea is that you serve the church. Clergy is the word for all of the clerics combined, and is
-               paired with the laity, which are all the people in the church who aren't in the clergy.
+               paired with the laity, which are all the people in the church who aren't in the clergy.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         He exiled clergy, took over Catholic schools and expropriated businesses.
-     >         Foreign-born priests were exiled, and local clergy were harassed so much that many closed their churches.
-     >         Leaders of the town’s Interfaith Clergy Association are expected to lead a private prayer service with staff before classes begin.
-     >         Muslim, Jewish and Christian clergy members and lay leaders gathered in front of mosque in Washington on Friday in a demonstration of mutual support.
-     >         In the same month, the country’s official Buddhist clergy publicly distanced itself from the group.
+[3m             > Trump told clergy, ‘Say what you want to say.’[0m
+[3m             > This little-known network of clergy is organizing it.[0m
+[3m             > Cook resigned from her post as bishop shortly after being arrested, and the Episcopal Church revoked her clergy credentials.[0m
+[3m             > And yet many were still reluctant to disclose the abuse even as the clergy scandal became a daily newspaper headline.[0m
+[3m             > The chaplain’s office also coordinates visits by clergy from other faiths.[0m
 
- 1   The Body Of All People Ordained For Religious Duties, Especially In The Christian Church.
-	 Eg.  "All Marriages Were To Be Solemnized By The Clergy"
-	 Synonyms:  ministry , priesthood , holy orders , 
-	 Antonyms:  laity , 
+[35mClergy[0m[36m /ˈkləːdʒi/,[0m [91m[3mnoun[0m[0m | noun: clergy; plural noun: clergies
+          • [37mthe body of all people ordained for religious duties, especially in the Christian Church.[0m
+	   "all marriages were to be solemnized by the clergy"
+  	   [3msynonyms:[0m clergymen, clergywomen, churchmen, churchwomen, clerics, priests, ecclesiastics, men/women of God, men/women of the cloth ;  Moreministry, priesthood,
+                     holy orders, the church, the cloth, first estate ministry, priesthood, holy orders, the church, the cloth, first estate
+  	   [3mantonyms:[0m laity
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+  [31mपुरोहित वर्ग[0m      [31mयाजकगण[0m    

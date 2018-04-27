@@ -1,23 +1,29 @@
-                                                                                    RETALIATE                                                                                     
-  SHORT        To retaliate means to get back at someone, usually through a counterattack. “Ned got hit with a cream pie, then he retaliated by throwing a bucket of Jell-O
-               at his attackers.”
-  LONG         When you see the prefix re in a word, it usually means back. To return, remember, regurgitate (yuck) — all of these verbs relate to doing something back. At
+[35m                                                                                    RETALIATE                                                                                     [0m
+[91m        SHORT  To retaliate means to get back at someone, usually through a counterattack. “Ned got hit with a cream pie, then he retaliated by throwing a bucket of Jell-O
+               at his attackers.”[0m
+[36m         LONG  When you see the prefix re in a word, it usually means back. To return, remember, regurgitate (yuck) — all of these verbs relate to doing something back. At
                the beginning of retaliate it means back, and the taliate means to pay, so what you’re talking about here is payback. If you’re doing something
                terrible to someone just because you want to, that’s doesn’t mean to retaliate. But, if you feel they’ve done something bad to you, and you’re
-               just getting them back? That’s when you retaliate.
+               just getting them back? That’s when you retaliate.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The Cubans retaliated by blocking out the view of the messages with a series of black flags commemorating sacrificed revolutionary lives.
-     >         When a Frankfurt labor court dismissed the case and an appeal failed, Vereinigung Cockpit retaliated by repeatedly extending the protest.
-     >         Argentine officials claimed at the time that China was retaliating for trade restrictions they imposed on Chinese manufacturing imports that had left local
-               competitors reeling.
-     >         But after Ms. Williams reported abuses on what’s known as “the Wyntegrity line,” her bosses began retaliating.
-     >         “It is outrageous and unacceptable that anti-Huthi forces are retaliating against medical staff for performing their duties,” he added.
+[3m             > The tribes retaliated by killing eight suspected IS fighters in a battle in the town earlier this month.[0m
+[3m             > Trump certainly wasn’t shy about crediting President Vladimir Putin on Dec. 30 for his “great move” in not retaliating.[0m
+[3m             > Putin, to the surprise of many, announced that Russia would not retaliate.[0m
+[3m             > Moreland was indicted last month on multiple obstruction of justice charges, including allegations involving bribery and retaliating against a witness.[0m
+[3m             > Will the Penguins retaliate for the Capitals defenseman’s Game 3 cross-check?[0m
 
- 1   Make An Attack In Return For A Similar Attack.
-	 Eg.  "The Blow Stung And She Retaliated Immediately"
-	 Eg.  "They Could Torment Him Without His Being Able To Retaliate"
-	 Synonyms:  respond , react , reply , reciprocate , get , 
-	 Antonyms:  
-
- 2   Repay (An Injury Or Insult) In Kind.
-	 Eg.  "They Used Their Abilities To Retaliate The Injury"
+[35mRetaliate[0m[36m /rɪˈtalɪeɪt/,[0m [91m[3mverb[0m[0m | verb: retaliate; 3rd person present: retaliates; past tense: retaliated; past participle: retaliated; gerund or present participle: retaliating
+          • [37mmake an attack in return for a similar attack.[0m
+	   "the blow stung and she retaliated immediately"
+  	   [3msynonyms:[0m fight back, strike back, hit back, respond, react, reply, reciprocate, counterattack, return fire, return the compliment, put up a fight, take the bait,
+                     rise to the bait, return like for like, get back at someone, get, give tit for tat, give as good as one gets, let someone see how it
+                     feels, give someone a dose/taste of their own medicine ;  have/get/take one's revenge, take/exact/wreak revenge, be revenged,
+                     revenge oneself, avenge oneself, take reprisals, get even, even the score, settle a/the score, settle accounts, pay someone back (in
+                     their own coin), pay someone out, repay someone, exact retribution, take an eye for an eye (and a tooth for a tooth) ;  give someone
+                     their comeuppance ;  get one's own back ;  give someone a Roland for an Oliver
+		    "they could torment him without his being able to retaliate"
+  	   [3mantonyms:[0m turn the other cheek
+          • [37mrepay (an injury or insult) in kind.[0m
+	   "they used their abilities to retaliate the injury"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+    [31mप्रतिकार करना[0m       [31mप्रतिशोध लेना[0m   

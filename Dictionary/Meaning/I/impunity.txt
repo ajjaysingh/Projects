@@ -1,20 +1,23 @@
-                                                                                     IMPUNITY                                                                                     
-  SHORT        If doing something usually results in punishment, but you do it with impunity, you will not be punished for the deed. Students are not allowed to chew gum in
-               school, but teachers do it with impunity. Not fair!
-  LONG         The noun, impunity, comes from the Latin roots im- "not" plus poena "punishment," a root which has also produced the word pain. Impunity, then, is the freedom
+[35m                                                                                     IMPUNITY                                                                                     [0m
+[91m        SHORT  If doing something usually results in punishment, but you do it with impunity, you will not be punished for the deed. Students are not allowed to chew gum in
+               school, but teachers do it with impunity. Not fair![0m
+[36m         LONG  The noun, impunity, comes from the Latin roots im- "not" plus poena "punishment," a root which has also produced the word pain. Impunity, then, is the freedom
                from punishment or pain. If someone has committed a punishable offense but does not have to fear punishment, he or she does it "with impunity."
-               Cybercriminals operate with impunity from some Eastern European countries.
+               Cybercriminals operate with impunity from some Eastern European countries.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Those campaigning to protect journalists suggest that the most extreme forms of violence have proliferated because of a feeling of impunity.
-     >         In their shadow, traditional notions of truth and falsity merge into each other, allowing anything to be said with impunity.
-     >         Impunity rates are more than 90% and even when people are caught, nothing happens.
-     >         But Amnesty said there had been limited progress in addressing police impunity, lack of accountability and policing methods that fall far short of
-               international standards.
-     >         Some of the relatives and journalists marched near the presidential palace to call for an end to impunity on the anniversary of the killings.
+[3m             > He behaves with impunity and acts as if legal standards like obstruction of justice don’t apply to him.[0m
+[3m             > A suspended sentence would create a dangerous impression of impunity, the prosecutor added.[0m
+[3m             > There was a disconnect between Saudi Arabia’s pledge of $150m and the “impunity of their actions in international law” she said.[0m
+[3m             > They disobey advance directives with impunity so why not tissue collection?[0m
+[3m             > Russian cybercriminals operate with relative impunity inside Russia as long as they do not breach targets in their country.[0m
 
- 1   Exemption From Punishment Or Freedom From The Injurious Consequences Of An Action.
-	 Eg.  "The Impunity Enjoyed By Military Officers Implicated In Civilian Killings"
-	 Eg.  "The Impunity Enjoyed By Military Officers Implicated In Civilian Killings"
-	 Eg.  "Criminals Who Appear To Flout The Law With Impunity"
-	 Synonyms:  immunity , indemnity , exemption , licence , amnesty , 
-	 Antonyms:  liability , responsibility , 
+[35mImpunity[0m[36m /ɪmˈpjuːnɪti/,[0m [91m[3mnoun[0m[0m | noun: impunity
+          • [37mexemption from punishment or freedom from the injurious consequences of an action.[0m
+	   "the impunity enjoyed by military officers implicated in civilian killings"
+  	   [3msynonyms:[0m immunity, indemnity, exemption from punishment, freedom from punishment, exemption, non-liability, licence ;  amnesty, dispensation, pardon, reprieve,
+                     stay of execution, exoneration ;  privilege, special treatment, favouritism ;  carte blanche  unpunished, with no ill consequences,
+                     with no ill effects, without being punished, without punishment ;  scot-free
+		    "the impunity enjoyed by military officers implicated in civilian killings"
+  	   [3mantonyms:[0m liability, responsibility
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mदण्ड से मुक्ति[0m     [31mदंड-मुक्ति[0m   

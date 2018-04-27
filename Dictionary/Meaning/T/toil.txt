@@ -1,28 +1,36 @@
-                                                                                       TOIL                                                                                       
-  SHORT        Toil is another word for work. You toil as a customer service rep all day, but you'd prefer to work as a rock goddess. Unfortunately, there weren't many ads
-               in the employment section for goddesses — rock or otherwise.
-  LONG         Although toil means "work" (in both its noun and verb forms), it usually has the added meaning of hard work, especially physical labor.  If you'd lived during
+[35m                                                                                       TOIL                                                                                       [0m
+[91m        SHORT  Toil is another word for work. You toil as a customer service rep all day, but you'd prefer to work as a rock goddess. Unfortunately, there weren't many ads
+               in the employment section for goddesses — rock or otherwise.[0m
+[36m         LONG  Although toil means "work" (in both its noun and verb forms), it usually has the added meaning of hard work, especially physical labor.  If you'd lived during
                the Great Depression, you might have toiled on roadwork and conservation projects. Your toils would have created roads in the Great Smoky
-               Mountains National Park, for example.  Thanks for all your hard work!  Now, relax and enjoy the scenery.
+               Mountains National Park, for example.  Thanks for all your hard work!  Now, relax and enjoy the scenery.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         An afternoon of toil for Liverpool was signalled from the first whistle.
-     >         None of her children, now adults, toil in the fields.
-     >         But it is also a time of long days of toil, Mr. MacLean said.
-     >         It’s the annual reward for the scout team players who toil in anonymity for most of the season.
-     >         It’s OK if you don’t want to host, toil over a turkey, or scrub the kitchen clean.
+[3m             > A month ago, he was a non-roster spring training invite toiling in the minors.[0m
+[3m             > Father and son toiled together, sharing a sewing machine.[0m
+[3m             > Medical technicians who place intravenous lines toil in anonymity, as the state Legislature intends.[0m
+[3m             > This was a complex trade agreement toiled on for eight years by skilled trade negotiators from 12 nations.[0m
+[3m             > Anxiety was palpable around Anfield before Benteke struck, with Palace displaying greater composure in possession and Liverpool toiling in attack.[0m
 
- 1   Work Extremely Hard Or Incessantly.
-	 Eg.  "We Toiled Away"
-	 Eg.  "She Rolled Up Her Sleeves And Toiled All Night"
-	 Synonyms:  labour , fag , bullock , drudge , travail , 
-	 Antonyms:  rest , relax , laze , 
-
- 2   Move Slowly And With Difficulty.
-	 Eg.  "She Began To Toil Up The Cliff Path"
-	 Eg.  "She Began To Toil Up The Cliff Path"
-	 Synonyms:  struggle , labour , trudge , tramp , traipse , 
-
- 3   Exhausting Physical Labour.
-	 Eg.  "A Life Of Toil"
-	 Eg.  "A Life Of Toil"
-	 Synonyms:  hard work , labour , slaving , struggle , effort , 
+[35mToil[0m[36m /tɔɪl/,[0m [91m[3mverb[0m[0m | verb: toil; 3rd person present: toils; past tense: toiled; past participle: toiled; gerund or present participle: toiling
+      [32m1.[0m [37mwork extremely hard or incessantly.[0m
+	   "we toiled away"
+  	   [3msynonyms:[0m work hard, labour, work one's fingers to the bone, work like a Trojan, work like a dog, work day and night, exert oneself, keep at it, keep one's nose to
+                     the grindstone, grind away, slave away, grub away, plough away, plod away ;  slog away, peg away, beaver away, plug away, put one's
+                     back into something, work one's guts out, work one's socks off, knock oneself out, sweat blood, kill oneself ;  graft away, fag ;
+                     bullock ;  work one's balls/arse/nuts off ;  work one's ass/butt off ;  drudge, travail, moil
+		    "she rolled up her sleeves and toiled all night"
+  	   [3mantonyms:[0m rest, relax, laze
+          • [37mmove slowly and with difficulty.[0m
+	   "she began to toil up the cliff path"
+  	   [3msynonyms:[0m struggle, move with difficulty, labour, trudge, tramp, traipse, slog, plod, trek, footslog, sweat, drag oneself, fight (one's way), push ;  trog, yomp ;
+                     schlep
+		    "she began to toil up the cliff path"
+    [91m[3mnoun[0m[0m | noun: toil; plural noun: toils
+      [32m1.[0m [37mexhausting physical labour.[0m
+	   "a life of toil"
+  	   [3msynonyms:[0m hard work, toiling, labour, slaving, struggle, effort, exertion, application, industry, grind, slog, blood, sweat, and tears, drudgery ;  sweat, elbow
+                     grease ;  graft ;  (hard) yakka ;  travail, moil
+		    "a life of toil"
+  [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mपरिश्रम[0m            [31mकड़ी मेहनत[0m       [31mकड़ी मेहनत करना[0m  
+        [31mमेहनत[0m            [31mकठिन परिश्रम[0m       [31mकठिन काम करना[0m   

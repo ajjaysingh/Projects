@@ -1,14 +1,17 @@
-                                                                                   INTERLOCUTOR                                                                                   
-  SHORT        An interlocutor is someone who participates in a discussion or conversation, sometimes as a go-between. If you and your friend are in an argument and aren't
-               speaking, a third friend could act as an interlocutor, delivering messages back and forth.
-  LONG         Interlocutor traces back to the Latin word interloqui, meaning “to speak between.” We use interlocutor either for "a conversation partner," or for "a third
+[35m                                                                                   INTERLOCUTOR                                                                                   [0m
+[91m        SHORT  An interlocutor is someone who participates in a discussion or conversation, sometimes as a go-between. If you and your friend are in an argument and aren't
+               speaking, a third friend could act as an interlocutor, delivering messages back and forth.[0m
+[36m         LONG  Interlocutor traces back to the Latin word interloqui, meaning “to speak between.” We use interlocutor either for "a conversation partner," or for "a third
                party in a conversation," like a middleman who speaks on behalf of an organization. It's also an old term for the guy in a minstrel show who
-               questions all the other performers as a way of moving the act forward. "What's that you say? A funky dance? Go on and show us then."
+               questions all the other performers as a way of moving the act forward. "What's that you say? A funky dance? Go on and show us then."[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Importantly, they agreed both nations are being exploited by sectarian interlocutors, including Iran and Saudi Arabia.
-     >         It is rarely productive to nitpick errors in your interlocutor’s remarks or to argue just to “win.”
-     >         In their polarizing aftermath, the chaplains both chose and were compelled to become cultural and religious interlocutors.
-     >         And as the main interlocutor between Russia's Vladimir Putin and the West, Mrs Merkel - and Germany - have wielded influence.
-     >         One man, whom everyone called simply “pastor,” emerged as Hollingsworth’s main interlocutor.
+[3m             > As an interlocutor, Mr. Evans is a sterling foil.[0m
+[3m             > Law school also provided Obama one of his most important intellectual interlocutors: classmate and economist Rob Fisher.[0m
+[3m             > “We are not speculating about who our interlocutor is.”[0m
+[3m             > Donald Trump is fond of statements like that, fond of reminding his interlocutors that he resides in the White House.[0m
+[3m             > His interlocutor was a history and geography teacher.[0m
 
- 1   A Person Who Takes Part In A Dialogue Or Conversation.
+[35mInterlocutor[0m[36m /ˌɪntəˈlɒkjʊtə/,[0m [91m[3mnoun formal[0m[0m | noun: interlocutor; plural noun: interlocutors; noun: interlocutrix; plural noun: interlocutrices
+          • [37ma person who takes part in a dialogue or conversation.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mवार्ताकार[0m 

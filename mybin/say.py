@@ -27,7 +27,7 @@ def say(word):
     fileName = word.lower() + '.mp3'
     if fileName in files:
         file = fileName.replace(" ", "\\ ")
-        print("Found!!")
+        print("Found!")
         os.system('afplay ' + fileName)
     else:
         try:
@@ -38,12 +38,17 @@ def say(word):
                 os.system('afplay ' + fileName)
                 # os.system('rm ' + fileName)
             else:
-                try:
-                    url = macmillan(word)
-                    response = os.system('wget ' + url + ' -O ' + fileName) #wget -O will output the downloaded content to specified file
-                except:
-                    os.system('say ' + word)
-
+                new_url = 'http://ssl.gstatic.com/dictionary/static/sounds/oxford/' + word.lower() + '--_gb_1.mp3'
+                response = os.system('wget ' + new_url)
+                if response != 2048:
+                    os.system('mv ' + word.lower() + '--_gb_1.mp3 ' + fileName)
+                    os.system('afplay ' + fileName)
+                else:
+                    try:
+                        url = macmillan(word)
+                        response = os.system('wget ' + url + ' -O ' + fileName) #wget -O will output the downloaded content to specified file
+                    except:
+                        os.system('say ' + word)
         except:
             print("\n\nSound not available at Google!")
             os.system('say ' + word)
@@ -53,7 +58,16 @@ def say(word):
 # the below code will also be executed.
 if __name__ == '__main__':
     if len(sys.argv) > 1:
-        userWord = spellcheck.checkOnline(str(sys.argv[1]))
+        word = str(sys.argv[1])
     else:
-        userWord = spellcheck.checkOnline(int(input("Enter word now(Next time enter while running program!!!): ")))
-    say(userWord)
+        word = str(input("Enter word now(Next time enter while running program!!!): "))
+    os.chdir(dir)
+    files = os.listdir()
+    fileName = word.lower() + '.mp3'
+    if fileName in files:
+        file = fileName.replace(" ", "\\ ")
+        print("Found!!!")
+        os.system('afplay ' + fileName)
+    else:
+        [userWord, didItChanges]= spellcheck.checkOnline(word)
+        say(userWord)

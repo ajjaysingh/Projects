@@ -1,27 +1,30 @@
-                                                                                    ANECDOTAL                                                                                     
-  SHORT        Something anecdotal has to do with anecdotes — little stories. Anecdotal evidence is based on hearsay rather than hard facts.
-  LONG         People like to share stories about things that happened to them, or that they heard about, to make a point. That kind of talk is anecdotal: based on small,
+[35m                                                                                    ANECDOTAL                                                                                     [0m
+[91m        SHORT  Something anecdotal has to do with anecdotes — little stories. Anecdotal evidence is based on hearsay rather than hard facts.[0m
+[36m         LONG  People like to share stories about things that happened to them, or that they heard about, to make a point. That kind of talk is anecdotal: based on small,
                personal accounts. Anecdotal stories are helpful when you’re trying to give an example of something, but there's a downside to anecdotal
                information: since it’s not based on facts, you never know if you can totally trust it. So it's best to go beyond the anecdotal and get more
-               solid information.
+               solid information.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         Richmond Fed economist Andy Bauer reports hearing anecdotally that businesses are thinking about using pay increases to help fill vacant jobs.
-     >         In the meantime, all the state can really go by is anecdotal evidence.
-     >         All I have is anecdotal angst from a few friends and acquaintances.
-     >         The result is an elusive, defensive self-portrait that never digs deep and a jab at period mores that remains anecdotal.
-     >         Want some anecdotal evidence of how fast these things are selling?
+[3m             > Anecdotally, Revere seems to be stroking a lot of line drives.[0m
+[3m             > He offers this latter assertion—doubtful, by my admittedly anecdotal lights—without a hint of evidence.[0m
+[3m             > Anecdotal evidence suggests that this might be the case.[0m
+[3m             > There are many ways to measure Paxton’s improvement as a pitcher — how about that 1.43 ERA? — but Servais offered up anecdotal evidence before Tuesday’s game.[0m
+[3m             > There is already anecdotal evidence in McAllen that the numbers of arrivals from Central America – principally Guatemala, El Salvador and Honduras – are
+               rebounding.[0m
 
- 1   (Of An Account) Not Necessarily True Or Reliable, Because Based On Personal Accounts Rather Than Facts Or Research.
-	 Eg.  "While There Was Much Anecdotal Evidence There Was Little Hard Fact"
-	 Eg.  "The Evidence Is Merely Anecdotal"
-	 Synonyms:  informal , unreliable , unscientific , 
-	 Antonyms:  experimental , scientific , 
-
- 2   Characterized By Or Fond Of Telling Anecdotes.
-	 Eg.  "Her Book Is Anecdotal And Chatty"
-
- 3   (Of A Painting) Depicting Small Narrative Incidents.
-	 Eg.  "Nineteenth Century French Anecdotal Paintings"
-	 Eg.  "Her Book Is Anecdotal And Chatty"
-	 Synonyms:  narrative , 
-	 Antonyms:  abstract , austere , 
+[35mAnecdotal[0m[36m /ˌanɪkˈdəʊtl/,[0m [91m[3madjective[0m[0m | adjective: anecdotal
+          • [37m(of an account) not necessarily true or reliable, because based on personal accounts rather than facts or research.[0m
+	   "while there was much anecdotal evidence there was little hard fact"
+  	   [3msynonyms:[0m informal, unreliable, based on hearsay ;  unscientific
+		    "the evidence is merely anecdotal"
+  	   [3mantonyms:[0m experimental, scientific
+          • [37mcharacterized by or fond of telling anecdotes.[0m
+	   "her book is anecdotal and chatty"
+          • [37m(of a painting) depicting small narrative incidents.[0m
+	   "nineteenth century French anecdotal paintings"
+  	   [3msynonyms:[0m narrative, full of stories, packed/crammed with incident
+		    "her book is anecdotal and chatty"
+  	   [3mantonyms:[0m abstract, austere
+  [31m[4m[34m[0m[0m[0m
+  [31mउपाख्यानात्मक[0m 
+   [31mउपाख्यानमूलक[0m 

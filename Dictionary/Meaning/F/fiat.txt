@@ -1,15 +1,17 @@
-                                                                                       FIAT                                                                                       
-  SHORT        You might think a fiat is just an Italian car, but it actually means a legal, authoritative decision that has absolute sanction.
-  LONG         From the Latin for "let it be done," the word fiat is a binding edict issued by a person in command. It  can gain an almost Biblical aura of authority, like a
-               movie Pharaoh saying, "So let it be written, so let it be done." So let it be a fiat.
+[35m                                                                                       FIAT                                                                                       [0m
+[91m        SHORT  You might think a fiat is just an Italian car, but it actually means a legal, authoritative decision that has absolute sanction.[0m
+[36m         LONG  From the Latin for "let it be done," the word fiat is a binding edict issued by a person in command. It  can gain an almost Biblical aura of authority, like a
+               movie Pharaoh saying, "So let it be written, so let it be done." So let it be a fiat.[0m
                                                                             EXAMPLES FROM VOCABULARY:                                                                             
-     >         The hard board, which is too short to lie down on, was modelled on the bonnet of a Fiat Punto.
-     >         Mr. Obama knew the public wasn’t behind his expensive regulations, so he went around Congress to implement most of his agenda by executive fiat.
-     >         Fiat’s move is part of a broader retreat in the market for small passenger cars.
-     >         An orange-red Fiat 500e with a decal that said “Drive today! At the auto show” jumped the curb when the driver lost control, police said.
-     >         The small village counts a few hundred residents, some of whom helped Kauf customize the Fiat which advertises its "pastoral emergency" services.
+[3m             > Fiat factories began shedding workers in the thousands.[0m
+[3m             > The car company Fiat, after all, ran a scheme that paid owners to relinquish ten-year-old models, with the amount of compensation matched by the government.[0m
+[3m             > Ford, General Motors and Fiat Chrysler fell after they reported their April sales declined.[0m
+[3m             > General Motors, Ford, Toyota, Fiat Chrysler, Nissan and Honda on Tuesday all reported weaker U.S. sales than a year ago.[0m
+[3m             > Ford, General Motors and Fiat Chrysler are falling as it appears U.S. car sales are slowing down.[0m
 
- 1   A Formal Authorization Or Proposition; A Decree.
-	 Eg.  "The Reforms Left Most Prices Fixed By Government Fiat"
-
- 2   An Arbitrary Order.
+[35mFiat[0m[36m /ˈfiːat,ˈfʌɪat/,[0m [91m[3mnoun[0m[0m | noun: fiat; plural noun: fiats
+          • [37ma formal authorization or proposition; a decree.[0m
+	   "the reforms left most prices fixed by government fiat"
+          • [37man arbitrary order.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mव्यवस्थापत्र[0m       [31mफ़िएट[0m    
