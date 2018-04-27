@@ -1,0 +1,31 @@
+[35m                                                                                     PURPORT                                                                                      [0m
+[91m        SHORT  Use purport when you want to convince people about something that might not be true, like when you purport that the dog ate your homework.[0m
+[36m         LONG  The verb purport can mean "to claim" — whether you mean it or not — or "to intend," like when you purport to study all night. So it makes sense that as a
+               noun, purport means the intention or purpose, like the purport of a political candidate's speech was to get your vote. If the speech was long
+               and hard to follow, you might be lucky just to get the purport, which here means "the main point or meaning."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Long Count tracks time from a starting point, much as the Christian calendar begins with the purported birth date of Christ.[0m
+[3m             > About nine gigabytes of data purporting to be documents from the Macron campaign were posted on Pastebin, a site that allows anonymous document sharing.[0m
+[3m             > The White House did not immediately respond to requests for comment and confirmation Tuesday concerning the purported credentials.[0m
+[3m             > The films are symptoms of the disease they purport to diagnose: manifestations of our troubled, citified response to anything natural, beautiful and not
+               mechanical.[0m
+[3m             > The purported hacker promised to also release those titles unless "modest" ransoms are paid.[0m
+
+[35mPurport[0m [91m[3mverb[0m[0m | verb: purport; 3rd person present: purports; past tense: purported; past participle: purported; gerund or present participle: purporting    /pəˈpɔːt/
+      [32m1.[0m [37mappear to be or do something, especially falsely.[0m
+	   "she is not the person she purports to be"
+  	   [3msynonyms:[0m claim, lay claim, profess, pretend ;  set oneself up (as), appear, seem ;  allege/maintain/assert/proclaim/imply that one is, be apparently, be
+                     ostensibly, pose as, impersonate, pass oneself off as, be disguised as, masquerade as, feign the identity of, pass for, represent
+                     oneself as ;  personate
+		    "this work purports to be authoritative"
+    [91m[3mnoun[0m[0m | noun: purport    /ˈpəːpɔːt/
+      [32m1.[0m [37mthe meaning or sense of something, typically a document or speech.[0m
+	   "I do not understand the purport of your remarks"
+  	   [3msynonyms:[0m gist, substance, drift, implication, intention, meaning, significance, signification, sense, essence, import, tenor, thrust, message, spirit
+		    "the purport of his remarks is already familiar"
+          • [37mthe purpose or intention of something.[0m
+	   "the purport of existence"
+  	   [3msynonyms:[0m intention, purpose, intent, object, objective, aim, goal, target, end, plan, scheme, design, idea, ambition, desire, wish, hope
+		    "the purport of the attack was to prove him wrong"
+        [31m[4m[34mnoun[0m[0m[0m              [31m[4m[34mverb[0m[0m[0m                [31m[4m[34m[0m[0m[0m        
+                [31mमुराद[0m                           [31mअर्थ लगाना[0m              [31mअभिप्रायः तात्पर्यित होना (विधि)[0m 

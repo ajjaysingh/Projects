@@ -1,0 +1,26 @@
+[35m                                                                                      DOMINO                                                                                      [0m
+[91m        SHORT  A domino is a small rectangular block used in the game dominoes. Each block has anywhere from 0 to 6 dots.[0m
+[36m         LONG  A domino is a small, black rectangular game piece with white dots. In the game called dominoes, sides of the dominoes with equal numbers are matched. Dominoes
+               are also stood up to create elaborate patterns that look pretty impressive when they’re knocked down. If you set them up right, knocking down
+               the first domino will knock down hundreds and even thousands of others. This use of dominoes inspired the domino effect, when one action
+               inevitably causes others.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I get bored, sensationally bored, of appetites, which tumble like dominos through my life.[0m
+[3m             > Wells said he and his fellow midshipmen saw the Vietnam War in terms of the domino theory regarding communism in southeast Asia.[0m
+[3m             > There were toy soldiers, dominos, toothbrushes and hundreds of hardhats of every shape, size and color.[0m
+[3m             > Perhaps, in the absence of the anarchic first domino of Brexit, Hillary Clinton would be in the White House.[0m
+[3m             > All the subsequent talk was of a populist domino effect sweeping Europe, knocking over the Dutch, the French and even the Germans.[0m
+
+[35mDomino[0m[36m /ˈdɒmɪnəʊ/,[0m [91m[3mnoun[0m[0m | noun: domino; plural noun: dominoes
+      [32m1.[0m [37many of 28 small oblong pieces marked with 0–6 pips in each half.[0m
+	   "everyone will fall over like a row of dominoes"
+          • [37mthe game played with dominoes, in which they are laid down to form a line, each player in turn trying to find and lay down a domino with a value matched by
+            that of a piece at either end of the line already formed.[0m
+
+      [32m2.[0m [37ma loose cloak, worn with a mask for the upper part of the face at masquerades.[0m
+                    [31m[4m[34mnoun[0m[0m[0m                                        [31m[4m[34m[0m[0m[0m                    
+                            [31mमास्क[0m                                               [31mनकाबदाल ढीला लबादा[0m                    
+                            [31mनक़ाब[0m                            [31mढीला लबादा जिसमें आधा नकाब होता है ताकि कोई पहचान न सकें[0m 
+                   [31mपासे से खेलने का एक खेल[0m                              [31mवह व्‍यक्ति जो इस लबादे को पहने हो[0m            
+
+      Origin:  late 17th century: from French, denoting a hood worn by priests in winter, probably based on Latin dominus ‘lord, master’.

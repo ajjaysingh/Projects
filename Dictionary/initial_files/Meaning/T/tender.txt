@@ -1,0 +1,85 @@
+[35m                                                                                      TENDER                                                                                      [0m
+[91m        SHORT  If you're tender, it means you're fragile, sensitive, easily bruised or gentle. Young, easily cut beef and a sentimental heart can both be called tender.[0m
+[36m         LONG  The many meanings attributed to tender developed over time. In the early 13th century, the word meant soft or easily injured. About a hundred years later, its
+               meaning expanded to include kind and loving. Skip forward another century, and tender could also imply a lack of maturity.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He began the recital with Schumann’s tender “Scenes of Childhood” suite, played with delicacy and poetic refinement.[0m
+[3m             > The meat is seasoned, buried in duck lard to rest, then slow-cooked until crisp and tender.[0m
+[3m             > Add a dash of salt, bring to a boil and cook until tender, about 10 minutes.[0m
+[3m             > She explains that the cooked yolks prevent the gluten in the flour from becoming overdeveloped and thus produce a “meltingly tender” dough.[0m
+[3m             > Lower temperature to a simmer and cook oxtail until tender, about 2-3 hours.[0m
+
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3madjective[0m[0m | adjective: tender; comparative adjective: tenderer; superlative adjective: tenderest
+      [32m1.[0m [37mshowing gentleness, kindness, and affection.[0m
+	   "he was being so kind and tender"
+	   [3msynonyms:[0m caring, kind, kindly, kind-hearted, soft-hearted, 
+		    "he looked a gentle, tender man"
+	   [3mantonyms:[0m hard-hearted, callous, unsympathetic
+          • [37msolicitous of.[0m
+	   "be tender of a lady's reputation"
+
+      [32m2.[0m [37m(of a part of the body) sensitive to pain.[0m
+	   "the pale, tender skin of her forearm"
+	   [3msynonyms:[0m sore, painful, sensitive, inflamed, raw, 
+		    "her ankle was swollen and tender"
+          • [37m(of a plant) easily injured by severe weather and therefore needing protection.[0m
+	   "pelargoniums are colourful but tender plants"
+	   [3msynonyms:[0m delicate, easily damaged, fragile, breakable, frail
+		    "these flowers are tender"
+	   [3mantonyms:[0m hardy
+          • [37mrequiring tact or careful handling.[0m
+	   "the issue of conscription was a particularly tender one"
+	   [3msynonyms:[0m difficult, delicate, tricky, awkward, problematic, 
+		    "the issue of conscription was a particularly tender one"
+	   [3mantonyms:[0m uncontroversial, straightforward
+
+      [32m3.[0m [37m(of food) easy to cut or chew; not tough.[0m
+	   "tender green beans"
+	   [3msynonyms:[0m easily chewed, not tough, chewable, soft, edible, 
+		    "simmer for 25–30 minutes until the meat is tender"
+	   [3mantonyms:[0m tough, leathery
+
+      [32m4.[0m [37myoung, inexperienced, or vulnerable.[0m
+	   "he started sailing at the tender age of ten"
+	   [3msynonyms:[0m young, youthful; 
+		    "at the tender age of fifteen"
+	   [3mantonyms:[0m advanced
+
+      [32m5.[0m [37m(of a ship) leaning or readily inclined to roll in response to the wind.[0m
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3mverb[0m[0m | verb: tender; 3rd person present: tenders; past tense: tendered; past participle: tendered; gerund or present participle: tendering
+      [32m1.[0m [37moffer or present (something) formally.[0m
+	   "he tendered his resignation as leader"
+	   [3msynonyms:[0m offer, proffer, present, put forward, propose, 
+		    "she tendered her resignation"
+          • [37moffer (money) as payment.[0m
+	   "she tendered her fare"
+          • [37mmake a formal written offer to carry out work, supply goods, or buy land, shares, or another asset for a stated fixed price.[0m
+	   "firms of interior decorators have been tendering for the work"
+	   [3msynonyms:[0m bid, put in a bid, quote, give an estimate, propose a price
+		    "firms of interior decorators have been tendering for the work"
+          • [37mformally offer (a stated fixed price) for carrying out work, supplying goods, etc.[0m
+	   "what price should we tender for a contract?"
+          • [37mseek offers to carry out work at a stated fixed price.[0m
+	   "I don't even know why they tendered it out"
+    [91m[3mnoun[0m[0m | noun: tender; plural noun: tenders
+      [32m1.[0m [37man offer to carry out work, supply goods, or buy land, shares, or another asset at a stated fixed price.[0m
+	   "we invited tenders for up to three more frigates"
+	   [3msynonyms:[0m bid, offer, quotation, quote, estimate, 
+		    "six contractors were invited to submit tenders"
+[35mTender[0m[36m /ˈtɛndə/,[0m [91m[3mnoun[0m[0m | noun: tender; plural noun: tenders
+      [32m1.[0m [37ma vehicle used by a fire service for carrying specified supplies or equipment or fulfilling a specified role.[0m
+	   "three fire engines, including an emergency tender, attended the scene"
+          • [37ma vehicle used in mobile operations by a public service or the armed forces.[0m
+	   "he was struck several blows on the head and shoved into the police tender"
+
+      [32m2.[0m [37ma dinghy or other boat used to ferry people and supplies to and from a ship.[0m
+
+      [32m3.[0m [37ma trailing vehicle closely coupled to a steam locomotive to carry fuel and water.[0m
+
+      [32m4.[0m [37ma person who looks after someone else or a machine or place.[0m
+	   "Alexei signalled to one of the engine tenders"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mनिविदा[0m           [31mकोमल[0m            [31mदेना[0m     
+      [31mटेंडर[0m            [31mनरम[0m           [31mपेश करना[0m   
+     [31mप्रस्ताव[0m         [31mमुलायम[0m       [31mउपस्थित करना[0m 
+      [31mसुझाव[0m           [31mनाज़ुक[0m      [31mप्रस्ताव करना[0m 

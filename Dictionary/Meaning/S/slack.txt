@@ -1,0 +1,83 @@
+[35m                                                                                      SLACK                                                                                       [0m
+[91m        SHORT  If you slow down at the end of a race, you slack off. When you use slack this way, it means to reduce your speed, to be sluggish, or to be negligent.[0m
+[36m         LONG  If something is loose, it's also said to be slack. A clothesline, for example, is slack if it is just hanging loosely between two trees. If you pull the
+               clothesline tight, you reduce the slack. The root word of slack is the Old English word slæc, which means loose or careless. When you scold
+               your friend for being careless about his responsibilities, you can say, "Pick up the slack!"[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In a place where it was normal for teachers to wear jeans and a button-down, he was always crisp in slacks and a tie.[0m
+[3m             > But even among progressives I talked to, the subject typically provoked a curled lip or a slack jaw.[0m
+[3m             > Motherhood is hard, I agree, and harder than it needs to be but not because women don't cut each other enough slack![0m
+[3m             > Bodies are as pliable as a slack rope.[0m
+[3m             > While that would keep the year-on-year increase at 2.7 percent, there are signs that wage growth is accelerating as labor market slack diminishes.[0m
+
+[35mSlack[0m[36m /slak/,[0m [91m[3madjective[0m[0m | adjective: slack; comparative adjective: slacker; superlative adjective: slackest
+      [32m1.[0m [37mnot taut or held tightly in position; loose.[0m
+	   "a slack rope"
+  	   [3msynonyms:[0m loose, limp, not taut, not tight, hanging, flapping ;  relaxed, flexible, pliant  flaccid, flabby, loose, sagging, saggy, drooping, droopy, soft  baggy,
+                     loose-fitting, loose, not tight, generously cut, roomy ;  shapeless, sack-like, oversized, ill-fitting, bagging, hanging, flapping,
+                     saggy
+		    "she heard a splash and the rope went slack"
+  	   [3mantonyms:[0m tight, taut, stretched, toned, firm, tailored
+
+      [32m2.[0m [37mhaving or showing laziness or negligence.[0m
+	   "slack accounting procedures"
+  	   [3msynonyms:[0m lax, negligent, neglectful, remiss, careless, slapdash, slipshod, lackadaisical, lazy, inefficient, incompetent, inattentive, offhand, casual,
+                     disorderly, disorganized ;  derelict ;  sloppy, slap-happy, do-nothing, asleep at the wheel ;  half-arsed ;  delinquent ;  otiose,
+                     pococurante
+		    "some slack defensive play by Villa"
+  	   [3mantonyms:[0m meticulous, diligent
+
+      [32m3.[0m [37mslow or sluggish.[0m
+	   "they were working at a slack pace"
+  	   [3msynonyms:[0m sluggish, slow, quiet, slow-moving, not busy, inactive, flat, depressed, stagnant
+		    "business had never been so slack"
+  	   [3mantonyms:[0m busy, thriving
+          • [37m(of business or trade) characterized by a lack of work or activity; quiet.[0m
+	   "business was rather slack"
+
+      [32m4.[0m [37mlewd.[0m
+	   "the veteran king of slack chat"
+          • [37m(typically of a woman) promiscuous.[0m
+
+      [32m5.[0m [37m(of a tide) neither ebbing nor flowing.[0m
+	   "soon the water will become slack, and the tide will turn"
+    [91m[3mnoun[0m[0m | noun: slack; plural noun: slacks
+      [32m1.[0m [37mthe part of a rope or line which is not held taut; the loose or unused part.[0m
+	   "I picked up the rod and wound in the slack"
+  	   [3msynonyms:[0m looseness, play, give
+		    "the rope had just enough slack in it to allow her to reach him"
+
+      [32m2.[0m [37mcasual trousers.[0m
+	   "he put on a grey shirt and loose cotton slacks"
+
+      [32m3.[0m [37ma spell of inactivity or laziness.[0m
+	   "he slept deeply, refreshed by a little slack in the daily routine"
+  	   [3msynonyms:[0m lull, pause, respite, spell of inactivity, interval, break, hiatus, breathing space ;  let-up, breather
+		    "he slept deeply, refreshed by a little slack in the daily routine"
+    [91m[3mverb[0m[0m | verb: slack; 3rd person present: slacks; past tense: slacked; past participle: slacked; gerund or present participle: slacking
+      [32m1.[0m [37mloosen (something, especially a rope).[0m
+	   "slacking the outhaul allows you to adjust the sail"
+
+      [32m2.[0m [37mdecrease or reduce in intensity, quantity, or speed.[0m
+	   "the flow of blood slacked off"
+  	   [3msynonyms:[0m reduce, lessen, slacken, slow, ease up/off  decrease, lessen, subside, get less, let up, ease off, abate, moderate, diminish, dwindle, die down, fall
+                     off, drop off, taper off, ebb, recede, wane  relax, take things easy, let up, ease up/off, do less, loosen up, slow down, be less
+                     active ;  hang loose, stay loose, chill out  slow down, slow, decelerate, reduce speed, drop speed, put the brakes on
+		    "the horse slacked his pace"
+  	   [3mantonyms:[0m increase, intensify, work harder, speed up, accelerate
+
+      [32m3.[0m [37mwork slowly or lazily.[0m
+	   "she ticked off her girls if they were slacking"
+  	   [3msynonyms:[0m idle, shirk, be inactive, be lazy, be indolent, sit back and do nothing, waste time, lounge about ;  skive, bunk off ;  goof off
+		    "okay, carry on with this painting and no slacking"
+  	   [3mantonyms:[0m work hard
+
+      [32m4.[0m [37mslake (lime).[0m
+	   "150 sacks of lime were slacked by the inrushing water"
+[35mSlack[0m[36m /slak/,[0m [91m[3mnoun[0m[0m | noun: slack
+          • [37mcoal dust or small pieces of coal.[0m
+	   "the fire was stoked with a mixture of slack and cement"
+  [31m[4m[34madjective[0m[0m[0m    [31m[4m[34m[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+          [31mसुस्त[0m                 [31mनिर्बल[0m            [31mरस्से का ढीला भाग[0m         [31mकमज़ोर करना[0m     
+          [31mढीला[0m                   [31mमन्द[0m                [31mदलदला स्थान[0m           [31mधीमा हो जाना[0m     
+         [31mअसावधान[0m                   [31m[0m                   [31mदलदली जगह[0m                [31mरोकना[0m        

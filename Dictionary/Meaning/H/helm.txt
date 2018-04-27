@@ -1,0 +1,36 @@
+[35m                                                                                       HELM                                                                                       [0m
+[91m        SHORT  The person at the helm is the person in charge, and if you happen to be at sea, that person is the one steering the boat with a device called a helm, the
+               mechanism that keeps the boat on course.[0m
+[36m         LONG  When someone takes over from someone else — as when a newly elected official takes office, or when a company appoints a new head — you would say that new
+               person has taken the helm. But if you're going to take the helm or be at the helm, you can't have an empty boat. There's got to be a group in
+               there with you that you're taking the helm for, guiding them all.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Investors welcomed the appointment of MacKenzie, who was considered one of Australia's most successful chief executives in his 10 years at the helm of Amcor.[0m
+[3m             > Now he is at the helm of a heist comedy caper from first-time screenwriter Rebecca Blunt.[0m
+[3m             > "Beauty and the Beast" director Bill Condon is set to helm "Bride of Frankenstein."[0m
+[3m             > Drexler, 72, stepped down as the chief executive of J Crew last week after 14 years at the helm.[0m
+[3m             > “The industry wasn’t really ready for someone who looked like me, to put me at the helm in any kind of way,” she says.[0m
+
+[35mHelm[0m[36m /hɛlm/,[0m [91m[3mnoun[0m[0m | noun: helm
+      [32m1.[0m [37ma tiller or wheel for steering a ship or boat.[0m
+	   "she stayed at the helm, alert for tankers"
+  	   [3msynonyms:[0m tiller, tiller wheel wheel ;  steering gear, rudder rudder
+		    "the second mate took the helm"
+          • [37ma position of leadership.[0m
+	   "the chairman is to step down after four years at the helm"
+  	   [3msynonyms:[0m in charge, in command, in control, responsible, responsible at the top, in authority, in the seat of authority, at the wheel, in the driving seat, in the
+                     saddle ;  managing, managing running, running administering, directing, supervising, overseeing, controlling, commanding, commanding
+                     leading, leading heading up ;  holding the reins, running the show, pulling the strings, calling the shots
+		    "they are family-run empires whose founders remain at the helm"
+          • [37ma helmsman.[0m
+	   "he is a competent helm"
+    [91m[3mverb[0m[0m | verb: helm; 3rd person present: helms; past tense: helmed; past participle: helmed; gerund or present participle: helming
+      [32m1.[0m [37msteer (a boat or ship).[0m
+	   "he helmed a sailing vessel"
+          • [37mmanage (an organization).[0m
+	   "the magazine he helmed in the late eighties"
+          • [37mdirect (a film).[0m
+[35mHelm[0m[36m /hɛlm/,[0m [91m[3mnoun archaic[0m[0m | noun: helm; plural noun: helms
+          • [37ma helmet.[0m
+
+      Origin:  Old English helma ; probably related to helve.

@@ -1,0 +1,15 @@
+[35m                                                                                      TENSOR                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > For the brain scans, he used magnetic resonance imaging to study the gray matter, and diffusion tensor imaging to study the white matter.[0m
+[3m             > Of course, Google has its own open-source AI-training software, Tensor Flow, so Facebook has a competitive reason to continue sharing its secrets as well.[0m
+[3m             > Last November it open-sourced its in-house machine learning software Tensor Flow, and then began offering free online courses for the program.[0m
+[3m             > Overall the chip, known as the Tensor Processing Unit, is 10 times faster than alternatives Google considered for this work, the company said.[0m
+[3m             > Using a complex form of calculus called tensor theory, he spent eight years working on a new concept of gravity.[0m
+
+[35mTensor[0m[36m /ˈtɛnsə,ˈtɛnsɔː/,[0m [91m[3mnoun[0m[0m | noun: tensor; plural noun: tensors
+      [32m1.[0m [37ma mathematical object analogous to but more general than a vector, represented by an array of components that are functions of the coordinates of a space.[0m
+
+      [32m2.[0m [37ma muscle that tightens or stretches a part of the body.[0m
+	   "the tensor tympani muscle of the middle ear"
+                      [31m[4m[34m[0m[0m[0m                     
+  [31mवह पेशी या पुट्‍ठा जो शरीर के किसी भाग को तना हुआ रखता है[0m 

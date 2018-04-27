@@ -1,0 +1,36 @@
+[35m                                                                                      GLEAM                                                                                       [0m
+[91m        SHORT  A gleam is a bright flash of light. If you were lost on a dark, stormy night, you'd be hugely relieved to see the gleam of a roadside diner's sign up ahead.[0m
+[36m         LONG  Use the verb gleam when something is shining as if it were wet or glinting with light. Your new toothpaste might make your teeth so white that they gleam. You
+               can also describe an emotion that appears briefly as a gleam, like a gleam of hope. And as you hatch a plan to toilet-paper the neighbor's
+               yard, mischief might gleam in your eyes.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This was the team’s first chance to survey the field of battle, divided into sun and shade by BMO Field’s gleaming new roof.[0m
+[3m             > We walk by outdoor showers, surfboard racks and a gleaming row of beach cruisers.[0m
+[3m             > The Persian rugs on the stretches of gleaming marble floor would shrink.[0m
+[3m             > The dancers weave in and out of the gleaming ice, taking its measure.[0m
+[3m             > Naturally, there’s a cameo by her husband, Vince Gill, who brings a silvery gleam to “Baby, It’s Cold Outside.”[0m
+
+[35mGleam[0m[36m /ɡliːm/,[0m [91m[3mverb[0m[0m | verb: gleam; 3rd person present: gleams; past tense: gleamed; past participle: gleamed; gerund or present participle: gleaming
+      [32m1.[0m [37mshine brightly, especially with reflected light.[0m
+	   "light gleamed on the china cats"
+	   [3msynonyms:[0m shine, glimmer, glint, catch the light, glitter, 
+		    "the new brass nameplate gleamed in the moonlight"
+          • [37m(of a smooth surface or object) reflect light because well polished.[0m
+	   "Victor buffed the glass until it gleamed"
+          • [37m(of an emotion or quality) be expressed through the brightness of a person's eyes.[0m
+	   "affection gleamed in her large green eyes"
+    [91m[3mnoun[0m[0m | noun: gleam; plural noun: gleams
+      [32m1.[0m [37ma faint or brief light, especially one reflected from something.[0m
+	   "the gleam of a silver tray"
+	   [3msynonyms:[0m glimmer, glint, shimmer, glow, twinkle, 
+		    "a gleam of light"
+          • [37ma brief or faint instance of a quality or emotion.[0m
+	   "the gleam of hope vanished"
+	   [3msynonyms:[0m glimmer, glimmering, flicker, ray, spark, 
+		    "a gleam of hope appeared in Ray's eyes"
+          • [37man expression of an emotion or quality in a person's eyes.[0m
+	   "she saw a gleam of triumph in his eyes"
+	   [3msynonyms:[0m glimmer, glimmering, flicker, ray, spark, 
+		    "a gleam of hope appeared in Ray's eyes"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+  [31mप्रकाश की किरण[0m        [31mकिरण[0m            [31mजगमगाना[0m    

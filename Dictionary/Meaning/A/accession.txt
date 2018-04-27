@@ -1,0 +1,40 @@
+[35m                                                                                    ACCESSION                                                                                     [0m
+[91m        SHORT  Accession is the act of advancing into a position. Being elected class president is a kind of accession.[0m
+[36m         LONG  Accession originally referred to a queen or king taking the throne. From the Latin term, accessionem, meaning "joining or increasing,” accession may refer to
+               the gaining of access to any formal position, group, or right. It can also mean “agreement” — think of it as “joining in.” Accession may also
+               refer to property — either something that increases your original collection, or the right to all of your property even through growth — such
+               as the golden egg your new hen laid.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Preserved Maya writing was similarly devoted to propaganda, births and accessions and victories of kings, and astronomical observations of priests.[0m
+[3m             > “We will use this additional time to evaluate more carefully the impact of such accessions on readiness and lethality.”[0m
+[3m             > "We will use this additional time to evaluate more carefully the impact of such accessions on readiness and lethality."[0m
+[3m             > Along with free and fair elections, both are a condition of the small Balkan state launching accession talks with Brussels later this year.[0m
+[3m             > This was the Bible most popular among reformers at the time of James’ accession.[0m
+
+[35mAccession[0m[36m /əkˈsɛʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: accession; plural noun: accessions
+      [32m1.[0m [37mthe attainment or acquisition of a position of rank or power.[0m
+	   "the Queen's accession to the throne"
+  	   [3msynonyms:[0m succession, succession elevation elevation ;  assumption of, attainment of, inheritance of
+		    "the Queen's accession to the throne"
+          • [37mthe action or process of formally joining or being accepted by an institution or group.[0m
+	   "the accession of Spain and Portugal to the EU"
+  	   [3msynonyms:[0m joining, signing up, enrolment enrolment
+		    "the accession of Spain and Portugal to the EC"
+          • [37mthe formal acceptance of a treaty or agreement.[0m
+	   "accession to the Treaty of Rome was effected in 1971"
+  	   [3msynonyms:[0m assent, assent consent, consent agreement agreement ;  acceptance of, acquiescence in, endorsement of, compliance with, concurrence with, recognition of
+		    "accession to the Treaty of Rome was effected in 1971"
+
+      [32m2.[0m [37ma new item added to an existing collection of books, paintings, or artefacts.[0m
+	   "the day-to-day work of cataloguing new accessions"
+  	   [3msynonyms:[0m addition, addition acquisition, acquisition new item, gift, gift purchase, purchase adjunct, adjunct add-on, add-on gain gain
+		    "among recent accessions to the museum are some Victorian watercolours"
+          • [37man amount added to an existing quantity of something.[0m
+	   "substantial accessions of gold"
+    [91m[3mverb[0m[0m | verb: accession; 3rd person present: accessions; past tense: accessioned; past participle: accessioned; gerund or present participle: accessioning
+      [32m1.[0m [37mrecord the addition of (a new item) to a library, museum, or other collection.[0m
+	   "each book must be accessioned and the data entered into the computer"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mपरिग्रहण[0m      [31mपदारोहण[0m   
+
+      Origin:  late 16th century (in the general sense ‘something added’): from Latin accessio(n- ), from the verb accedere ‘approach, come to’ (see accede).

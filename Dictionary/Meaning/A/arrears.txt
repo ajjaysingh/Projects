@@ -1,0 +1,26 @@
+[35m                                                                                     ARREARS                                                                                      [0m
+[91m        SHORT  If you are in arrears, you are behind in the payment of a debt. Think: rears=behind. Arrears also refers to the unpaid, overdue debt itself. Your rent arrears
+               are the  money you own on rent.[0m
+[36m         LONG  Arrears is a term often used in a legal context––like, when you've had to hire a lawyer because you're being sued by your landlord, or being evicted because
+               you're in arrears on your rent. Before it comes to eviction, though, you should try negotiating with your landlord first. They would probably
+               be more interested in collecting arrears, even late, than in evicting you and starting with a new tenant from scratch.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Starting in May, property auctions will also be launched to recover tax arrears.[0m
+[3m             > Now, he said, some arrears and default rates, while still low, were on the rise.[0m
+[3m             > What are the statistic for rent arrears with people on housing benefit versus those on jobs?[0m
+[3m             > "I'm in arrears on a number of bills at the moment - I can't afford to pay," he added.[0m
+[3m             > At one point, according to the charge sheet, Manafort’s ability to get new credit was affected by a $300,000 American Express credit card bill that was more
+               than 90 days in arrears.[0m
+
+[35mArrears[0m[36m /əˈrɪəz/,[0m [91m[3mnoun[0m[0m | noun: arrear; plural noun: arrears
+          • [37mmoney that is owed and should have been paid earlier.[0m
+	   "he was suing the lessee for the arrears of rent"
+  	   [3msynonyms:[0m money owing, outstanding payment(s), debt(s), liabilities, indebtedness, indebtedness dues ;  balance, balance deficit deficit  backlog, backlog logjam,
+                     logjam accumulation, accumulation pile-up, pile-up reserve, reserve stockpile stockpile
+		    "council house rent arrears amounted to over £1m"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mबकाया[0m   [31mबक़ाया[0m 
+    [31mशेष[0m     [31mऋणशेष[0m 
+
+      Origin:  Middle English (first used in the phrase in arrear ): from arrear (adverb) ‘behind, overdue’, from Old French arere, from medieval Latin adretro, from ad-
+               ‘towards’ + retro ‘backwards’.

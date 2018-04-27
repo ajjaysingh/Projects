@@ -1,0 +1,61 @@
+[35m                                                                                       RUNG                                                                                       [0m
+[91m        SHORT  A rung is one of the horizontal steps of a ladder. You should never stand on the very top rung of a ladder — it can be dangerous![0m
+[36m         LONG  From the literal ladder definition of rung, a place to put your foot (or hand) as you climb up, comes the metaphorical meaning of "a level." For example, if
+               you get a promotion at work, you might say you're climbing up the rungs of the company. The horizontal bars between the legs of a chair are
+               also rungs. This word comes from a Germanic root meaning "stake, staff, or bar."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Holiday spirit rung true from the horses’ jingle bells.[0m
+[3m             > He said that the chimes, most recently reactivated for Armistice Day in November, would continue to be rung for special occasions during its four year
+               restoration period.[0m
+[3m             > History paintings were deemed the most important, with landscape, portraiture and other genres occupying lower rungs on the painting ladder.[0m
+[3m             > Or the fact that the early alarm bells rung by George McGovern’s team were easily dismissed because he was such a deeply unpopular candidate for president.[0m
+[3m             > Dalits, formerly known as untouchables, form the lowest rung on India's caste hierarchy.[0m
+
+[35mRung[0m[36m /rʌŋ/,[0m [91m[3mnoun[0m[0m | noun: rung; plural noun: rungs
+      [32m1.[0m [37ma horizontal support on a ladder for a person's foot.[0m
+          • [37ma level in a hierarchical structure, especially a class or career structure.[0m
+	   "we must ensure that the low-skilled do not get trapped on the bottom rung"
+
+      [32m2.[0m [37ma strengthening crosspiece in the structure of a chair.[0m
+[35mRung[0m[36m /rʌŋ/,[0m [91m[3m[0m[0m
+          • [37mpast participle of ring2.[0m
+[35mRing[0m[36m /rɪŋ/,[0m [91m[3mverb[0m[0m
+	past participle: rung
+      [32m1.[0m [37mmake a clear resonant or vibrating sound.[0m
+	   "a shot rang out"
+  	   [3msynonyms:[0m chime, chime ring out, chime out, toll, toll peal, peal knell knell ;  sound, sound clang, clang bong, bong clink, clink ding, ding jingle, jingle tinkle
+                     tinkle
+		    "church bells rang all day"
+          • [37mcause (a bell or alarm) to ring.[0m
+	   "he walked up to the door and rang the bell"
+  	   [3msynonyms:[0m toll, toll sound, sound strike, strike peal peal ;  press, press set off ;  tintinnabulate tintinnabulate
+		    "the vicar arranged to ring the church bells"
+          • [37m(of a telephone) produce a series of resonant or vibrating sounds to signal an incoming call.[0m
+	   "the phone rang again as I replaced it"
+          • [37mcall for service or attention by sounding a bell.[0m
+	   "Ruth, will you ring for some tea?"
+          • [37msound (the hour, a peal, etc.) on a bell or bells.[0m
+	   "a bell ringing the hour"
+
+      [32m2.[0m [37mcall by telephone.[0m
+	   "I rang her this morning"
+  	   [3msynonyms:[0m telephone, telephone phone, phone call, call call up, ring up, give someone a ring, give someone a call, get someone on the phone, get on the phone to,
+                     get, get reach, reach dial, dial make/place a call (to) ;  buzz, buzz give someone a buzz ;  bell, bell give someone a bell, give
+                     someone a tinkle, get on the blower to ;  get someone on the horn
+		    "I'll ring you tomorrow"
+
+      [32m3.[0m [37m(of a place) resound or reverberate with (a sound or sounds).[0m
+	   "the room rang with laughter"
+  	   [3msynonyms:[0m resound, resound reverberate, reverberate resonate, resonate echo, echo re-echo re-echo ;  vibrate, vibrate pulsate pulsate
+		    "the whole cellar rang with laughter"
+          • [37m(of a person's ears) be filled with a continuous buzzing or humming sound, especially as the after-effect of a blow or loud noise.[0m
+	   "he yelled so loudly that my eardrums rang"
+          • [37mbe filled or permeated with (a particular quality).[0m
+	   "a clever retort which rang with contempt"
+          • [37mconvey a specified impression or quality.[0m
+	   "the author's honesty rings true"
+  [31m[4m[34mnoun[0m[0m[0m
+       [31mछड़[0m     
+  [31mसीढी का डंडा[0m 
+
+      Origin:  Old English hrung (in sense 2); related to Dutch rong and German Runge .

@@ -1,0 +1,28 @@
+[35m                                                                                      TACIT                                                                                       [0m
+[91m        SHORT  Something tacit is implied or understood without question. Holding hands might be a tacit acknowledgment that a boy and girl are dating.[0m
+[36m         LONG  The adjective tacit refers to information that is understood without needing to acknowledge it. For example, since we know that the sky is blue, that kind of
+               assumption is tacit. Lawyers talk about "tacit agreements," where parties give their silent consent and raise no objections.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And for what it’s worth, I followed tacit honesty with my interviewers.[0m
+[3m             > “It’s a tacit acknowledgment that the economic outlook in Europe is rosier than it was,” James Athey, a senior investment manager at Aberdeen Standard
+               Investments, said in a statement.[0m
+[3m             > Ultimately, if Trump chooses to enforce the agreement against Clifford in court it will serve as a tacit admission of Clifford’s underlying story.[0m
+[3m             > Let’s be clear: this failure is enabled and given tacit support by the Republican Congress and its Speaker and Majority Leader.[0m
+[3m             > Certainly, she would not be running without the tacit permission of the authorities.[0m
+
+[35mTacit[0m[36m /ˈtasɪt/,[0m [91m[3madjective[0m[0m | adjective: tacit
+          • [37munderstood or implied without being stated.[0m
+	   "your silence may be taken to mean tacit agreement"
+  	   [3msynonyms:[0m implicit, implicit understood, understood implied, implied inferred, hinted, suggested, insinuated ;  unspoken, unspoken unstated, unstated undeclared,
+                     undeclared unsaid, unsaid unexpressed, unexpressed unmentioned, unmentioned unvoiced, unvoiced silent, silent mute, mute wordless,
+                     wordless not spelt out ;  taken for granted, taken as read
+		    "the bargaining relies on informal agreements and tacit understandings"
+  	   [3mantonyms:[0m explicit, explicit stated stated
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+       [31mमौन[0m           [31mनिहित[0m    
+      [31mसूचित[0m      [31mमतलब रखा हुआ[0m 
+    [31mउपलक्षित[0m     [31mमानी रखा हुआ[0m 
+     [31mगर्भित[0m         [31mचुप्पा[0m    
+      [31mअनकहा[0m        [31mअल्पभाषी[0m   
+
+      Origin:  early 17th century (in the sense ‘wordless, noiseless’): from Latin tacitus, past participle of tacere ‘be silent’.

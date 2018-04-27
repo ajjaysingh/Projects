@@ -1,0 +1,23 @@
+[35m                                                                                      TRIAGE                                                                                      [0m
+[91m        SHORT  Grouping patients based on the severity of their injuries and the likelihood of their survival is called triage. In a triage situation, urgent cases are seen
+               by doctors first, and non-life-threatening emergencies go last.[0m
+[36m         LONG  You can also apply the sorting and prioritizing of triage to more general situations. If you're overwhelmed with homework, you can perform triage by
+               organizing it into subjects and prioritizing assignments based on their due dates. The word triage comes from the French word trier meaning to
+               sort. Although the medical sense is now the most common, it wasn't used that way until World War One.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > For expectant parents, the time is now to ruthlessly triage your budget.[0m
+[3m             > Even amid their celebrations, Republicans are well aware that passing the bill was less a legislative triumph than a triage operation.[0m
+[3m             > He noted that a triage center was set up at the local high school.[0m
+[3m             > People serving as victims require triage treatment as part of the exercise.[0m
+[3m             > Where does the triage begin—with the facts or the follies?[0m
+
+[35mTriage[0m[36m /ˈtriːɑːʒ/,[0m [91m[3mnoun[0m[0m | noun: triage
+      [32m1.[0m [37m(in medical use) the assignment of degrees of urgency to wounds or illnesses to decide the order of treatment of a large number of patients or casualties.[0m
+	   "a triage nurse"
+          • [37mthe process of determining the most important people or things from amongst a large number that require attention.[0m
+	   "a system of educational triage that allows a few students to get help while the needs of others are neglected"
+    [91m[3mverb[0m[0m | verb: triage; 3rd person present: triages; past tense: triaged; past participle: triaged; gerund or present participle: triaging
+      [32m1.[0m [37mdecide the order of treatment of (patients or casualties).[0m
+	   "victims were triaged by paramedics before being transported to hospitals"
+      [31m[4m[34m[0m[0m[0m    
+  [31mकहवा की फली का रद्दी भाग[0m 

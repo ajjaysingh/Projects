@@ -1,0 +1,61 @@
+[35m                                                                                       ODD                                                                                        [0m
+[91m        SHORT  The numbers 1, 3, 5, and 35 are all odd numbers — they can't be divided by two. They are not even. Also, things that are weird or strange are called odd.[0m
+[36m         LONG  This word covers things that are slightly off-kilter, like odd numbers. You can use odd for a single thing that belongs in a pair, like an odd sock or odd
+               mitten. If someone wants you to do odd jobs, that could mean almost anything: odd jobs are random and unpredictable jobs that could come up.
+               When you describe a person as odd, or that they’re exhibiting odd behavior, it means they're peculiar and out of the ordinary.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "It's odd — people do get surprised, like, 'Geez, you did this, you did that?'"[0m
+[3m             > Artistically, Cobbles are normally justified on grounds of completism: that they “tell us something new” about the artist, and occasionally turf up the odd
+               gem that “deserves to see the light of day”.[0m
+[3m             > He gets by doing odd jobs for other Liberians, helping someone move, for example, or cleaning an apartment.[0m
+[3m             > “It is odd that a company that celebrates openness is resorting to totalitarian methods of control and censorship on the basis of dubious criteria,” Ms.
+               Zakharova said Wednesday.[0m
+[3m             > THE theories lurk in odd corners of the web, occasionally bubbling into broader public consciousness.[0m
+
+[35mOdd[0m[36m /ɒd/,[0m [91m[3madjective[0m[0m | adjective: odd; comparative adjective: odder; superlative adjective: oddest
+      [32m1.[0m [37mdifferent to what is usual or expected; strange.[0m
+	   "the neighbours thought him very odd"
+  	   [3msynonyms:[0m strange, strange peculiar, peculiar weird, weird queer, queer funny, funny bizarre, bizarre eccentric, eccentric unusual, unusual abnormal, abnormal
+                     idiosyncratic, idiosyncratic unconventional, unconventional outlandish, outlandish offbeat, offbeat freakish, freakish quirky,
+                     quirky quaint, quaint zany, zany off-centre off-centre ;  wacky, wacky freaky, freaky kooky, kooky screwy, screwy kinky, kinky
+                     oddball, oddball cranky cranky ;  off the wall, wacko, wacko bizarro bizarro ;  dilly dilly  strange, strange unusual, unusual
+                     peculiar, peculiar funny, funny curious, curious bizarre, bizarre weird, weird uncanny, uncanny queer, queer unexpected, unexpected
+                     unfamiliar, unfamiliar abnormal, abnormal atypical, atypical anomalous, anomalous untypical, untypical different, different out of
+                     the ordinary, out of the way, foreign, foreign exceptional, exceptional rare, rare extraordinary, extraordinary remarkable,
+                     remarkable puzzling, puzzling mystifying, mysterious, mysterious perplexing, perplexing baffling, baffling unaccountable,
+                     unaccountable incongruous, incongruous uncommon, uncommon irregular, irregular singular, singular deviant, deviant aberrant,
+                     aberrant freak, freak freakish freakish ;  suspicious, suspicious dubious, dubious questionable questionable ;  eerie, eerie
+                     unnatural unnatural ;  unco unco ;  outré outré ;  fishy, fishy creepy, creepy spooky spooky ;  rum rum
+		    "the neighbours thought him very odd"
+  	   [3mantonyms:[0m normal, normal conventional, conventional ordinary, ordinary usual usual
+
+      [32m2.[0m [37m(of whole numbers such as 3 and 5) having one left over as a remainder when divided by two.[0m
+	   "atoms which possess an odd number of electrons"
+  	   [3msynonyms:[0m uneven, uneven not divisible by two
+		    "odd numbers"
+          • [37min the region of or somewhat more than a particular number or quantity.[0m
+	   suffix: -odd
+          • [37mdenoting a single goal by which one side defeats another, especially where each side scores at least once.[0m
+	   "they lost a close-fought game by the odd goal in five"
+
+      [32m3.[0m [37mhappening or occurring infrequently and irregularly; occasional.[0m
+	   "we have the odd drink together"
+  	   [3msynonyms:[0m occasional, occasional casual, casual irregular, irregular isolated, isolated incidental, incidental random, random sporadic, sporadic seasonal, seasonal
+                     periodic, periodic part-time part-time ;  miscellaneous, miscellaneous various, various varied, varied sundry sundry
+		    "we have the odd drink together"
+  	   [3mantonyms:[0m regular regular
+          • [37mspare; unoccupied.[0m
+	   "when you've got an odd five minutes, could I have a word?"
+  	   [3msynonyms:[0m spare, spare unoccupied, unoccupied free, free not committed, available available ;  between engagements, between appointments
+		    "when you've got an odd five minutes, could I have a word"
+
+      [32m4.[0m [37mseparated from a usual pair or set and therefore out of place or mismatched.[0m
+	   "he's wearing odd socks"
+  	   [3msynonyms:[0m mismatched, unmatched, unmatched unpaired unpaired ;  single, single lone, lone solitary, solitary extra, extra surplus, surplus leftover, leftover
+                     remaining, remaining unused unused ;  orra orra
+		    "he's wearing odd shoes"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mअजीब[0m              [31mअयुग्म[0m      
+        [31mविषम[0m              [31mअसाधारण[0m     
+
+      Origin:  Middle English (in sense 2): from Old Norse odda-, found in combinations such as odda-mathr ‘third or odd man’, from oddi ‘angle’.

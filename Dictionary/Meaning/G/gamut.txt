@@ -1,0 +1,33 @@
+[35m                                                                                      GAMUT                                                                                       [0m
+[91m        SHORT  A visit with a long-lost cousin might arouse emotions that run the gamut of joy, regret, sorrow, and excitement. A gamut is a full or complete range.[0m
+[36m         LONG  In the 16th century, the gamut was the lowest note on the musical scale. In music as well as life, the word has expanded to mean from high to low, or the
+               whole range. The word is often associated with "run," as in "run the gamut from totally excited to so terrified you're quaking with fear." And
+               if you've talked about every discussion point on your agenda, you've covered the gamut of issues that need discussing.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Her voice runs the gamut from whispered intrigue to full-bodied yearning.[0m
+[3m             > But wherever the forecasts for Ohtani may fall – and they run the gamut – there’s no question he remains the most compelling prospect in Major League Baseball
+               as the season kicks off on Thursday.[0m
+[3m             > Moving forward, you collect over 200 tales from those you meet, oral histories that run the gamut of emotions.[0m
+[3m             > Alpha Trading Labs’ main investor is CMT Group, a firm founded by two veteran traders in 1997, with businesses that run the gamut from high-speed trading to
+               venture capital to real estate.[0m
+[3m             > “It runs the gamut,” said Harpster, who also is executive chef at Single Barrel.[0m
+
+[35mGamut[0m[36m /ˈɡamət/,[0m [91m[3mnoun[0m[0m | noun: gamut; plural noun: gamuts
+      [32m1.[0m [37mthe complete range or scope of something.[0m
+	   "the whole gamut of human emotion"
+  	   [3msynonyms:[0m range, range spectrum, spectrum span, span sweep, sweep compass, compass scope, scope area, area breadth, breadth width, width reach, reach extent,
+                     extent catalogue, catalogue scale, scale sequence, sequence series series ;  variety variety
+		    "the complete gamut of human emotion"
+
+      [32m2.[0m [37ma complete scale of musical notes; the range of a voice or instrument.[0m
+	   "the orchestral gamut"
+          • [37ma scale consisting of seven overlapping hexachords, containing all the recognized notes used in medieval music, covering almost three octaves from bass G to
+            treble E.[0m
+          • [37mthe lowest note in the gamut scale.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mसरगम[0m        [31mस्वर[0m   
+  [31mस्वरग्राम[0m      [31mराग[0m    
+
+      Origin:  late Middle English: from medieval Latin gamma ut, originally the name of the lowest note in the medieval scale (bass G an octave and a half below middle C),
+               then applied to the whole range of notes used in medieval music. The Greek letter Γ (gamma) was used for bass G, with ut indicating that it was
+               the first note in the lowest of the hexachords or six-note scales (see solmization).

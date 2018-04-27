@@ -1,0 +1,28 @@
+[35m                                                                                    COROLLARY                                                                                     [0m
+[91m        SHORT  Corollary describes a result that is the natural consequence of something else. You could say that your weight gain is a corollary of the recent arrival of a
+               bakery across the street from your house.[0m
+[36m         LONG  The noun corollary describes an action's consequence, such as having to study more, a corollary to getting a bad grade. The word is often seen with the
+               prepositions “to” or “of," as in “a corollary to fortune is fame.” Math enthusiasts may already be familiar with the word corollary, which can
+               be used more formally to describe a new proof or proposition that follows naturally from an established one.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The anecdote is a self-conscious corollary to a famous incident in Solnit’s earlier feminist work, “Men Explain Things to Me.”[0m
+[3m             > But for now, there is not yet a corollary in Trumpworld to Organizing for Action, the premier advocacy group that supported Obama’s legislative agenda.[0m
+[3m             > News in essence is about how today differs from yesterday, a corollary of which is that yesterday was different from today.[0m
+[3m             > To which the Viard-Toder plan adds a corollary: Tax them accordingly.[0m
+[3m             > In 1942, the N.A.A.C.P. declared a “Double V” campaign—an attempt to defeat Fascism abroad and its domestic corollary of American racism.[0m
+
+[35mCorollary[0m[36m /kəˈrɒləri/,[0m [91m[3mnoun[0m[0m | noun: corollary; plural noun: corollaries
+      [32m1.[0m [37ma proposition that follows from (and is often appended to) one already proved.[0m
+          • [37ma direct or natural consequence or result.[0m
+	   "the huge increases in unemployment were the corollary of expenditure cuts"
+	   [3msynonyms:[0m consequence, result, upshot, outcome, out-turn, 
+		    "the corollary of increased car ownership has been a decline in public transport"
+	   [3mantonyms:[0m cause, origin
+    [91m[3madjective[0m[0m | adjective: corollary
+      [32m1.[0m [37mforming a proposition that follows from one already proved.[0m
+          • [37massociated or supplementary.[0m
+	   "the court did not answer a corollary question"
+  [31m[4m[34m[0m[0m[0m
+      [31mउपप्रमेय[0m     
+  [31mस्वाभाविक परिणाम[0m 
+       [31mउपनिगमन[0m     

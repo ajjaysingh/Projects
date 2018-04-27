@@ -1,0 +1,35 @@
+[35m                                                                                       VETO                                                                                       [0m
+[91m        SHORT  A veto is a no vote that blocks a decision. The President can veto some bills that pass his desk.[0m
+[36m         LONG  A veto is a very official way of saying "No!" Vetoes block or forbid something, and the word is also used more loosely. The President of the United States can
+               veto Senators who oppose his ideas, but if he tries to veto his daughter from joining the swim team, he might encounter his fiercest opponent
+               yet. If you strongly disagree with your friends' choice of a movie, you could say, "I have to veto that." Vetoes vote no.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He signed the Republicans’ ransom note of a budget plan, but then used his veto authority to remove all future funding of the Legislature.[0m
+[3m             > In a separate political deal, lawmakers revived the major provisions of an insulin pricing transparency bill that the governor vetoed last week.[0m
+[3m             > The military vetoed the idea, convinced that it would not be enough to end the war.[0m
+[3m             > Security Council veto power Russia backed the U.N. measures on Friday.[0m
+[3m             > The Beatles were encouraged by Haworth and Blake to put together a list of their “heroes,” but some suggestions were wisely vetoed, according to Haworth.[0m
+
+[35mVeto[0m[36m /ˈviːtəʊ/,[0m [91m[3mnoun[0m[0m | noun: veto; plural noun: vetoes
+      [32m1.[0m [37ma constitutional right to reject a decision or proposal made by a lawmaking body.[0m
+	   "neither state was given a veto over amendments to the Act"
+          • [37ma rejection by right of veto.[0m
+	   "the president still has the power of veto over Congressional legislation"
+  	   [3msynonyms:[0m rejection, vetoing, dismissal, denial, declination, turndown ;  prohibition, prohibiting, proscription, preclusion, restriction, suppression, stoppage ;
+                     embargo, ban, boycott, bar, interdict ;  thumbs down, red light, knock-back
+		    "the president still has the power of veto over Congressional legislation"
+  	   [3mantonyms:[0m approval, OK
+          • [37many ban or prohibition.[0m
+	   "his veto on our drinking after the meal was annoying"
+    [91m[3mverb[0m[0m | verb: veto; 3rd person present: vetoes; past tense: vetoed; past participle: vetoed; gerund or present participle: vetoing
+      [32m1.[0m [37mexercise a veto against (a decision or proposal).[0m
+	   "the president vetoed the bill"
+  	   [3msynonyms:[0m reject, turn down, throw out, dismiss, say ‘no’ to, rule against, overrule, rule out, quash ;  prohibit, forbid, interdict, proscribe, disallow, outlaw,
+                     embargo, place an embargo on, ban, bar, block, preclude, put a stop to, put an end to, stop, nullify, declare null and void ;  kill,
+                     squash, put the kibosh on, give the thumbs down to, give the red light to
+		    "the president carried out his threat to veto the bill"
+  	   [3mantonyms:[0m approve, authorize
+          • [37mrefuse to accept or allow.[0m
+	   "I vetoed the idea of a holiday"
+
+      Origin:  early 17th century: from Latin, literally ‘I forbid’, used by Roman tribunes of the people when opposing measures of the Senate.

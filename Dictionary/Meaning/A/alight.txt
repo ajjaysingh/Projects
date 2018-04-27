@@ -1,0 +1,44 @@
+[35m                                                                                      ALIGHT                                                                                      [0m
+[91m        SHORT  The word alight has two distinct meanings: it can mean coming down or settling in a delicate manner, such as a bird perching, or it can be a rather poetic way
+               to describe something that’s on fire (or “afire”).[0m
+[36m         LONG  Just as the word alight has two distinct grammatical forms and meanings, it has two distinct beginnings in the Old English. That period’s word ālīhtan had an
+               original meaning of dismounting, or lightening the load on the horse, and so is the ancestor of the verb we use today that means "to settle or
+               perch."  Meanwhile, the word onlīhtan (see the different spelling?) of that same time meant to be on fire, which became our adjectival use of
+               the word.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A homeless Polish man sleeping on a bench at Schoenleinstrasse was set alight by a group of Libyan and Syrian migrants.[0m
+[3m             > Fireworks will alight the skies over Busch Gardens and Colonial Williamsburg, Virginia, Monday and Tuesday as America celebrates its birthday.[0m
+[3m             > As it ate, it was no more perturbed by my presence than by the sudden appearance of a robin alighting on a nearby rock.[0m
+[3m             > It's not so often that Romantic poets set social media alight.[0m
+[3m             > It shows a white man forcing a black man inside a coffin, and threatening to pour petrol over him and set it alight.[0m
+
+[35mAlight[0m[36m /əˈlʌɪt/,[0m [91m[3mverb[0m[0m | verb: alight; 3rd person present: alights; past tense: alighted; past participle: alighted; gerund or present participle: alighting
+          • [37mdescend from a train, bus, or other form of transport.[0m
+	   "visitors should alight at the Fort Road stop"
+  	   [3msynonyms:[0m get off, step off, get down ;  dismount, dismount disembark, disembark descend, descend exit exit ;  detrain, detrain deplane deplane ;  pile out
+		    "he was the only passenger to alight from the train"
+  	   [3mantonyms:[0m get on, board board
+          • [37m(of a bird) descend from the air and settle.[0m
+	   "one bird alighted on the arm of my chair"
+  	   [3msynonyms:[0m land, land come down, come to rest, touch down, light, light arrive, arrive descend descend ;  settle, settle perch, perch roost, roost sit, sit rest
+                     rest
+		    "a swallow alighted on a branch"
+  	   [3mantonyms:[0m fly off
+[35mAlight[0m[36m /əˈlʌɪt/,[0m [91m[3madverb & adjective[0m[0m | adverb: alight; adjective: alight
+          • [37mon fire; burning.[0m
+	   "the house was alight when the firemen arrived"
+  	   [3msynonyms:[0m on fire, ablaze, ablaze aflame, aflame in flames, flaming, flaming burning, burning blazing, blazing raging, raging fiery, fiery lit, lit lighted,
+                     ignited ;  afire afire
+		    "bales of hay were set alight"
+  	   [3mantonyms:[0m extinguished
+          • [37mshining brightly.[0m
+	   "a single lamp was alight"
+  	   [3msynonyms:[0m lit up, gleaming, glowing, glowing aglow, aglow ablaze, ablaze illuminated, brilliant, brilliant bright, bright shining, shining radiant, radiant
+                     shimmering, sparkling, sparkling flashing, flashing dazzling, dazzling luminous, luminous incandescent incandescent
+		    "her face was suddenly alight with laughter"
+  	   [3mantonyms:[0m dark dark
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mउतरना[0m        [31mप्रकाशमय[0m      [31mप्रदीप्त[0m  
+    [31mनीचे आना[0m      [31mजलता हुआ[0m    [31mप्रज्ज्वलित[0m 
+
+      Origin:  Old English ālīhtan, from ā- (as an intensifier) + līhtan ‘descend’ (see light3).

@@ -1,0 +1,32 @@
+[35m                                                                                    PRESCRIBE                                                                                     [0m
+[91m        SHORT  To prescribe is make orders or give directions for something to be done. These days, the word is mainly used by doctors who prescribe medications to take.[0m
+[36m         LONG  Doctors do a lot of prescribing: they prescribe drugs, rest, exercise, and getting rid of bad habits like smoking. When a doctor prescribes something, he or
+               she is saying, "You need to do this. You should do it." That's the most common use of prescribe, but it pops up anywhere someone is advising or
+               ordering someone to do something. All laws and rules prescribe things — they tell you what to do.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Kentucky Sen. Rand Paul strongly opposed the Department of Justice directive, which reverses an Obama-era policy that prescribed leniency for nonviolent, low-
+               level drug offenders.[0m
+[3m             > The order prohibits Aksoy from prescribing Schedule II and III narcotics.[0m
+[3m             > The governor railed against doctors who prescribe opioid painkillers without checking a patient’s risk of addiction.[0m
+[3m             > Xanax is prescribed by doctors to treat severe anxiety or panic disorder.[0m
+[3m             > Commonly prescribed drugs, including the cholesterol treatment Crestor and some brands of insulin, are included on the list about 40 products.[0m
+
+[35mPrescribe[0m[36m /prɪˈskrʌɪb/,[0m [91m[3mverb[0m[0m | verb: prescribe; 3rd person present: prescribes; past tense: prescribed; past participle: prescribed; gerund or present participle: prescribing
+      [32m1.[0m [37m(of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing.[0m
+	   "her doctor prescribed sleeping tablets"
+  	   [3msynonyms:[0m order, advise, authorize, direct
+		    "your doctor may prescribe an antibiotic"
+          • [37mrecommend (a substance or action) as something beneficial.[0m
+	   "marriage is often prescribed as a universal remedy"
+  	   [3msynonyms:[0m advise, recommend, advocate, commend, urge, suggest, subscribe to, endorse, support, back, champion, argue for, promote
+		    "traditional values prescribe a life of domesticity"
+
+      [32m2.[0m [37mstate authoritatively or as a rule that (an action or procedure) should be carried out.[0m
+	   "rules prescribing five acts for a play are purely arbitrary"
+  	   [3msynonyms:[0m stipulate, lay down, dictate, specify, impose, set down, determine, establish, fix, formulate, appoint, decree, order, command, pronounce, ordain,
+                     require, direct, enjoin, make provision for, promulgate
+		    "two rules prescribe the nature of that duty"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mहुक्म देना[0m       [31mविहित करना[0m   
+    [31mआज्ञा देना[0m     [31mनिर्धारित करना[0m 
+    [31mहुक्म चलाना[0m     [31mऔषध-निर्देशन[0m  

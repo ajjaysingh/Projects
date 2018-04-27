@@ -1,0 +1,35 @@
+[35m                                                                                       REEK                                                                                       [0m
+[91m        SHORT  It smells absolutely rotten and offensive. Birds are falling from the sky because of the fumes. You might throw up from one whiff. Whatever it is, it reeks.[0m
+[36m         LONG  Shakespeare famously wrote about the "breath that from my mistress reeks," but that's not a nice way to talk about a girlfriend. The word usually describes
+               smells, but can also be used to suggest something fishy, as in "the suspicious transactions reeked of mob involvement." But noses everywhere
+               agree: Whether it's coming from your sneakers or from the aftermath of a shady deal, if something reeks — it stinks to high heaven.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I tried not to touch the peeling, moss-green stucco walls, or walk barefoot on the carpet, which reeked of roach spray.[0m
+[3m             > It reeks of horns and harps, harmonica quartets, assorted animal noises and a 91-piece orchestra.[0m
+[3m             > But the fact that he never apologized or even acknowledged it reeks of immaturity.[0m
+[3m             > BuzzFeed’s party at a U Street bar that reeked of onions and tequila, was not showing the dinner on television.[0m
+[3m             > I wanted to dock a point because the whole place reeked of designer perfume, but Annabeth ignored me.[0m
+
+[35mReek[0m[36m /riːk/,[0m [91m[3mverb[0m[0m | verb: reek; 3rd person present: reeks; past tense: reeked; past participle: reeked; gerund or present participle: reeking
+      [32m1.[0m [37msmell strongly and unpleasantly; stink.[0m
+	   "the yard reeked of wet straw and horse manure"
+  	   [3msynonyms:[0m stink, smell, smell bad/disgusting, give off a bad smell, stink/smell to high heaven
+		    "the whole place reeked of cheap perfume"
+          • [37mbe suggestive of something unpleasant or undesirable.[0m
+	   "the speeches reeked of anti-Semitism"
+          • [37mgive off smoke, steam, or fumes.[0m
+	   "while temples crash, and towers in ashes reek"
+    [91m[3mnoun[0m[0m | noun: reek
+      [32m1.[0m [37ma foul smell.[0m
+	   "the reek of cattle dung"
+  	   [3msynonyms:[0m stink, bad smell, foul smell, stench, taint, effluvium ;  niff, pong, whiff, hum ;  guff ;  funk ;  miasma, mephitis, malodour, fetor
+		    "the reek of cattle dung"
+
+      [32m2.[0m [37msmoke.[0m
+	   "he recovered himself and turned to peer through the reek"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mभाप[0m         [31mधूआं देना[0m      [31mधुआं देना[0m  
+      [31mधूआं[0m        [31mधूआं छोड़ना[0m     [31mभाप छोडना[0m  
+
+      Origin:  Old English rēocan ‘give out smoke or vapour’, rēc (noun) ‘smoke’, of Germanic origin; related to Dutch rieken ‘to smell’, rook ‘smoke’, German riechen ‘to
+               smell’, Rauch ‘smoke’.

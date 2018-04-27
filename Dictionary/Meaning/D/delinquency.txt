@@ -1,0 +1,32 @@
+[35m                                                                                   DELINQUENCY                                                                                    [0m
+[91m        SHORT  Delinquency is a minor crime, especially one committed by a youth. Cutting class all week to drive around town without your license is a sure sign of
+               delinquency.[0m
+[36m         LONG  Delinquency can mean a particular violation, like stealing a car, but it may also refer to a more general trend of acting out and violating the law, like
+               stealing cars daily and crashing them many times over. In this sense it’s often called juvenile delinquency. Another sense of delinquency is
+               general neglect, particularly by someone who holds a formal position. The word can also refer to an unpaid debt. You’re thinking about those
+               unpaid library fines now, right?[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The juvenile justice system is supposed to address the root causes of delinquency.[0m
+[3m             > Delinquency measures for auto loans and credit cards are trending up, he said.[0m
+[3m             > She said that state money is funneled into the county’s Department of Youth and Families Delinquency Unit.[0m
+[3m             > Cutler faces multiple charges, including kidnapping and contributing to the delinquency of a minor.[0m
+[3m             > He was almost like a parent hearing of his teen-ager’s delinquency: he hoped supervisors didn’t do that, but, if they did, it was wrong.[0m
+
+[35mDelinquency[0m[36m /dɪˈlɪŋkw(ə)nsi/,[0m [91m[3mnoun[0m[0m | noun: delinquency; plural noun: delinquencies
+      [32m1.[0m [37mminor crime, especially that committed by young people.[0m
+	   "social causes of crime and delinquency"
+  	   [3msynonyms:[0m crime, wrongdoing, criminality, lawbreaking, lawlessness, misconduct, misbehaviour ;  misdemeanours, offences, misdeeds
+		    "the social causes of teenage delinquency"
+
+      [32m2.[0m [37mneglect of one's duty.[0m
+	   "he relayed this in such a manner as to imply grave delinquency on the host's part"
+  	   [3msynonyms:[0m negligence, dereliction of duty, remissness, neglectfulness, irresponsibility
+		    "he relayed this in such a manner as to imply grave delinquency on the host's part"
+          • [37ma failure to pay an outstanding debt by the due date.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mअपराध[0m             [31mअपचार[0m      
+        [31mदोष[0m             [31mअपचारिता[0m    
+       [31mक़सूर[0m        [31mगुनाह-प्रवृत्ति[0m 
+       [31mअवगुण[0m         [31mकर्त्तव्यच्युत[0m 
+
+      Origin:  mid 17th century: from ecclesiastical Latin delinquentia, from Latin delinquent- ‘offending’ (see delinquent).

@@ -1,0 +1,22 @@
+[35m                                                                                      BIOPSY                                                                                      [0m
+[91m        SHORT  A biopsy is a sample of tissue or liquid from the body that helps determine if you have a disease.  If your doctor finds a lump in part of your body, she will
+               probably do a biopsy to see if it is cancerous or not.[0m
+[36m         LONG  Bios means life and opsis means see, so a biopsy is a way for a doctor to look into your body, so to speak, by taking a sample of it. There are different
+               kinds of biopsies, depending on where the tissue is that your doctor needs to look at. You might have a surgical biopsy or a less invasive
+               biopsy by needle.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s the latest development for tests called liquid biopsies, which analyze cancer using blood rather than tissue samples.[0m
+[3m             > Cells collected from a biopsy of her cancer were cultured without her knowledge or permission to develop a cell line, called HeLa.[0m
+[3m             > The researchers found high P2X7R levels in kidney biopsies from people with diabetes, while it was almost undetectable in biopsies from people without
+               diabetes.[0m
+[3m             > The biopsy yielded preliminary confirmation of pemphigus vulgaris, which was confirmed by pathologists at Johns Hopkins.[0m
+[3m             > The doctor found a breast cyst and sent me to the hospital for a biopsy that happily proved the growth benign.[0m
+
+[35mBiopsy[0m[36m /ˈbʌɪɒpsi/,[0m [91m[3mnoun[0m[0m | noun: biopsy; plural noun: biopsies
+      [32m1.[0m [37man examination of tissue removed from a living body to discover the presence, cause, or extent of a disease.[0m
+	   "a bone marrow biopsy"
+    [91m[3mverb[0m[0m | verb: biopsy; 3rd person present: biopsies; past tense: biopsied; past participle: biopsied; gerund or present participle: biopsying
+      [32m1.[0m [37mconduct a biopsy on (tissue removed from a living body).[0m
+	   "the lesions may be malignant and should be biopsied"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+        [31mबीओप्सी[0m             [31mजीवोति-जांच[0m     

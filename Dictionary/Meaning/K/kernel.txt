@@ -1,0 +1,35 @@
+[35m                                                                                      KERNEL                                                                                      [0m
+[91m        SHORT  Whether it’s the kernel of a pistachio nut or the kernel of wisdom in a story, kernel can refer to the center or essential part of something.[0m
+[36m         LONG  The word kernel traces back to the Old English word cyrnel, which is related to corn. If you have ever eaten corn on the cob, you ate the kernels. Popcorn is
+               made by heating corn kernels until they explode, or "pop." Like these examples, sometimes kernel means "a small bit" or "single piece," as in a
+               story someone tells you that couldn't possibly have happened as described, but still has a kernel of truth about human nature.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Then stone- grind the kernels into masa, a light, slightly sticky paste with a distinct maize fragrance.[0m
+[3m             > It’s also a reminder that prejudice needn’t arise from some inner kernel of badness that only certain people – “the bigots” – possess.[0m
+[3m             > There is a small kernel of truth, however, in Sessions’ recent article —  one that points to systemic problems of policing and the color line.[0m
+[3m             > While Millard was impressed by the corn’s hard white kernel and backstory, he’s tantalized by the possibility of weevil resistance.[0m
+[3m             > But from such depths of despair, a kernel of optimism began to bud.[0m
+
+[35mKernel[0m[36m /ˈkəːn(ə)l/,[0m [91m[3mnoun[0m[0m | noun: kernel; plural noun: kernels
+      [32m1.[0m [37ma softer, usually edible part of a nut, seed, or fruit stone contained within its shell.[0m
+	   "the kernel of a walnut"
+  	   [3msynonyms:[0m seed, grain, heart, core, stone ;  nut ;  meat
+		    "the squirrel cracks the nut's shell and extracts the rich kernel"
+          • [37mthe seed and hard husk of a cereal, especially wheat.[0m
+	   "the milky kernel of the wheat grain"
+  	   [3msynonyms:[0m seed, grain, heart, core, stone ;  nut ;  meat
+		    "the squirrel cracks the nut's shell and extracts the rich kernel"
+
+      [32m2.[0m [37mthe central or most important part of something.[0m
+	   "this is the kernel of the argument"
+  	   [3msynonyms:[0m essence, core, heart, essential part, essentials, quintessence, fundamentals, basics, nub, gist, substance, burden, heart of the matter, marrow, meat,
+                     pith, crux ;  nitty-gritty, nuts and bolts, brass tacks  nucleus, centre, germ, grain, nugget
+		    "the foreword contained the kernel of the policy"
+          • [37mthe most basic level or core of an operating system, responsible for resource allocation, file management, and security.[0m
+          • [37mdenoting a basic unmarked linguistic string.[0m
+	   modifier noun: kernel
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mगिरी[0m     [31mगुठली[0m 
+   [31mदाना[0m      [31mसार[0m  
+    [31mमूल[0m    [31mगुद्दा[0m 
+   [31mआधार[0m    [31mतत्त्व[0m 

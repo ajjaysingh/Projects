@@ -1,0 +1,37 @@
+[35m                                                                                     DILEMMA                                                                                      [0m
+[91m        SHORT  A dilemma is a tough choice. When you're in a difficult situation and each option looks equally bad, you're in a dilemma.[0m
+[36m         LONG  Dilemma is from a Greek for "double proposition." It was originally a technical term of logic, but we use it now for any time you have a problem with no
+               satisfactory solution. If you're at the mall choosing between red or blue socks, that's not really a dilemma. But if you have to choose whether
+               to save your cat or your dog from a burning building, that's an awful dilemma.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The politics of climate change poses a stark dilemma for anyone wanting to push back against the purveyors of post-truth.[0m
+[3m             > They would face a radically new strategic dilemma: Is preserving North Korea worth a nuclear Japan?[0m
+[3m             > This dilemma will be on display in Hamburg, where Merkel is hosting the Group of 20 summit Friday and Saturday.[0m
+[3m             > But for Mr. Trump and his national security team, today’s technical milestone simply underscores tomorrow’s strategic dilemma.[0m
+[3m             > A report in the July 13, 1883 Burlington Free Press summed up an existential dilemma.[0m
+
+[35mDilemma[0m[36m /dɪˈlɛmə,dʌɪˈlɛmə/,[0m [91m[3mnoun[0m[0m | noun: dilemma; plural noun: dilemmas
+          • [37ma situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.[0m
+	   "he wants to make money, but he also disapproves of it: Den's dilemma in a nutshell"
+  	   [3msynonyms:[0m quandary, quandary predicament, predicament difficulty, difficulty problem, problem puzzle, puzzle conundrum, conundrum awkward situation, tricky
+                     situation, difficult situation, difficult choice, catch-22, catch-22 vicious circle, vicious circle plight, plight mess, mess muddle
+                     muddle ;  trouble, trouble perplexity, perplexity confusion, confusion conflict, conflict uncertainty, uncertainty indecision
+                     indecision ;  no-win situation, sticky situation, pickle, pickle fix, fix spot, spot tight spot, tight corner, poser, poser facer
+                     facer ;  sticky wicket
+		    "a discussion with a colleague resolved her dilemma"
+          • [37ma difficult situation or problem.[0m
+	   "the insoluble dilemma of adolescence"
+  	   [3msynonyms:[0m quandary, quandary predicament, predicament difficulty, difficulty problem, problem puzzle, puzzle conundrum, conundrum awkward situation, tricky
+                     situation, difficult situation, difficult choice, catch-22, catch-22 vicious circle, vicious circle plight, plight mess, mess muddle
+                     muddle ;  trouble, trouble perplexity, perplexity confusion, confusion conflict, conflict uncertainty, uncertainty indecision
+                     indecision ;  no-win situation, sticky situation, pickle, pickle fix, fix spot, spot tight spot, tight corner, poser, poser facer
+                     facer ;  sticky wicket
+		    "a discussion with a colleague resolved her dilemma"
+          • [37man argument forcing an opponent to choose either of two unfavourable alternatives.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mदुविधा[0m           [31mअसमंजस[0m     
+       [31mकशमकश[0m           [31mउभयसंकट[0m    
+  [31mसंकट की स्थिति[0m      [31mधर्मसंकट[0m    
+
+      Origin:  early 16th century (denoting a form of argument involving a choice between equally unfavourable alternatives): via Latin from Greek dilēmma, from di- ‘twice’
+               + lēmma ‘premise’.

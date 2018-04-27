@@ -1,0 +1,47 @@
+[35m                                                                                   SUPPRESSION                                                                                    [0m
+[91m        SHORT  Suppression is the act of keeping something from happening — like the suppression of your laughter when your best friend passes you a funny note in class.[0m
+[36m         LONG  In psychology, suppression is the act of stopping yourself from thinking or feeling something. It is generally presumed to be ineffective because even if you
+               suppress or hold back an emotion, like anger, that feeling returns with a vengeance. Suppression can also mean the act of holding something
+               else back, like the suppression of a book from publication because you don't like its message.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Now Republicans would not think of undermining their strategy of voter suppression.[0m
+[3m             > The suppression of private agriculture, combined with unreasonable requisitions, caused millions to die that year in the Soviet Union.[0m
+[3m             > Human rights groups say widespread poverty and the relentless suppression of dissent under Karimov fueled radical Islamic sentiment in Uzbekistan.[0m
+[3m             > Both sides allege voter suppression, and Congress appoints a commission to settle the result.[0m
+[3m             > Gillespie’s approach is typical of Republicans across the country, who back voter suppression as a matter of course.[0m
+
+[35mSuppression[0m[36m /səˈprɛʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: suppression
+          • [37mthe action of suppressing something such as an activity or publication.[0m
+	   "the heavy-handed suppression of political dissent"
+  	   [3msynonyms:[0m subduing, defeat, defeat conquering, vanquishing, repression, repression crushing, quelling, quashing, squashing, stamping out, crackdown, crackdown
+                     clampdown, clampdown cowing, prevention, prevention extinction extinction ;  elimination, elimination end, end stopping, stopping
+                     discontinuation, termination, termination halting, halting arrest arrest  censorship, censorship keeping secret, concealment,
+                     concealment hiding, hiding keeping hidden, hushing up, gagging, withholding, covering up, smothering, stifling, stifling muzzling,
+                     banning, non-disclosure, non-disclosure proscription, proscription outlawing, restriction restriction
+		    "the suppression of subversive activities"
+  	   [3mantonyms:[0m incitement, incitement encouragement, encouragement publication, publication disclosure disclosure
+          • [37mstoppage or reduction of a discharge or secretion.[0m
+          • [37mthe absence or non-development of a part or organ that is normally present.[0m
+          • [37mthe cancelling of the effect of one mutation by a second mutation.[0m
+          • [37mthe restraint or repression of an idea, activity, or reaction by something more powerful.[0m
+	   "the British seem to take great pride in the suppression of emotion"
+  	   [3msynonyms:[0m concealment, concealment restraint, restraint stifling, stifling smothering, holding back, keeping back, choking back, control, control keeping under
+                     control, checking, curbing, containing, bridling, inhibition, inhibition deadening, muffling
+		    "the British seem to take great pride in the suppression of emotion"
+          • [37mthe conscious inhibition of unacceptable memories, impulses, or desires.[0m
+	   "the British seem to take great pride in the suppression of emotion"
+  	   [3msynonyms:[0m concealment, concealment restraint, restraint stifling, stifling smothering, holding back, keeping back, choking back, control, control keeping under
+                     control, checking, curbing, containing, bridling, inhibition, inhibition deadening, muffling
+		    "the British seem to take great pride in the suppression of emotion"
+          • [37mprevention of electrical interference.[0m
+  [31m[4m[34mnoun[0m[0m[0m
+     [31mदमन[0m   
+     [31mशमन[0m   
+    [31mदबाव[0m   
+    [31mअवरोध[0m  
+    [31mछिपाव[0m  
+   [31mस्तंभन[0m  
+  [31mस्र्कावट[0m 
+    [31mगोपन[0m   
+
+      Origin:  prevention of electrical interference.

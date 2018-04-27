@@ -1,0 +1,55 @@
+[35m                                                                                      BRIEF                                                                                       [0m
+[91m        SHORT  Something brief is short and to the point. If you make a brief visit, you don't stay long. If you make a brief statement, you use few words. If you wear brief
+               shorts, you are showing a little too much leg.[0m
+[36m         LONG  As a noun, a brief is a condensed summary or abstract, especially a legal summary of a case. Lawyers submit pretrial briefs to the court outlining the
+               witnesses for the prosecution or defense. As a verb, brief means to give essential information to someone — like the President gets briefed on
+               important matters.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But President-elect Trump said he plans to treat the briefings in a novel way.[0m
+[3m             > Now there is cautious optimism the deal with hold, according to several officials involved in or briefed on recent discussions in Washington.[0m
+[3m             > In a brief interview, el-Goarany’s father says his son was manipulated to travel to Syria by that man, whose federal trial is set for January.[0m
+[3m             > He re-emerged in the public spotlight in a brief appearance on this season’s “Dancing with the Stars,” where he was the second contestant eliminated.[0m
+[3m             > Trump also said that Pence and his generals are updated through intelligence briefings.[0m
+
+[35mBrief[0m[36m /briːf/,[0m [91m[3madjective[0m[0m | adjective: brief; comparative adjective: briefer; superlative adjective: briefest
+      [32m1.[0m [37mof short duration; not lasting for long.[0m
+	   "the president made a brief working visit to Moscow"
+	   [3msynonyms:[0m short, flying, fleeting, hasty, hurried, 
+		    "a brief visit"
+	   [3mantonyms:[0m long
+          • [37mconcise in expression; using few words.[0m
+	   "introductions were brief and polite"
+	   [3msynonyms:[0m concise, succinct, short, thumbnail, to the point, 
+		    "a brief account of what had happened"
+	   [3mantonyms:[0m lengthy, long-winded
+
+      [32m2.[0m [37m(of a piece of clothing) not covering much of the body; scanty.[0m
+	   "Alison sported a pair of extremely brief black shorts"
+	   [3msynonyms:[0m skimpy, scanty, revealing, short;
+		    "a pair of extremely brief black shorts"
+    [91m[3mnoun[0m[0m | noun: brief; plural noun: briefs
+      [32m1.[0m [37ma set of instructions given to a person about a job or task.[0m
+	   "his brief is to turn round the county's fortunes"
+	   [3msynonyms:[0m instructions, directions, directives, briefing;
+		    "Kirov had received only a vague brief about his current project"
+
+      [32m2.[0m [37ma summary of the facts and legal points in a case given to a barrister to argue in court.[0m
+	   "a barrister's brief"
+	   [3msynonyms:[0m summary of the facts, case, argument, contention;
+		    "a barrister's brief"
+          • [37ma piece of work for a barrister.[0m
+	   "he cannot be too highly recommended, if he is free and will take the brief"
+          • [37ma solicitor or barrister.[0m
+	   "it was only his brief's eloquence that had saved him from prison"
+          • [37ma written statement of the facts and legal points supporting one side of a case, for presentation to a court.[0m
+
+      [32m3.[0m [37ma letter from the Pope to a person or community on a matter of discipline.[0m
+    [91m[3mverb[0m[0m | verb: brief; 3rd person present: briefs; past tense: briefed; past participle: briefed; gerund or present participle: briefing
+      [32m1.[0m [37minstruct or inform (someone) thoroughly, especially in preparation for a task.[0m
+	   "she briefed him on last week's decisions"
+	   [3msynonyms:[0m inform of, tell about, bring up to date on, update on, notify of, 
+		    "council employees were briefed about the decision"
+
+      [32m2.[0m [37minstruct (a barrister) by brief.[0m
+  [31m[4m[34madjective[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+         [31mसंक्षिप्त[0m             [31mसंक्षिप्त करना[0m               [31mख़ुलासा[0m                [31mसंक्षेप करना[0m      

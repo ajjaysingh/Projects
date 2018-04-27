@@ -1,0 +1,22 @@
+[35m                                                                                     ANNUITY                                                                                      [0m
+[91m        SHORT  An annuity is money that comes from an investment and is paid out regularly over a fixed period of time. You can buy an insurance policy that is an annuity,
+               or you can choose an annuity as one of your retirement fund options.[0m
+[36m         LONG  The noun annuity is from the Latin word annus, meaning "year." Indeed, annuities typically pay out on a year basis, although other terms are possible. If you
+               win a large amount of money in the lottery, you can usually choose to take a lump-sum payment or smaller payments paid every year over some
+               term, like 20 or 25 years. Figuring out which payment plan is best for you would be a nice problem to have![0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The $521 million figure refers to the annuity option, in which payments are made over 29 years.[0m
+[3m             > The $502 million figure refers to the annuity option, in which payments are made over 29 years.[0m
+[3m             > The $502 million prize is the annuity option, in which a sole winner is paid over 29 years.[0m
+[3m             > Then she decided that, based on her age, she would accept the lifetime annuity, according to local news reports.[0m
+[3m             > Many will be offered a lump sum, or a regular income for life, known as an annuity.[0m
+
+[35mAnnuity[0m[36m /əˈnjuːɪti/,[0m [91m[3mnoun[0m[0m | noun: annuity; plural noun: annuities
+          • [37ma fixed sum of money paid to someone each year, typically for the rest of their life.[0m
+	   "he left her an annuity of £1,000 in his will:"
+          • [37ma form of insurance or investment entitling the investor to a series of annual sums.[0m
+	   "loans secured on an older person's home which are used to purchase a life annuity"
+  [31m[4m[34m[0m[0m[0m
+  [31mवार्षिकी[0m 
+
+      Origin:  late Middle English: from French annuité, from medieval Latin annuitas, from Latin annuus ‘yearly’, from annus ‘year’.

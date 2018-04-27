@@ -1,0 +1,34 @@
+[35m                                                                                   DISSIPATION                                                                                    [0m
+[91m        SHORT  Dissipation is the act of breaking up and scattering or spreading widely. With the dissipation of the clouds, you could enjoy the sunny afternoon — if only
+               you didn't have to work.[0m
+[36m         LONG  Dissipation also refers to wasteful or thoughtless spending or activity. Your habit of taking old clothes and appliances to the dump instead of donating them
+               to charities is a kind of dissipation. Dissipation can also mean a life of indulgence, in which health and wealth are squandered in the pursuit
+               of pleasure. Your uncle's life of dissipation, throwing money at wine and women, will ultimately only bring heartache.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "She keeps taking risks, keeps making movies and, most important of all, keeps her sincerity. Cynicism or talking things down is a dissipation at the end of
+               the day."[0m
+[3m             > Unfortunately, the realities of power consumption and heat dissipation don’t let that performance spike last very long on a typical laptop.[0m
+[3m             > His heart relented, weakened by months of dissipation.[0m
+[3m             > As the work progressed into Manhattan, Tower wrote his mother, “I am now among the vanities — the follies and dissipation of the great City of New York.”[0m
+[3m             > Global patterns of diapycnal mixing from measurements of the turbulent dissipation rate.[0m
+
+[35mDissipation[0m[36m /dɪsɪˈpeɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: dissipation; plural noun: dissipations
+      [32m1.[0m [37moverindulgence in sensual pleasures; dissipated living.[0m
+	   "a descent into drunkenness and sexual dissipation"
+  	   [3msynonyms:[0m lechery, lewdness, licentiousness, dissoluteness, wantonness, depravity, drunkenness, wildness, immoderation, lecherousness, decadence, libertinage,
+                     abandonment, degeneracy, promiscuity, self-indulgence, immorality, impurity, dissolution, profligacy, libertinism, lustfulness,
+                     debauchery, excess, corruption, sinfulness, vice, rakishness, libidinousness, intemperance,
+		    "a day of drunken dissipation"
+  	   [3mantonyms:[0m restraint, asceticism,
+
+      [32m2.[0m [37mthe squandering of money, energy, or resources.[0m
+	   "the dissipation of the country's mineral wealth"
+  	   [3msynonyms:[0m losing, draining, misspending, frittering (away), depletion, loss, wild spending, expenditure, squandering, waste,
+		    "concern was expressed about the dissipation of the country's mineral wealth"
+  	   [3mantonyms:[0m preservation, saving,
+          • [37mloss of energy through its conversion into heat.[0m
+	   "energy dissipation"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mअपव्यय[0m        [31mविसरण[0m   
+
+      Origin:  late Middle English (in the sense ‘complete disintegration’): from Latin dissipatio(n- ), from the verb dissipare (see dissipate).

@@ -1,0 +1,67 @@
+[35m                                                                                       FLAG                                                                                       [0m
+[91m        SHORT  A flag is a piece of cloth that represents a country, group, or institution. If you're particularly proud of your Irish heritage, you might fly an Irish flag
+               in your front yard.[0m
+[36m         LONG  A real flag enthusiast might fly the American flag, their state flag, their city's flag, and the flag of their parents' birth countries. There are also flags
+               used for signaling on ships at sea and during races and sporting events, and flags that represent armies or advertise products. When flag is
+               used as a verb, it means "to lose energy or enthusiasm." When students start to flag in the afternoon, they tend to take a quick nap — sitting
+               up at their desks.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Thus, we thought it might be helpful to flag a few staff favorites from the comic book readers at Los Angeles Times.[0m
+[3m             > Some of the protesters held flags, banners and placards that said “Justice must be upheld” and “Ahok, the blasphemer of Islam, must be jailed.”[0m
+[3m             > Flag waving only became at all acceptable in 2006 when Germany hosted the football World Cup.[0m
+[3m             > But now, part of the U.S. mission in northern Syria is to literally show the American flag.[0m
+[3m             > Daoud unfurled his friend’s Iraqi flag and draped it over him.[0m
+
+[35mFlag[0m[36m /flaɡ/,[0m [91m[3mnoun[0m[0m | noun: flag; plural noun: flags
+      [32m1.[0m [37ma piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or
+           institution or as a decoration during public festivities.[0m
+	   "the American flag"
+	   [3msynonyms:[0m banner, standard, ensign, pennant, pennon, 
+		    "the Irish flag"
+          • [37mused in reference to one's home country or its system of beliefs and values.[0m
+	   "he pledged allegiance to the flag"
+          • [37mthe ensign carried by a flagship as an emblem of an admiral's rank.[0m
+	   "Hawke first hoisted his flag at Spithead"
+
+      [32m2.[0m [37ma small piece of cloth attached at one edge to a pole and used as a marker or signal in various sports.[0m
+	   "the flag's up"
+          • [37ma drawing or symbol resembling a flag, used as a marker.[0m
+	   "golf courses are indicated by a numbered flag on the map"
+          • [37ma small paper badge given to people who donate to a charity appeal in the street.[0m
+          • [37ma mechanism that can be raised to indicate that a taxi is for hire.[0m
+
+      [32m3.[0m [37ma variable used to indicate a particular property of the data in a record.[0m
+    [91m[3mverb[0m[0m | verb: flag; 3rd person present: flags; past tense: flagged; past participle: flagged; gerund or present participle: flagging
+      [32m1.[0m [37mmark (an item) for attention or treatment in a specified way.[0m
+	   "the spellcheck program flags any words that are not in its dictionary"
+	   [3msynonyms:[0m indicate, identify, pick out, point out;
+		    "spelling checkers can flag words that are not in a dictionary"
+          • [37mdraw attention to.[0m
+	   "cancer was flagged up as a priority area for research"
+
+      [32m2.[0m [37msignal to a vehicle or driver to stop, especially by waving one's arm.[0m
+	   "she flagged down a police patrol car"
+	   [3msynonyms:[0m hail, wave down, signal to stop, gesture to stop, motion to stop, 
+		    "she flagged down a police car"
+          • [37mwave a flag at someone or something as a starting signal.[0m
+	   "the vintage car fiesta will be flagged off by the minister for tourism"
+          • [37m(of an official) raise a flag to draw the referee's attention to a breach of the rules in soccer, rugby, and other sports.[0m
+	   "the goalkeeper brought down Hendrie and a linesman immediately flagged"
+
+      [32m3.[0m [37mprovide or decorate with a flag or flags.[0m
+          • [37mregister (a vessel) in a particular country, under whose flag it then sails.[0m
+[35mFlag[0m[36m /flaɡ/,[0m [91m[3mnoun[0m[0m | noun: flag; plural noun: flags
+          • [37ma flat stone slab, typically rectangular or square, used for paving.[0m
+[35mFlag[0m[36m /flaɡ/,[0m [91m[3mnoun[0m[0m | noun: flag; plural noun: flags
+          • [37ma plant with sword-shaped leaves that grow from a rhizome:[0m
+          • [37mthe long slender leaf of a flag.[0m
+[35mFlag[0m[36m /flaɡ/,[0m [91m[3mverb[0m[0m | verb: flag; 3rd person present: flags; past tense: flagged; past participle: flagged; gerund or present participle: flagging
+          • [37mbecome tired or less enthusiastic or dynamic.[0m
+	   "if you begin to flag, there is an excellent cafe to revive you"
+	   [3msynonyms:[0m tire, become fatigued, grow tired/weary, weaken, grow weak, 
+		    "they were flagging as the finish came into sight"
+	   [3mantonyms:[0m revive, increase
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m
+         [31mझंडा[0m                 [31mध्वज[0m              [31mझंडा लगाना[0m     
+         [31mध्वजा[0m                [31mझण्डा[0m         [31mझंडी से सूचित करना[0m 
+         [31mझंडी[0m                 [31mपर्ची[0m               [31mझुकाना[0m       

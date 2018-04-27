@@ -1,0 +1,26 @@
+[35m                                                                                    INDEMNIFY                                                                                     [0m
+[91m        SHORT  To pay compensation for a loss, damages, or similar expense is to indemnify. "The insurance company indemnified its customers for their claims after the
+               severe storm — one customer lost three cars, a row boat, and a golf cart."[0m
+[36m         LONG  The verb indemnify also means to secure against future loss. The farmers bought insurance to indemnify themselves and their animals against catastrophic loss.
+               The word indemnify comes from the Latin word indemnis, which means "to unhurt." The city wanted to shut down an old local landmark because they
+               were afraid it no longer met modern safety standards, but local citizens wanted it to remain. In a compromise, the owners agreed to indemnify
+               the city against possible loss and the landmark was allowed to remain.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Whether a homeowner is suing the association or the board itself, both are indemnified so an owner is effectively suing the association’s insurance company.[0m
+[3m             > District Court in Detroit for breach of contract, saying the Indiana engine company failed to provide working parts and would not indemnify it.[0m
+[3m             > The email demanded "Volkswagen indemnify Bosch for any legal exposure arising from work on the defeat device," the lawsuit said.[0m
+[3m             > Ailes was also indemnified by the company for any damages from the lawsuit.[0m
+[3m             > While Ailes was indemnified by 21st Century Fox when he was chairman and chief executive of Fox News, he would help fund any settlement.[0m
+
+[35mIndemnify[0m[36m /ɪnˈdɛmnɪfʌɪ/,[0m [91m[3mverb[0m[0m | verb: indemnify; 3rd person present: indemnifies; past tense: indemnified; past participle: indemnified; gerund or present participle: indemnifying
+          • [37mcompensate (someone) for harm or loss.[0m
+	   "each of the parties shall indemnify me for all reasonable costs of defending such actions and proceedings"
+	   [3msynonyms:[0m reimburse, compensate, recompense, repay, pay back, 
+		    "he should be indemnified for his losses in the war"
+          • [37msecure (someone) against legal responsibility for their actions.[0m
+	   "the company has taken out insurance to indemnify its directors against liability when acting for the group"
+	   [3msynonyms:[0m insure, assure, guarantee, protect, secure, 
+		    "the author is required to indemnify the publishers against any such loss"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mबीमा कराना[0m      [31mक्षतिपूर्ति करना[0m 
+      [31mबीमा करना[0m        [31mपरित्राण देना[0m  

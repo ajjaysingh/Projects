@@ -1,0 +1,34 @@
+[35m                                                                                    PERIPHERAL                                                                                    [0m
+[91m        SHORT  Scanners, printers, and speakers are peripheral devices for a computer because they aren't central to the working of the computer itself. Anything peripheral
+               is on the margin, or outside, while main things, like a computer's processor, are not peripheral.[0m
+[36m         LONG  Outside of computer jargon, peripheral is a common term in eye exams, which measure peripheral vision to see how far toward the outer right and left edges you
+               can see. Peripheral also describes nerves from the body's peripheral system, which are secondary to the main system but branch off of it — like
+               the wires between peripheral devices and a computer.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But these are the peripheral stumblings of an expansive talent, of a writer stretching to catch up with his own curiosity and fertility.[0m
+[3m             > So far, it’s been loosely defined and appears to be including more and more projects of peripheral importance and questionable value.[0m
+[3m             > “If we see a bunch of people gathering in our peripheral vision, we wonder, ‘What are they talking about?[0m
+[3m             > Peripheral France describes the fractal swath of French territory isolated from the productive centers of the global economy.[0m
+[3m             > With its focus on outsiders in peripheral and in-between spaces, Homeland seems metaphorically fitting for an artist approaching the end of his life.[0m
+
+[35mPeripheral[0m[36m /pəˈrɪf(ə)r(ə)l/,[0m [91m[3madjective[0m[0m | adjective: peripheral
+      [32m1.[0m [37mrelating to or situated on the edge or periphery of something.[0m
+	   "the peripheral areas of Europe"
+  	   [3msynonyms:[0m outlying, outer, on the edge/outskirts, outermost, fringe, border, surrounding ;  circumferential, perimetric
+		    "some of the city's peripheral housing estates"
+          • [37mof secondary or minor importance; marginal.[0m
+	   "she will see their problems as peripheral to her own"
+  	   [3msynonyms:[0m secondary, subsidiary, incidental, tangential, marginal, minor, unimportant, lesser, inessential, non-essential, immaterial, superficial, ancillary,
+                     borderline ;  irrelevant, beside the point, of little account, extraneous
+		    "fund raising by the school is peripheral to the main business of teaching"
+  	   [3mantonyms:[0m central, vital
+          • [37mnear the surface of the body, with special reference to the circulation and nervous system.[0m
+	   "lymphocytes from peripheral blood"
+
+      [32m2.[0m [37m(of a device) able to be attached to and used with a computer, though not an integral part of it.[0m
+	   "a peripheral control processor"
+    [91m[3mnoun Computing[0m[0m | noun: peripheral; plural noun: peripherals
+      [32m1.[0m [37ma peripheral device.[0m
+	   "printers and other peripherals"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+      [31mपरिधीय[0m             [31mगौण[0m      

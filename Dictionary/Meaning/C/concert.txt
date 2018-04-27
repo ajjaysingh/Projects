@@ -1,0 +1,38 @@
+[35m                                                                                     CONCERT                                                                                      [0m
+[91m        SHORT  A concert is a performance by musicians or singers for an audience. If you're in the glee club, you know about singing in concerts, and maybe you've seen your
+               favorite bands in concert, too.[0m
+[36m         LONG  A concert usually doesn't involve theatrical staging. You can have a concert version of an opera, but that means the singers stand there and sing without sets
+               or props, and without much acting or moving around. Less commonly, concert is a verb (accent on the second syllable), meaning to agree with
+               others on something. That meaning shows up in the phrase in concert — your objections will carry more weight if you act in concert with your
+               neighbors.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Masters on Thursday as the year’s first major took on a rock concert vibe with Tiger Woods once again the headline act at Augusta National as first round play
+               got underway.[0m
+[3m             > But standing operatic repertory, concert music or Lieder, that was a time for color blindness.[0m
+[3m             > The first location, a symphony concert hall in Riyadh being converted into a four-screen theater, will open on...[0m
+[3m             > Starting today, Facebook says it will no longer allow developers to use the Events API to access the guest list or event wall of a concert, gathering, or
+               similarly scheduled event on Facebook.[0m
+[3m             > But an independent judiciary is under concerted attack.[0m
+
+[35mConcert[0m [91m[3mnoun[0m[0m | noun: concert; plural noun: concerts    /ˈkɒnsət/
+      [32m1.[0m [37ma musical performance given in public, typically by several performers or of several compositions.[0m
+	   "a pop concert"
+  	   [3msynonyms:[0m musical performance, musical entertainment, show, show production, production presentation presentation ;  recital recital ;  prom, prom promenade
+                     concert promenade concert ;  pop concert, rock concert ;  gig, gig jam session
+		    "a concert at the Albert Hall"
+          • [37mrelating to or denoting the performance of music written for opera, ballet, or theatre on its own without the accompanying dramatic action.[0m
+	   modifier noun: concert
+
+      [32m2.[0m [37magreement or harmony.[0m
+	   "critics' inability to describe with any precision and concert the characteristics of literature"
+          • [37mjoint action, especially in the committing of a crime.[0m
+	   "they found direct evidence of concert of action"
+    [91m[3mverb formal[0m[0m | verb: concert; 3rd person present: concerts; past tense: concerted; past participle: concerted; gerund or present participle: concerting    /kənˈsəːt/
+      [32m1.[0m [37marrange (something) by mutual agreement or coordination.[0m
+	   "they started meeting regularly to concert their parliamentary tactics"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m     [31m[4m[34m[0m[0m[0m   
+          [31mसहवादन[0m          [31mसामंजस्य स्थापित करना[0m            [31mराग[0m          
+           [31mमेल[0m                  [31mएकत्र करना[0m                 [31mरंग[0m          
+
+      Origin:  late 16th century (in the sense ‘unite’): from French concerter, from Italian concertare ‘harmonize’. The noun use, dating from the early 17th century (in the
+               sense ‘a combination of voices or sounds’), is from French concert, from Italian concerto, from concertare .

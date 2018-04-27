@@ -1,0 +1,47 @@
+[35m                                                                                     PREMIUM                                                                                      [0m
+[91m        SHORT  Something that's premium is much better than average — it's excellent, in fact. A premium seat at a rock concert is right up front, with a great view of the
+               stage.[0m
+[36m         LONG  When premium is a noun, it means the money you pay each month for your car insurance or a charge that's added on top of a standard payment. It also means a
+               prize or reward. As an adjective, premium implies something of superior quality that probably costs more too. Premium comes straight out of
+               Latin, meaning “reward.” It was first used as an adjective around 1925, in the phrase "premium butter."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > For now, the “friendly, curious and energetic” horse is content to frolic among the other 22 horses on her property, dining on premium senior food until he
+               reaches a healthy weight.[0m
+[3m             > The Great Recession meant something of a slowdown in business, Hanesworth said, particularly since the plant produces premium spirits.[0m
+[3m             > The Senate bill would also repeal the individual mandate requirement in the Affordable Care Act, potentially having an immediate impact on penalties,
+               insurance premiums, and health insurance decisions for millions of Americans.[0m
+[3m             > Ms. DeSisto said that circulation has been falling at her papers, but circulation revenue was increasing because of a premium pricing strategy.[0m
+[3m             > Sabeco expects the introduction of premium products to help it maintain a market share of 40 to 42 percent over the next two or three years, Ha said.[0m
+
+[35mPremium[0m[36m /ˈpriːmɪəm/,[0m [91m[3mnoun[0m[0m | noun: premium; plural noun: premiums
+      [32m1.[0m [37man amount to be paid for a contract of insurance.[0m
+	   "a 25-year policy with monthly premiums of £30"
+  	   [3msynonyms:[0m insurance charge, insurance payment, regular payment, instalment instalment
+		    "a 25-year policy with monthly premiums of £30"
+
+      [32m2.[0m [37ma sum added to an ordinary price or charge.[0m
+	   "customers are reluctant to pay a premium for organic fruit"
+  	   [3msynonyms:[0m surcharge, surcharge additional payment, extra amount/charge, additional fee
+		    "customers are reluctant to pay a premium for organic fruit"
+          • [37ma sum added to interest or wages; a bonus.[0m
+          • [37mrelating to or denoting a commodity of superior quality and therefore a higher price.[0m
+	   modifier noun: premium
+  	   [3msynonyms:[0m superior, superior premier, premier high-end, high-end top-end, top-end exclusive, exclusive elite, elite top, top select, select choice, choice deluxe,
+                     deluxe luxurious, luxurious classy, classy prime, prime first-rate, first-rate high-quality, high-quality top-quality, top-quality
+                     high-grade, five-star, five-star fine, fine finest ;  upmarket upmarket ;  upscale upscale
+		    "the quality of premium American table wines improves every year"
+  	   [3mantonyms:[0m inferior inferior
+          • [37mthe amount by which the price of a share or other security exceeds its issue price, its nominal value, or the value of the assets it represents.[0m
+	   "the shares jumped to a 70 per cent premium on the first day"
+
+      [32m3.[0m [37msomething given as a reward, prize, or incentive.[0m
+	   "the Society of Arts awarded him a premium"
+  	   [3msynonyms:[0m bonus, bonus extra, extra percentage, percentage perk, perk recompense, recompense remuneration, remuneration prize, prize reward reward ;  incentive,
+                     incentive inducement inducement ;  perquisite perquisite ;  bounty bounty
+		    "you may receive a foreign service premium and a cost of living allowance"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mप्रीमियम[0m            [31mलाभ[0m       
+     [31mबीमा-किस्त[0m        [31mबीमा शुल्क[0m   
+       [31mबढ़ौती[0m           [31mअधिशूल्क[0m    
+
+      Origin:  early 17th century (in the sense ‘reward, prize’): from Latin praemium ‘booty, reward’, from prae ‘before’ + emere ‘buy, take’.

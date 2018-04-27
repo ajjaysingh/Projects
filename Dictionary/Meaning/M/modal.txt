@@ -1,0 +1,31 @@
+[35m                                                                                      MODAL                                                                                       [0m
+[91m        SHORT  Think of modal as relating to some "mode," or form. A modal verb is a helper that gives additional information about the verb that follows it, and includes
+               such words as "can," "will," "should," and "may," among others.[0m
+[36m         LONG  The English word modal has long been used as a term in logic and statistics, such as "modal values." Toward the end of that century, the term was used in
+               music, suggesting a use of harmonies and melodies based on other than the standard major and minor scales, in a style found in medieval
+               liturgical music. Modal logic, in philosophy, is a supposition or conclusion based on the ideas of probability and necessity rather than
+               concrete fact.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The modal tune shows West African roots while it gathers contemporary layers with each verse, making a 21st-century journey.[0m
+[3m             > Then the groove kicks in: fast and funky, as an urgently raspy vocal rides a jabbing modal desert-blues guitar line.[0m
+[3m             > But happiness, of course, is relative and modal, and not just applicable to where we live but where and when we travel too.[0m
+[3m             > Intertwined acoustic and electric guitars, harking back to Pentangle, carry a serene modal melody and thoughts about how disruption is essential.[0m
+[3m             > Menzies, O. N., Bland, P. A., Berry, F. J. & Cressey, G. A Mössbauer spectroscopy and X-ray diffraction study of ordinary chondrites: quantification of modal
+               mineralogy and implications for redox conditions during metamorphism.[0m
+
+[35mModal[0m[36m /ˈməʊd(ə)l/,[0m [91m[3madjective[0m[0m | adjective: modal
+      [32m1.[0m [37mrelating to mode or form as opposed to substance.[0m
+
+      [32m2.[0m [37mof or denoting the mood of a verb.[0m
+          • [37mrelating to a modal verb.[0m
+
+      [32m3.[0m [37mrelating to a value that occurs most frequently in a given set of data.[0m
+
+      [32m4.[0m [37mof or denoting music using melodies or harmonies based on modes other than the ordinary major and minor scales.[0m
+
+      [32m5.[0m [37m(of a proposition) in which the predicate is affirmed of the subject with some qualification, or which involves the affirmation of possibility, impossibility,
+           necessity, or contingency.[0m
+    [91m[3mnoun Grammar[0m[0m | noun: modal; plural noun: modals
+      [32m1.[0m [37ma modal word or construction.[0m
+
+      Origin:  mid 16th century (in sense 5 of the adjective): from medieval Latin modalis, from Latin modus (see mode).

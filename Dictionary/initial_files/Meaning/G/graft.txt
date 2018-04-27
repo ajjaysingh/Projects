@@ -1,0 +1,67 @@
+[35m                                                                                      GRAFT                                                                                       [0m
+[91m        SHORT  Graft can mean bribery or corruption. It's also a way of transplanting skin or bones in medicine, as in a skin graft.[0m
+[36m         LONG  People who get terrible burns on their faces often have pieces of skin taken from other parts of their bodies to help them heal and look better. That
+               transplanted skin is called a graft. There are also grafts in agriculture, when farmers take a branch from one tree and graft it onto another
+               tree. The most common use of graft is in political corruption cases when politicians are accused of taking money in exchange for granting
+               favors.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Prosecutors say the former president was the mastermind of a massive graft ring that skimmed billions from Petrobras.[0m
+[3m             > Instead of being a drop-in, friendly replacement tissue, these grafts rapidly die from a lack of nutrients, appropriate growth factors and innervation4.[0m
+[3m             > Latin America's largest engineering firm, signed a leniency deal with prosecutors in Brazil's biggest graft case.[0m
+[3m             > Graft scandals marred Presidents Warren G. Harding and Ulysses S. Grant, whose Cabinets also were stacked with rich individuals.[0m
+[3m             > That number climbs to 81 percent for Veracruz, where silencing the press has been an effective shield for rampant graft and other malfeasance.[0m
+
+[35mGraft[0m[36m /ɡrɑːft/,[0m [91m[3mnoun[0m[0m | noun: graft; plural noun: grafts
+      [32m1.[0m [37ma shoot or twig inserted into a slit on the trunk or stem of a living plant, from which it receives sap.[0m
+	   "such grafts may die from lack of water"
+	   [3msynonyms:[0m scion, cutting, shoot, offshoot, bud, 
+		    "such grafts may die from lack of water"
+          • [37man instance of grafting a shoot or twig on to a living plant.[0m
+
+      [32m2.[0m [37ma piece of living tissue that is transplanted surgically.[0m
+	   "she had a skin graft"
+	   [3msynonyms:[0m transplant, implant, implantation 
+		    "she had a skin graft"
+          • [37ma surgical operation in which tissue is transplanted.[0m
+	   "she had a skin graft"
+	   [3msynonyms:[0m transplant, implant, implantation 
+		    "she had a skin graft"
+    [91m[3mverb[0m[0m | verb: graft; 3rd person present: grafts; past tense: grafted; past participle: grafted; gerund or present participle: grafting
+      [32m1.[0m [37minsert (a shoot or twig) as a graft.[0m
+	   "it was common to graft different varieties on to a single tree trunk"
+          • [37minsert a graft on (a trunk or stem).[0m
+	   "they graft on a bud higher up the stem"
+	   [3msynonyms:[0m affix, slip, join, insert, splice
+		    "they graft on a bud higher up the stem"
+
+      [32m2.[0m [37mtransplant (living tissue) as a graft.[0m
+	   "they can graft a new hand on to the nerve ends"
+	   [3msynonyms:[0m transplant, implant, transfer 
+		    "a technique in which living tissue is grafted on to the patient's cornea"
+
+      [32m3.[0m [37mcombine or integrate (an idea, system, etc.) with another, typically in a way considered inappropriate.[0m
+	   "old values have been grafted on to a new economic class"
+	   [3msynonyms:[0m fasten, attach, add, fix, join, 
+		    "a Victorian mansion grafted on to a seventeenth-century farmhouse"
+[35mGraft[0m[36m /ɡrɑːft/,[0m [91m[3mnoun[0m[0m | noun: graft
+      [32m1.[0m [37mbribery and other corrupt practices used to secure illicit advantages or gains in politics or business.[0m
+	   "sweeping measures to curb official graft"
+	   [3msynonyms:[0m corruption, bribery, bribing, dishonesty, deceit, 
+		    "the new president has started a campaign against graft"
+	   [3mantonyms:[0m honesty
+          • [37madvantages or gains secured as a result of corrupt practices.[0m
+    [91m[3mverb[0m[0m | verb: graft; 3rd person present: grafts; past tense: grafted; past participle: grafted; gerund or present participle: grafting
+      [32m1.[0m [37mmake money by shady or dishonest means.[0m
+[35mGraft[0m[36m /ɡrɑːft/,[0m [91m[3mnoun[0m[0m | noun: graft
+      [32m1.[0m [37mhard work.[0m
+	   "success came after years of hard graft"
+	   [3msynonyms:[0m work, effort, endeavour, toil, labour, 
+		    "he earned success through hard graft"
+    [91m[3mverb[0m[0m | verb: graft; 3rd person present: grafts; past tense: grafted; past participle: grafted; gerund or present participle: grafting
+      [32m1.[0m [37mwork hard.[0m
+	   "I need people prepared to go out and graft"
+	   [3msynonyms:[0m work hard, exert oneself, toil, labour, hammer away, 
+		    "the players are not frightened to graft for each other"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m
+          [31mकलम[0m                 [31mउपरोप[0m             [31mकलम बांधना[0m     
+          [31mघूस[0m               [31mकलम लगाना[0m       [31mएक तरह से घूस लेना[0m 

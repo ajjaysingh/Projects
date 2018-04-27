@@ -1,0 +1,27 @@
+[35m                                                                                      FORTH                                                                                       [0m
+[91m        SHORT  Forth means "from now on." If you declare that from today forth, you'll pursue your dream of becoming a rodeo clown, it means you'll work every day to make it
+               happen.[0m
+[36m         LONG  The adverb forth describes pushing forward, either literally or in time. When something goes forth, it moves into view or forward. In spring, flowers shoot
+               forth from the ground. You have probably heard the expression and so forth, which like and so on means whatever else. Don't confuse forth with
+               fourth, which sounds the same but means "number four in a series."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The jockeys bring forth the thoroughbreds as thousands of cellphones snap away at the amazing animals.[0m
+[3m             > In the space between the dash and the hood, his gaze slips back and forth from me to the engine.[0m
+[3m             > Presumably countless thousands of people rolled the toylike figurines back and forth.[0m
+[3m             > Coaches haven’t been shy about expressing their displeasure with the workout restrictions set forth by the most recent collective bargaining agreement.[0m
+[3m             > That is, if you apply twice the amount of force, they move twice as fast, a theory put forth by Sir Isaac Newton.[0m
+
+[35mForth[0m[36m /fɔːθ/,[0m [91m[3madverb formal literary[0m[0m | adverb: forth
+      [32m1.[0m [37mout and away from a starting point.[0m
+	   "we rose at dawn and sallied forth"
+  	   [3msynonyms:[0m out, outside, away, off, ahead, forward, away from home, abroad ;  into view, into the open, out of hiding ;  into existence
+		    "smoke billowed forth when the air was still"
+          • [37mso as to be known or revealed; out.[0m
+	   "a paper setting forth their grievances"
+
+      [32m2.[0m [37monwards in time.[0m
+	   "from that day forth he gave me endless friendship"
+  	   [3msynonyms:[0m onward, onwards, on, forward, forwards ;  for ever, into eternity ;  until now
+		    "from that day forth"
+  [31m[4m[34madverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mआगे[0m   [31mबाहर[0m 

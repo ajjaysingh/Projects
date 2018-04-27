@@ -1,0 +1,50 @@
+[35m                                                                                       RAMP                                                                                       [0m
+[91m        SHORT  A ramp is a slope or an incline, a surface that tilts from one level to another. Someone using a wheelchair might need a ramp to get from the doorway of a
+               building down to its parking lot.[0m
+[36m         LONG  A skateboarder might use a ramp to gather speed, while a man pushing a stroller uses it to push his baby onto the sidewalk after crossing the street.
+               Passengers also walk down ramps when they exit boats and trains. There's also the plant called a ramp, also known as wild onion or wild garlic.
+               As a verb, to ramp means to provide with a ramp, but the more common "to ramp up" means "to increase."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A ramp surrounded the musicians for singers and dancers.[0m
+[3m             > Democrats ramped up their pro-gun control push, staging a filibuster in the Senate and a "sit-in" in the House to disrupt Republican-controlled proceedings.[0m
+[3m             > Alongside these stories we urgently need to ramp up our campaigns on the causes of poverty and situate them within this wider narrative.[0m
+[3m             > The budget office estimated 14 million more people would be uninsured in 2018, ramping up to 24 million losing their health insurance by 2026.[0m
+[3m             > On freeway ramps, wrong-way vehicles will trigger alerts including illuminated signs with flashing lights aimed at getting drivers to stop.[0m
+
+[35mRamp[0m[36m /ramp/,[0m [91m[3mnoun[0m[0m | noun: ramp; plural noun: ramps
+      [32m1.[0m [37ma sloping surface joining two different levels, as at the entrance or between floors of a building.[0m
+	   "a wheelchair ramp"
+          • [37ma movable set of steps for entering or leaving an aircraft.[0m
+          • [37ma transverse ridge in a road to control the speed of vehicles.[0m
+          • [37man inclined slip road leading on to or off a main road or motorway.[0m
+	   "an exit ramp"
+          • [37mNorth American term for catwalk (sense 1).[0m
+
+      [32m2.[0m [37man upward bend in a stair rail.[0m
+
+      [32m3.[0m [37man electrical waveform in which the voltage increases or decreases linearly with time.[0m
+	   "a voltage ramp"
+
+      [32m4.[0m [37ma swindle, especially one involving a fraudulent increase of the price of a share.[0m
+	   "the Stock Exchange is investigating two blatant share ramps"
+    [91m[3mverb[0m[0m | verb: ramp; 3rd person present: ramps; past tense: ramped; past participle: ramped; gerund or present participle: ramping
+      [32m1.[0m [37mincrease the level or amount of (something) sharply.[0m
+	   "the company has moved into new quarters in order to ramp up production"
+          • [37mdrive up the price of (a company's shares) in order to gain a financial advantage.[0m
+	   "a rule against share price ramping which forbids a broker to account for more than 30 per cent of trading in a share"
+
+      [32m2.[0m [37m(of an animal) rear up on its hind legs in a threatening posture.[0m
+	   "they roared and ramped in cages"
+          • [37mrush about uncontrollably.[0m
+	   "an awful beast ramping about the woods and fields"
+          • [37m(of a plant) grow or climb luxuriantly.[0m
+	   "ivy ramped over the flower beds"
+
+      [32m3.[0m [37m(of an electrical waveform) increase or decrease voltage linearly with time.[0m
+	   "the integrated circuit's output then ramps in the negative direction"
+
+      [32m4.[0m [37mprovide with a ramp.[0m
+	   "ramped access to public buildings"
+
+      Origin:  Middle English (as a verb in the sense ‘rear up’, also used as a heraldic term): from Old French ramper ‘creep, crawl’, of unknown origin. Sense 1 of the noun
+               dates from the late 18th century.

@@ -1,0 +1,54 @@
+[35m                                                                                      SPARK                                                                                       [0m
+[91m        SHORT  A spark is a small, glowing particle that's either thrown off of a fire or that starts a fire. Your dad might tell everyone to stand back from the bonfire so
+               they don't get burned by a spark.[0m
+[36m         LONG  Sparks are burning fragments that pop up off a fire, but they're also bright flashes, like the sparks of light reflecting off your sunglasses or electrical
+               sparks given off by an engine. Some small thing that promises to grow larger is yet another kind of spark — you might notice a spark of anger
+               within yourself when you see someone being treated unfairly, for example. The word spark comes from the Old English root spearca, "glowing or
+               fiery particle thrown off."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But protests prompted officials to cancel the event, sparking a debate about free speech.[0m
+[3m             > The announcement sparked discussion and debate among Code for Asheville and the city.[0m
+[3m             > The Oscar-winning actress’s earlier remarks sparked both criticism and praise online after they were aired by the BBC earlier this week.[0m
+[3m             > “He brings a huge energy spark every time he gets on the court. He’s the energizer bunny,” redshirt-sophomore guard Ahmed Hill said.[0m
+[3m             > The bill was widely viewed as overly harsh and sparked a backlash that culminated in massive May Day marches across the country.[0m
+
+[35mSpark[0m[36m /spɑːk/,[0m [91m[3mnoun[0m[0m | noun: spark; plural noun: sparks; plural noun: Sparks
+      [32m1.[0m [37ma small fiery particle thrown off from a fire, alight in ashes, or produced by striking together two hard surfaces such as stone or metal.[0m
+	   "a log fire was sending sparks on to the rug"
+          • [37ma small flash of light produced by a sudden disruptive electrical discharge through the air.[0m
+	   "there was a spark of light"
+	   [3msynonyms:[0m flash, flicker, flare, glint, twinkle, 
+		    "a spark of light"
+          • [37man electrical discharge that ignites the explosive mixture in an internal combustion engine.[0m
+
+      [32m2.[0m [37ma small amount of a quality or intense feeling.[0m
+	   "a tiny spark of anger flared within her"
+	   [3msynonyms:[0m particle, iota, jot, whit, glimmer, 
+		    "there was not a spark of truth in what he said"
+          • [37ma sense of liveliness and excitement.[0m
+	   "there was a spark between them at their first meeting"
+	   [3msynonyms:[0m liveliness, animation, life, bounce, sparkle, 
+		    "we like to get new members for the group as it gives us more spark"
+
+      [32m3.[0m [37mused as a nickname for a radio operator or an electrician, especially in the armed forces.[0m
+	   "she is the sexiest Spark that ever went to sea"
+    [91m[3mverb[0m[0m | verb: spark; 3rd person present: sparks; past tense: sparked; past participle: sparked; gerund or present participle: sparking
+      [32m1.[0m [37memit sparks of fire or electricity.[0m
+	   "the ignition sparks as soon as the gas is turned on"
+          • [37mproduce sparks at the point where an electric circuit is interrupted.[0m
+
+      [32m2.[0m [37mignite.[0m
+	   "the explosion sparked a fire"
+          • [37mprovide the stimulus for (an event or process).[0m
+	   "the trial sparked a furious row"
+	   [3msynonyms:[0m give rise to, cause, lead to, set in motion, occasion, 
+		    "the collapse of the trial sparked a furious row last night"
+	   [3mantonyms:[0m bring to an end
+[35mSpark[0m[36m /spɑːk/,[0m [91m[3mnoun[0m[0m | noun: spark; plural noun: sparks
+      [32m1.[0m [37ma lively young man.[0m
+    [91m[3mverb[0m[0m | verb: spark; 3rd person present: sparks; past tense: sparked; past participle: sparked; gerund or present participle: sparking
+      [32m1.[0m [37mengage in courtship.[0m
+	   "he went a sparking among the rosy country girls"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mचिंगारी[0m           [31mस्फुलिंग[0m             [31mचमकना[0m      
+         [31mजोश[0m              [31mउत्साह[0m           [31mहौसला देना[0m    

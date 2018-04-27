@@ -1,0 +1,55 @@
+[35m                                                                                     ELEMENT                                                                                      [0m
+[91m        SHORT  An element is something basic and important––in chemistry, an element is one of the essential molecules that everything else is made of. If a book's ending
+               carries and "element of surprise," it means surprise is an important part of the story's end.[0m
+[36m         LONG  One of the earliest meanings of this noun was in reference to any of four substances, earth, air, fire, or water, that were formerly regarded as a basic
+               constituent of the universe. When you're "in your element," it means you're enjoying yourself because what you're doing is basic and important
+               to you––stand up comics are in their element when they're performing to a crowd who loves them.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Or did we — did I — get an important element of the story flat-out wrong?[0m
+[3m             > Their research zeroed in on the brain, not the foot, as the crucial element in the disparity.[0m
+[3m             > In Nahuad rhetoric, things were frequently represented by the unusual device of naming two of their elements—a kind of doubled Homeric epithet.[0m
+[3m             > If a desire to derail the Russia inquiry was a factor in Comey’s firing, other elements were also in play, including Trump’s unique personality.[0m
+[3m             > There is an element of science to this.[0m
+
+[35mElement[0m[36m /ˈɛlɪm(ə)nt/,[0m [91m[3mnoun[0m[0m | noun: element; plural noun: elements; noun: chemical element; plural noun: chemical elements; plural noun: the elements
+      [32m1.[0m [37man essential or characteristic part of something abstract.[0m
+	   "the death had all the elements of a great tabloid story"
+  	   [3msynonyms:[0m component, constituent, part, section, portion, piece, segment, bit ;  factor, feature, facet, ingredient, strand, detail, point ;  member, unit, module,
+                     item ;  essential ;  integrand
+		    "village shops are an essential element of the local community"
+          • [37ma small but significant amount of a feeling or quality.[0m
+	   "it was the element of danger he loved in flying"
+  	   [3msynonyms:[0m trace, touch, hint, smattering, suspicion, soupçon
+		    "there is an element of truth in this stereotype"
+          • [37mthe rudiments of a subject.[0m
+	   "legal training may include the elements of economics and political science"
+  	   [3msynonyms:[0m basics, essentials, principles, first principles ;  foundations, fundamentals, rudiments ;  nuts and bolts, ABC
+		    "it is assumed that the reader is familiar with the elements of thermodynamics"
+          • [37ma group of people of a particular kind within a larger group.[0m
+	   "extreme right-wing elements in the army"
+          • [37man entity that is a single member of a set.[0m
+
+      [32m2.[0m [37meach of more than one hundred substances that cannot be chemically interconverted or broken down into simpler substances and are primary constituents of matter.
+           Each element is distinguished by its atomic number, i.e. the number of protons in the nuclei of its atoms.[0m
+
+      [32m3.[0m [37many of the four substances (earth, water, air, and fire) regarded as the fundamental constituents of the world in ancient and medieval philosophy.[0m
+
+      [32m4.[0m [37mstrong winds, heavy rain, or other kinds of bad weather.[0m
+	   "there was no barrier against the elements"
+  	   [3msynonyms:[0m the weather, the climate, meteorological conditions, atmospheric conditions/forces ;  the wind, the rain, storms
+		    "having come prepared with an umbrella, I braved the elements"
+
+      [32m5.[0m [37ma person's or animal's natural or preferred environment.[0m
+	   "raised in Hawaii, the sea is his natural element"
+  	   [3msynonyms:[0m natural environment, favoured environment, familiar territory, territory, habitat, medium, milieu, sphere, field, domain, realm, circle, resort, haunt
+		    "Graham was in his element building a fire and cooking the steaks"
+
+      [32m6.[0m [37ma part in an electric kettle, heater, or cooker which contains a wire through which an electric current is passed to provide heat.[0m
+
+      [32m7.[0m [37m(in church use) the bread and wine of the Eucharist.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+        [31mतत्व[0m             [31mतत्त्व[0m     
+        [31mअवयव[0m            [31mमूलवस्तु[0m    
+        [31mअंग[0m            [31mमूलतत्त्व[0m    
+        [31mअंश[0m               [31mभूत[0m       
+      [31mमूल तत्व[0m      [31mप्राथमिक शिक्षा[0m 

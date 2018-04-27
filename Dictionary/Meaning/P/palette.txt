@@ -1,0 +1,21 @@
+[35m                                                                                     PALETTE                                                                                      [0m
+[91m        SHORT  A palette is a range of colors. It is also the board that artists use to hold and mix paint. Picture Picasso in his blue period: He is holding a palette on
+               which you see a limited palette of blue tones.[0m
+[36m         LONG  The meaning of the word palette has extended beyond actual colors to include figurative colors. A musician can use a palette of tones and modes. Either way it
+               is a limited selection from all things available. Don't confuse this word with the homophone palate which refers to your sense of taste. Both
+               words come to English through Old French but have different Latin roots.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The quartet’s palette ranged from the subtle and creepy, as in the insectoid chromatic stirrings of the opening, to grunge-band grit.[0m
+[3m             > Shot in a black-and-white palette that evokes both Italian neorealism and old television, “The Woman Who Left” is carefully composed and hauntingly beautiful
+               to behold.[0m
+[3m             > When you’re doing that, it’s nice to be able to just create a different palette for every single song.[0m
+[3m             > Because Collins wanted a gray and green color scheme, Gimmy used a limited plant palette.[0m
+[3m             > While Sikorska’s palette is mostly wintry, “Nature, Culture, Divine” shimmers with gold and silver, and others seethe with red.[0m
+
+[35mPalette[0m[36m /ˈpalɪt/,[0m [91m[3mnoun[0m[0m | noun: palette; plural noun: palettes
+          • [37ma thin board or slab on which an artist lays and mixes colours.[0m
+          • [37mthe range of colours used by a particular artist or in a particular picture.[0m
+	   "Pollock's hard, bright palette"
+          • [37mthe range or variety of tonal or instrumental colour in a musical piece.[0m
+	   "he commands the sort of tonal palette which this music needs"
+          • [37m(in computer graphics) the range of colours or shapes available to the user.[0m

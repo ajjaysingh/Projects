@@ -1,0 +1,25 @@
+[35m                                                                                     SLUMBER                                                                                     [0m
+[91m        SHORT  Slumber means "sleep" — as a verb or noun. If you're a sound sleeper, you might slumber peacefully right through a thunderstorm, your slumber undisturbed.[0m
+[36m         LONG  To slumber is to sleep, sometimes specifically to sleep lightly or doze. You can slumber in your bed, in your airplane seat, or through your alarm in the
+               morning. Slumber can also describe a peacefulness, like your quiet street that seems to slumber early in the morning. The phrase slumber party
+               was first used in the 1940s to mean a gathering held at night, that usually involves very little slumbering.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                            
+[3m             > The final step is an overnight slumber party in a low-temperature oven.[0m
+[3m             > For the Alexa development team, the arduous path began with the choice of a name that would wake Alexa from its slumber.[0m
+[3m             > Roused from slumber, the little robot’s face illuminates, and it begins zooming around the table in front of me.[0m
+[3m             > But noise from sightseeing boats and other coastal users wakes these vulnerable animals from their essential daytime slumber, a new study shows.[0m
+[3m             > For the third time this season United had been caught slumbering at kick-off.[0m
+
+[35mSlumber[0m[36m /ˈslʌmbə/,[0m [91m[3mverb[0m[0m | verb: slumber; 3rd person present: slumbers; past tense: slumbered; past participle: slumbered; gerund or present participle: slumbering
+      [32m1.[0m [37msleep.[0m
+	   "Sleeping Beauty slumbered in her forest castle"
+	   [3msynonyms:[0m sleep, be asleep, doze, rest, take a siesta, 
+		    "the child slumbered fitfully against his chest"
+	   [3mantonyms:[0m wake up
+    [91m[3mnoun[0m[0m | noun: slumber; plural noun: slumbers
+      [32m1.[0m [37ma sleep.[0m
+	   "scaring folk from their slumbers"
+	   [3msynonyms:[0m sleep, nap, doze, rest, siesta, 
+		    "he drifted off into an uneasy slumber"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mनींद[0m           [31mझपकी लेना[0m       [31mहल्की नींद[0m   

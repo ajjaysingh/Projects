@@ -1,0 +1,41 @@
+[35m                                                                                    SUCCESSION                                                                                    [0m
+[91m        SHORT  Use the word succession to describe things that follow one another, as well as the order in which they do so. The Vice President is first in line of
+               succession to be the President and the Secretary of State is fourth.[0m
+[36m         LONG  Sometimes when a leader dies, the one who rules after him is determined not by law as in the U.S. or blood as in a monarchy but by the dying leader himself.
+               Dictators often groom one of their sons for succession. Figuratively, you can use succession to indicate that one thing after another has come
+               and gone without taking hold. The storefront has been home to a succession of businesses, all of which have failed. Fashions come and go in
+               quick succession.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I like to do succession planting — planting in three different intervals — which will extend fruit through November.[0m
+[3m             > In quick succession, two senators hopped off the trams that run beneath the Capitol.[0m
+[3m             > One year ago, in rapid succession, a series of incidents shook three American cities over the course of three days:[0m
+[3m             > But the second set lasted nearly an hour and contained a succession of long baseline exchanges.[0m
+[3m             > His parents, Dustin and Chesney, said their memories of their youngest child include the long succession of doctor’s appointments, hospital waiting rooms and
+               gnawing fear.[0m
+
+[35mSuccession[0m[36m /səkˈsɛʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: succession; plural noun: successions
+      [32m1.[0m [37ma number of people or things of a similar kind following one after the other.[0m
+	   "she had been secretary to a succession of board directors"
+  	   [3msynonyms:[0m sequence, sequence series, series progression, progression course, course chain, chain cycle, cycle round, round string, string train, train line, line
+                     line-up, line-up run, run continuation, continuation flow, flow stream stream ;  concatenation concatenation
+		    "a succession of exciting events"
+          • [37ma group of strata representing a single chronological sequence.[0m
+	   "the Cretaceous succession"
+
+      [32m2.[0m [37mthe action or process of inheriting a title, office, property, etc.[0m
+	   "the new king was already elderly at the time of his succession"
+  	   [3msynonyms:[0m accession, accession elevation elevation ;  inheritance of, assumption of
+		    "she produced a male heir and thus deprived him of the succession to the throne"
+          • [37mthe right or sequence of inheriting a position, title, etc.[0m
+	   "the succession to the Crown was disputed"
+  	   [3msynonyms:[0m line of descent, line, line descent, descent ancestral line, blood line, ancestry, ancestry dynasty, dynasty lineage, lineage genealogy, genealogy
+                     heritage, heritage pedigree, pedigree extraction, extraction derivation, derivation stock, stock strain, strain background
+                     background
+		    "he left behind him a disputed succession between his kinsmen"
+          • [37mthe process by which a plant or animal community successively gives way to another until a stable climax is reached.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+  [31mउत्तराधिकार[0m     [31mअनुक्रमण[0m  
+   [31mउत्तरवर्तन[0m     [31mपदारोहण[0m   
+
+      Origin:  Middle English (denoting legal transmission of an estate or the throne to another, also in the sense ‘successors, heirs’): from Old French, or from Latin
+               successio(n- ), from the verb succedere (see succeed).

@@ -1,0 +1,24 @@
+[35m                                                                                    CONGRUENCE                                                                                    [0m
+[91m        SHORT  Congruence means compatibility. If you've been studying French, you might be glad to note, when learning Spanish, that there are many areas of congruence in
+               grammar and vocabulary between the two Romance languages.[0m
+[36m         LONG  In geometry, shapes are congruent when they are exactly the same, such as squares with three-inch sides. In a more general context, congruent means "in
+               agreement with," as in "the school's rules are congruent with expectations for behavior at home."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The result was the view that Trump was leaning on these “West Wing Democrats” for their perceived competence as opposed to any ideological congruence.[0m
+[3m             > Further complications arise when we transpose this mapping to the nocturnal city, which may resist familiarity and congruence.[0m
+[3m             > A review of the positions taken by the church reveals remarkable congruence with the Democrats’ subsequent party platform.[0m
+[3m             > A candidate needs to earn my vote, not only by their professed, stated positions, but through the actual congruence of their behavior with said positions.[0m
+[3m             > The second cause of our lack of congruence with human nature is tougher to solve for most.[0m
+
+[35mCongruence[0m[36m /ˈkɒŋɡrʊəns/,[0m [91m[3mnoun[0m[0m | noun: congruence; plural noun: congruences
+          • [37magreement or harmony; compatibility.[0m
+	   "the results show quite good congruence with recent studies"
+  	   [3msynonyms:[0m compatibility, consistency, conformity, match, balance, consonance, rapport, parallelism, congruity ;  consilience ;  agreement, concord, accord,
+                     consensus, unanimity, harmony, unison, unity, concert
+		    "he took care that there should be congruence of meaning and sound in his music"
+  	   [3mantonyms:[0m conflict
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mअनुरूपता[0m     [31mसंगति[0m   
+     [31mमेल[0m       [31mसादृश्य[0m  
+
+      Origin:  antonyms:conflict

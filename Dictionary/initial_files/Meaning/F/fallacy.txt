@@ -1,0 +1,27 @@
+[35m                                                                                     FALLACY                                                                                      [0m
+[91m        SHORT  A fallacy is a misleading argument or belief based on a falsehood. If you oppose state testing in schools, you think it is a fallacy that educational quality
+               can be measured by standardized tests.[0m
+[36m         LONG  Fallacy comes from the Latin fallacia, for deceit. It technically means a flaw in an argument that makes it deceptive or misleading. In poetry, the "pathetic
+               fallacy" is the false idea that things like rocks or stars have human feelings (pathos). Fallacy can also be used more generally for any false
+               statement or idea. Some synonyms are misconception and error.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I think this is one of those problems in logic that we call the “compositional fallacy”.[0m
+[3m             > The aspect Street failed to consider was age — “the fallacy of my ways,” he said.[0m
+[3m             > For one, it rests on the fallacy of urgent insecurity.[0m
+[3m             > Of all golden-age fallacies, none is dafter than that there was a time when politicians purveyed unvarnished truth.[0m
+[3m             > The fallacy lies in believing that programs will simply mobilize people by dint of their existence.[0m
+
+[35mFallacy[0m[36m /ˈfaləsi/,[0m [91m[3mnoun[0m[0m | noun: fallacy; plural noun: fallacies
+          • [37ma mistaken belief, especially one based on unsound arguments.[0m
+	   "the notion that the camera never lies is a fallacy"
+	   [3msynonyms:[0m misconception, mistaken belief, misbelief, delusion, false notion, 
+		    "the fallacy that we all work from nine to five"
+          • [37ma failure in reasoning which renders an argument invalid.[0m
+	   "Kraft exposes three fallacies in this approach"
+          • [37mfaulty reasoning.[0m
+	   "the potential for fallacy which lies behind the notion of self-esteem"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mभ्रम[0m     [31mहेत्वाभास[0m 
+   [31mभ्रान्ति[0m     [31mभांति[0m   
+   [31mतर्कदोष[0m     [31mग़लतापना[0m 
+    [31mभुलावा[0m     [31mअशुद्धि[0m  

@@ -1,0 +1,74 @@
+[35m                                                                                      STATE                                                                                       [0m
+[91m        SHORT  State can be a condition — like solid, liquid, or gas, or even sad or happy. It can also be a state as in Idaho or New York. To state is to say something.[0m
+[36m         LONG  State comes from the Latin status, meaning "condition of a country." Interestingly, even before the Revolutionary War, Britain called the American colonies
+               states. The “States” still refers to America, but state can refer to any country’s civil government. The idea of state as a physical or
+               emotional condition came later. Depending on your state of mind, you can state that the state of your state is awesome. Unless it’s in a state
+               of emergency, which is no good.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The tally includes buses from more than 200 cities in 26 states.[0m
+[3m             > Proposals to shore up state revenues include a gas-tax increase, taxing online sales by out-of-state retailers and restoring taxes on food.[0m
+[3m             > The Coast Guard searched the area by helicopter and state troopers were on the ground looking for the victims.[0m
+[3m             > Early solvency proposals run the gamut from take-home pay reductions for state workers and school teachers to tax increases on gasoline and food.[0m
+[3m             > The GOP lawsuit argues that provisions in the law run afoul of the state or federal constitutions - or both.[0m
+
+[35mState[0m[36m /steɪt/,[0m [91m[3mnoun[0m[0m | noun: state; plural noun: states
+      [32m1.[0m [37mthe particular condition that someone or something is in at a specific time.[0m
+	   "the state of the company's finances"
+	   [3msynonyms:[0m condition, shape, situation, circumstances, state of affairs, 
+		    "the current state of the UK economy"
+          • [37ma physical condition as regards internal or molecular form or structure.[0m
+	   "water in a liquid state"
+          • [37man agitated or anxious condition.[0m
+	   noun: a state
+	   [3msynonyms:[0m fluster, flutter, frenzy, fever, fret, 
+		    "don't get into a state"
+          • [37ma dirty or untidy condition.[0m
+	   "look at the state of you—what a mess!"
+	   [3msynonyms:[0m untidiness, mess, untidy state, chaos, disorder, 
+		    "your room is in a state"
+          • [37mshort for quantum state.[0m
+
+      [32m2.[0m [37ma nation or territory considered as an organized political community under one government.[0m
+	   "Germany, Italy, and other European states"
+	   [3msynonyms:[0m country, nation, land, sovereign state, nation state, 
+		    "the states that comprise the EC"
+          • [37man organized political community or area forming part of a federal republic.[0m
+	   "the German state of Bavaria"
+	   [3msynonyms:[0m province, federal state, region, territory, canton, 
+		    "a federation of six states"
+          • [37minformal term for United States.[0m
+	   plural noun: States; plural noun: the States
+
+      [32m3.[0m [37mthe civil government of a country.[0m
+	   "services provided by the state"
+	   [3msynonyms:[0m government, parliament, the administration, the regime, the authorities, 
+		    "the power of the state should not be used to curtail individual liberty"
+          • [37mthe legislative body in Jersey, Guernsey, and Alderney.[0m
+	   plural proper noun: States; plural noun: the States
+
+      [32m4.[0m [37mpomp and ceremony associated with monarchy or high levels of government.[0m
+	   "he was buried in state"
+          • [37minvolving the ceremony associated with a head of state.[0m
+	   modifier noun: state
+	   [3msynonyms:[0m ceremonial, official, formal, governmental, national, 
+		    "the South African president was on a state visit to Britain"
+	   [3mantonyms:[0m unofficial, private, informal
+
+      [32m5.[0m [37ma specified impression taken from an etched or engraved plate at a particular stage.[0m
+	   "an oblong plate, dry point, first state of eight"
+          • [37ma particular printed version of the first edition of a book, distinguished from others by prepublication changes.[0m
+	   "there are four states of the first edition"
+    [91m[3mverb[0m[0m | verb: state; 3rd person present: states; past tense: stated; past participle: stated; gerund or present participle: stating
+      [32m1.[0m [37mexpress something definitely or clearly in speech or writing.[0m
+	   "the report stated that more than 51 per cent of voters failed to participate"
+	   [3msynonyms:[0m express, voice, utter, say, tell, 
+		    "people will be invited to state their views"
+	   [3mantonyms:[0m undefined, irregular, tacit, actual
+          • [37mspecify the facts of (a case) for consideration.[0m
+	   "judges must give both sides an equal opportunity to state their case"
+
+      [32m2.[0m [37mpresent or introduce (a theme or melody) in a composition.[0m
+	   "a bold theme is stated at the beginning, driving the entire ten-minute allegro"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mराज्य[0m           [31mप्रदेश[0m          [31mराज्य का[0m        [31mस्थिर करना[0m   
+      [31mस्थिति[0m            [31mहालत[0m            [31mराजकीय[0m            [31mकहना[0m      

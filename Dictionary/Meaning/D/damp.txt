@@ -1,0 +1,51 @@
+[35m                                                                                       DAMP                                                                                       [0m
+[91m        SHORT  Something that's damp is slightly wet or soggy. If your shoes are damp when you enter your friend's white-carpeted house, you should probably take them off.[0m
+[36m         LONG  Damp things are moist. Your lawn might be damp with dew in the morning, and if it's supposed to rain lightly, the weather report might include the word damp.
+               Sometimes damp is a noun, as when your grandmother warns, "Don't go out in the damp without your umbrella!" To damp is to hold back, make soft,
+               or restrain: "Use your hand to damp the sound of the cymbal after you hit it with the drumstick."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I let my face fall into my hands and I slide my fingers back into unexpectedly damp hair.[0m
+[3m             > Unless someone snuck in meanwhile with a sense of mischief and a damp towel.[0m
+[3m             > These characters, along with almost everyone else Jules meets in this damp burgh, tell their own versions of the truth, tainted by mold and malice.[0m
+[3m             > The six burly men “carried Ruthie to her grave across the damp cemetery grounds in their bare feet,” Dreher wrote.[0m
+[3m             > “I remember sitting on the front porch eating a lollipop,” Strout, who is sixty-one, said one damp day in March, as she drove past.[0m
+
+[35mDamp[0m[36m /damp/,[0m [91m[3madjective[0m[0m | adjective: damp; comparative adjective: damper; superlative adjective: dampest
+      [32m1.[0m [37mslightly wet.[0m
+	   "her hair was still damp from the shower"
+  	   [3msynonyms:[0m moist, moistened, wettish, dampened, dampish ;  humid, steamy, muggy, clammy, sweaty, sticky, dank, moisture-laden, wet, wetted, rainy, drizzly, showery,
+                     misty, foggy, vaporous, dewy
+		    "her hair was still damp from the shower"
+  	   [3mantonyms:[0m dry
+    [91m[3mnoun[0m[0m | noun: damp; plural noun: damps
+      [32m1.[0m [37mmoisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects.[0m
+	   "the house reeked of mould and damp"
+  	   [3msynonyms:[0m moisture, dampness, humidity, wetness, wet, water, liquid, condensation, steam, vapour, clamminess, mugginess, dankness, wateriness ;  rain, raininess,
+                     dew, drizzle, precipitation, spray ;  perspiration, sweat
+		    "you could feel the damp in the air"
+  	   [3mantonyms:[0m dryness
+          • [37mshort for firedamp.[0m
+          • [37mdamp air or atmosphere.[0m
+	   "the damps of the valley"
+
+      [32m2.[0m [37ma discouragement or check.[0m
+	   "shame gave a damp to her triumph"
+    [91m[3mverb[0m[0m | verb: damp; 3rd person present: damps; past tense: damped; past participle: damped; gerund or present participle: damping
+      [32m1.[0m [37mmake (something) slightly wet.[0m
+	   "damp a small area with water"
+
+      [32m2.[0m [37mmake a fire burn less strongly by reducing the flow of air to it.[0m
+	   "he damped down the fire for the night"
+          • [37mcontrol or restrain a feeling or a situation.[0m
+	   "she tried to damp down her feelings of despair"
+
+      [32m3.[0m [37mreduce or stop the vibration of (the strings of a piano or other musical instrument) so as to reduce the volume of sound.[0m
+	   "the muted notes should be produced by damping the strings at the seventh position"
+          • [37mprogressively reduce the amplitude of (an oscillation or vibration).[0m
+	   "concrete structures damp out any vibrations"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+         [31mनम[0m                 [31mनमी[0m              [31mतर करना[0m            [31mनम हवा[0m      
+        [31mगीला[0m              [31mनम करना[0m            [31mभिगाना[0m              [31mठंडक[0m       
+         [31mतर[0m             [31mआर्द्र करना[0m         [31mगीला करना[0m             [31mभाप[0m       
+        [31mभीगा[0m                [31mसील[0m             [31mजी तोड़ना[0m          [31mशराब पीना[0m    
+      [31mउत्साहहीन[0m          [31mआर्द्रता[0m       [31mनिस्र्त्साह करना[0m       [31mशराब-वराब[0m    

@@ -1,0 +1,34 @@
+[35m                                                                                       PERT                                                                                       [0m
+[91m        SHORT  This sassy little adjective pert is lively and bold, like your pert best friend who storms in and demands to borrow your favorite jacket.[0m
+[36m         LONG  Although pert is found inside its synonym impertinent (rudely bold), pert can also mean stylish, like that pert fedora cocked at a jaunty angle. Someone
+               healthy and bright-eyed is pert, too. You might be pert after a strong cup of coffee and a pep talk, or after a visit from the celebrity
+               stylist. Although pert has been around since the 1300s — from Middle English, “unconcealed, bold” — it is also the name of a shampoo that
+               embraces all shades of meaning of this four-letter word.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The chefs, dressed in white double-breasted jackets and pert caps, tread lightly, never clatter their implements, and speak to each other in soft, accented
+               English.[0m
+[3m             > They show her with wide eyes and a pert mouth, devilish and innocent at once.[0m
+[3m             > Gary Pert, chief executive of Australian rules football side Collingwood, was also on the flight and said Hackett appeared to be "affected by alcohol".[0m
+[3m             > The light dusting of freckles across her pert nose.[0m
+[3m             > A pert performance of Schumann's Second Symphony followed, another non sequitur.[0m
+
+[35mPert[0m[36m /pəːt/,[0m [91m[3madjective[0m[0m | adjective: pert
+      [32m1.[0m [37m(of a girl or young woman) attractively lively or cheeky.[0m
+	   "a pert, slightly plump girl called Rose"
+          • [37mimpudent or cheeky.[0m
+	   "no need to be pert, miss"
+  	   [3msynonyms:[0m impudent, impertinent, cheeky, irreverent, forward, insolent, disrespectful, flippant, familiar, presumptuous, audacious, bold, bold as brass, brazen,
+                     cocky, out of line, shameless ;  fresh, flip, lippy, mouthy, smart-arsed ;  saucy ;  sassy, nervy, smart-assed ;  malapert
+		    "a young girl with dark hair and a pert manner"
+
+      [32m2.[0m [37m(of a bodily feature or garment) attractively small and well shaped.[0m
+	   "she had a pert nose and deep blue eyes"
+  	   [3msynonyms:[0m jaunty, neat, trim, stylish, smart, spruce, perky, rakish ;  natty ;  saucy
+		    "a pert little hat with a feather"
+[35mPert[0m [91m[3mabbreviation[0m[0m
+          • [37mprogramme evaluation and review technique.[0m
+[35mProgramme Evaluation And Review Technique[0m [91m[3mnoun[0m[0m
+	noun: PERT
+          • [37ma network analysis technique which is used to determine the time it will take to complete a complex process.[0m
+               [31m[4m[34madjective[0m[0m[0m                                [31m[4m[34m[0m[0m[0m                  
+                        [31mकुसुमित[0m                         [31mपर्ट/पी.ई.आर.टी.(प्रोग्राम मूल्यांकन समीक्षा तकनीक)[0m 

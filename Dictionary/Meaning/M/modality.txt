@@ -1,0 +1,28 @@
+[35m                                                                                     MODALITY                                                                                     [0m
+[91m        SHORT  A modality is the way or mode in which something exists or is done. You might often see it used with reference to diagnostic modality, which is the way in
+               which a disease or illness is diagnosed by a doctor.[0m
+[36m         LONG  Modality shares its root with the word mode, meaning "the way in which something happens or is experienced." A sensory modality is a way of sensing, like
+               vision or hearing. Modality in someone's voice gives a sense of the person's mood. In logic, modality has to do with whether a proposition is
+               necessary, possible, or impossible. In general, a modality is a particular way in which something exists.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But, of course, Columbus and the Oasis do not represent actual or virtual realities, but rather two different modalities of fantasy.[0m
+[3m             > They emphasized the importance of not using the audio/speech modality as it typically overloads their auditory perception.[0m
+[3m             > “It felt good, it felt right, and she actually responded to it. We found her lameness issue and it’s all fixed. It was just one more modality.”[0m
+[3m             > “Using creative modalities is especially effective for education about culture, creativity and critical pedagogy.”[0m
+[3m             > The topics on the agenda are likely to be, first, the modalities of North Korean participation in the Winter Olympics, to begin Feb. 9 at Pyeongchang in South
+               Korea.[0m
+
+[35mModality[0m[36m /mə(ʊ)ˈdalɪti/,[0m [91m[3mnoun[0m[0m | noun: modality; plural noun: modalities
+      [32m1.[0m [37mmodal quality.[0m
+	   "the harmony had a touch of modality"
+
+      [32m2.[0m [37ma particular mode in which something exists or is experienced or expressed.[0m
+          • [37ma particular method or procedure.[0m
+	   "the modalities of troop withdrawals"
+          • [37ma particular form of sensory perception.[0m
+	   "the visual and auditory modalities"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mसाधन[0m      [31mरूपात्मकता[0m 
+    [31mप्रकार[0m      [31mतौर-तरीका[0m 
+
+      Origin:  early 17th century: from medieval Latin modalitas, from modalis (see modal).

@@ -1,0 +1,52 @@
+[35m                                                                                       BAIL                                                                                       [0m
+[91m        SHORT  Bail can be a verb or a noun.  When you bail (verb) someone out of jail, you post money, also known as bail (noun), to assure the authorities that person
+               won't try to run away before going to trial.[0m
+[36m         LONG  As a noun, bail means bond money. This comes from the Middle English word bayle, for "captivity." As a verb, the idea of "bailing out" comes from the later
+               word baile, which means “dipping out,” a meaning you can use when you are trying to empty something flooded.  If your boat has a leak, you
+               should bail it out (then plug the leak).  When you bail, in the colloquial sense, you escape in some way.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Federal Judge Paul Engelmayer revoked his bail, saying he was “overwhelmingly, by any standard, a risk of flight.”[0m
+[3m             > If the Trump administration agrees with the House and stops the payments, insurers would bail.[0m
+[3m             > Bybee was held without bail on attempted murder and other charges.[0m
+[3m             > The man accused of the attacks was bailed against the wishes of police five days before the attack.[0m
+[3m             > He faces charges of driving while intoxicated; operating after suspension; disobeying an officer; criminal mischief and breach of bail.[0m
+
+[35mBail[0m[36m /beɪl/,[0m [91m[3mnoun[0m[0m | noun: bail
+      [32m1.[0m [37mthe temporary release of an accused person awaiting trial, sometimes on condition that a sum of money is lodged to guarantee their appearance in court.[0m
+	   "he has been released on bail"
+	   [3msynonyms:[0m surety, security, collateral, assurance, indemnity, 
+		    "he has been released on bail"
+          • [37mmoney paid by or for someone in order to secure their release on bail.[0m
+	   "they feared the financier would be tempted to forfeit the £10 million bail and flee"
+	   [3msynonyms:[0m surety, security, collateral, assurance, indemnity, 
+		    "he has been released on bail"
+    [91m[3mverb[0m[0m | verb: bail; 3rd person present: bails; past tense: bailed; past participle: bailed; gerund or present participle: bailing
+      [32m1.[0m [37mrelease or secure the release of (a prisoner) on payment of bail.[0m
+	   "nine were bailed on drugs charges"
+[35mBail[0m[36m /beɪl/,[0m [91m[3mnoun[0m[0m | noun: bail; plural noun: bails
+      [32m1.[0m [37meither of the two crosspieces bridging the stumps, which the bowler and fielders try to dislodge with the ball to get the batsman out.[0m
+	   "the Lancashire captain was at full stretch as the wicketkeeper took off the bails"
+
+      [32m2.[0m [37ma bar on a typewriter or computer printer which holds the paper steady.[0m
+
+      [32m3.[0m [37ma fastening that secures a crampon to the sole of a boot.[0m
+
+      [32m4.[0m [37ma bar or pole separating horses in an open stable.[0m
+          • [37ma movable framework for securing the head of a cow during milking.[0m
+    [91m[3mverb Australian/NZ[0m[0m | verb: bail; 3rd person present: bails; past tense: bailed; past participle: bailed; gerund or present participle: bailing
+      [32m1.[0m [37mconfront (someone) with the intention of robbing them.[0m
+	   "they bailed up Mr Dyason and demanded his money"
+          • [37mdetain (someone) in conversation, especially against their will.[0m
+	   "students will bail up Canberrans on Friday for donations for the Royal Blind Society"
+
+      [32m2.[0m [37msecure (a cow) during milking.[0m
+[35mBail[0m[36m /beɪl/,[0m [91m[3mverb[0m[0m | verb: bail; 3rd person present: bails; past tense: bailed; past participle: bailed; gerund or present participle: bailing; verb: bale; 3rd person present: bales; past tense: baled; past participle: baled; gerund or present participle: baling
+      [32m1.[0m [37mscoop water out of (a ship or boat).[0m
+	   "the first priority is to bail out the boat with buckets"
+          • [37mscoop (water) out of a ship or boat.[0m
+	   "I started to use my hands to bail out the water"
+
+      [32m2.[0m [37mlet (someone) down.[0m
+	   "he looks a little like the other guy that bailed on me"
+   [31m[4m[34mnoun[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+           [31mजमानत[0m              [31mजमानत मंजूर करना[0m    

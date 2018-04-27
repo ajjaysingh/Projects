@@ -1,0 +1,97 @@
+[35m                                                                                      FLASH                                                                                       [0m
+[91m        SHORT  Ever notice how quick the flash is on a camera? That's how fast other types of flashes are, including the super-fast superhero The Flash.[0m
+[36m         LONG  Whether you're talking about a flash of lighting or a flash of insight, a flash is quick and bright and sudden. There aren't any slow, long flashes. Because
+               flashes are so fast, the word is often used for anything that happens really quickly: a flash is as fast as a New York minute, the blink of an
+               eye, a heartbeat, an instant, a jiffy, or a split second.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But even amid flashing lights and caution tape, routines continued.[0m
+[3m             > Suddenly, a gun and helmet enter the left edge of the frame directly over the unmoving driver and there is a flash from the gun.[0m
+[3m             > Television screens in the Los Angeles field office began flashing the news as he spoke, and he initially chuckled.[0m
+[3m             > A red hand flashes at the intersection across the street.[0m
+[3m             > The official says television screens in the field office began flashing the news, and Comey initially chuckled.[0m
+
+[35mFlash[0m[36m /flaʃ/,[0m [91m[3mverb[0m[0m | verb: flash; 3rd person present: flashes; past tense: flashed; past participle: flashed; gerund or present participle: flashing
+      [32m1.[0m [37mshine in a bright but brief, sudden, or intermittent way.[0m
+	   "lightning flashed overhead"
+  	   [3msynonyms:[0m light up, shine, flare, blaze, glare, beam, gleam, glint, sparkle, spark, burn, fluoresce ;  blink, wink, flicker, shimmer, twinkle, glimmer, glisten,
+                     scintillate ;  glister, coruscate, fulgurate, effulge
+		    "a torch flashed"
+          • [37mcause to shine briefly or suddenly.[0m
+	   "the oncoming car flashed its lights"
+          • [37mshine or show a light to send (a signal).[0m
+	   "red lights started to flash a warning"
+          • [37mgive (a swift look).[0m
+	   "Carrie flashed a glance in his direction"
+          • [37m(of a person's eyes) indicate sudden emotion, especially anger.[0m
+	   "she glared at him, her eyes flashing"
+
+      [32m2.[0m [37mmove or pass very quickly.[0m
+	   "a look of terror flashed across Kirov's face"
+  	   [3msynonyms:[0m zoom, streak, tear, shoot, dash, dart, fly, whistle, hurtle, rush, hurry, bolt, race, bound, speed, career, charge, hare, whizz, whoosh, buzz ;  scoot,
+                     skedaddle, belt, zap, zip, scorch ;  bomb, bucket, burn rubber, go like the clappers ;  barrel, lay rubber
+		    "racing cars flashed past"
+          • [37msend (news or information) swiftly by means of telegraphy or telecommunications.[0m
+	   "the story was flashed around the world"
+
+      [32m3.[0m [37mdisplay (information or an image) suddenly on a television or computer screen or electronic sign, typically briefly or repeatedly.[0m
+	   "the screen flashed up a menu"
+  	   [3msynonyms:[0m display, show, present, set forth, unveil
+		    "the computer flashed the result on the scoreboard"
+          • [37m(of information or an image) be displayed briefly or repeatedly on a screen.[0m
+	   "the election results flashed on the screen"
+          • [37mhold up or show (something, often proof of one's identity) quickly before replacing it.[0m
+	   "she opened her purse and flashed her ID card"
+          • [37mmake a conspicuous display of (something) so as to impress or attract attention.[0m
+	   "they flashed huge wads of money about"
+  	   [3msynonyms:[0m show off, flaunt, flourish, display, exhibit, parade, brag about, exult in
+		    "he was flashing all this money about in the pub"
+          • [37m(of a man) show one's genitals briefly in public.[0m
+	   "he opened his coat and flashed at me"
+  	   [3msynonyms:[0m expose oneself, show/display/reveal one's genitals, commit indecent exposure
+		    "he opened his coat and flashed at me"
+    [91m[3mnoun[0m[0m | noun: flash; plural noun: flashes; noun: Flash
+      [32m1.[0m [37ma sudden brief burst of bright light.[0m
+	   "a flash of lightning"
+  	   [3msynonyms:[0m flare, blaze, burst, glare, pulse, blast ;  gleam, glint, sparkle, flicker, shimmer, twinkle, glimmer ;  beam, shaft, ray, streak, bar, finger, stream
+		    "a flash of light"
+          • [37ma patch or sudden display of a bright colour.[0m
+	   "the woodpecker swooped from tree to tree with a flash of yellow, green, and red"
+          • [37ma coloured patch of cloth on a uniform used as the distinguishing emblem of a regiment, formation, or country.[0m
+	   "a short man with the black flashes of the tank units"
+  	   [3msynonyms:[0m emblem, insignia, badge, marking ;  patch, bright patch, streak, stripe, bar, chevron
+		    "a basic uniform with no flashes"
+          • [37ma coloured band on the packaging of a product used to catch the consumer's eye.[0m
+	   "on-pack flashes offer a free ‘Taste of the Caribbean’"
+          • [37ma pre-drawn design for a tattoo.[0m
+
+      [32m2.[0m [37ma sudden or brief manifestation or occurrence of something.[0m
+	   "she had a flash of inspiration"
+  	   [3msynonyms:[0m burst, outbreak, outburst, wave, rush, surge, stab, flush, blaze ;  sudden show, brief display/exhibition
+		    "a sudden flash of inspiration"
+          • [37ma newsflash.[0m
+
+      [32m3.[0m [37ma camera attachment that produces a brief very bright light, used for taking photographs in poor light.[0m
+	   "an electronic flash"
+
+      [32m4.[0m [37ma platform for producing and displaying animation and video in web browsers.[0m
+
+      [32m5.[0m [37mostentatious stylishness or display of wealth.[0m
+	   "workwear represents a move away from Eighties designer flash"
+
+      [32m6.[0m [37mexcess plastic or metal forced between facing surfaces as two halves of a mould close up, forming a thin projection on the finished object.[0m
+	   "flap wheels are ideal for grinding off fibreglass flash"
+
+      [32m7.[0m [37ma rush of water, especially down a weir to take a boat over shallows.[0m
+    [91m[3madjective British informal[0m[0m | adjective: flash; comparative adjective: flasher; superlative adjective: flashest
+      [32m1.[0m [37mostentatiously stylish or expensive.[0m
+	   "a flash new car"
+          • [37mostentatiously displaying one's wealth.[0m
+	   "he's a bit flash and refers to his gold card a few times too many"
+
+      [32m2.[0m [37mrelating to the language used by criminals or prostitutes.[0m
+[35mFlash[0m[36m /flaʃ/,[0m [91m[3mnoun British[0m[0m | noun: flash; plural noun: flashes
+          • [37ma water-filled hollow formed by subsidence, especially any of those due to rock salt extraction in or near Cheshire.[0m
+	   "sandpits and flashes also attract visiting birds"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+         [31mचमक[0m             [31mदीप्ति होना[0m            [31mचमकना[0m       
+         [31mझलक[0m              [31mकोंध गाना[0m        [31mआग की तरह चमकना[0m  

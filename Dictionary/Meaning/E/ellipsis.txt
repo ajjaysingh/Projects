@@ -1,0 +1,18 @@
+[35m                                                                                     ELLIPSIS                                                                                     [0m
+[91m        SHORT  An ellipsis is punctuation that is used to show where words have been left out. The ellipsis is usually formed by three periods (four if the ellipsis comes at
+               the end of a sentence).[0m
+[36m         LONG  The word ellipsis comes to English via a Greek word, elleipein, meaning to fall short or leave out. The plural of the noun is ellipses. In the sentence,
+               "'What the . . . !' she exclaimed.", the ellipsis replaces an expletive. The severity of the expletive is left to the reader's imagination.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He ended with an almost Shakespearean ellipsis: “Our business now is north.”[0m
+[3m             > “Trump trails off. He uses ellipses and coded language. He lets his listeners fill in what they want.”[0m
+[3m             > It all came down to one word, unless, followed by a pause so pregnant you could hear the silence painful giving birth to an ellipsis.[0m
+[3m             > “I stared at rippling ellipses on screens,” she writes.[0m
+[3m             > Note: This is kinda long, even though I'm making generous use of ellipses:[0m
+
+[35mEllipsis[0m[36m /ɪˈlɪpsɪs/,[0m [91m[3mnoun[0m[0m | noun: ellipsis; plural noun: ellipses
+          • [37mthe omission from speech or writing of a word or words that are superfluous or able to be understood from contextual clues.[0m
+	   "it is very rare for an ellipsis to occur without a linguistic antecedent"
+          • [37ma set of dots (…) indicating an ellipsis.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mअंडाकार[0m    [31mपदन्यूनता[0m 

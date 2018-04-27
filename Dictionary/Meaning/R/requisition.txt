@@ -1,0 +1,37 @@
+[35m                                                                                   REQUISITION                                                                                    [0m
+[91m        SHORT  Requisition is a very official-sounding word that usually means "to take or seize."  We're sorry that your luxury suite has been requisitioned by the mayor's
+               office.  No, we have no idea what he's doing in there.[0m
+[36m         LONG  Requisition looks a little like "request" and, in fact, it comes from the Old French word meaning exactly that.  It can still be used that way, like when you
+               make a requisition for a new office desk because the old one has three broken drawers.  If a police officer requisitions your car for use in a
+               high speed chase, it will initially require less paperwork.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He borrowed old and new styles wherever he felt it appropriate and requisitioned the St Mark’s-style choral music for the big moments.[0m
+[3m             > George W Bush ran his from hastily requisitioned office space in Washington DC.[0m
+[3m             > In a desperate attempt to save lives, the government has requisitioned army health workers though most patients were still languishing without care.[0m
+[3m             > Its only legal use would be when data need to be requisitioned.[0m
+[3m             > Says another: “Requisition and compensation are lawful. Smart alecks will regret it later.”[0m
+
+[35mRequisition[0m[36m /ˌrɛkwɪˈzɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: requisition; plural noun: requisitions
+      [32m1.[0m [37man official order laying claim to the use of property or materials.[0m
+	   "I had to make various requisitions for staff and accommodation"
+  	   [3msynonyms:[0m order, purchase order, request, call, application ;  claim, demand, summons ;  indent
+		    "in mid-1946, the Air Ministry placed its first requisition for an atomic bomb"
+          • [37ma formal written demand that something should be performed or put into operation.[0m
+	   "requisitions for an Extraordinary General Meeting must state the business to be transacted"
+          • [37ma demand to the vendor of a property for the official search relating to the title.[0m
+	   noun: requisition on title; plural noun: requisition on titles; plural noun: requisitions on title
+          • [37mthe appropriation of goods for military or public use.[0m
+	   "requisition of grain at the point of a gun proved a novel experience for the peasantry"
+  	   [3msynonyms:[0m appropriation, commandeering, possession, takeover, taking over, occupation ;  seizure, confiscation, expropriation, sequestration
+		    "the illegal requisition of cultural treasures"
+    [91m[3mverb[0m[0m | verb: requisition; 3rd person present: requisitions; past tense: requisitioned; past participle: requisitioned; gerund or present participle: requisitioning
+      [32m1.[0m [37mdemand the use or supply of (something) by official order.[0m
+	   "the government had assumed powers to requisition cereal products at fixed prices"
+  	   [3msynonyms:[0m commandeer, appropriate, take, take over, take possession of, occupy ;  seize, confiscate, expropriate, sequestrate, sequester
+		    "the house was requisitioned by the army"
+          • [37mdemand the performance or occurrence of.[0m
+	   "a stakeholder has requisitioned an extraordinary general meeting"
+  	   [3msynonyms:[0m request, order, call for, apply for, put in a claim for, put in for ;  demand
+		    "she requisitioned statements and demanded the material that was missing"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mमांग[0m         [31mमाँग अधिग्रहण[0m   [31mप्रार्थना करना[0m 

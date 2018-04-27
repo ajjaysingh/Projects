@@ -1,0 +1,22 @@
+[35m                                                                                     ENCLAVE                                                                                      [0m
+[91m        SHORT  An enclave is a separate space or group within a larger one. Imagine an enclave as a cave carved out of a big mountain. All of the bears live in the cave or
+               enclave, while the people live on the mountainside.[0m
+[36m         LONG  Groups of like people often form an enclave within a country or region. There is probably an enclave of Africans, Cubans, Russians, or other ethnic group in
+               or near your hometown. It isn't usually enclosed, but it's a place where people of the same background gather and live together, such as a
+               Chinatown or a Little Budapest. An enclave of a country may have boundaries, making it clear that it's a distinct part — and sometimes under
+               separate government — from the larger territory it's within.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It includes a mix of middle-class towns and wealthy enclaves along the way, but just about all of it voted for Mrs. Clinton in 2016.[0m
+[3m             > But the result was especially startling in Kensington, an enclave of extreme opulence within a city generally familiar with displays of conspicuous
+               consumption.[0m
+[3m             > Mr. Khashoggi was sent to a top boarding school, Victoria College, in Alexandria, then a cosmopolitan enclave on Egypt’s Mediterranean coast.[0m
+[3m             > With the ensuing milk glut in the enclave, prices collapsed.[0m
+[3m             > Once we found an opening off the main path that led to a hidden sandy enclave off the banks of the reservoir.[0m
+
+[35mEnclave[0m[36m /ˈɛnkleɪv/,[0m [91m[3mnoun[0m[0m | noun: enclave; plural noun: enclaves
+          • [37ma portion of territory surrounded by a larger territory whose inhabitants are culturally or ethnically distinct.[0m
+	   "the besieged Muslim enclave of Srebrenica"
+          • [37ma place or group that is different in character from those surrounding it.[0m
+	   "the engineering department is traditionally a male enclave"
+
+      Origin:  mid 19th century: from French, from Old French enclaver ‘enclose, dovetail’, based on Latin clavis ‘key’.

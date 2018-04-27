@@ -1,0 +1,29 @@
+[35m                                                                                    IMPLEMENT                                                                                     [0m
+[91m        SHORT  Apply the noun implement when you want to use a fancy word for "tool." A knife and fork are implements for handling food.[0m
+[36m         LONG  The noun implement is a very useful word for just about anything you want to describe as a tool or a thing that helps you do something. An implement can be as
+               simple as chimpanzees using a stick to eat ants with or a bulldozer that moves huge amounts of earth in building. The word relates to something
+               that "fills up" a house, as in all sorts of things that allow a house to work properly.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This study suggests a novel approach to pain management that would be relatively easy to implement in clinical care.[0m
+[3m             > The armed forces are still trying to fund and implement the 2015 Strategic Defence and Security Review.[0m
+[3m             > The principal reason for its success was its innovative techniques of terracing and irrigation, the latter being used to implement the former.[0m
+[3m             > But the language limits the exemption to misdemeanors only and implements the shift that would begin in 2020.[0m
+[3m             > If approved, this would be the third extension of the moratorium, which was first implemented in 2011.[0m
+
+[35mImplement[0m [91m[3mnoun[0m[0m | noun: implement; plural noun: implements    /ˈɪmplɪm(ə)nt/
+      [32m1.[0m [37ma tool, utensil, or other piece of equipment that is used for a particular purpose.[0m
+	   "garden implements"
+  	   [3msynonyms:[0m tool, utensil, instrument, device, apparatus, contrivance, gadget, contraption, appliance, machine, labour-saving device ;  gizmo
+		    "garden implements"
+
+      [32m2.[0m [37mperformance of an obligation.[0m
+    [91m[3mverb[0m[0m | verb: implement; 3rd person present: implements; past tense: implemented; past participle: implemented; gerund or present participle: implementing    /ˈɪmplɪmɛnt/
+      [32m1.[0m [37mput (a decision, plan, agreement, etc.) into effect.[0m
+	   "the scheme to implement student loans"
+  	   [3msynonyms:[0m execute, apply, put into effect/action, put into practice, carry out, carry through, perform, enact, administer ;  fulfil, discharge, accomplish, bring
+                     about, achieve, realize, contrive, effect ;  enforce, impose ;  effectuate
+		    "the cost of implementing the new law"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mउपकरण[0m          [31mअमल में लाना[0m   
+       [31mहथियार[0m        [31mकार्यान्वित करना[0m 
+        [31mऔज़ार[0m          [31mपरिपालन करना[0m   

@@ -1,0 +1,5 @@
+[35m                                                                               REDUCTIO AD ABSURDUM                                                                               [0m
+
+[35mReductio Ad Absurdum[0m[36m /rɪˌdʌktɪəʊ ad abˈsəːdəm/,[0m [91m[3mnoun Philosophy[0m[0m | noun: reductio ad absurdum
+          • [37ma method of proving the falsity of a premise by showing that its logical consequence is absurd or contradictory.[0m
+	   "the argument is a reductio ad absurdum of utilitarianism"

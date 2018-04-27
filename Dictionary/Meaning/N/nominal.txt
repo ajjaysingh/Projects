@@ -1,0 +1,41 @@
+[35m                                                                                     NOMINAL                                                                                      [0m
+[91m        SHORT  Schools, libraries, and other organizations often ask you to make a nominal donation to their cause. While you want to support many causes, these nominal
+               donations soon add up to a substantial portion of your budget![0m
+[36m         LONG  Another meaning for the adjective nominal is "in name only" or only having a title. The CEO is the nominal head of the company, but you know his assistant is
+               one who is really in charge of the day-to-day business of the company. He is the go-to person for signing invoices, purchase orders, and
+               resolving personnel issues.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The nominal corporate tax rate would be lowered from 35 percent to 15 percent.[0m
+[3m             > The nominal corporate rate is 35 percent, roughly 10 points above the average rate in most developed European nations.[0m
+[3m             > Multiple clients in legal matters often pool nominal amounts of money in an interest-bearing trust account.[0m
+[3m             > As they deploy that nominal truth, it is all but a literal lie, because average fares are irrelevant.[0m
+[3m             > A zombie Paris agreement — with nominal participation but little practical adherence — carries a different but still substantial peril.[0m
+
+[35mNominal[0m[36m /ˈnɒmɪn(ə)l/,[0m [91m[3madjective[0m[0m | adjective: nominal
+      [32m1.[0m [37m(of a role or status) existing in name only.[0m
+	   "Thailand retained nominal independence under Japanese military occupation"
+  	   [3msynonyms:[0m in name/title only, titular, formal, official, ceremonial ;  theoretical, purported, supposed, ostensible ;  self-styled, so-called, would-be
+		    "the government would be led by a prime minister, along with a president as nominal head of state"
+  	   [3mantonyms:[0m real
+          • [37mrelating to or consisting of names.[0m
+	   "the streets have names like Third Avenue, but the resemblance to Manhattan is only nominal"
+
+      [32m2.[0m [37m(of a price or charge) very small; far below the real value or cost.[0m
+	   "they charge a nominal fee for the service"
+  	   [3msynonyms:[0m token, symbolic, emblematic, peppercorn ;  tiny, minute, minimal, small, infinitesimal, insignificant, trifling, not worth mentioning, not worth
+                     bothering about ;  minuscule, piddling, piffling ;  nickel-and-dime ;  exiguous
+		    "agricultural workers have a cottage either free or for a nominal rent"
+  	   [3mantonyms:[0m considerable, substantial
+
+      [32m3.[0m [37m(of a quantity or dimension) stated or expressed but not necessarily corresponding exactly to the real value.[0m
+	   "EU legislation allowed variation around the nominal weight (that printed on each packet)"
+          • [37mexpressed in terms of current prices or figures, without making allowance for changes over time.[0m
+	   "the nominal exchange rate"
+
+      [32m4.[0m [37mrelating to or functioning as a noun.[0m
+	   "a nominal group"
+
+      [32m5.[0m [37m(chiefly in the context of space travel) functioning normally or acceptably.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mनाममात्र[0m        [31mनाममात्र का[0m  
+     [31mसांकेतिक[0m          [31mनाम का[0m     

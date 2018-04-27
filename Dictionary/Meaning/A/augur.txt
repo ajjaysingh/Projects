@@ -1,0 +1,38 @@
+[35m                                                                                      AUGUR                                                                                       [0m
+[91m        SHORT  To augur is to predict or indicate. A black cat passing in front of you is said to augur bad luck, but if you love cats you can choose to believe that it
+               augurs good luck instead.[0m
+[36m         LONG  In the past, when you said you would augur the future it meant you would predict it. That form of augur is rarely used today, but the sense of prediction —
+               connected to an object or event — remains. Dark clouds augur a rainstorm. If you skip a dress rehearsal before opening night of a show, it
+               won’t augur well for your performance. The Latin root stems from an ancient Roman religious official who predicted the future from omens.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > If a listless start did not augur well then what happened on 52 minutes reversed the sense.[0m
+[3m             > And yet even the bad takes augured something good.[0m
+[3m             > This augurs poorly for Republicans, and President Trump is deepening this generation gap.[0m
+[3m             > In Alabama, Mr. Stevenson argued, black voters are intimately aware of the state’s civil rights struggles and particularly sensitive to any gestures that
+               might augur a regression.[0m
+[3m             > They began by being boxed in just outside their area which did not augur well.[0m
+
+[35mAugur[0m[36m /ˈɔːɡə/,[0m [91m[3mverb[0m[0m | verb: augur; 3rd person present: augurs; past tense: augured; past participle: augured; gerund or present participle: auguring
+      [32m1.[0m [37m(of an event or circumstance) portend a good or bad outcome.[0m
+	   "the end of the cold war seemed to augur well"
+  	   [3msynonyms:[0m bode bode ;  portend, portend herald, herald be a sign of, be an indication of, be a warning of, warn of, forewarn of, be an omen of, be a harbinger of,
+                     foreshadow, foreshadow presage, presage indicate, indicate signify, signify signal, signal point to, promise, promise threaten,
+                     threaten spell, spell denote denote ;  foretell, foretell forecast, forecast predict, predict prophesy, prophesy prognosticate,
+                     prognosticate divine, divine foresee foresee ;  betoken, betoken foretoken, foretoken forebode, forebode harbinger harbinger ;
+                     foreshow, foreshow previse previse ;  spae spae ;  vaticinate, vaticinate auspicate
+		    "their recent successes augur well for the future"
+          • [37mportend or bode (a specified outcome).[0m
+	   "they feared that these happenings augured a neo-Nazi revival"
+          • [37mforesee or predict.[0m
+    [91m[3mnoun[0m[0m | noun: augur; plural noun: augurs
+      [32m1.[0m [37m(in ancient Rome) a religious official who observed natural signs, especially the behaviour of birds, interpreting these as an indication of divine approval or
+           disapproval of a proposed action.[0m
+	   "the augur's skill consisted in reading the omens correctly"
+  	   [3msynonyms:[0m seer, seer soothsayer, soothsayer fortune teller, fortune teller crystal gazer, crystal gazer clairvoyant, clairvoyant psychic, psychic visionary,
+                     visionary prognosticator, diviner, prophesier, prophet, prophet prophetess, prophetess oracle, oracle sibyl, sibyl sage, sage wise
+                     man, wise man wise woman wise woman ;  spaewife, spaewife spaeman spaeman ;  oracler, vaticinator, haruspex haruspex
+		    "the augur's skill consisted in reading the omens correctly"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mशकुनश[0m          [31mशकुन विचारना[0m    [31mशकुन बताने वाला[0m 
+
+      Origin:  late Middle English (as a noun): from Latin, ‘diviner’.

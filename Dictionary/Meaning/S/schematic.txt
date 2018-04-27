@@ -1,0 +1,28 @@
+[35m                                                                                    SCHEMATIC                                                                                     [0m
+[91m        SHORT  Use the adjective schematic to describe a drawing that's very simple and symbolic. That drawing your cousin made of a house with a pointy roof, smiling stick
+               figures, and a round yellow sun? Very schematic.[0m
+[36m         LONG  The word schematic can apply to ideas as well as drawings. In this case, schematic describes an overly simple interpretation of something complex, like a work
+               of literature or a detailed plan for social change. Think of it like the drawing of a boxy house and stick figures, only applied to ideas —
+               it's an outline of something that may not capture all the important details.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A number of studies support this schematic strategy.[0m
+[3m             > A schematic diagram of the pathways is shown for altered genes along with the percentage of alteration in squamous cell carcinomas and adenocarcinomas.[0m
+[3m             > “The best corner is occupied by a McDonald’s,” he says, gesturing at the schematic on the screen.[0m
+[3m             > How do you get that information with schematics and drawings and all that sort of thing to the relevant individuals?[0m
+[3m             > I ended up working crazy 70-hour weeks with these genius people creating schematics for technological and instrumentation proposals for the astronauts.[0m
+
+[35mSchematic[0m[36m /skiːˈmatɪk,skɪˈmatɪk/,[0m [91m[3madjective[0m[0m | adjective: schematic
+      [32m1.[0m [37m(of a diagram or other representation) symbolic and simplified.[0m
+	   "schematic diagrams"
+  	   [3msynonyms:[0m simplified ;  diagrammatic, representational, illustrative, graphic, delineative ;  symbolic
+		    "this concept is shown in schematic form in Figure 1"
+          • [37m(of thought, ideas, etc.) simplistic or formulaic in character.[0m
+	   "Freeman constructs a highly schematic reading of the play"
+  	   [3msynonyms:[0m simplistic, oversimplified, oversimple, formulaic, formularized, unimaginative ;  facile, shallow
+		    "his rather schematic notions of what marriage can be"
+    [91m[3mnoun[0m[0m | noun: schematic; plural noun: schematics
+      [32m1.[0m [37m(in technical contexts) a schematic diagram, in particular of an electric or electronic circuit.[0m
+	   "only a few manufacturers provide schematics with their gear"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mढांच के रूप में[0m     [31mयोजना विषयक[0m   
+   [31mआकार मात्र का[0m     [31mयोजना सम्बन्धी[0m 

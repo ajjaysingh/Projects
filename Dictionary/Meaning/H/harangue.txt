@@ -1,0 +1,34 @@
+[35m                                                                                     HARANGUE                                                                                     [0m
+[91m        SHORT  A harangue is more than a speech, louder than a discussion, and nastier than a lecture. It is a verbal attack that doesn't let up, delivered as a verb or
+               received as a noun. Either way, it's pretty unpleasant.[0m
+[36m         LONG  The word harangue developed its modern spelling around 1530, when the word was recorded as harangue in French. The word, meaning a strong, nasty rant, appears
+               to have evolved from the Old Italian word aringa, probably from the word for a public square or place for public speaking. This in turn appears
+               to have evolved from a Germanic word related to ring, as in "circular gathering," which is clearly similar to the Italian meaning.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > On the day, however, he opted not to, and instead harangued his fellow leaders for not spending enough on enough.[0m
+[3m             > A week ago Bevin turned to Facebook Live to broadcast a harangue against the Lexington Herald-Leader and other major news outlets in the state.[0m
+[3m             > Reporters harangue him at all hours via e-mail or Twitter, and they sometimes congregate in the hallway outside his office.[0m
+[3m             > A federal judge partially agreed in 2015, ruling that the words “harangue” and “oration” were too vague, while the word “loud” was clear.[0m
+[3m             > Even RT, the state-funded Russian media network, called the harangue an “extraordinary attack on his British counterpart, using some decidedly undiplomatic
+               language.”[0m
+
+[35mHarangue[0m[36m /həˈraŋ/,[0m [91m[3mnoun[0m[0m | noun: harangue; plural noun: harangues
+      [32m1.[0m [37ma lengthy and aggressive speech.[0m
+	   "they were subjected to a ten-minute harangue by two border guards"
+  	   [3msynonyms:[0m tirade, lecture, diatribe, homily, polemic, rant, fulmination, broadside, verbal attack, verbal onslaught, invective ;  criticism, berating, censure,
+                     admonition, reproval, admonishment ;  exhortation, declamation, oration, peroration, speech, talk, address ;  sermon, tongue-
+                     lashing, spiel, pep talk ;  philippic, obloquy
+		    "father began a harangue about my monstrous behaviour"
+  	   [3mantonyms:[0m panegyric
+    [91m[3mverb[0m[0m | verb: harangue; 3rd person present: harangues; past tense: harangued; past participle: harangued; gerund or present participle: haranguing
+      [32m1.[0m [37mlecture (someone) at length in an aggressive and critical manner.[0m
+	   "he harangued the public on their ignorance"
+  	   [3msynonyms:[0m deliver a tirade to, rant at, lecture, hold forth to, preach to, pontificate to, sermonize to, spout to, declaim to, give a lecture to ;  berate,
+                     castigate, criticize, attack, lambaste, censure, pillory, upbraid ;  earbash, speechify to, preachify to, sound off to, spiel to
+		    "the union leaders harangued the workers over loudspeakers"
+   [31m[4m[34mnoun[0m[0m[0m     [31m[4m[34mverb[0m[0m[0m       [31m[4m[34m[0m[0m[0m    
+            [31mभाषण[0m                   [31mभाषण देना[0m               [31mआवेशपूर्ण भाषण[0m     
+  [31mलंबी-चौड़ी बातें बढ़ाना[0m   [31mलंबी-चौड़ी बातें बढ़ाना[0m         [31mउत्तेजक भाषण[0m      
+
+      Origin:  late Middle English: from Old French arenge, from medieval Latin harenga, perhaps of Germanic origin. The spelling was later altered to conform with French
+               harangue (noun), haranguer (verb).

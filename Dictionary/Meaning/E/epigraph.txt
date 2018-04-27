@@ -1,0 +1,21 @@
+[35m                                                                                     EPIGRAPH                                                                                     [0m
+[91m        SHORT  An epigraph is an engraved inscription on a building or statue, or a quotation at the beginning of a piece of writing.[0m
+[36m         LONG  If you look on the U.S. government minted coins in your pocket, you'll see the epigraph "In God We Trust." Epigraph comes from the Greek roots epi- ("on") and
+               graphein ("write"), a root you'll recognize from autograph, graphite, graphic novel, and lots of other familiar words that have to do with
+               writing or drawing.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The epigraph is a quotation from Glenn Gould describing Bach’s “The Art of Fugue”: “For me, these pieces contain an endless range of gray tints.”[0m
+[3m             > This unusual subgenre found a kind of epigraph in Samuel Taylor Coleridge’s great cautionary tale in verse, the 1798 “Rime of the Ancient Mariner.”[0m
+[3m             > When I read in the novel’s epigraph, “Fail — yet rejoice,” it felt like a lie and an impossible imperative at once.[0m
+[3m             > So is the epigraph you pass on your way back up the stairs into daylight and life:[0m
+[3m             > At first, the conscientious reader struggles to consider these passages as though they comprised a tall stack of individual epigraphs.[0m
+
+[35mEpigraph[0m[36m /ˈɛpɪɡrɑːf/,[0m [91m[3mnoun[0m[0m | noun: epigraph; plural noun: epigraphs
+      [32m1.[0m [37man inscription on a building, statue, or coin.[0m
+
+      [32m2.[0m [37ma short quotation or saying at the beginning of a book or chapter, intended to suggest its theme.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mशिलालेख[0m            [31mसूक्ति[0m     
+      [31mपुरालेख[0m            [31mपुरलेख[0m     
+  [31mउत्कीर्ण अभिलेख[0m        [31mउद्धरण[0m     
+      [31mसुभाषित[0m         [31mआदर्श-वाक्य[0m   

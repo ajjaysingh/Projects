@@ -1,0 +1,31 @@
+[35m                                                                                  CIRCUMSTANTIAL                                                                                  [0m
+[91m        SHORT  Circumstantial is a word that refers to specific details about something: in other words, about circumstances. Circumstantial evidence might implicate
+               someone's guilt, but it certainly doesn't prove them guilty.[0m
+[36m         LONG  The word circumstances refers to the facts of your life: everyone has different circumstances. So the word circumstantial refers to the specific details of
+               some situation. This word is most often heard in the term circumstantial evidence, which you may have heard on a TV crime or trial program.
+               Circumstantial evidence might lead a detective to suspect someone's guilt, but eyewitness testimony may be needed to convince the jury.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > That’s because fossilized bones, currently the main source of ancient DNA, are scarce even at sites where circumstantial evidence points to a prehistoric
+               human presence.[0m
+[3m             > But authorities say there is ample circumstantial evidence as well as a history of violence.[0m
+[3m             > The prosecution case was largely based on circumstantial evidence.[0m
+[3m             > “Many times there’s circumstantial evidence in connection with a crime that demonstrates that hate was the reason the victim was selected.”[0m
+[3m             > Mr. Davis carried some heavy baggage, so prosecutors built their case on the circumstantial evidence.[0m
+
+[35mCircumstantial[0m[36m /səːkəmˈstanʃ(ə)l/,[0m [91m[3madjective[0m[0m | adjective: circumstantial
+      [32m1.[0m [37mpointing indirectly towards someone's guilt but not conclusively proving it.[0m
+	   "the prosecution will have to rely on circumstantial evidence"
+  	   [3msynonyms:[0m indirect, inferred, inferential, deduced, presumed, conjectural ;  contingent ;  inconclusive, unprovable ;  presumptive, implicative
+		    "the prosecution will have to rely on circumstantial evidence"
+  	   [3mantonyms:[0m provable
+
+      [32m2.[0m [37m(of a description) containing full details.[0m
+	   "the picture was so circumstantial that it began to be convincing"
+  	   [3msynonyms:[0m detailed, particularized, particular, precise, minute, blow-by-blow ;  full, comprehensive, thorough, exhaustive ;  explicit, specific
+		    "the picture was so circumstantial that it began to be convincing"
+  	   [3mantonyms:[0m vague
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mआकस्मिक[0m     [31mसंयोगवश[0m  
+  [31mब्योरेवार[0m     [31mअचानक[0m   
+   [31mतफ़सीली[0m    [31mविस्तीर्ण[0m 
+   [31mविस्तृत[0m    [31mव्योरेवार[0m 

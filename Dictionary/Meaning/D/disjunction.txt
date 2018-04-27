@@ -1,0 +1,27 @@
+[35m                                                                                   DISJUNCTION                                                                                    [0m
+[91m        SHORT  A disjunction is a broken connection. If you expect to be a doctor but you haven't taken any science courses since high school biology, you would have a
+               disjunction between your expectations and your training.[0m
+[36m         LONG  The -junct- in disjunction is the same Latin root that gives us yoke, the harness that joins two oxen together. So if you have a disjunction, things are not
+               joined together — there's a disconnect. If you order a pizza and the waiter brings you caviar, that's a disjunction. In logic, a disjunction is
+               made by joining two sentences with "or" — "I'm tired, or I'm hungry" — while a conjunction joins two sentences with "and" — "I'm tired, and I'm
+               hungry."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In 2013, an analysis of the top 100 NGOs for that year found “a clear disjunction between the world these NGOs seek to create, and the world their governance
+               structures reproduce”.[0m
+[3m             > Torn between his independence and his heritage, Urrea enacts, through his creation, a hyper-Latino celebration so extreme that it erases this painful
+               disjunction.[0m
+[3m             > Others, however, said the disjunction between Mr. Trump and his national security team raised questions about how relevant the strategy would be.[0m
+[3m             > There’s a strange temporal disjunction at the heart of Jesmyn Ward’s new novel, Sing, Unburied, Sing.[0m
+[3m             > The disjunction between the current political system and the reality of Americans who live under it is so profound that the only solution is either to
+               capitulate to oligarchy or reclaim American democracy.[0m
+
+[35mDisjunction[0m[36m /dɪsˈdʒʌŋ(k)ʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: disjunction; plural noun: disjunctions
+      [32m1.[0m [37ma lack of correspondence or consistency.[0m
+	   "there is a disjunction between the skills taught in education and those demanded in the labour market"
+
+      [32m2.[0m [37mthe relation of two distinct alternatives.[0m
+          • [37ma statement expressing the relation of two distinct alternatives (especially one using the word ‘or’).[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mअलगाव[0m             [31mवियोजन[0m     
+
+      Origin:  late Middle English: from Latin disjunctio(n- ), from disjungere ‘disjoin’ (see disjunct).

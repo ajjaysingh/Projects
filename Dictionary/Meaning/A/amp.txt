@@ -1,0 +1,29 @@
+[35m                                                                                       AMP                                                                                        [0m
+[91m        SHORT  An amp is a unit of electricity. Your new air conditioner might use nine amps of power, replacing your less efficient old one.[0m
+[36m         LONG  When you're measuring electrical charge or current, you can express the units in amps, which is short for amperes. Since the 1880s, the definition of amp has
+               been "the current that one volt can send through one ohm," and the word itself comes from the French physicist who helped found the science of
+               electromagnetism, André-Marie Ampère.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the fall of 1990, this shabby space was crammed with guitars, drums and amps strewn on threadbare carpet, cords and wires everywhere.[0m
+[3m             > Compare that to a radiator that draws about 10 amps and you get a sense of their power.[0m
+[3m             > It seemed the correct amps were not on stage, and Berry was demanding the monetary penalty before he strummed a chord.[0m
+[3m             > If a copy does end up on an actual coffee table, let’s hope it’s one supported by two battered practice amps.[0m
+[3m             > The pep band amps up the energy, as does an increasingly sophisticated student section.[0m
+
+[35mAmp[0m[36m /amp/,[0m [91m[3mnoun[0m[0m | noun: amp; plural noun: amps
+          • [37mshort for ampere.[0m
+[35mAmp[0m[36m /amp/,[0m [91m[3mnoun[0m[0m | noun: amp; plural noun: amps
+      [32m1.[0m [37mshort for amplifier.[0m
+    [91m[3mverb[0m[0m | verb: amp; 3rd person present: amps; past tense: amped; past participle: amped; gerund or present participle: amping; adjective: amped
+      [32m1.[0m [37mplay (music) through electric amplification.[0m
+	   "their willingness to amp up traditional songs virtually began the folk-rock genre"
+
+      [32m2.[0m [37mfull of nervous energy, especially through taking amphetamines or similar drugs.[0m
+	   "I've got all this manic energy. I feel amped"
+[35mAmp[0m [91m[3mabbreviation Biochemistry[0m[0m
+          • [37madenosine monophosphate.[0m
+[35mAdenosine Monophosphate[0m [91m[3mnoun[0m[0m
+	noun: AMP
+          • [37manother term for adenylic acid.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mamp[0m 

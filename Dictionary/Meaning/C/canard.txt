@@ -1,0 +1,20 @@
+[35m                                                                                      CANARD                                                                                      [0m
+[91m        SHORT  During a political campaign, you will often hear on TV commercials some canard about the opponent. This is a false, deluding statement designed to confuse the
+               voters, as it presents the other candidate in a bad light by spreading an untruth.[0m
+[36m         LONG  The Old French word quanart, "duck," morphed into canard, as in "vendre un canard à moitié," which refers to "half-selling" a duck, or cheating someone, and
+               the word came to mean something meant to fool someone deliberately. Poet James Whitcomb Riley said, "When I see a bird that walks like a duck
+               and swims like a duck and quacks like a duck, I call that bird a duck." Not always the case with canard.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the years before running for president, he called it “nonexistent,” a “canard” and a “con.”[0m
+[3m             > The new charges were expected, but they were announced a day ahead of schedule after Le Canard Enchaîné leaked the development over Twitter.[0m
+[3m             > Worse, they’re perpetuating the canard that Obamacare was collapsing on its own, leaving them no choice but to repeal it.[0m
+[3m             > The charges, though expected, were announced a day earlier than anticipated, after the newspaper Le Canard Enchaîné leaked the development over Twitter.[0m
+[3m             > Though no one believed this gross canard, most agreed with the secretary that “it is better to be too alert than not alert enough.”[0m
+
+[35mCanard[0m[36m /kəˈnɑːd,ˈkanɑːd/,[0m [91m[3mnoun[0m[0m | noun: canard; plural noun: canards
+      [32m1.[0m [37man unfounded rumour or story.[0m
+	   "the old canard that LA is a cultural wasteland"
+
+      [32m2.[0m [37ma small wing-like projection attached to an aircraft forward of the main wing to provide extra stability or control, sometimes replacing the tail.[0m
+
+      Origin:  mid 19th century: from French, literally ‘duck’, also ‘hoax’, from Old French caner ‘to quack’.

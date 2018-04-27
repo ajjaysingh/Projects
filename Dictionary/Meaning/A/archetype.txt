@@ -1,0 +1,28 @@
+[35m                                                                                    ARCHETYPE                                                                                     [0m
+[91m        SHORT  An archetype is a perfect example or model of something. If you have long blonde hair, a sparkly ball gown, and a fairy godmother hovering over your head,
+               you're the archetype of a fairytale princess.[0m
+[36m         LONG  In the psychology of Carl Jung, an archetype is an inherited pattern of thought derived from the past experience of the whole race and present in our
+               unconscious minds––Cinderella might be an archetype for girls in our culture; the boogey man is another. This noun is from Latin archetypum,
+               from Greek archetypon, from archetypos "of the first mold," from archein "to begin" plus typos "type."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The author may as well be describing the two male archetypes that dominate his fiction.[0m
+[3m             > He is the archetype of a California tech entrepreneur.[0m
+[3m             > In this way, Taylor provides more of an archetype for the modern guitar man than his peers.[0m
+[3m             > The letter 'A' in the band's name is a reference to the god Adonis - the archetype of youthful male beauty in Greek mythology.[0m
+[3m             > White people, this comedy isn’t expressly about you, although several time-honored college archetypes are prominently displayed.[0m
+
+[35mArchetype[0m[36m /ˈɑːkɪtʌɪp/,[0m [91m[3mnoun[0m[0m | noun: archetype; plural noun: archetypes
+      [32m1.[0m [37ma very typical example of a certain person or thing.[0m
+	   "he was the archetype of the old-style football club chairman"
+          • [37man original which has been imitated; a prototype.[0m
+	   "an instrument which was the archetype of the early flute"
+  	   [3msynonyms:[0m typification, type, prototype, representative, stereotype ;  original, pattern, model, standard, mould ;  embodiment, exemplar, essence, quintessence,
+                     textbook example, paradigm, ideal, idea
+		    "an archetype of the old-style football-club chairman"
+
+      [32m2.[0m [37m(in Jungian theory) a primitive mental image inherited from the earliest human ancestors, and supposed to be present in the collective unconscious.[0m
+
+      [32m3.[0m [37ma recurrent symbol or motif in literature, art, or mythology.[0m
+	   "mythological archetypes of good and evil"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mमूलरूप आदर्श[0m      [31mआदिरूप[0m    

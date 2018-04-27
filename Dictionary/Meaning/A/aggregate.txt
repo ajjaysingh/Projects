@@ -1,0 +1,43 @@
+[35m                                                                                    AGGREGATE                                                                                     [0m
+[91m        SHORT  To aggregate is to collect many units into one. If you're writing a novel, you might create a character who is an aggregate of five or six real people.[0m
+[36m         LONG  Aggregate comes from the Latin verb aggregare, which means to add to. As a verb it means to collect into a mass or whole. You can also use it as an adjective,
+               as in your aggregate sales for February, March and April. It can also be a noun. The mountain of foam in bubble bath is an aggregate of small
+               bubbles. If you plan to work in economics or business, expect to see the word aggregate quite a lot.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The closest event to this one in aggregate was Mr. Comey’s investigation into whether the Trump campaign colluded with Russia to influence the presidential
+               election.[0m
+[3m             > Juventus reached their second Champions League final in three seasons with a comfortable aggregate victory over Monaco.[0m
+[3m             > To cite Pennsylvania as an example, in 2008 Democrats won the aggregate U.S.[0m
+[3m             > Taxpayers in just two states — California and New York — claim roughly a third of the deduction’s aggregate value, according to the nonpartisan Tax Policy
+               Center.[0m
+[3m             > The Italian champions, who advanced to the last four with a 3-0 aggregate win over Barcelona, are ideally placed to reach the final.[0m
+
+[35mAggregate[0m [91m[3mnoun[0m[0m | noun: aggregate; plural noun: aggregates    /ˈaɡrɪɡət/
+      [32m1.[0m [37ma whole formed by combining several separate elements.[0m
+	   "the council was an aggregate of three regional assemblies"
+          • [37mthe total score of a player or team in a fixture comprising more than one game or round.[0m
+	   "he set the pace with a one-over-par aggregate of 151"
+  	   [3msynonyms:[0m total, sum total, sum, whole amount, grand total, totality, entirety, summation, gross, result, final figure
+		    "he won with a 90-hole aggregate of 325"
+
+      [32m2.[0m [37ma material or structure formed from a mass of fragments or particles loosely compacted together.[0m
+	   "the specimen is an aggregate of rock and mineral fragments"
+  	   [3msynonyms:[0m collection, mass, cluster, lump, clump, pile, heap, bundle, quantity ;  accumulation, build-up, agglomeration, concentration, assemblage ;  mixture, mix,
+                     combination, blend, compound, alloy, amalgam, conjunction, synthesis, marriage ;  miscellany, jumble, hotchpotch ;  mixed bag
+		    "the specimen is an aggregate of rock and mineral fragments"
+          • [37mpieces of broken or crushed stone or gravel used to make concrete and in building.[0m
+	   "use aggregate for the first layer when filling the trench"
+    [91m[3madjective[0m[0m | adjective: aggregate    /ˈaɡrɪɡət/
+      [32m1.[0m [37mformed or calculated by the combination of several separate elements; total.[0m
+	   "the aggregate amount of grants made"
+  	   [3msynonyms:[0m total, combined, whole, gross, accumulated, added, entire, complete, full, comprehensive, overall, composite
+		    "an aggregate score of 3–2"
+          • [37m(of a group of species) comprising several very similar species formerly regarded as a single species.[0m
+          • [37mdenoting the total supply or demand for goods and services in an economy at a particular time.[0m
+    [91m[3mverb[0m[0m | verb: aggregate; 3rd person present: aggregates; past tense: aggregated; past participle: aggregated; gerund or present participle: aggregating    /ˈaɡrɪɡeɪt/
+      [32m1.[0m [37mform or group into a class or cluster.[0m
+	   "socio-occupational groups aggregate men sharing similar kinds of occupation"
+          • [37mcollect (related items of content) so as to display or link to them.[0m
+	   "tools that aggregate data from all of the security devices are a good first step"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mकुल[0m          [31mइकट्ठा[0m         [31mकुल जमा[0m      [31mसंचित करना[0m  

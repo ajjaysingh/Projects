@@ -1,0 +1,37 @@
+[35m                                                                                      ENJOIN                                                                                      [0m
+[91m        SHORT  To enjoin is to issue an urgent and official order. If the government tells loggers to stop cutting down trees, they are enjoining the loggers to stop.[0m
+[36m         LONG  Enjoin looks like it should mean bring together, and at one time, it did have that meaning. But in current usage, the only thing enjoin brings together is a
+               command and the person on the receiving end of that order. If your doctor enjoins you to stop smoking, he is suggesting strongly that you quit.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In a March 16 Jurisprudence, Dahlia Lithwick misstated that a lawsuit against Alex Jones and others was filed by a Georgetown law school clinic that also sued
+               to enjoin private armed militias.[0m
+[3m             > In their more serious moments, the trio try to suggest new ways of looking at holy texts and traditions, including the parts which appear to enjoin violence
+               or intolerance.[0m
+[3m             > A federal judge later enjoined DHS from explicitly using family detention as a deterrent.[0m
+[3m             > Republicans plan to ask federal courts to enjoin the map, as they should.[0m
+[3m             > And in October, several far-right leaders and militia groups were sued in the circuit court in a complaint that aims to use Virginia’s anti-paramilitary laws
+               to enjoin armed mobs from marching in the city.[0m
+
+[35mEnjoin[0m[36m /ɪnˈdʒɔɪn,ɛnˈdʒɔɪn/,[0m [91m[3mverb[0m[0m | verb: enjoin; 3rd person present: enjoins; past tense: enjoined; past participle: enjoined; gerund or present participle: enjoining
+          • [37minstruct or urge (someone) to do something.[0m
+	   "the code enjoined members to trade fairly"
+  	   [3msynonyms:[0m urge, urge encourage, encourage try to persuade, adjure, adjure admonish, admonish press, press prompt, prompt prod, prod goad, goad egg on, spur, spur
+                     push, push pressure, pressure put pressure on, use pressure on, pressurize, pressurize lean on ;  instruct, instruct order, order
+                     command, command direct, direct give the order to, give the command to, tell, tell require, require call on, demand, demand charge,
+                     charge warn warn ;  entreat, entreat exhort, exhort implore, implore appeal to, beg, beg beseech, beseech plead with, nag nag ;  put
+                     the heat on, put the screws on, twist someone's arm, railroad into, bulldoze into ;  bid bid
+		    "the Code enjoined members to trade fairly and responsibly"
+          • [37mprescribe (an action or attitude) to be performed or adopted.[0m
+	   "the charitable deeds enjoined on him by religion"
+          • [37mprohibit someone from performing (a particular action) by issuing an injunction.[0m
+	   "he was enjoined from using the patent"
+  	   [3msynonyms:[0m prohibit, prohibit ban, ban bar, bar prevent, prevent inhibit, inhibit interdict interdict ;  forbid to ;  restrain restrain
+		    "the company was enjoined from making any further assertions"
+  	   [3mantonyms:[0m compel compel
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mहुक्म चलाना[0m       [31mआदिष्ट करना[0m   
+     [31mहुक्म देना[0m      [31mव्यादिष्ट करना[0m 
+     [31mरोक लगाना[0m      [31mन्यायनिषेध करना[0m 
+     [31mआज्ञा देना[0m        [31mनिषेध करना[0m   
+
+      Origin:  Middle English (formerly also as injoin ): from Old French enjoindre, from Latin injungere ‘join, attach, impose’, from in- ‘in, towards’ + jungere ‘to join’.

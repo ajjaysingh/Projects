@@ -1,0 +1,45 @@
+[35m                                                                                     HARBOUR                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I’m delighted you’ve been so honest, but you do appear to be harbouring quite a bit of anger.[0m
+[3m             > Such a strategy harbours risks for the former Mexico City mayor.[0m
+[3m             > ONE evening in Tombo, as fish buyers throng the seafront, an argument erupts at the far end of the harbour.[0m
+[3m             > These two strategic harbours made Corinth a classical period power, but the Romans destroyed the city in 146 BC when conquering Greece.[0m
+[3m             > We found that gnotobiotic mice harbouring different microbial communities exhibited differential survival in a colitis model.[0m
+
+[35mHarbour[0m[36m /ˈhɑːbə/,[0m [91m[3mnoun[0m[0m | noun: harbour; plural noun: harbours; noun: harbor; plural noun: harbors
+      [32m1.[0m [37ma place on the coast where ships may moor in shelter, especially one protected from rough water by piers, jetties, and other artificial structures.[0m
+	   "the curved breakwater was built of large stones to construct a small harbour"
+  	   [3msynonyms:[0m port, port dock, dock haven, haven marina, marina dockyard, dockyard boatyard, boatyard mooring, mooring anchorage, anchorage roads, waterfront
+                     waterfront ;  jetty, jetty quay, quay pier, pier slipway, slipway wharf, wharf landing stage landing stage ;  harbourage, harbourage
+                     moorage, roadstead, roadstead hithe hithe
+		    "the boat was tied up in the harbour"
+          • [37ma place of refuge.[0m
+	   "a safe harbour for children in distress"
+  	   [3msynonyms:[0m refuge, refuge haven, haven safe haven, safe haven shelter, shelter sanctuary, sanctuary retreat, retreat asylum, asylum place of safety, place of
+                     security, port in a storm, oasis, oasis sanctum sanctum
+		    "I am looking for a kind man who is a safe harbour for me"
+    [91m[3mverb[0m[0m | verb: harbour; 3rd person present: harbours; past tense: harboured; past participle: harboured; gerund or present participle: harbouring; verb: harbor; 3rd person present: harbors; past tense: harbored; past participle: harbored; gerund or present participle: harboring
+      [32m1.[0m [37mkeep (a thought or feeling, typically a negative one) in one's mind, especially secretly.[0m
+	   "she started to harbour doubts about the wisdom of their journey"
+  	   [3msynonyms:[0m bear, bear nurse, nurse nurture, nurture cherish, cherish entertain, entertain foster, foster feel secretly, hold on to, cling to, possess, possess
+                     maintain, maintain retain retain
+		    "he had never harboured any hostile feelings against them"
+
+      [32m2.[0m [37mgive a home or shelter to.[0m
+	   "woodlands that once harboured a colony of red deer"
+          • [37mshelter or hide (a criminal or wanted person).[0m
+	   "he was suspected of harbouring an escaped prisoner"
+  	   [3msynonyms:[0m shelter, shelter conceal, conceal hide, hide shield, shield protect, protect give asylum to, give sanctuary to, give shelter to, provide a refuge for ;
+                     accommodate, accommodate lodge, lodge put up, take in, billet, billet house house
+		    "he was suspected of harbouring an escaped prisoner"
+  	   [3mantonyms:[0m hand over
+          • [37mcarry the germs of (a disease).[0m
+	   "patients who may have been harbouring tuberculosis"
+
+      [32m3.[0m [37m(of a ship or its crew) moor in a harbour.[0m
+	   "he might have harboured in Falmouth"
+  [31m[4m[34m[0m[0m[0m
+  [31mबंदरगाह[0m 
+
+      Origin:  late Old English herebeorg ‘shelter, refuge’, herebeorgian ‘occupy shelter’, of Germanic origin; related to Dutch herberge and German Herberge, also to French
+               auberge ‘inn’; see also harbinger.

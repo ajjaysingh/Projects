@@ -1,0 +1,29 @@
+[35m                                                                                    PRECURSOR                                                                                     [0m
+[91m        SHORT  You've heard the old saying "Pride comes before the fall?" Well, you could just as easily say pride is a precursor to the fall. A precursor is something that
+               happens before something else.[0m
+[36m         LONG  You don't have to be a dead languages scholar to guess that this word springs from a Latin source — praecursor, "to run before." A precursor is usually
+               related to what it precedes. It's a catalyst or a harbinger, leading to what follows or providing a clue that it's going to happen. Binging on
+               holiday candy is a precursor to tummy aches and promises to exercise more. Draconian policies in unstable nations are often a precursor to
+               rebellion.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He possessed dozens of paintings, including masterpieces, by both his precursors and his contemporaries — from Delacroix and Corot to Manet, Renoir and
+               Cézanne.[0m
+[3m             > That at best we’d view them as earthly pit stops, as the base—the adjective as much as the noun—precursors to a high dream.[0m
+[3m             > Gamergate was a precursor to modern online ideological battles, and some of its best-known figures moved from gaming to general far-right politics.[0m
+[3m             > Inoculation, a precursor to vaccine, involved inducing a light case of the disease in a healthy person in hopes of immunizing that person for life.[0m
+[3m             > The study is part of national efforts to address various parts of connected vehicle technology, considered a precursor to fully autonomous vehicles.[0m
+
+[35mPrecursor[0m[36m /prɪˈkəːsə/,[0m [91m[3mnoun[0m[0m | noun: precursor; plural noun: precursors
+          • [37ma person or thing that comes before another of the same kind; a forerunner.[0m
+	   "a three-stringed precursor of the violin"
+  	   [3msynonyms:[0m forerunner, forerunner predecessor, predecessor forefather, forefather father, father parent, parent antecedent, antecedent ancestor, ancestor forebear,
+                     forebear progenitor progenitor ;  pioneer, pioneer trailblazer trailblazer
+		    "the precursors of the Expressionist movement"
+          • [37ma substance from which another is formed, especially by metabolic reaction.[0m
+	   "pepsinogen is the inactive precursor of pepsin"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mअग्र-दूत[0m        [31mअग्रदूत[0m   
+    [31mअग्रगामी[0m       [31mपूर्वगामी[0m  
+     [31mप्रणेता[0m       [31mपुरोगामी[0m   
+
+      Origin:  late Middle English: from Latin praecursor, from praecurs- ‘preceded’, from praecurrere, from prae ‘beforehand’ + currere ‘to run’.

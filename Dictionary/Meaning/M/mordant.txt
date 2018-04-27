@@ -1,0 +1,33 @@
+[35m                                                                                     MORDANT                                                                                      [0m
+[91m        SHORT  If you like Edgar Allan Poe and "The Addams Family," you have a taste for mordant entertainment — that is, anything particularly grim or dark in nature.[0m
+[36m         LONG  The original meaning of mordant (which comes from the Latin word modere, meaning "to bite or sting,") was that of a physical substance that literally bit into
+               something, such as the one used to set dye into fabrics, or etch lines into a copper plate. Now, mordant generally refers to a dark or biting
+               artistic style, sense of humor, or psychological outlook.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s how we hear her true voice, defiant, spirited, even mordantly funny.[0m
+[3m             > Acutely self-conscious but fiercely intelligent, she consistently renders a strange, mordantly funny and precisely observed world.[0m
+[3m             > Eitzel’s mordant tone was improbable stuff for big halls and arenas.[0m
+[3m             > Today, in the wake of Angela Merkel’s decision to hit the accelerator on demographic change, the book’s mordant tone seems, if anything, too optimistic.[0m
+[3m             > Fleabag, written by and starring Phoebe Waller-Bridge, uses dark comedy to mask its mordant, even bitter, truths.[0m
+
+[35mMordant[0m[36m /ˈmɔːd(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: mordant
+      [32m1.[0m [37m(especially of humour) having or showing a sharp or critical quality; biting.[0m
+	   "a mordant sense of humour"
+  	   [3msynonyms:[0m caustic, trenchant, biting, cutting, acerbic, sardonic, sarcastic, scathing, acid, sharp, keen, tart, pungent, stinging, astringent, incisive,
+                     devastating, piercing, rapier-like, razor-edged ;  critical, bitter, polemic, virulent, vitriolic, venomous, waspish, corrosive ;
+                     acidulous, mordacious
+		    "a mordant sense of humour"
+  	   [3mantonyms:[0m vague, uncritical
+    [91m[3mnoun[0m[0m | noun: mordant; plural noun: mordants
+      [32m1.[0m [37ma substance, typically an inorganic oxide, that combines with a dye or stain and thereby fixes it in a material.[0m
+          • [37man adhesive compound for fixing gold leaf.[0m
+
+      [32m2.[0m [37ma corrosive liquid used to etch the lines on a printing plate.[0m
+    [91m[3mverb[0m[0m | verb: mordant; 3rd person present: mordants; past tense: mordanted; past participle: mordanted; gerund or present participle: mordanting
+      [32m1.[0m [37mimpregnate or treat (a fabric) with a mordant.[0m
+	   "mordanting a fibre is simple"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mचुभता[0m            [31mतीखा[0m      
+       [31mचरपरा[0m          [31mचुभनेवाला[0m   
+  [31mव्यंग्यमिश्रित[0m         [31mतेज[0m      
+   [31mविद्रूपपूर्ण[0m         [31mतीव्र[0m     

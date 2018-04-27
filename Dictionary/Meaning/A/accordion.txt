@@ -1,0 +1,25 @@
+[35m                                                                                    ACCORDION                                                                                     [0m
+[91m        SHORT  An accordion is a hand-held musical instrument that has a keyboard or buttons and a bellows that blows air in and out. A street musician might play folk tunes
+               on her accordion and collect donations in a hat.[0m
+[36m         LONG  One of the distinct features of an accordion is its bellows, which looks like a series of pleats at the center of the instrument, and which allows the player
+               to push and pull the accordion as she plays, blowing air across reeds inside it. The accordion was invented in the early 1800s, and it's played
+               in many countries around the world. The word comes from the German Akkordion, from Akkord, "musical chord" or "be in tune."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > She played the piano and took up the accordion.[0m
+[3m             > She looked short and uncertain, like an accordion in pajamas.[0m
+[3m             > Mr. Mergia left the army to become a singer in bars and clubs, and he practiced accordion and keyboard on house instruments whenever the band members were
+               away.[0m
+[3m             > His white shirt and gray slacks were an accordion of wrinkles.[0m
+[3m             > At the kitchen table of his Southwest Garden home, Boerstler sat with an accordion file folder packed with medical documents, piecing together the health
+               odyssey of the last 10 months.[0m
+
+[35mAccordion[0m[36m /əˈkɔːdɪən/,[0m [91m[3mnoun[0m[0m | noun: accordion; plural noun: accordions
+          • [37ma musical instrument played by stretching and squeezing with the hands to work a central bellows that blows air over metal reeds, the melody and chords being
+            sounded by buttons or keys.[0m
+	   "her five brothers and sisters were singing to the accompaniment of an accordion"
+          • [37mfolding like the bellows of an accordion.[0m
+	   modifier noun: accordion
+          [31m[4m[34m[0m[0m[0m                [31m[4m[34mnoun[0m[0m[0m      
+              [31mएकार्डियन[0m                  [31mहाथ से बजाने का छोटा बाजा[0m    
+
+      Origin:  mid 19th century: from German Akkordion, from Italian accordare ‘to tune’.

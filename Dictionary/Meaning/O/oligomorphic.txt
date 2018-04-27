@@ -1,0 +1,5 @@
+[35m                                                                                   OLIGOMORPHIC                                                                                   [0m
+
+	Wiki Definition:
+              	An  oligomorphic  engine is generally used by a computer virus to generate a decryptor for itself in a way comparable to a simple polymorphic engine. It does
+               this by randomly selecting each piece of the decryptor from several predefined alternatives.

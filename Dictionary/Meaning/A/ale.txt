@@ -1,0 +1,21 @@
+[35m                                                                                       ALE                                                                                        [0m
+[91m        SHORT  Ale is a particular type of beer. Ale would be a good thing to order if you ever visit a pub in Britain.[0m
+[36m         LONG  Ale is yeast-fermented beer, brewed with sweet-tasting malted barley, and often with hops, to balance the sweetness with a more bitter flavor. In Britain, ale
+               is considered to be any beer "other than lager, stout, or porter," while in the US ale is distinguished by the style of fermentation. The Old
+               English origin of ale is ealu, "ale or beer." The Proto-Indo-European root has an implied meaning of "sorcery, magic, and intoxication."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Lamb, on Lamb’s Conduit Street, for a typical pub lunch of fish, chips and mushy peas or steak and ale pie.[0m
+[3m             > Real ale producer Charles Wells is to sell off its Bedford brewery to pub operator Marston's in a £55 million deal.[0m
+[3m             > Miss Fancy’s Tripel reminds me of certain Belgians, and the Train Hopper Pale Ale is crisp and tasty.[0m
+[3m             > Guinness, Magner’s Irish cider and McManus’s own house ale are on tap; there’s also a fine selection of Irish whiskies.[0m
+[3m             > The most prominent speaker in Philadelphia was Ales Hrdlicka, then sixty-eight.[0m
+
+[35mAle[0m[36m /eɪl/,[0m [91m[3mnoun[0m[0m | noun: ale; plural noun: ales
+          • [37many beer other than lager, stout, or porter.[0m
+	   "a draught of ale"
+          • [37mbeer brewed by top fermentation.[0m
+          • [37ma drink made like beer but without the addition of hops.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mशराब[0m        [31mयवसुरा[0m   
+     [31mमद्य[0m          [31mएल[0m     
+  [31mजौ की शराब[0m      [31mबीयर[0m    

@@ -1,0 +1,16 @@
+[35m                                                                                      ABBOT                                                                                       [0m
+[91m        SHORT  An abbot is the head of a monastery. Just as businesses have bosses and teams have coaches, the monastery has an abbot.[0m
+[36m         LONG  The word abbot comes from the Greek abbas, which means "father” as a title with honor. An abbot is the superior of a monastery, the father of the fathers — in
+               other words. Other monks must obey the abbot, and the abbot should lead and inspire all the monks.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Texas Governor Greg Abbot expressed "deepest condolences to the victims and the families of those involved in today's tragic event".[0m
+[3m             > The Abbot Point coal terminal and ports at Mackay and Hay Point were closed.[0m
+[3m             > In one corner of the room, an abbot sat discussing a text with one of the printers.[0m
+[3m             > Abbot Justin Brown estimates that repairs are about 50 percent complete.[0m
+[3m             > It symbolises the world, monks say, and the peacock is a nod to the abbot’s former mentor, a Buddhist nun whose name means peacock.[0m
+
+[35mAbbot[0m[36m /ˈabət/,[0m [91m[3mnoun[0m[0m | noun: abbot; plural noun: abbots
+          • [37ma man who is the head of an abbey of monks.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mमहंत[0m       [31m(ईसाई) मठाधीश[0m 
+      [31mमठाधीश[0m          [31mमठगुरु[0m    

@@ -1,0 +1,33 @@
+[35m                                                                                     AGNOSTIC                                                                                     [0m
+[91m        SHORT  If someone believes they cannot know whether or not God exists, label them an agnostic. A bad joke: Did you hear about the dyslexic agnostic insomniac? He
+               stayed up all night wondering if there was a dog.[0m
+[36m         LONG  In 1869, English biologist T.H. Huxley coined this noun referring to someone whose religious beliefs lie somewhere in between those of a theist and an atheist
+               — that is, a believer and a disbeliever in God. Huxley combined the Greek prefix a-, meaning "not," with gnostos, "known." It can be used as a
+               noun or  adjective, and it can also refer to uncertainty about questions other than the existence of God: "Some philosophers remain agnostic as
+               to whether people have free will."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Although Oasis follows a Sunday morning structure similar to many Christian churches, it calls itself a “community beyond belief,” focused on atheists,
+               humanists and agnostics.[0m
+[3m             > Elizabeth Deal, who describes herself as agnostic, is one of the plaintiffs in the case.[0m
+[3m             > Instead she voted for Libertarian candidate Gary Johnson, a politically agnostic move that erred on the side of the genuinely batshit.[0m
+[3m             > A small portion of those 25 percent identify as atheist or agnostic.[0m
+[3m             > But he is aware that many millennials, about 30 percent, consider themselves agnostic or unaffiliated; they don’t prioritize church like older generations.[0m
+
+[35mAgnostic[0m[36m /aɡˈnɒstɪk/,[0m [91m[3mnoun[0m[0m | noun: agnostic; plural noun: agnostics
+      [32m1.[0m [37ma person who believes that nothing is known or can be known of the existence or nature of God.[0m
+	   "he was an agnostic, but his notebooks reveal a kind of religious attitude to the universe"
+	   [3msynonyms:[0m sceptic, doubter, questioner, doubting Thomas, challenger, 
+		    "he was an agnostic, but his notebooks reveal a kind of religious attitude to the universe"
+	   [3mantonyms:[0m believer, theist
+    [91m[3madjective[0m[0m | adjective: agnostic
+      [32m1.[0m [37mrelating to agnostics or agnosticism.[0m
+	   "a group of prominent agnostic scientists"
+	   [3msynonyms:[0m sceptical, doubting, questioning, unsure, cynical, 
+		    "a group of prominent agnostic scientists"
+	   [3mantonyms:[0m theist
+          • [37m(in a non-religious context) having a doubtful or non-committal attitude towards something.[0m
+	   "until now I've been fairly agnostic about electoral reform"
+          • [37mdenoting or relating to hardware or software that is compatible with many types of platform or operating system.[0m
+	   "many common file formats (JPEG, MP3, etc.) are platform-agnostic"
+    [31m[4m[34m[0m[0m[0m    [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mअनीश्वरवादी[0m           [31mअज्ञेयवाद का[0m       [31mअज्ञेयवाद का अनुयायी[0m 

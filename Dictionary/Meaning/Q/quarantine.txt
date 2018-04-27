@@ -1,0 +1,25 @@
+[35m                                                                                    QUARANTINE                                                                                    [0m
+[91m        SHORT  If you contract something highly infectious, such as pinkeye, please quarantine yourself so that you don’t infect others with it. This means you’ll have to
+               stay in isolation and avoid contact with other people.[0m
+[36m         LONG  Starting in the 16th century, a quarantine lasted specifically 40 days. The word is in fact derived from the Latin quadraginta, which means "forty."
+               Originally, this referred to the amount of time a widow could remain in her deceased husband’s house, then referred to the period of time a
+               ship had to wait off a country’s port if its passengers were disease-stricken. Now, it can mean a period of isolation of any length, and can be
+               used as both a verb and a noun.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But authorities say repeated inspections showed Luxy continued to sell tainted jewelry until it was quarantined last year.[0m
+[3m             > They plan to use minimal doses of Zika virus and to quarantine patients in a hospital inpatient unit.[0m
+[3m             > The nurses and patient were quarantined and treated for minor injuries.[0m
+[3m             > The farm’s animals must be kept away from the public until the quarantine is lifted.[0m
+[3m             > Sadly, the abuse of the concept of immunity hasn’t been quarantined to the courts.[0m
+
+[35mQuarantine[0m[36m /ˈkwɒrəntiːn/,[0m [91m[3mnoun[0m[0m | noun: quarantine; plural noun: quarantines
+      [32m1.[0m [37ma state, period, or place of isolation in which people or animals that have arrived from elsewhere or been exposed to infectious or contagious disease are placed.[0m
+	   "many animals die in quarantine"
+    [91m[3mverb[0m[0m | verb: quarantine; 3rd person present: quarantines; past tense: quarantined; past participle: quarantined; gerund or present participle: quarantining
+      [32m1.[0m [37mput (a person or animal) in quarantine.[0m
+	   "I quarantine all new fish for one month"
+   [31m[4m[34m[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mसंगरोध[0m               [31mकोरांटीन[0m              [31mअलग करना[0m      
+       [31mक्वारंटाइन[0m       [31mअस्पताल का अलग कमरा[0m        [31mपृथक करना[0m      
+
+      Origin:  mid 17th century: from Italian quarantina ‘forty days’, from quaranta ‘forty’.

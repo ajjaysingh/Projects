@@ -1,0 +1,25 @@
+[35m                                                                                    TRIVIALIZE                                                                                    [0m
+[91m        SHORT  When you trivialize something, you make it seem less important than it really is. Some people complain that TV news tends to trivialize complicated political
+               stories.[0m
+[36m         LONG  If your friend tends to trivialize your problems and worries, he dismisses them as being too small to fret about, which might make you feel like he's not
+               taking you seriously. If you trivialize your own health concerns, other people might not realize how sick you're feeling. When you trivialize
+               an issue, you make it look more trivial than it is, or less significant. The Latin root of both trivialize and trivial is trivialis, "common,
+               commonplace, or vulgar."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Not all of whose who watched Mr. Comey testify were comfortable with the comparison, saying that it trivialized victims of harassment and abuse.[0m
+[3m             > Certainly, recovery is a serious matter, which I do not intend to trivialize.[0m
+[3m             > “We should never let this happen, and never trivialize such acts.”[0m
+[3m             > While Durant intended to raise awareness about capital punishment and America’s violent past, protesters said it was insensitive and trivialized history.[0m
+[3m             > Protesters said the sculpture trivialized the deaths of their ancestors.[0m
+
+[35mTrivialize[0m[36m /ˈtrɪvɪəlʌɪz/,[0m [91m[3mverb[0m[0m | verb: trivialize; 3rd person present: trivializes; past tense: trivialized; past participle: trivialized; gerund or present participle: trivializing; verb: trivialise; 3rd person present: trivialises; past tense: trivialised; past participle: trivialised; gerund or present participle: trivialising
+          • [37mmake (something) seem less important, significant, or complex than it really is.[0m
+	   "the problem was either trivialized or ignored by teachers"
+  	   [3msynonyms:[0m treat as unimportant, minimize, play down, underplay, make light of, treat lightly, make little of, think little of, laugh off, dismiss, underestimate,
+                     undervalue, devalue, belittle, deprecate, scoff at ;  pooh-pooh ;  hold cheap ;  misprize, derogate, minify
+		    "the problem was either trivialized or ignored by teachers"
+  	   [3mantonyms:[0m make a big thing of
+  [31m[4m[34m[0m[0m[0m 
+  [31mमहत्वहीन बना देना[0m 
+
+      Origin:  antonyms:make a big thing of

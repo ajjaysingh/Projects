@@ -1,0 +1,53 @@
+[35m                                                                                       CANT                                                                                       [0m
+[91m        SHORT  Cant is language repeated so often and so mechanically that it's essentially empty of meaning. Cant can also mean the specialized jargon of a particular group
+               — like the "cant of piracy" (e.g., Ahoy! Lubber! Arrr!).[0m
+[36m         LONG  Possible sources for cant exist in both Irish Gaelic and Latin, and the meanings of both are similar: caint is "speech," while cantare is "to sing." In
+               broader English, the word was first used to mock the singing of monks (who makes fun of monks?). As it evolved, cant became the whining of
+               beggars and then the secret language of thieves, and the negative connotations persist in modern usage. Just think of the clichés and
+               catchphrases parroted by politicians during election season![0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He warned that “some thresholds, if we cross them, cant be reversed.”[0m
+[3m             > Or: She cant see without her glasses. hardly/scarcely/no sooner.[0m
+[3m             > Along one wall, a 48-foot-wide and 20-foot-high canted plane of slate roofing tiles confronts the spectator with both invitation and refusal.[0m
+[3m             > "You cant read too much into it. Is it hate or is it jealousy?"[0m
+[3m             > DeHais also masterminded the set, an eye-catching arrangement of menacingly canted bookshelves full of little surprises.[0m
+
+[35mCant[0m[36m /kant/,[0m [91m[3mnoun[0m[0m | noun: cant
+      [32m1.[0m [37mhypocritical and sanctimonious talk, typically of a moral, religious, or political nature.[0m
+	   "he had no time for the cant of the priests about sin"
+  	   [3msynonyms:[0m hypocrisy, sanctimoniousness, sanctimony, humbug, pietism, affected piety, insincerity, sham, lip service, empty talk, pretence ;  Pharisaism,
+                     Tartufferie
+		    "religious cant"
+  	   [3mantonyms:[0m sincerity
+
+      [32m2.[0m [37mlanguage specific to a particular group or profession and regarded with disparagement.[0m
+	   "thieves' cant"
+  	   [3msynonyms:[0m slang, jargon, idiom, argot, patter, patois, vernacular, speech, terminology, language ;  lingo, -speak, -ese
+		    "thieves' cant"
+          • [37mdenoting a phrase or catchword temporarily current or in fashion.[0m
+	   modifier noun: cant
+    [91m[3mverb dated[0m[0m | verb: cant; 3rd person present: cants; past tense: canted; past participle: canted; gerund or present participle: canting
+      [32m1.[0m [37mtalk hypocritically and sanctimoniously about something.[0m
+	   "if they'd stop canting about ‘honest work’ they might get somewhere"
+[35mCant[0m[36m /kant/,[0m [91m[3mverb[0m[0m | verb: cant; 3rd person present: cants; past tense: canted; past participle: canted; gerund or present participle: canting
+      [32m1.[0m [37mhave or cause to have a slanting or oblique position; tilt.[0m
+	   "he canted his head to look at the screen"
+  	   [3msynonyms:[0m tilt, lean, slant, slope, incline, angle, be at an angle ;  tip, list, bank, heel
+		    "the deck canted some twenty degrees"
+          • [37m(of a ship) swing round.[0m
+	   "the ship canted to starboard"
+  	   [3msynonyms:[0m tilt, lean, slant, slope, incline, angle, be at an angle ;  tip, list, bank, heel
+		    "the deck canted some twenty degrees"
+    [91m[3mnoun[0m[0m | noun: cant; plural noun: cants
+      [32m1.[0m [37ma slope or tilt.[0m
+	   "the outward cant of the curving walls"
+  	   [3msynonyms:[0m slope, slant, tilt, angle, inclination
+		    "the outward cant of the curving walls"
+
+      [32m2.[0m [37ma wedge-shaped block of wood, especially one remaining after the better-quality pieces have been cut off.[0m
+	   "a squared-off cant remains, containing the knottiest wood"
+[35mCant.[0m [91m[3mabbreviation[0m[0m | symbol: Cant.
+          • [37mCanticles (the Song of Songs) (in biblical references).[0m
+   [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34madjective[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+        [31mखिचड़ी भाषा[0m            [31mखिचड़ी भाषा का[0m       [31mखिचड़ी भाषा में बोलाना[0m            [31mआनति[0m          
+          [31mकठबोली[0m                  [31mकठबोली का[0m                [31mभीख मंगना[0m                  [31mझुकाव[0m         

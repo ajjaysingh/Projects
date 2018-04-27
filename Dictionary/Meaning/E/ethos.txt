@@ -1,0 +1,28 @@
+[35m                                                                                      ETHOS                                                                                       [0m
+[91m        SHORT  Ethos is the spirit of a time or society. It’s the set of beliefs a community lives by. Free spirits might live by the ethos of "anything goes." Zombies might
+               live by the ethos “eat more brains.”[0m
+[36m         LONG  The noun ethos refers to the particular rules and values that organize people, although the ethos can vary from group to group. For example, in some cultures
+               individual rights might be highly valued, while in others the good of the community as a whole might be considered more important. The Greek
+               root word ethos is related to “ethics” and refers to moral character. In rhetoric, an appeal to ethos means that a speaker attempts to persuade
+               the audience that she is authoritative and credible.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I believe that ethos lives on at Apple today.[0m
+[3m             > Its ethos — seeing players as consistent characters unfolding in a serialized drama — is now dominant.[0m
+[3m             > A book, released in 2010, catalogued the brand’s output alongside text explaining its ethos.[0m
+[3m             > Complicating matters is the collaborative ethos among programmers, which encourages code-sharing in ways that might not be acceptable in a class.[0m
+[3m             > The Wall’s uniting and healing effect directly reflects Wheeler’s political ethos.[0m
+
+[35mEthos[0m[36m /ˈiːθɒs/,[0m [91m[3mnoun[0m[0m | noun: ethos
+          • [37mthe characteristic spirit of a culture, era, or community as manifested in its attitudes and aspirations.[0m
+	   "a challenge to the ethos of the 1960s"
+  	   [3msynonyms:[0m spirit, spirit character, character atmosphere, atmosphere climate, climate prevailing tendency, mood, mood feeling, feeling temper, temper tenor, tenor
+                     flavour, flavour essence, essence quintessence quintessence ;  animating principle, dominating characteristic, motivating force,
+                     disposition, disposition rationale, rationale code, code morality, morality moral code, attitudes, beliefs, principles, standards,
+                     ethics ethics
+		    "the governing body has responsibility for the ethos of the school"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mलोकाचार[0m         [31mप्रकृति[0m    
+       [31mआचार[0m           [31mस्वभाव[0m    
+     [31mलोकनीति[0m          [31mचरित्र[0m    
+
+      Origin:  mid 19th century: from modern Latin, from Greek ēthos ‘nature, disposition’, (plural) ‘customs’.

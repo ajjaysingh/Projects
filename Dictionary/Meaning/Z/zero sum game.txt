@@ -1,0 +1,6 @@
+[35m                                                                                  ZERO SUM GAME                                                                                   [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+
+	Wiki Definition:
+              	In  game  theory and economic theory, a  zero - sum game  is a mathematical representation of a situation in which each participant's gain or loss of utility
+               is exactly balanced by the losses or gains of the utility of the other participants.

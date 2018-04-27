@@ -1,0 +1,24 @@
+[35m                                                                                      EMEND                                                                                       [0m
+[91m        SHORT  When you emend a piece of writing, you correct or revise it. If you are asked to emend a report, that just means you need to go through it and make revisions.[0m
+[36m         LONG  Emend is similar in spelling and pronunciation to another word, amend, and there’s a slight overlap in meaning as well. Emend refers to changes and
+               improvements made to a text. Amend also can refer to making minor changes to a text, but it can be used to describe improvements made to other
+               things as well — for example, you can amend a situation. In contrast, emend’s powers are limited to words. So if you’re using emend — the one
+               with the "e" — just make sure you’re describing improvements that involve text.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > When the nausea got worse again, he started taking a third drug, Emend, which worked better, allowing him to eat a liquid diet, he says.[0m
+[3m             > Then his naturalization was cancelled, and the form on file with the court was emended to read “member of the yellow race.”[0m
+[3m             > The Nicene Creed, formulated under Emperor Constantine in AD 325 and emended in AD 381, stated bluntly that Christ “was crucified under Pontius Pilate.”[0m
+[3m             > It’s rife with typos and misspellings and sprinkled with attempts at emending them.[0m
+[3m             > But writers also seem driven to confront, reinterpret and emend the canon.[0m
+
+[35mEmend[0m[36m /ɪˈmɛnd/,[0m [91m[3mverb[0m[0m | verb: emend; 3rd person present: emends; past tense: emended; past participle: emended; gerund or present participle: emending
+          • [37mmake corrections and revisions to (a text).[0m
+	   "these studies show him collating manuscripts and emending texts"
+  	   [3msynonyms:[0m correct, rectify, repair, fix ;  improve, enhance, polish, refine, clarify ;  edit, alter, rewrite, revise, copy-edit, subedit, amend, change, modify ;
+                     redraft, recast, rephrase, reword, rework, rescript ;  expurgate, censor, redact, bowdlerize
+		    "the journalistic practice of emending quotations in the areas of grammar and syntax"
+          • [37malter (something that is incorrect).[0m
+	   "the year of his death might need to be emended to 652"
+       [31m[4m[34mverb[0m[0m[0m              [31m[4m[34m[0m[0m[0m       
+             [31mठीक करना[0m                        [31mसंशोधन करना[0m          
+              [31mसुधारना[0m                       [31mकाट-छाँट करना[0m         

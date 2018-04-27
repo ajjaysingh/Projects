@@ -1,0 +1,25 @@
+[35m                                                                                    BENEFACTOR                                                                                    [0m
+[91m        SHORT  Every school, museum, and struggling artist is in search for a generous benefactor, or someone to provide the financial means to keep everything running
+               smoothly.[0m
+[36m         LONG  The Latin roots of benefactor are bene, which means "well," and facere, which means "to do" — literally, "to do well."  A benefactor does well by supporting
+               (usually financially) a person or a good cause. In the old days, a struggling artist or actor might have been supported by a wealthy
+               benefactor. Now, many struggling artists and actors have to rely on waiting tables and other odd jobs instead.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The commission is said to want private investors to provide €1bn-plus before approving a bail-out; such benefactors are understandably hard to find.[0m
+[3m             > Unlike conventional benefactors, he is hands-on: School district administrators now submit an annual grant wish list to the Salesforce.org board for review.[0m
+[3m             > The aid dried up, however as oil prices tumbled and leaked audiotapes appeared to show el-Sissi speaking poorly of his Saudi benefactors.[0m
+[3m             > Then there are the red blankets that some big Stanford benefactors receive when they check in as patients.[0m
+[3m             > And he says the foundation only was able to repay the money because of a financial gift from a benefactor’s estate.[0m
+
+[35mBenefactor[0m[36m /ˈbɛnɪfaktə/,[0m [91m[3mnoun[0m[0m | noun: benefactor; plural noun: benefactors
+          • [37ma person who gives money or other help to a person or cause.[0m
+	   "a low-interest loan from a benefactor allowed them to build a floor for the exhibition hall"
+  	   [3msynonyms:[0m patron, benefactress, supporter, backer, helper, sponsor, promoter, champion ;  donor, contributor, subscriber, subsidizer ;  philanthropist, good
+                     Samaritan, sympathizer, well-wisher, friend ;  angel, fairy godmother ;  almsgiver ;  benefactrice, benefactrix, philanthrope,
+                     Maecenas
+		    "they erected a statue to their most generous benefactor"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mदान करनेवाला[0m     [31mदानकर्ता[0m   
+  [31mदान देनेवाला[0m      [31mउपकारी[0m    
+
+      Origin:  late Middle English: from Latin, from bene facere ‘do good (to)’ (see benefaction).

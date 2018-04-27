@@ -1,0 +1,78 @@
+[35m                                                                                       DIM                                                                                        [0m
+[91m        SHORT  Dim has several meanings related to a lack of light, hope, or knowledge. A room that is not well lit is dim, a slow thinker is dim, and when life looks
+               hopeless, your prospects are dim.[0m
+[36m         LONG  To dim a light is to dull it, like by putting a shade over it. A vague idea without a lot of specifics is also dim, since it's hard to see or understand the
+               idea. Someone who's not very bright is dim or a dimwit. When things are hopeless, they're dim too. For example, if a football team is losing by
+               fifty points, their chances of winning are dim.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Boozy, caffeinated tiramisù, whose origins are traced back to Treviso, Italy, infiltrated the menus of Italian restaurants throughout New York, where the
+               dessert remains today, its light dimmed but still occasionally capable of dazzling.[0m
+[3m             > FRI-SAT Volunteer astronomers provide telescopes and assist guest of all ages to observe the moon, planets, constellations and interesting astronomical
+               objects; bring only dim, red lights, no white flashlights; weather may cancel, 9 p.m.[0m
+[3m             > She was primarily there to network Wednesday, but when the lights dimmed and a short film was shown about the history of movie making, she found herself
+               getting surprisingly emotional.[0m
+[3m             > “The lights were dimmed, and the fire was going, right?” the lawyer continued.[0m
+[3m             > When a planet passes in front of a distant star, it dims the star’s light ever so slightly.[0m
+
+[35mDim[0m[36m /dɪm/,[0m [91m[3madjective[0m[0m | adjective: dim; comparative adjective: dimmer; superlative adjective: dimmest
+      [32m1.[0m [37m(of a light, colour, or illuminated object) not shining brightly or clearly.[0m
+	   "the dim glow of the fire"
+  	   [3msynonyms:[0m subdued, muted, wishy-washy, pale, dull, soft, feeble, faint, weak, dingy, flat, lustreless,
+		    "the stage lighting was extremely dim"
+  	   [3mantonyms:[0m bright,
+          • [37m(of an object or shape) made difficult to see by darkness, shade, or distance.[0m
+	   "a dim figure in the dark kitchen"
+  	   [3msynonyms:[0m bleary, obfuscated, obscured, nebulous, blurred, imperceptible, unclear, blurry, indistinct, shadowy, fuzzy, ill-defined, vague,
+		    "he glimpsed dim shapes through the foliage"
+  	   [3mantonyms:[0m distinct,
+          • [37m(of a room or other space) made difficult to see in by darkness.[0m
+	   "long dim corridors"
+  	   [3msynonyms:[0m Stygian, grey, crepuscular, leaden, poorly lit, dismal, cloudy, dark, misty, murky, tenebrous, caliginous, darkish, unilluminated, ill-lit, gloomy, badly
+                     lit, overcast, sombre, dusky, foggy, dingy, unlit, Cimmerian,
+		    "it was a dim, grey day"
+  	   [3mantonyms:[0m bright,
+          • [37m(of the eyes) unable to see clearly.[0m
+	   "his eyes became dim"
+          • [37m(of a sound) indistinct or muffled.[0m
+	   "the dim drone of their voices"
+          • [37mnot clearly recalled or formulated in the mind.[0m
+	   "dim memories"
+  	   [3msynonyms:[0m imprecise, hazy, obscure, foggy, sketchy, blurred, unclear, imperfect, indistinct, shadowy, confused, remote, vague,
+		    "he had only dim memories of his late father"
+  	   [3mantonyms:[0m clear,
+
+      [32m2.[0m [37m(of a situation) not giving cause for hope or optimism.[0m
+	   "their prospects for the future looked fairly dim"
+  	   [3msynonyms:[0m sombre, dispiriting, discouraging, depressing, gloomy, unpromising, disheartening, unfavourable,
+		    "their prospects for the future looked fairly dim"
+  	   [3mantonyms:[0m encouraging,
+
+      [32m3.[0m [37mstupid or slow to understand.[0m
+	   "you're just incredibly dim"
+    [91m[3mverb[0m[0m | verb: dim; 3rd person present: dims; past tense: dimmed; past participle: dimmed; gerund or present participle: dimming
+      [32m1.[0m [37mmake or become less bright or distinct.[0m
+	   "a smoky inferno that dimmed the sun"
+  	   [3msynonyms:[0m fade, become overcast, become gloomy, lour, blacken, cloud over, grow dim, darken, dull, grow faint, grow dark, grow leaden, grow feeble,
+		    "wait until the gas lamps dim"
+  	   [3mantonyms:[0m brighten,
+          • [37mlower the beam of (a vehicle's headlights) to avoid dazzling oncoming drivers.[0m
+	   "the car moved slowly, its headlights dimmed"
+  	   [3msynonyms:[0m make less intense, lower, dip, soften, subdue, turn down, mute, make faint, make dim, make less bright, bedim,
+		    "she insisted the lights be dimmed"
+  	   [3mantonyms:[0m turn up,
+          • [37mmake or become less intense.[0m
+	   "the difficulty in sleeping couldn't dim her happiness"
+  	   [3msynonyms:[0m fade, fail, grow dim, become blurred, become confused, become shadowy, disappear, dull, become indistinct, become vague, blur, numb,
+		    "my memories have not dimmed with the passage of time"
+  	   [3mantonyms:[0m sharpen,
+          • [37mmake or become less able to see clearly.[0m
+	   "his eyes dimmed"
+[35mDim.[0m [91m[3mabbreviation[0m[0m | symbol: dim.
+          • [37mdiminuendo.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mधुंधला[0m       [31mधुंधला हो जाना[0m      [31mमंद होना[0m    
+      [31mअस्पष्ट[0m        [31mमंद हो जाना[0m      [31mधुंधला होना[0m  
+       [31mफीका[0m         [31mधुंधला बनाना[0m     [31mअस्पष्ट होना[0m  
+       [31mमांद[0m           [31mकुंद करना[0m            [31m[0m        
+
+      Origin:  Old English dim, dimm, of Germanic origin; related to German dialect timmer .

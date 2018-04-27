@@ -1,0 +1,34 @@
+[35m                                                                                      LEEWAY                                                                                      [0m
+[91m        SHORT  Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any
+               leeway––could you, say, bring it first thing Tuesday morning?[0m
+[36m         LONG  Leeway is a nautical term, referring to a vessel's drift to the lee, (nautical for "downwind"). Now, it is very useful in describing those gray areas in
+               life––for example, everyone has a ten-minute leeway when meeting friends where you're not officially late, even if you're not actually on time.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > There is no leeway on previous pot smoking for them.[0m
+[3m             > We all know by now that in college sports, coaches have far more leeway to pick up and leave than the players do.[0m
+[3m             > Environment Minister Li Ganjie said this year that China would not adopt an “indiscriminate one-size-fits-all approach”, adding that companies have plenty of
+               leeway to clean up and survive.[0m
+[3m             > Customers often have little knowledge of where their data might end up, experts said, while D.J.I. and others give themselves considerable leeway in the fine
+               print of their user agreements to transfer data across borders.[0m
+[3m             > Customers often have little knowledge of where their data might end up, experts said, while DJI and others give themselves considerable leeway in the fine
+               print of their user agreements to transfer data across borders.[0m
+
+[35mLeeway[0m[36m /ˈliːweɪ/,[0m [91m[3mnoun[0m[0m | noun: leeway
+      [32m1.[0m [37mthe amount of freedom to move or act that is available.[0m
+	   "the government had greater leeway to introduce reforms"
+  	   [3msynonyms:[0m freedom, freedom scope, scope room to manoeuvre, latitude, latitude elbow room, elbow room slack, slack space, space room, room liberty, liberty room to
+                     spare, room to operate, scope for initiative, freedom of action, freedom from restriction, a free hand, flexibility, flexibility
+                     independence, independence licence, licence self-determination, self-determination free rein, free play, unrestrictedness,
+                     indulgence, indulgence margin, margin play, play give, give laxity, laxity leisure leisure ;  wriggle room, wiggle room wiggle room
+                     ;  carte blanche carte blanche
+		    "this has left the police with some leeway to interpret the law for themselves"
+  	   [3mantonyms:[0m constraint, constraint restriction restriction
+          • [37mmargin of safety.[0m
+	   "there is little leeway if anything goes wrong"
+
+      [32m2.[0m [37mthe sideways drift of a ship to leeward of the desired course.[0m
+	   "the leeway is only about 2°"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mछूट[0m        [31mहवा की ओर[0m  
+
+      Origin:  "the leeway is only about 2°"

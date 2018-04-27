@@ -1,0 +1,20 @@
+[35m                                                                                     DUMPLING                                                                                     [0m
+[91m        SHORT  A dumpling is a delicious, bite-sized food that's made of savory ingredients wrapped in dough and cooked. Chinese dumplings can be steamed, boiled, or fried.[0m
+[36m         LONG  If you order dumplings in a Chinese restaurant, you'll get a filling made with vegetables, meat, or fish — it might be a wonton, cooked in a soup, or a
+               potsticker, steamed and then lightly fried. Most cultures have some version of a savory dumpling, and many have sweet dumplings as well, like
+               apple dumplings, which have a fruit filling wrapped in pastry.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “These are all things I grew up eating,” Ma said of the approximately 15-item selection that will include bao, noodles and dumplings.[0m
+[3m             > In true Winterson style, salmon and champagne, Chinese dumplings and turkey biryani are offered as well.[0m
+[3m             > He was born in New York to Chinese immigrants, and worked alongside them at a noodle and dumpling factory in Brooklyn.[0m
+[3m             > The dish is quite different from the lightly boiled potato dumplings that most of us think of when we consider gnocchi.[0m
+[3m             > Fresh sorrel and pickled turnips added welcome astringency to the cheese and potato-filled dumplings, tinted ruby-red with beet juice.[0m
+
+[35mDumpling[0m[36m /ˈdʌmplɪŋ/,[0m [91m[3mnoun[0m[0m | noun: dumpling; plural noun: dumplings
+          • [37ma small savoury ball of dough (usually made with suet) which may be boiled, fried, or baked in a casserole.[0m
+          • [37ma pudding consisting of apple or other fruit enclosed in a sweet dough and baked.[0m
+          • [37ma small, fat person.[0m
+	   "he was a 250-pound dumpling"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mगुलगुला[0m       [31mपकायी हुई पकौड़ी[0m 
+      [31mपकौडियां[0m       [31mउबाली हुई पकौड़ी[0m 

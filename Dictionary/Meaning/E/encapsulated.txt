@@ -1,0 +1,31 @@
+[35m                                                                                   ENCAPSULATED                                                                                   [0m
+[91m        SHORT  To encapsulate something is to sum it up in shorter form — to summarize something.[0m
+[36m         LONG  When you see the word encapsulate, think about trying to put your comic book collection inside one tiny capsule — all of them wouldn't fit, so you'd have to
+               pick out just your favorites or the most valuable ones. Encapsulating means condensing something down into its most important parts, so you
+               just get the gist of it. Cliff's Notes encapsulate longer books. If you tell a friend about your summer vacation, you better encapsulate it or
+               you'll be there for hours.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > We then applied a unique combination of encapsulated cups, engineered to soften bounce.”[0m
+[3m             > The 0-0 draw with Manchester United on Thursday encapsulated the second half of its season.[0m
+[3m             > The fiasco perfectly encapsulated what’s looking more and more like a failed agenda.[0m
+[3m             > Fortunately, these problems were encapsulated by the Clinton campaign.[0m
+[3m             > And yet, the photograph encapsulated the fatigue, exultation, hope and perhaps lingering trepidation of the soldiers and the nation they represented.[0m
+
+[35mEncapsulate[0m[36m /ɪnˈkapsjʊleɪt,ɛnˈkapsjʊleɪt/,[0m [91m[3mverb[0m[0m
+	past tense: encapsulated; past participle: encapsulated
+      [32m1.[0m [37menclose (something) in or as if in a capsule.[0m
+	   "the company would encapsulate the asbestos waste in concrete pellets"
+  	   [3msynonyms:[0m enclose, encase, contain, confine, envelop, enfold, sheath, cocoon, surround
+		    "the adult worms are encapsulated in a cyst"
+          • [37menclose (a message or signal) in a set of codes which allow transfer across networks.[0m
+	   "data requested is encapsulated and can be manipulated"
+          • [37mprovide an interface for (a piece of software or hardware) to allow or simplify access for the user.[0m
+	   "third-party vendors can encapsulate their tools to run with this software backplane"
+
+      [32m2.[0m [37mexpress the essential features of (something) succinctly.[0m
+	   "the conclusion is encapsulated in one sentence"
+  	   [3msynonyms:[0m summarize, sum up, give a summary of, precis, abridge, digest, abbreviate, condense, compress, compact, contract, telescope ;  capture, express, record,
+                     sketch, give the gist of, give the main points of, put in a nutshell ;  epitomize, capsulize
+		    "their conclusions are encapsulated in one brief sentence"
+  [31m[4m[34m[0m[0m[0m
+  [31mसमझाया[0m 

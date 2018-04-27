@@ -1,0 +1,41 @@
+[35m                                                                                      ANNEX                                                                                       [0m
+[91m        SHORT  An annex is an extension of or an addition to a building. A small room off of a main room is an annex, and attics are another type of annex.[0m
+[36m         LONG  As a noun, an annex is part of a building or an addition to a main structure, or it can be an attachment, as in "an annex to the current plans." When used as
+               a verb, the word means something a little different. Sometimes annex is used as a nice word for "take" or "grab," as when Nazi Germany took the
+               Sudetenland from Czechoslovakia in 1938 and added it to their own territory. In order to annex something to what is yours, you have to take it
+               away from someone else.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > An annex to that deal called for further steps toward formal diplomatic relations between Washington and Pyongyang.[0m
+[3m             > The exit from the museum annex across the street delivers visitors to South Main Street, a historic district undergoing renewal, including the transformation
+               of the former train station into a hotel.[0m
+[3m             > The move infuriated Palestinians, who claim the annexed eastern sector of the city as the capital of their future state.[0m
+[3m             > The Trump administration ordered Russia to close its San Francisco consulate last summer, and also ordered the closure of two annexes in New York and D.C.[0m
+[3m             > The committee’s Republicans released a list of the 44 findings and 26 recommendations outlined in their report, which Conaway estimated to be 250 pages with
+               annexes.[0m
+
+[35mAnnex[0m [91m[3mverb[0m[0m | verb: annex; 3rd person present: annexes; past tense: annexed; past participle: annexed; gerund or present participle: annexing    /əˈnɛks/
+      [32m1.[0m [37madd as an extra or subordinate part, especially to a document.[0m
+	   "the first ten amendments were annexed to the Constitution in 1791"
+          • [37madd or attach as a condition or consequence.[0m
+	   "extreme anointing hath neither ordinance of God to be grounded on, nor promise of grace annexed"
+  	   [3msynonyms:[0m add, add append, append attach, attach join join ;  tack on, tag on
+		    "the first ten amendments were annexed to the constitution in 1791"
+
+      [32m2.[0m [37madd (territory) to one's own territory by appropriation.[0m
+	   "the left bank of the Rhine was annexed by France in 1797"
+  	   [3msynonyms:[0m take over, take possession of, appropriate, appropriate expropriate, expropriate arrogate, arrogate seize, seize conquer, conquer occupy, occupy garrison
+                     garrison ;  usurp usurp
+		    "Charlemagne annexed northern Italy, Saxony, and Bavaria"
+  	   [3mantonyms:[0m relinquish relinquish
+    [91m[3mnoun[0m[0m | noun: annex; plural noun: annexes; noun: annexe    /ˈanɛks/
+      [32m1.[0m [37ma building joined to or associated with a main building, providing additional space or accommodation.[0m
+	   "the school's one-storey wooden annex"
+
+      [32m2.[0m [37man addition to a document.[0m
+	   "an annex to the report"
+  	   [3msynonyms:[0m extension, extension supplementary building, addition, addition annexe ;  wing wing ;  ell ell
+		    "a school annex"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mउपभवन[0m      [31mहड़प कर लेना[0m   [31mअनुलग्न करना[0m 
+
+      Origin:  late Middle English: from Old French annexer, from Latin annectere ‘connect’, from ad- ‘to’ + nectere ‘tie, fasten’.

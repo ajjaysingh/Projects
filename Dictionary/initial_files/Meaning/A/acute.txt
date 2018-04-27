@@ -1,0 +1,47 @@
+[35m                                                                                      ACUTE                                                                                       [0m
+[91m        SHORT  Use the adjective acute for when you want to describe something as sharp or extremely serious.[0m
+[36m         LONG  The word acute is one word; it's not two words, nor does it have anything to do with something small, cuddly, and pretty! Acute really means "sharp" or
+               "severe" or "intense" and modifies certain kinds of angles in geometry or describes a certain kind of illness of short duration. The English
+               word apparently entered the language during the sixteenth century from the Latin root acutus, which means "sharp" or "pointed."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Bill Broeksmit, a behind-the-scenes technician with an acute sense of the rights and wrongs in finance, was not.[0m
+[3m             > For Tu’ikolovatu, the nostalgia at the Rose Bowl will be particularly acute.[0m
+[3m             > The shortage will be most acute in Lake Charles, Louisiana, the home to several refineries and petrochemical plants.[0m
+[3m             > The drug, vadastuximab talirine, is being tested to treat acute myeloid leukemia, an aggressive cancer of the blood and bone marrow.[0m
+[3m             > Several early clinical studies of the company’s experimental treatment for acute myeloid leukemia were stopped because of possible liver side effects.[0m
+
+[35mAcute[0m[36m /əˈkjuːt/,[0m [91m[3madjective[0m[0m | adjective: acute; comparative adjective: acute; superlative adjective: acutest
+      [32m1.[0m [37m(of an unpleasant or unwelcome situation or phenomenon) present or experienced to a severe or intense degree.[0m
+	   "an acute housing shortage"
+	   [3msynonyms:[0m severe, critical, drastic, dire, dreadful, 
+		    "the acute food shortages of post-war England"
+	   [3mantonyms:[0m negligible
+          • [37m(of a disease or its symptoms) severe but of short duration.[0m
+	   "acute appendicitis"
+	   [3msynonyms:[0m stabbing, shooting, penetrating, piercing, sharp, 
+		    "the meal gave us acute pains in our stomachs"
+	   [3mantonyms:[0m dull, mild, chronic
+          • [37mdenoting or designed for patients with an acute form of a disease.[0m
+	   "an acute ward"
+
+      [32m2.[0m [37mhaving or showing a perceptive understanding or insight; shrewd.[0m
+	   "an acute awareness of changing fashions"
+	   [3msynonyms:[0m astute, shrewd, sharp, sharp-witted, razor-sharp, 
+		    "he has an exceptionally acute mind"
+	   [3mantonyms:[0m slow-witted
+          • [37m(of a physical sense or faculty) highly developed; keen.[0m
+	   "an acute sense of smell"
+	   [3msynonyms:[0m keen, sharp, good, penetrating, discerning, 
+		    "Emily had an acute ear for instrumental sounds"
+	   [3mantonyms:[0m poor
+
+      [32m3.[0m [37m(of an angle) less than 90°.[0m
+          • [37mhaving a sharp end; pointed.[0m
+
+      [32m4.[0m [37m(of a sound) high; shrill.[0m
+    [91m[3mnoun[0m[0m | noun: acute; plural noun: acutes
+      [32m1.[0m [37mshort for acute accent.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mतीव्र[0m    [31mतीक्ष्ण[0m 
+    [31mविकट[0m     [31mचालाक[0m  
+   [31mनोकीला[0m     [31mचतुर[0m  

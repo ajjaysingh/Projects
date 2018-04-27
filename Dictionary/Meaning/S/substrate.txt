@@ -1,0 +1,22 @@
+[35m                                                                                    SUBSTRATE                                                                                     [0m
+[91m        SHORT  A substrate is the base layer of something, or a layer that's underneath another layer. It can also be a surface on which an organism grows or is attached.[0m
+[36m         LONG  Substrate also has a linguistic meaning: It's an indigenous language that contributes words or parts of speech to the language of an invading people who have
+               imposed their language on the indigenous people.  Throughout the United States, for instance, there are towns with Native American names,
+               because Native American languages form a substrate to American English.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The artificial reef serves as the hard substrate oysters need to thrive.[0m
+[3m             > A wonderful evocation of Darwin's great theory of subsidence and uplift, the substrate of his later, explosive discovery of evolution.[0m
+[3m             > ATP is represented as a red circle, ADP as a brown circle and substrate as an orange hexagon.[0m
+[3m             > Neurons in a brain region called the hippocampal formation are thought to form the substrate of such maps in mammals.[0m
+[3m             > Non-human primates are our most intelligent animal models, but are, paradoxically, the ones most severely deprived of the environmental substrates needed for
+               healthy brain development.[0m
+
+[35mSubstrate[0m[36m /ˈsʌbstreɪt/,[0m [91m[3mnoun[0m[0m | noun: substrate; plural noun: substrates
+          • [37man underlying substance or layer.[0m
+          • [37mthe surface or material on or from which an organism lives, grows, or obtains its nourishment.[0m
+	   "brachiopods attached to the substrate by a stalk"
+          • [37mthe substance on which an enzyme acts.[0m
+          • [37ma material which provides the surface on which something is deposited or inscribed, for example the silicon wafer used to manufacture integrated circuits.[0m
+	   "optical disk substrates"
+  [31m[4m[34m[0m[0m[0m
+  [31mसब्सट्रेट[0m 

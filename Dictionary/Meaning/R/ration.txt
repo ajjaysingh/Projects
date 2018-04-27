@@ -1,0 +1,40 @@
+[35m                                                                                      RATION                                                                                      [0m
+[91m        SHORT  When you ration your supplies, you dole them out a little at a time. A ration is also a wartime military meal, or the portion of food that someone is allowed
+               in times of scarcity.[0m
+[36m         LONG  A ration is the fixed portion of food or other goods allowed to each person in times of shortages. In the military, a soldier’s meal is called a ration,
+               especially if it’s portable. As a verb, to ration something is to allow each person to have only a specific amount. During times of war many
+               things have been rationed: gas, rubber, luxury items, and food. If you are diabetic you need to strictly ration your sugar intake.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The rations skewed European: wedges of cheese, mushroom pâté, brandy and prosciutto.[0m
+[3m             > But to several others, it is a matter of daily survival and deprivation of subsidised food and rations that was the original intent of this scheme.[0m
+[3m             > That rises to $560-670 when refugees are given cash instead of rations.[0m
+[3m             > “Many miners don’t report for work because management can’t provide rations or pay wages.”[0m
+[3m             > They are “in dire need of medical treatment as well as rations,” he said by phone.[0m
+
+[35mRation[0m[36m /ˈraʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: ration; plural noun: rations
+      [32m1.[0m [37ma fixed amount of a commodity officially allowed to each person during a time of shortage, as in wartime.[0m
+	   "1947 saw the bread ration reduced"
+  	   [3msynonyms:[0m quantity, apportionment, allocation, percentage, allowance, portion, moiety, proportion, part, lot, fixed amount, measure, quota, amount, allotment,
+                     quantum, share, helping,
+		    "she allowed herself a daily ration of chocolate"
+          • [37man amount of food supplied on a regular basis, especially to members of the armed forces during a war.[0m
+	   "British rations were highly prized by American soldiers"
+  	   [3msynonyms:[0m vivers, food, food and drink, commons, stores, viands, necessities, victuals, necessaries, supplies, chuck, eats, vittles, provender, edibles,
+                     provisions, aliment, foodstuffs, meat, eatables, grub, comestibles, viaticum,
+		    "the garrison had run out of rations"
+          • [37mfood; provisions.[0m
+	   "their emergency rations ran out"
+          • [37ma fixed amount of a particular thing.[0m
+	   "holidaymakers who like a generous ration of activity"
+    [91m[3mverb[0m[0m | verb: ration; 3rd person present: rations; past tense: rationed; past participle: rationed; gerund or present participle: rationing
+      [32m1.[0m [37mallow each person to have only a fixed amount of (a commodity).[0m
+	   "petrol was so strictly rationed that bikes were always in demand"
+  	   [3msynonyms:[0m allocate, measure out, apportion, hand out, distribute, dole out, restrict (the consumption of), issue, allot, limit (to a fixed amount), divide out/up,
+                     share out, admeasure, give out, budget, control, conserve, dispense, pass out, deal out, parcel out,
+		    "coal and petrol were also rationed"
+          • [37mallow someone to have only (a fixed amount of a commodity).[0m
+	   "the population was rationed to four litres of water per person per day"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mराशन[0m            [31mरसद[0m         [31mराशन देना[0m  
+
+      Origin:  early 18th century: from French, from Latin ratio(n- ) ‘reckoning, ratio’.

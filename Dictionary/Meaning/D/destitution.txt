@@ -1,0 +1,29 @@
+[35m                                                                                   DESTITUTION                                                                                    [0m
+[91m        SHORT  Destitution is an unfortunate state in which a person lacks something important — like money, food, companionship, or even hope.[0m
+[36m         LONG  Everyone is down on their luck sometimes. Most people will get seriously sick at some point, lose a job, or have a marriage fall apart. However, most people
+               won't fall into destitution, which is a truly hopeless state. Homeless people are in a state of destitution. People starving or without medical
+               care are in a state of destitution. If someone is in a state of destitution, he is experiencing utter despair.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Ordinary folk in the novel scrape about to avoid destitution.[0m
+[3m             > A national disgrace: It is neither desirable nor morally acceptable to blithely tolerate a level of destitution more commonly associated with Calcutta or Sao
+               Paolo.[0m
+[3m             > If a marriage unravels, death or destitution may follow.[0m
+[3m             > The roaming part, as a normal state of being, would get old quickly, whether due to illness/infirmity, or some adversity which reduces one to destitution.[0m
+[3m             > We might even get rid of their health care system, so that, like us they're one broken bone or hospitalization away from utter destitution....[0m
+
+[35mDestitution[0m[36m /ˌdɛstɪˈtʃuːʃn,ˌdɛstɪˈtjuːʃn/,[0m [91m[3mnoun[0m[0m | noun: destitution; plural noun: destitutions
+          • [37mpoverty so extreme that one lacks the means to provide for oneself.[0m
+	   "the family faced eviction and destitution"
+  	   [3msynonyms:[0m dire poverty, extreme poverty, poverty, poverty impoverishment, impoverishment insolvency, insolvency penury, penury pennilessness, impecuniousness,
+                     privation, privation indigence, indigence ruin, ruin ruination, ruination pauperdom ;  hardship, hardship neediness, need, need
+                     want, want reduced/straitened circumstances, dire straits, deprivation, deprivation disadvantage, disadvantage distress, distress
+                     financial distress, difficulties ;  life on the breadline ;  beggary, beggary mendicancy, vagrancy vagrancy
+		    "he died leaving a wife and child in destitution"
+  	   [3mantonyms:[0m wealth wealth
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mअभाव[0m        [31mअकिंचनता[0m  
+   [31mनिराश्रयता[0m      [31mगरीबी[0m    
+     [31mबेकसी[0m        [31mदारिद्रय[0m  
+  [31mनिराश्रितता[0m     [31mकंगालियत[0m  
+
+      Origin:  antonyms:wealth

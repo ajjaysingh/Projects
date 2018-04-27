@@ -1,0 +1,59 @@
+[35m                                                                                       PLY                                                                                        [0m
+[91m        SHORT  Ply means to work steadily at something. If you've got a lemonade stand and you're busy perfecting your recipe and seeking out customers, you're doing a good
+               job of plying your trade.[0m
+[36m         LONG  A ship that regularly travels a particular route plies that route. When someone offers you food or drink, often in hopes of getting something in return,
+               they're plying you: "If I ply you with cake, will you take my dog for a walk?" The noun ply is very different from the verb, referring to
+               layers or strands. Four-ply yarn is made up of four strands. Plywood is made of many layers of wood glued together.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He plies Shadow with Jack and Cokes and tries to hire him for some unspecified job, which Shadow prudently declines.[0m
+[3m             > Below are barges, boats and rowers plying the mighty Hudson.[0m
+[3m             > He leaves when there is violence or a conflict between stone-throwing protesters and authorities retaliating with tear gas, but quickly returns to ply his
+               trade.[0m
+[3m             > More than ever, they are plying their full-time trade with European clubs instead of Mexican teams.[0m
+[3m             > And in the 65th minute of Friday night’s game, the Colombian dynamo, now plying his trade for the Vancouver Whitecaps, kept his promise.[0m
+
+[35mPly[0m[36m /plʌɪ/,[0m [91m[3mnoun[0m[0m | noun: ply; plural noun: plies
+      [32m1.[0m [37ma thickness or layer of a folded or laminated material.[0m
+	   "tiles that have a black PVC ply in the lamination"
+	   [3msynonyms:[0m layer, thickness, strand, sheet, leaf, 
+		    "tiles that have a black PVC ply in the lamination"
+          • [37ma strand of yarn or rope.[0m
+	   "four-ply yarn"
+          • [37mthe number of multiple layers or strands of which something is made.[0m
+	   "the yarn can be any ply from two to eight"
+          • [37ma reinforcing layer of fabric in a tyre.[0m
+	   "a six-ply whitewall tire"
+
+      [32m2.[0m [37mshort for plywood.[0m
+
+      [32m3.[0m [37m(in game theory) the number of levels at which branching occurs in a tree of possible outcomes, typically corresponding to the number of moves ahead (in chess
+           strictly half-moves ahead) considered by a computer program.[0m
+          • [37ma half-move (i.e. one player's move) in computer chess.[0m
+[35mPly[0m[36m /plʌɪ/,[0m [91m[3mverb[0m[0m | verb: ply; 3rd person present: plies; past tense: plied; past participle: plied; gerund or present participle: plying
+      [32m1.[0m [37mwork steadily with (a tool).[0m
+	   "a tailor delicately plying his needle"
+	   [3msynonyms:[0m use, wield, work, work with, employ, 
+		    "the gondolier plied his single oar"
+          • [37mwork steadily at (one's business or trade).[0m
+	   "for three years he plied a profitable export trade between England and Australia"
+	   [3msynonyms:[0m engage in, carry on, be engaged in, pursue, conduct, 
+		    "for three years he plied a profitable export trade"
+
+      [32m2.[0m [37m(of a vessel or vehicle) travel regularly over a route, typically for commercial purposes.[0m
+	   "ferries ply across a strait to the island"
+	   [3msynonyms:[0m go regularly, travel regularly, make regular journeys, travel, go back and forth, 
+		    "ferry boats ply between all the resorts on the lake"
+          • [37mregularly travel over (a route).[0m
+	   "the fleet has plied the Bristol Channel since Victorian times"
+
+      [32m3.[0m [37mprovide someone with (food or drink) in a continuous or insistent way.[0m
+	   "she plied me with tea and scones"
+	   [3msynonyms:[0m provide, supply, keep supplying, lavish, shower, 
+		    "she plied me with tea and scones"
+          • [37mdirect (numerous questions) at someone.[0m
+	   "she plied him with questions about his visit"
+	   [3msynonyms:[0m bombard, assail, besiege, beset, pester, 
+		    "he plied her with questions about her visit"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mप्लाई[0m      [31mकाम में लाना[0m      [31mस्र्झान[0m   
+      [31mचलाना[0m       [31mअनुरोध करना[0m        [31mपरत[0m     

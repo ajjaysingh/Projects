@@ -1,0 +1,32 @@
+[35m                                                                                    CHRONICLE                                                                                     [0m
+[91m        SHORT  To chronicle an event is to record it as it happens, and a chronicle is a record of those events.  If your grandmother took the time to chronicle the details
+               of her 1910 journey to Japan, you can read her chronicle today.[0m
+[36m         LONG  To chronicle something is to describe past or current events.  Chronicle is related to chronological and comes from the Greek ta khronika, which means “annals
+               of time.”  Events are usually chronicled in the order in which they occurred. The noun chronicle is a record of things that happened — told in
+               chronological order, like the diary you kept in elementary school. It is a chronicle of those years.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Mr. Bezos’s success is inextricable from the decline of mall culture in America, which a filmmaker is chronicling on YouTube.[0m
+[3m             > Cini’s database chronicling why children materialise at Sealdah reveals that a quarter are trafficked, but abuse and poverty prompt many to flee home.[0m
+[3m             > This isn’t a story focusing on a house, so much as a chronicle a postwar change in living style.[0m
+[3m             > The Chronicle reports that the church was built by former slaves in the 1890s, and is considered the birthplace of the Christian Methodist Episcopal
+               denomination.[0m
+[3m             > The Houston Chronicle reports that jury selection is now expected to start Dec. 1.[0m
+
+[35mChronicle[0m[36m /ˈkrɒnɪk(ə)l/,[0m [91m[3mnoun[0m[0m | noun: chronicle; plural noun: chronicles
+      [32m1.[0m [37ma factual written account of important or historical events in the order of their occurrence.[0m
+	   "a vast chronicle of Spanish history"
+  	   [3msynonyms:[0m record, record written account, history, history annals, annals archive(s), register register ;  log, log diary, diary journal, journal calendar,
+                     calendar chronology chronology ;  narrative, narrative description, description story story
+		    "a chronicle of the turbulent years of the region's past"
+          • [37ma fictitious or factual work describing a series of events.[0m
+	   "a chronicle of his life during the war years"
+    [91m[3mverb[0m[0m | verb: chronicle; 3rd person present: chronicles; past tense: chronicled; past participle: chronicled; gerund or present participle: chronicling
+      [32m1.[0m [37mrecord (a series of events) in a factual and detailed way.[0m
+	   "his work chronicles 20th-century migration"
+  	   [3msynonyms:[0m record, record put on record, write down, set down, document, document register, register report, report enter enter ;  narrate, narrate relate, relate
+                     recount, recount describe, describe tell about, retail retail
+		    "the events that followed have been chronicled by many of those who took part"
+   [31m[4m[34mnoun[0m[0m[0m     [31m[4m[34mverb[0m[0m[0m  
+          [31mइतिवृत्त[0m          [31mकालक्रम से अभिलेखन करना[0m 
+
+      Origin:  Middle English: from Anglo-Norman French cronicle, variant of Old French cronique, via Latin from Greek khronika ‘annals’, from khronikos (see chronic).

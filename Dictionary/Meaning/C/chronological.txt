@@ -1,0 +1,28 @@
+[35m                                                                                  CHRONOLOGICAL                                                                                   [0m
+[91m        SHORT  If you’re making a list of all your teachers in the order you had them, from kindergarten right up to the present, you’re listing them in chronological order.
+               Chronological is the order in which things actually happened.[0m
+[36m         LONG  Chronological doesn’t allow for time traveling or flashbacks. If you’re making a documentary of events leading up to World War II and you start in the early
+               1900s and end at the outbreak of the war, in 1939, that’s chronological.  Reverse chronological order means giving the most recent event first,
+               and going backwards from there. Chronological includes the useful Greek root khronos, "time."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Savvy fans might notice that our suggested viewing program is just a list of the films in chronological order.[0m
+[3m             > Ten lively essays proceed in chronological order from King Xerxes’ invasion of Greece to Isaiah Berlin’s thoughts on World War II and the Cold War.[0m
+[3m             > Mercury 13 follows the story in chronological order, puncturing the personal narratives with the biggest space race milestones.[0m
+[3m             > Instead of just getting listed in reverse chronological order, they get ordered by importance.[0m
+[3m             > It is his son, Charles “Pinch” Bavinsky, whose much more obscure life we follow in its chronological unfolding, from childhood to old age.[0m
+
+[35mChronological[0m[36m /krɒnəˈlɒdʒɪk(ə)l/,[0m [91m[3madjective[0m[0m
+          • [37m(of a record of events) following the order in which they occurred.[0m
+	   "the entries are in chronological order"
+  	   [3msynonyms:[0m in order, consecutive, serial, historical, sequential, in order of time, in sequence, progressive, ordered,
+		    "a chronological account of the period"
+  	   [3mantonyms:[0m random,
+          • [37mcalculated in terms of the passage of time.[0m
+	   "medical decisions should be based on the individual's biological age, not chronological age"
+          • [37mrelating to the establishment of dates of past events.[0m
+	   adjective: chronological
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+   [31mकालानुक्रमिक[0m      [31mकालक्रमबद्ध[0m  
+   [31mकालक्रमानुसार[0m   [31mकालक्रम-संबंधी[0m 
+
+      Origin:  "the diary provided a chronological framework for the events"

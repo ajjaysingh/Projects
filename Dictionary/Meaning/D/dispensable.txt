@@ -1,0 +1,29 @@
+[35m                                                                                   DISPENSABLE                                                                                    [0m
+[91m        SHORT  Something that's dispensable isn't necessary — you don't really need it. Your vintage typewriter is cool, but it's also dispensable, since you can type and
+               print with your laptop.[0m
+[36m         LONG  If robots are invented to do most of the jobs in the world, human workers will become dispensable, or unneeded. Likewise, many home chefs might insist that if
+               you have a really good, sharp knife, other tools like peelers and choppers and food processors are completely dispensable. The earliest
+               definition of this word was "subject to dispensation," from the Latin dispensare, "disburse or distribute," although by the 1640s dispensable
+               meant "that which can be done without."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “Not I” epitomizes Beckett’s preference for paring away theater’s dispensable aspects.[0m
+[3m             > The bulk of the hematopoietic stem cell population is dispensable for murine steady-state and stress hematopoiesis.[0m
+[3m             > Having said that other skills are likely to become dispensable as global warming, population growth and food shortages loom.[0m
+[3m             > However, the finding that lncRNA-ACOD1 is largely dispensable for normal host-cell metabolism raises the question of why the molecule would be evolutionarily
+               conserved when it is potentially so harmful to the host.[0m
+[3m             > TGF-β signalling is required for CD4+ T cell homeostasis but dispensable for regulatory T cell function.[0m
+
+[35mDispensable[0m[36m /dɪˈspɛnsəb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: dispensable
+          • [37mable to be replaced or done without; superfluous.[0m
+	   "the captain's loss of form made him dispensable"
+  	   [3msynonyms:[0m skippable, unessential, not required, disposable, unneeded, unnecessary, gratuitous, redundant, needless, replaceable, surplus to requirements,
+                     superfluous, uncalled for, expendable, inessential, non-essential,
+		    "he regards all of his lieutenants as highly dispensable"
+  	   [3mantonyms:[0m indispensable,
+          • [37m(of a law or other rule) not mandatory but susceptible of being waived in special cases.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mनगण्य[0m          [31mअनावश्यक[0m   
+      [31mतुच्छ[0m       [31mत्यागने योग्य[0m 
+       [31mगौण[0m         [31mबांटने योग्य[0m 
+
+      Origin:  early 16th century (in the sense ‘permissible in special circumstances’): from medieval Latin dispensabilis, from Latin dispensare (see dispense).

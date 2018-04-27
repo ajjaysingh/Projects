@@ -1,0 +1,32 @@
+[35m                                                                                     CURRENCY                                                                                     [0m
+[91m        SHORT  Currency is the paper and coin money that a country uses to conduct business. The United States uses a currency that's made up of dollars, quarters, nickels,
+               dimes, and pennies.[0m
+[36m         LONG  Just about every country has its own currency — the money its people use to pay for their groceries, clothes, and other goods. Paper currency in the United
+               States is all green and can confuse people who use bills with different colors for different denominations. In addition to describing a
+               country's monetary system, currency means something that is accepted or used. The slang word "daddy-o" was the currency in the 1950s, but
+               people who say it today can expect to receive strange looks.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > News of the gold strike was tonic to a nation with high unemployment and a currency based on gold.[0m
+[3m             > Some major reforms like floating the currency and introducing visa free regime were held up.[0m
+[3m             > The Thai currency, the baht, fell about 1 percent against the dollar.[0m
+[3m             > When it falls against other currencies, that reflects a lack of confidence in the UK economy by investors around the world.[0m
+[3m             > At one point it was down two-and-a-half cents on its Thursday level against the US currency.[0m
+
+[35mCurrency[0m[36m /ˈkʌr(ə)nsi/,[0m [91m[3mnoun[0m[0m | noun: currency; plural noun: currencies
+      [32m1.[0m [37ma system of money in general use in a particular country.[0m
+	   "the dollar was a strong currency"
+  	   [3msynonyms:[0m money, legal tender, medium of exchange, cash, banknotes, notes, paper money, coins, coinage ;  bills ;  specie
+		    "foreign currency"
+
+      [32m2.[0m [37mthe fact or quality of being generally accepted or in use.[0m
+	   "the term gained wider currency after the turn of the century"
+  	   [3msynonyms:[0m prevalence, circulation, dissemination, publicity, exposure ;  acceptance, popularity, traction, fashionableness, voguishness
+		    "since the war, the term has gained new currency"
+          • [37mthe time during which something is in use or operation.[0m
+	   "no claim had been made during the currency of the policy"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mमुद्रा[0m           [31mकरेंसी[0m     
+        [31mचलन[0m        [31mप्रवर्त्तनावधि[0m 
+      [31mप्रचलन[0m              [31m[0m        
+
+      Origin:  "no claim had been made during the currency of the policy"

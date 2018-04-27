@@ -1,0 +1,41 @@
+[35m                                                                                    PREJUDICE                                                                                     [0m
+[91m        SHORT  If you have a negative attitude towards someone based on race or ethnicity rather than personal experience, you might be accused of prejudice.[0m
+[36m         LONG  Prejudice is remarkably similar to its Latin root in form and meaning; the Latin praejudicium means "judgment in advance." A racial prejudice is a negative
+               attitude towards a group of people based on race — not on direct knowledge or experience. If you prejudice someone, you cause them to have a
+               negative attitude towards someone else. Lawyers are not allowed to bring certain types of evidence such as rumors into a trial because it might
+               prejudice the jury.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > However, almost all of the athletes’ names are redacted so as not to prejudice their privacy or future disciplinary proceedings.[0m
+[3m             > Haddon agreed, ruling that The Montana Standard’s request was untimely and would prejudice the parties involved in the talks.[0m
+[3m             > Its critics argue that the admissions process is prejudiced against such children.[0m
+[3m             > About five years ago, Disney started developing an animated funny-animal movie about prejudice.[0m
+[3m             > Hillary Clinton defined the alt-right as rejecting “mainstream conservatism” and stewing in “prejudice and paranoia.”[0m
+
+[35mPrejudice[0m[36m /ˈprɛdʒʊdɪs/,[0m [91m[3mnoun[0m[0m | noun: prejudice; plural noun: prejudices
+      [32m1.[0m [37mpreconceived opinion that is not based on reason or actual experience.[0m
+	   "English prejudice against foreigners"
+	   [3msynonyms:[0m preconceived idea, preconception, preconceived notion; 
+		    "male prejudices about women"
+          • [37mdislike, hostility, or unjust behaviour deriving from preconceived and unfounded opinions.[0m
+	   "accusations of racial prejudice"
+	   [3msynonyms:[0m bigotry, bias, partisanship, partiality, intolerance, 
+		    "he claimed that his opponents were motivated by prejudice"
+
+      [32m2.[0m [37mharm or injury that results or may result from some action or judgement.[0m
+	   "prejudice resulting from delay in the institution of the proceedings"
+	   [3msynonyms:[0m detriment, harm, disadvantage, damage, injury, 
+		    "without prejudice to the interests of other countries"
+    [91m[3mverb[0m[0m | verb: prejudice; 3rd person present: prejudices; past tense: prejudiced; past participle: prejudiced; gerund or present participle: prejudicing
+      [32m1.[0m [37mgive rise to prejudice in (someone); make biased.[0m
+	   "the statement might prejudice the jury"
+	   [3msynonyms:[0m bias, influence, sway, predispose, make biased, 
+		    "it was felt that the article would prejudice the jury"
+
+      [32m2.[0m [37mcause harm to (a state of affairs).[0m
+	   "delay is likely to prejudice the child's welfare"
+	   [3msynonyms:[0m damage, be detrimental to, be prejudicial to, be disadvantageous to, injure, 
+		    "this could prejudice his chances of victory in the November election"
+   [31m[4m[34mnoun[0m[0m[0m       [31m[4m[34m[0m[0m[0m       [31m[4m[34mverb[0m[0m[0m  
+          [31mपक्षपात[0m               [31mप्रतिकूल प्रभाव[0m             [31mपक्षपात करना[0m      
+            [31mहानि[0m            [31mपूर्वाग्रह उत्पन्न करना[0m          [31mहानि करना[0m        
+         [31mपूर्वधारणा[0m          [31mप्रतिकूल प्रभाव डालना[0m         [31mक्षति पहुंचाना[0m     

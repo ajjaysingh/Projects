@@ -1,0 +1,31 @@
+[35m                                                                                     MORIBUND                                                                                     [0m
+[91m        SHORT  Something that is moribund is almost dead, like a moribund economy that has been stuck in a recession for years.[0m
+[36m         LONG  In Latin, mori means "to die." You probably recognize this root in words like mortal, mortician, and mortuary. Moribund means "near death," but it can also
+               mean something that is coming to an end, nearly obsolete, or stagnant. For example, as streaming videos over the Internet becomes a more and
+               more popular way to watch movies and television shows, the DVD has become a moribund medium.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The economic system of British slavery was moribund by 1833, but it still needed to be officially slain.[0m
+[3m             > The legislation blocks attempts by the Energy Department to restart a moribund nuclear storage program at the mountain in the Silver State.[0m
+[3m             > Stephanie Glakas- Tenet helped to revive the Family Advisory Board, which was moribund when her husband, George Tenet, was sworn in as director in 1997, said
+               Bill Harlow, who served as Tenet’s spokesman.[0m
+[3m             > On the other hand, singlehandedly, Trump is keeping the moribund legal profession afloat.[0m
+[3m             > But if it wasn’t quite dead, it appeared moribund.[0m
+
+[35mMoribund[0m[36m /ˈmɒrɪbʌnd/,[0m [91m[3madjective[0m[0m | adjective: moribund
+          • [37m(of a person) at the point of death.[0m
+	   "on examination she was moribund and dehydrated"
+  	   [3msynonyms:[0m dying, dying expiring, on one's deathbed, near death, near the end, at death's door, breathing one's last, fading/sinking fast, not long for this world,
+                     failing rapidly, on one's last legs, in extremis in extremis ;  with one foot in the grave
+		    "the patient was moribund"
+  	   [3mantonyms:[0m thriving, thriving recovering
+          • [37m(of a thing) in terminal decline; lacking vitality or vigour.[0m
+	   "the moribund commercial property market"
+  	   [3msynonyms:[0m declining, in decline, on the decline, waning, dying, dying stagnating, stagnant, stagnant decaying, crumbling, atrophying, obsolescent, obsolescent on
+                     its last legs ;  on the way out
+		    "the country's moribund shipbuilding industry"
+  	   [3mantonyms:[0m flourishing flourishing
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mमरणासन्न[0m   [31mमृतप्राय[0m 
+  [31mमरता हुआ[0m   [31mम्रियमाण[0m 
+
+      Origin:  early 18th century: from Latin moribundus, from mori ‘to die’.

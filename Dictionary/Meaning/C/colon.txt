@@ -1,0 +1,25 @@
+[35m                                                                                      COLON                                                                                       [0m
+[91m        SHORT  In punctuation, a colon is the mark made by stacking two periods (:). The colon can be used to separate the hour and minutes in time (7:30 a.m.) or to
+               introduce a list or a quotation.[0m
+[36m         LONG  A colon is also a unit of money in both Costa Rica and El Salvador. It equals 100 centimos in the former and 100 centavos in the latter. When you travel to
+               Costa Rica, you can trade dollars for colons. In medical terms, your colon is part of your digestive system, and its purpose is to extract
+               water from solid waste. In humans, there are four parts of the colon: ascending, transverse, descending, and sigmoid.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He is battling cancer that started in his colon, spread to his liver and doctors believe to his spleen, too.[0m
+[3m             > He scheduled a procedure not many 40-year-old men are thinking about, though the incidence of colon cancer among men in his age group is increasing.[0m
+[3m             > The former IndyCar star and current team owner is urging people to get regular screenings for early detection of colon cancer.[0m
+[3m             > Swimming, the organization Mr. Wielgus ran as executive director, said the cause was complications of colon cancer.[0m
+[3m             > The cause was complications from colon cancer, USA Swimming said in a statement.[0m
+
+[35mColon[0m[36m /ˈkəʊlən,ˈkəʊlɒn/,[0m [91m[3mnoun[0m[0m | noun: colon; plural noun: colons
+          • [37ma punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.[0m
+          • [37ma colon used in various technical and formulaic contexts, for example a statement of proportion between two numbers, or to separate hours from minutes (and
+            minutes from seconds) in a numerical statement of time.[0m
+	   "10:1"
+[35mColon[0m[36m /ˈkəʊlən,ˈkəʊlɒn/,[0m [91m[3mnoun Anatomy[0m[0m | noun: colon; plural noun: colons
+          • [37mthe main part of the large intestine, which passes from the caecum to the rectum and absorbs water and electrolytes from food which has remained
+            undigested.[0m
+[35mColón[0m[36m /kɒˈlɒn/,[0m [91m[3mnoun[0m[0m | noun: colón; plural noun: colones
+          • [37mthe basic monetary unit of Costa Rica and El Salvador, equal to 100 centimos in Costa Rica and 100 centavos in El Salvador.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mबृहदान्त्र[0m    [31mअपूर्ण विराम[0m 

@@ -1,0 +1,25 @@
+[35m                                                                                  PSYCHOSOMATIC                                                                                   [0m
+[91m        SHORT  Psychosomatic describes a physical illness that results at least in part from mental causes. If you are under a lot of stress, the strain can trigger a
+               psychosomatic condition like a stomach ulcer.[0m
+[36m         LONG  Have you heard of the mind-body connection? That if you enjoy mental well-being you will also likely have good physical health — and vice versa? Psychosomatic
+               originally used to describe the relationship between the body and the mind, and it comes from the merging of two Greek words, psykhe, mind, and
+               somatikos, "body." A psychosomatic illness is triggered or made worse by a mental issue; the body gets worn down by things like constant worry
+               and stress.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This virtual box may provide some misplaced sense of security and psychosomatic comfort.[0m
+[3m             > Physicians used to dismiss the disease as psychosomatic, but studies now suggest that it involves problems in the chemical reactions, or pathways, within
+               cells.[0m
+[3m             > As he tightened his grip, the whole nation became “hostage to the psychosomatic quirks of its leader,” as the novelist Vladimir Sorokin wrote.[0m
+[3m             > It is exactly these impairments that are easiest to dismiss or misperceive as psychosomatic.[0m
+[3m             > I have no idea if its healing powers are totally psychosomatic, but it’s a pretty comfortable enforced nap-time either way.[0m
+
+[35mPsychosomatic[0m[36m /ˌsʌɪkə(ʊ)səˈmatɪk/,[0m [91m[3madjective[0m[0m | adjective: psychosomatic
+      [32m1.[0m [37m(of a physical illness or other condition) caused or aggravated by a mental factor such as internal conflict or stress.[0m
+	   "her doctor was convinced that most of Edith's problems were psychosomatic"
+  	   [3msynonyms:[0m (all) in the mind, psychological, irrational, stress-related, stress-induced, subjective, subconscious, unconscious
+		    "a diagnosis of psychosomatic illness should not be made lightly"
+
+      [32m2.[0m [37mrelating to the interaction of mind and body.[0m
+	   "hypnosis involves powerful but little-understood psychosomatic interactions"
+  [31m[4m[34m[0m[0m[0m
+  [31mमनोदैहिक[0m 

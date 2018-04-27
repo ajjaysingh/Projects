@@ -1,0 +1,60 @@
+[35m                                                                                     ABSTRACT                                                                                     [0m
+[91m        SHORT  Use the adjective abstract for something that is not a material object or is general and not based on specific examples.[0m
+[36m         LONG  Abstract is from a Latin word meaning "pulled away, detached," and the basic idea is of something detached from physical, or concrete, reality. It is
+               frequently used of ideas, meaning that they don't have a clear applicability to real life, and of art, meaning that it doesn't pictorially
+               represent reality. It is also used as a noun, especially in the phrase "in the abstract" (a joke has a person laying down a new sidewalk saying
+               "I like little boys in the abstract, but not in the concrete"), and as a verb (accented on the second syllable), meaning "to remove."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In these daguerreotypes, children’s paper toys are spread flat and are abstracted into images of a strangely severe yet luminous quality.[0m
+[3m             > Rosen, a journalism professor at New York University, strongly prefers the more concrete and old-fashioned word “press” to the more abstract “media.”[0m
+[3m             > Confronting the gender bias in art: 'Women of Abstract Expressionism'[0m
+[3m             > This includes more traditional viewpoints, as well as more abstracted, exaggerated and conceptual portrayals.[0m
+[3m             > So for a fledgling new country, this was not an abstract, an obscure, or a remote possibility.[0m
+
+[35mAbstract[0m [91m[3madjective[0m[0m | adjective: abstract    /ˈabstrakt/
+      [32m1.[0m [37mexisting in thought or as an idea but not having a physical or concrete existence.[0m
+	   "abstract concepts such as love or beauty"
+  	   [3msynonyms:[0m theoretical, conceptual, notional, intellectual, metaphysical, philosophical, academic ;  hypothetical, speculative, conjectural, conjectured,
+                     suppositional, putative ;  suppositious, suppositive, ideational
+		    "abstract concepts such as love and beauty"
+  	   [3mantonyms:[0m actual, concrete
+          • [37mdealing with ideas rather than events.[0m
+	   "the novel was too abstract and esoteric to sustain much attention"
+          • [37mnot based on a particular instance; theoretical.[0m
+	   "we have been discussing the problem in a very abstract manner"
+          • [37m(of a noun) denoting an idea, quality, or state rather than a concrete object.[0m
+
+      [32m2.[0m [37mrelating to or denoting art that does not attempt to represent external reality, but rather seeks to achieve its effect using shapes, colours, and textures.[0m
+	   "abstract pictures"
+  	   [3msynonyms:[0m non-representational, non-realistic, non-pictorial, symbolic, impressionistic
+		    "abstract art"
+  	   [3mantonyms:[0m representational
+    [91m[3mverb[0m[0m | verb: abstract; 3rd person present: abstracts; past tense: abstracted; past participle: abstracted; gerund or present participle: abstracting    /əbˈstrakt/
+      [32m1.[0m [37mconsider something theoretically or separately from (something else).[0m
+	   "to abstract science and religion from their historical context can lead to anachronism"
+
+      [32m2.[0m [37mextract or remove (something).[0m
+	   "applications to abstract more water from streams"
+  	   [3msynonyms:[0m extract, pump, draw (off), tap, suck, withdraw, remove, take out/away ;  separate, detach, isolate, dissociate
+		    "they want to abstract water from the river"
+          • [37mused euphemistically to indicate that someone has stolen something.[0m
+	   "his pockets contained all he had been able to abstract from the flat"
+          • [37mwithdraw.[0m
+	   "as our relationship deepened you seemed to abstract yourself"
+
+      [32m3.[0m [37mmake a written summary of (an article or book).[0m
+	   "staff who abstract material for an online database"
+  	   [3msynonyms:[0m summarize, write a summary of, precis, abridge, condense, compress, shorten, cut down, abbreviate, synopsize ;  epitomize
+		    "staff who index and abstract material for an online database"
+    [91m[3mnoun[0m[0m | noun: abstract; plural noun: abstracts    /ˈabstrakt/
+      [32m1.[0m [37ma summary of the contents of a book, article, or speech.[0m
+	   "an abstract of her speech"
+  	   [3msynonyms:[0m summary, synopsis, precis, résumé, outline, recapitulation, abridgement, condensation, digest, summation ;  aperçu ;  wrap-up ;  argument ;  epitome,
+                     conspectus
+		    "an abstract of her speech"
+  	   [3mantonyms:[0m complete version, full text
+
+      [32m2.[0m [37man abstract work of art.[0m
+	   "a big unframed abstract"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+        [31mसार[0m            [31mअमूर्त[0m           [31mतत्त्व[0m          [31mअलग करना[0m    

@@ -1,0 +1,14 @@
+# Sample configuration file for mwdict.
+[main]
+# Your Merriam Webster API key goes here. You cannot use this tool unless you've
+# created an API key, and that API key must be plugged in here.
+api_key = <key here>
+
+# Base URL for dictionary REST API. It's best to let this default, unless you
+# know what you're doing.
+#dictionary_url = http://www.dictionaryapi.com/api/v1/references/collegiate/xml
+
+# Cache file. If defined, word lookups will be cached locally,
+# to prevent subsequent REST lookups. Tilde expansion is supported. If not
+# defined, then no local caching occurs (and each lookup requires a REST query).
+#cache_file = 

@@ -1,0 +1,22 @@
+[35m                                                                                      SHRIFT                                                                                      [0m
+[91m        SHORT  Use the noun shrift to describe the act of confessing, especially to a priest.[0m
+[36m         LONG  Shrift is an old-fashioned way to talk about the traditional religious ritual of confession and absolution. Shrift comes from the equally antique word shrive,
+               which is what a priest does when he hears a confession. The phrase "short shrift" began as a description of the brief chance a condemned
+               prisoner had to confess his sins before being put to death, and evolved to mean "to dismiss with little consideration."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > No sonic experience was given short shrift; by the end, a sense of calm felt honestly won.[0m
+[3m             > None of this means that the era's intense political philosophizing and maneuvering are given short shrift.[0m
+[3m             > I can’t believe that even I’m giving short shrift to the American worker.[0m
+[3m             > Puerto Rico, whose leaders criticized the Republican tax writers for giving them short shrift in the tax overhaul, does benefit from a provision in the new
+               legislation.[0m
+[3m             > With all the time you spent on the cocktail details, you’ve given the food rather short shrift.[0m
+
+[35mShrift[0m[36m /ʃrɪft/,[0m [91m[3mnoun archaic[0m[0m | noun: shrift; plural noun: shrifts
+          • [37mconfession, especially to a priest.[0m
+	   "go to shrift"
+          • [37mabsolution by a priest.[0m
+        [31m[4m[34m[0m[0m[0m      
+             [31mपापमोचन[0m           
+  [31mआचार्य के पास पाप का स्वीकार[0m 
+
+      Origin:  Old English scrift ‘penance imposed after confession’, from shrive.

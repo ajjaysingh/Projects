@@ -1,0 +1,24 @@
+[35m                                                                                      APNEA                                                                                       [0m
+[91m        SHORT  Apnea is a disorder that causes you to stop breathing briefly, often while you're asleep. One symptom of this kind of apnea is excessive snoring.[0m
+[36m         LONG  The most common type of apnea is "sleep apnea," which affects both adults and children and can result in as many as 30 breathless episodes per night. Many
+               people with this kind of apnea don't know they have it. Scientifically, any instance of not breathing is considered apnea — whether you're
+               holding your breath or being choked. The Greek root of apnea is apnos, "without breathing," from a-, "not," and pnein, "to breathe."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It was later revealed the engineer suffered from sleep apnea.[0m
+[3m             > Such surgery also is performed for patients with sleep apnea, Steinbacher said.[0m
+[3m             > The drugs are used to treat symptoms associated with narcolepsy, obstructive sleep apnea and shift work disorder.[0m
+[3m             > Someone in the audience discussed a heart problem and sleep apnea.[0m
+[3m             > The most common disorders include insomnia, sleep apnea, restless-leg syndrome and narcolepsy.[0m
+
+[35mApnoea[0m[36m /apˈniːə/,[0m [91m[3mnoun Medicine[0m[0m
+	noun: apnea
+          • [37mtemporary cessation of breathing, especially during sleep.[0m
+	   "thousands suffer from sleep apnoea"
+  [31m[4m[34m[0m[0m[0m
+    [31mश्वासरोध[0m  
+     [31mअश्वसन[0m   
+   [31mश्वासावरोध[0m 
+  [31mश्वास-निरोध[0m 
+   [31mसाँस रोकना[0m 
+
+      Origin:  early 18th century: modern Latin, from Greek apnoia, from apnous ‘breathless’.

@@ -1,0 +1,48 @@
+[35m                                                                                      ACCENT                                                                                      [0m
+[91m        SHORT  An accent is a stress or emphasis on a particular part of something, usually a word. Pronounce the word "doofus" with the accent on the first syllable: DOO-
+               fuss.[0m
+[36m         LONG  Accent comes from the Latin accentus, which means "the intonation of singing." We use accent for different kinds of emphasis in speech. In some foreign
+               languages, the mark above a letter is an accent that signals how to pronounce it. If you accent something, like the "t" on the end of your
+               name, you highlight it. In music, an emphasized note is accented. A regional accent is the particular way that people from that place speak.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The only difficulty is the glottal stop, the constriction of the throat that occurs when someone with a classic Brooklyn accent pronounces "bottle."[0m
+[3m             > Including, say, populating your movie with dark-skinned thugs with funny accents and killing a few of them for cheap laughs.[0m
+[3m             > At 18, he entered a short marriage to the actress Katharine Towne, and then moved to California, where he developed a much discussed hybridized accent.[0m
+[3m             > One major factor was the "consoling" and "empathetic" Welsh accent which, the company said, was important for its market.[0m
+[3m             > Five of the 21 accents listed by MissTravel.com failed to garner a single vote from either women or men: Nigerian, Chinese, Filipino, Jamaican and Indian.[0m
+
+[35mAccent[0m [91m[3mnoun[0m[0m | noun: accent; plural noun: accents    /ˈaks(ə)nt,ˈaksɛnt/
+      [32m1.[0m [37ma distinctive way of pronouncing a language, especially one associated with a particular country, area, or social class.[0m
+	   "a strong American accent"
+  	   [3msynonyms:[0m pronunciation, intonation, enunciation, elocution, articulation, inflection, tone, modulation, cadence, timbre, utterance, manner of speaking, speech
+                     pattern, speech, diction, delivery ;  brogue, burr, drawl, twang ;  orthoepy
+		    "a Scottish accent"
+
+      [32m2.[0m [37ma distinct emphasis given to a syllable or word in speech by stress or pitch.[0m
+	   "the accent falls on the middle syllable"
+  	   [3msynonyms:[0m stress, emphasis, accentuation, force, prominence ;  primary stress, secondary stress ;  beat, rhythm, pulse ;  tone, ictus
+		    "the accent is on the first syllable"
+          • [37ma mark on a letter, typically a vowel, to indicate pitch, stress, or vowel quality.[0m
+	   "a circumflex accent"
+  	   [3msynonyms:[0m mark, diacritic, diacritical mark, accent mark, sign
+		    "an acute accent"
+          • [37man emphasis on a particular note or chord.[0m
+	   "short fortissimo accents"
+
+      [32m3.[0m [37ma special or particular emphasis.[0m
+	   "the accent is on participation"
+  	   [3msynonyms:[0m emphasis, stress, priority ;  importance, prominence
+		    "the accent is on comfort"
+          • [37ma feature which gives a distinctive visual emphasis to something.[0m
+	   "blue woodwork and accents of red"
+    [91m[3mverb[0m[0m | verb: accent; 3rd person present: accents; past tense: accented; past participle: accented; gerund or present participle: accenting    /akˈsɛnt/
+      [32m1.[0m [37memphasize (a particular feature).[0m
+	   "fabrics which accent the background colours in the room"
+  	   [3msynonyms:[0m focus attention on, bring/call/draw attention to, point up, underline, underscore, accentuate, highlight, spotlight, foreground, feature, give prominence
+                     to, make more prominent, make more noticeable, play up, bring to the fore, heighten, stress, emphasize, put/lay emphasis on
+		    "fabrics which accent the background colours in the room"
+  	   [3mantonyms:[0m mask, divert attention from
+          • [37mplay (a note or beat) with emphasis.[0m
+	   "the quick tempo means there is less scope for accenting offbeat notes"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mउच्चारण[0m       [31mस्वरोच्चारण करना[0m       [31mस्वराघात[0m     

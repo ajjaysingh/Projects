@@ -1,0 +1,28 @@
+[35m                                                                                       SILO                                                                                       [0m
+[91m        SHORT  A silo is a cylindrical tower used for bulk storage, like grain silos that stand tall near farms. Another kind of silo is harder to see — military silos are
+               underground.[0m
+[36m         LONG  Farming and war are pretty different, but they both involve silos. You may have seen a silo if you've ever visited a farm. A silo is a tall tower with a
+               cylindrical (rounded) shape. The silo holds anything the farmer needs to store in bulk, especially feed for the animals. Other, non-farm silos
+               hold material such as cement or coal. The military type of silo holds something more dangerous: missiles. These silos store the missiles
+               underground until they’re fired.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The most imposing drawings are two large ones that bulge outward, mimicking the silo’s rounded shape.[0m
+[3m             > And so we separate ourselves further: geographic silos, informational silos, behavioral silos, consumer silos.[0m
+[3m             > The Britain-based Syrian Observatory for Human Rights says the militants reached the city’s Tadmor Hospital and its strategically located wheat silos.[0m
+[3m             > And then of course there’s Ben Carson, the housing secretary to be, with his conviction that the pyramids were grain silos.[0m
+[3m             > An experiment that also managed to slyly remind us of what we’ve sacrificed as we hunker in our social network silos?[0m
+
+[35mSilo[0m[36m /ˈsʌɪləʊ/,[0m [91m[3mnoun[0m[0m | noun: silo; plural noun: silos
+      [32m1.[0m [37ma tall tower or pit on a farm used to store grain.[0m
+          • [37ma pit or other airtight structure in which green crops are compressed and stored as silage.[0m
+
+      [32m2.[0m [37man underground chamber in which a guided missile is kept ready for firing.[0m
+
+      [32m3.[0m [37ma system, process, department, etc. that operates in isolation from others.[0m
+	   "it's vital that team members step out of their silos and start working together"
+    [91m[3mverb[0m[0m | verb: silo; 3rd person present: siloes; past tense: siloed; past participle: siloed; gerund or present participle: siloing
+      [32m1.[0m [37misolate (one system, process, department, etc.) from others.[0m
+	   "most companies have expensive IT systems they have developed over the years, but they are siloed"
+  [31m[4m[34m[0m[0m[0m
+  [31mसाइलो[0m 
+  [31mकुशूल[0m 

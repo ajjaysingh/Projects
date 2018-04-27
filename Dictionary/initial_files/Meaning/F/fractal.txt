@@ -1,0 +1,19 @@
+[35m                                                                                     FRACTAL                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Visualizing fractals, for instance, led to discoveries about the underlying mathematics.[0m
+[3m             > Afterward we walked to his cluttered Prius, where he retrieved “The Fractal Geometry of Nature,” a book by the mathematician Benoit Mandelbrot featuring
+               computer-drawn fractals.[0m
+[3m             > A fractal is a repeating pattern that is apparent at every magnification.[0m
+[3m             > The less complex the fractals in the blots, the more images people tended to see.[0m
+[3m             > Forsythe and her colleagues used digital imaging software to calculate how a mathematical feature called fractal density varied in artists’ paintings over
+               their careers.[0m
+
+[35mFractal[0m[36m /ˈfrakt(ə)l/,[0m [91m[3mnoun[0m[0m | noun: fractal; plural noun: fractals
+      [32m1.[0m [37ma curve or geometrical figure, each part of which has the same statistical character as the whole. They are useful in modelling structures (such as snowflakes) in
+           which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth and galaxy
+           formation.[0m
+    [91m[3madjective[0m[0m | adjective: fractal
+      [32m1.[0m [37mrelating to or of the nature of a fractal or fractals.[0m
+	   "fractal geometry"
+  [31m[4m[34m[0m[0m[0m
+  [31mआंशिक[0m 

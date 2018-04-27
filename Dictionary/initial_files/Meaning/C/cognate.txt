@@ -1,0 +1,33 @@
+[35m                                                                                     COGNATE                                                                                      [0m
+[91m        SHORT  When you're learning a new language, a cognate is an easy word to remember because it looks and means the same thing as a word you already know. For example,
+               gratitude in English means the same as gratitud in Spanish.[0m
+[36m         LONG  Just as words that are cognates have a shared origin — like gratitude and gratitud both coming from the Latin word gratitudo, meaning "thankfulness" — people
+               can be cognates based on their shared blood. For example, you and your sister are cognates of your parents. You probably even look alike, just
+               like word cognates. The adjective form of cognate can describe blood relations or anyone whose ancestors spoke the same language.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Given these similarities, linguists would expect the languages to share many cognates, or words derived from a common ancestor.[0m
+[3m             > "Tough" and its cognates show up 24 times in a press release that's 651 words long — that's a stunning 1.15 toughs per sentence.[0m
+[3m             > A quick search of the plan brings up the word terror and its cognates in 377 places, hurricane in five.[0m
+[3m             > It’s more like a 21st-century cognate of the “peace walls” that still separate Protestant and Catholic communities in Belfast.[0m
+[3m             > There are more obvious modern cognates to the Middle English that Armitage could have chosen.[0m
+
+[35mCognate[0m[36m /ˈkɒɡneɪt/,[0m [91m[3madjective[0m[0m | adjective: cognate
+      [32m1.[0m [37m(of a word) having the same linguistic derivation as another (e.g. English father, German Vater, Latin pater ).[0m
+	   "the term is obviously cognate with the Malay segan"
+
+      [32m2.[0m [37mrelated; connected.[0m
+	   "cognate subjects such as physics and chemistry"
+	   [3msynonyms:[0m associated, related, connected, allied, interconnected, 
+		    "cognate subjects such as physics and chemistry"
+	   [3mantonyms:[0m unconnected, dissimilar
+          • [37mrelated to or descended from a common ancestor.[0m
+	   "the large number of cognate words in English and German"
+	   [3msynonyms:[0m related, kindred, akin, with a common ancestor 
+		    "the large number of cognate words in English and German"
+	   [3mantonyms:[0m unrelated
+    [91m[3mnoun[0m[0m | noun: cognate; plural noun: cognates
+      [32m1.[0m [37ma cognate word.[0m
+
+      [32m2.[0m [37ma blood relative, especially on the mother's side.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mआत्मीय[0m      [31mमातृपक्षी[0m     [31mज्ञाति[0m   

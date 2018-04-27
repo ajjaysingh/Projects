@@ -1,0 +1,55 @@
+[35m                                                                                       PLOT                                                                                       [0m
+[91m        SHORT  A plot is a scheme, a story, a map charting progress, or a piece of land (as for a garden). To plot is to devise the secret plan, order the events of the
+               story, or track your movement on the map.[0m
+[36m         LONG  You could make a whole movie based the word plot. This could be the plot (story): An evil so-and-so hatches a secret plot (scheme) to follow the explorer to a
+               legendary plot (patch) of land with buried treasure. The explorer plots (draws) the best route to the treasure, but the evil so-and-so steals
+               the plot (map) and gets to the treasure first. What a great story. All that's left is to plot (arrange) the sequence of events for maximum
+               suspense.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s a good plot, but readers will also enjoy Finch’s digressions on life in mid-19th-century England.[0m
+[3m             > Some 24 families will move to a nearby plot of land in the West Bank.[0m
+[3m             > In many ways, “Rogue One” is a standard action film — heavy on the plot, light on the personal development.[0m
+[3m             > Much of what we create—clothing, furniture, buildings—is plotted with an eye toward an imagined future.[0m
+[3m             > It’s a gap-filler of a film, a plot hole-plugger, an examination of a famous event from the opposite side of the mirror.[0m
+
+[35mPlot[0m[36m /plɒt/,[0m [91m[3mnoun[0m[0m | noun: plot; plural noun: plots
+      [32m1.[0m [37ma plan made in secret by a group of people to do something illegal or harmful.[0m
+	   "there's a plot to overthrow the government"
+	   [3msynonyms:[0m conspiracy, intrigue, secret plan/scheme, stratagem;
+		    "a plot to overthrow the government"
+
+      [32m2.[0m [37mthe main events of a play, novel, film, or similar work, devised and presented by the writer as an interrelated sequence.[0m
+	   "the plot consists almost entirely of a man and woman falling in love"
+	   [3msynonyms:[0m storyline, story, chain of events, scenario, action, 
+		    "the plot of her next novel"
+
+      [32m3.[0m [37ma small piece of ground marked out for a purpose such as building or gardening.[0m
+	   "a vegetable plot"
+	   [3msynonyms:[0m piece of ground, patch, area, location, parcel, 
+		    "a three-acre plot"
+
+      [32m4.[0m [37ma graph showing the relation between two variables.[0m
+          • [37ma diagram, chart, or map.[0m
+    [91m[3mverb[0m[0m | verb: plot; 3rd person present: plots; past tense: plotted; past participle: plotted; gerund or present participle: plotting
+      [32m1.[0m [37msecretly make plans to carry out (an illegal or harmful action).[0m
+	   "the two men are serving sentences for plotting a bomb campaign"
+	   [3msynonyms:[0m plan, scheme, arrange, organize, lay, 
+		    "he was found guilty of plotting the downfall of the government"
+
+      [32m2.[0m [37mdevise the sequence of events in (a play, novel, film, or similar work).[0m
+	   "she would plot a chapter as she drove"
+
+      [32m3.[0m [37mmark (a route or position) on a chart.[0m
+	   "he started to plot lines of ancient sites"
+	   [3msynonyms:[0m mark, chart, map, indicate, represent, 
+		    "the position of the fifty-three sites was plotted"
+          • [37mmark out or allocate (points) on a graph.[0m
+	   "the dependent variable's points are plotted on the Y axis"
+          • [37mmake (a curve) by marking out a number of points on a graph.[0m
+	   "a cooling curve is plotted and the freezing point determined"
+          • [37millustrate by use of a graph.[0m
+	   "it is possible to plot fairly closely the rate at which recruitment of girls increased"
+   [31m[4m[34m[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mप्लाट[0m                 [31mभूखंड[0m          [31mप्रबंध की रचना करना[0m 
+     [31mभूमि का टुकड़ा[0m             [31mभूमि[0m               [31mउपाय करना[0m      
+       [31mषड्य़ंत्र[0m              [31mक्षेत्र[0m            [31mचालबाज़ी करना[0m    

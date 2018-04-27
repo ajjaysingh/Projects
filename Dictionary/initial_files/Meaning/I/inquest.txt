@@ -1,0 +1,31 @@
+[35m                                                                                     INQUEST                                                                                      [0m
+[91m        SHORT  An inquest is when a court of law or a coroner investigates the circumstances of a person's death. If a person in your family dies suddenly, you might attend
+               an inquest at the courthouse.[0m
+[36m         LONG  A death doesn't always require an inquest — they are typically carried out when there is something unexplained or suspicious about the way someone died. The
+               inquest might be a step before a murder investigation, for example. Like a trial, a court inquest typically has a verdict issued by a judge,
+               which might be "natural death" or "accidental death." The Old French root word is enqueste, or "inquiry."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A woman killed herself after being physically and emotionally abused by an ex-boyfriend, an inquest heard.[0m
+[3m             > Following an inquest last summer Dr Simon was referred to the General Medical Council by the coroner.[0m
+[3m             > A coroner at the Aberystwyth inquest concluded her death was accidental.[0m
+[3m             > Ms Blood's partner, Shane Giles, was driving the car and told her inquest he saw the outline of the lorry, but not the hazard lights.[0m
+[3m             > No adequate care plan was in place for a teenager with anorexia who killed herself after being released from a psychiatric hospital, an inquest found.[0m
+
+[35mInquest[0m[36m /ˈɪnkwɛst/,[0m [91m[3mnoun[0m[0m | noun: inquest; plural noun: inquests
+      [32m1.[0m [37ma judicial inquiry to ascertain the facts relating to an incident.[0m
+	   "they held an inquest into the death of her daughter"
+	   [3msynonyms:[0m enquiry, investigation, inquisition, probe, review, 
+		    "they held an inquest into the death of her daughter"
+          • [37man inquiry by a coroner's court into the cause of a death.[0m
+	   "they held an inquest into the death of her daughter"
+	   [3msynonyms:[0m enquiry, investigation, inquisition, probe, review, 
+		    "they held an inquest into the death of her daughter"
+          • [37ma coroner's jury.[0m
+
+      [32m2.[0m [37ma discussion or investigation into something that has happened, especially something undesirable.[0m
+	   "an inquest by New York newspapers into a subway fire"
+	   [3msynonyms:[0m enquiry, investigation, inquisition, probe, review, 
+		    "they held an inquest into the death of her daughter"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mजांच[0m            [31mतहकीकात[0m    
+    [31mकानूनी जांच[0m    [31mमृत्यु-समीक्षा[0m 

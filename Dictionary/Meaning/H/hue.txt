@@ -1,0 +1,26 @@
+[35m                                                                                       HUE                                                                                        [0m
+[91m        SHORT  Green, orange, yellow, and blue — each of these is a hue, a color or a shade that's true.  A rainbow shows the melting of one hue into another, from red to
+               violet, and all shades in between.[0m
+[36m         LONG  The noun hue means both a color and a shade of a color. Green is a hue, and turquoise is a hue of both green and blue. Most of the time the word hue refers to
+               colors, but sometimes it's used for shades of meaning or even the tone of a person's face, as in "The speech had a hue of politics — disguised
+               with humor — that turned the mayor's face from a pale hue to red as he laughed."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > At some point, each of these characters collides with another whose self-regard is of a far more vivid hue.[0m
+[3m             > They found the last vines in the Lagoon from an ancient grape called Dorona di Venezia, which produces wine with a rich golden hue.[0m
+[3m             > A quick examination would reveal the note does indeed feature Sir John Monash, wartime imagery and approximately the right hues but the likeness ends there.[0m
+[3m             > Researchers showed one swath several times before displaying a hue from the next range over.[0m
+[3m             > The River Parrett quickly turned the hue of synthetic custard, with dozens of fish left floating dead on the surface of the water-cum-breakfast-drink.[0m
+
+[35mHue[0m[36m /hjuː/,[0m [91m[3mnoun[0m[0m | noun: hue; plural noun: hues
+          • [37ma colour or shade.[0m
+	   "the water is the deepest hue of aquamarine"
+  	   [3msynonyms:[0m colour, tone, shade, tint, tinge, cast, tincture
+		    "seaweeds are found in a variety of hues"
+          • [37mthe attribute of a colour by virtue of which it is discernible as red, green, etc., and which is dependent on its dominant wavelength and independent of
+            intensity or lightness.[0m
+          • [37mcharacter or aspect.[0m
+	   "men of all political hues submerged their feuds"
+  	   [3msynonyms:[0m complexion, type, kind, sort, cast, light, stamp, nuance, aspect, character, nature
+		    "men of all political hues submerged their feuds"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mरंग[0m       [31mवर्ण[0m  

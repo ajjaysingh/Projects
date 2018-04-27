@@ -1,0 +1,14 @@
+[35m                                                                                    ALTIMETRY                                                                                     [0m
+[91m        SHORT  An altimeter measures how far above ground something is. You wouldn't want to fly a plane without an altimeter![0m
+[36m         LONG  The two halves of altimeter should give you a clue to its meaning: altitude is height above ground, and meters are used to measure distance. An altimeter
+               measures altitude. This is an extremely important device in the field of aviation. When flying an airplane, pilots needs to know exactly what
+               their altitude is: the altimeter tells them. Pilots flying helicopters, blimps, and other flying vehicles use altimeters too. A plane without a
+               working altimeter isn't safe to fly.[0m
+
+[35mAltimetry[0m[36m /alˈtɪmɪtri/,[0m [91m[3mnoun[0m[0m | noun: altimetry
+          • [37mthe measurement of height or altitude.[0m
+	   "we can use altimetry to monitor the surface ocean currents"
+  [31m[4m[34m[0m[0m[0m
+  [31mएल्टीमेट्री[0m 
+
+      Origin:  late Middle English: from medieval Latin altimetria .

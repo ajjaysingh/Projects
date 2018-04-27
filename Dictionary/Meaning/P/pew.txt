@@ -1,0 +1,25 @@
+[35m                                                                                       PEW                                                                                        [0m
+[91m        SHORT  A pew is a long wooden bench with a high back. You'll find many rows of pews in most churches.[0m
+[36m         LONG  Some courtrooms have pews, but mostly they're found in churches, as seating for the congregation and sometimes for the members of a choir. After the
+               Protestant Reformation in the sixteenth century, pews first began to appear in churches. Before that they were rare, as sitting and listening
+               to a sermon was uncommon. Many of these earliest pews were paid for by (and considered the property of) individual families. Pew shares a Latin
+               root with podium.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Then he slides into a pew and kneels to pray.[0m
+[3m             > A line of tall windows directs rectangular beams of light on the polished and shiny pews.[0m
+[3m             > On Sundays, the small congregation sits in folding chairs in the unadorned social hall below the sanctuary, because the beautiful meeting space above, with
+               its original wooden pews and soaring organ, is unfit for occupancy.[0m
+[3m             > On Sunday, the pews were crammed for communion and hymns in Urdu, accompanied on a handheld harmonium.[0m
+[3m             > But there is no sign as yet that Francis’s liberalization is bringing his lapsed-Catholic admirers back to the pews; from Germany to Australia to his native
+               Latin America, the church’s institutional decline continues.[0m
+
+[35mPew[0m[36m /pjuː/,[0m [91m[3mnoun[0m[0m | noun: pew; plural noun: pews
+          • [37ma long bench with a back, placed in rows in the main part of some churches to seat the congregation.[0m
+          • [37man enclosure or compartment containing a number of seats, used in some churches to seat a particular worshipper or group of worshippers.[0m
+          • [37ma seat.[0m
+	   "‘Take a pew. What'll you have?’"
+       [31m[4m[34mnoun[0m[0m[0m               [31m[4m[34m[0m[0m[0m        
+                [31mबेंच[0m                [31mगिरजे में बैठने की घिरी हुई जगह[0m 
+
+      Origin:  late Middle English (originally denoting a raised, enclosed place in a church, provided for particular worshippers): from Old French puye ‘balcony’, from
+               Latin podia, plural of podium ‘elevated place’.

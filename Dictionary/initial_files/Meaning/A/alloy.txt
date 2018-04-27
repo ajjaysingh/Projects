@@ -1,0 +1,28 @@
+[35m                                                                                      ALLOY                                                                                       [0m
+[91m        SHORT  You may have heard of aluminum alloy on a car. What that means is that there is another metal mixed in with the aluminum, to save money and/or to strengthen
+               the wheels. The wheels are an alloy (a mix), rather than pure.[0m
+[36m         LONG  In addition to indicating a dilution of one metal with another, alloy can refer to the dilution of a feeling or a quality. Knowing that you look awesome in
+               your Halloween costume would be an alloy to the embarrassment of showing up to a party where you are the only one in a costume.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The SST was being built with titanium alloy because supersonic “skin friction” would heat its hull to many hundreds of degrees Fahrenheit.[0m
+[3m             > The capabilities of the firm's Project Alloy headset, currently in development, were demoed at the CES tech show in Las Vegas.[0m
+[3m             > The primary lease, which extends until 2038, is held by Northwest Alloys.[0m
+[3m             > The ballroom’s gilt is composition leaf, a copper alloy with only trace amounts of gold, a variation of which gilders call brass leaf.[0m
+[3m             > Most tellingly, Mr Larsen’s samples contained iron and nickel alloys common in micrometeorites, but rare in Earth-bound rocks because these metals oxidise
+               rapidly.[0m
+
+[35mAlloy[0m [91m[3mnoun[0m[0m | noun: alloy; plural noun: alloys    /ˈalɔɪ/
+      [32m1.[0m [37ma metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.[0m
+	   "an alloy of nickel, bronze, and zinc"
+	   [3msynonyms:[0m mixture, mix, amalgam, fusion, meld, 
+		    "bronze is an alloy of copper and tin"
+          • [37man inferior metal mixed with a precious one.[0m
+    [91m[3mverb[0m[0m | verb: alloy; 3rd person present: alloys; past tense: alloyed; past participle: alloyed; gerund or present participle: alloying    /əˈlɔɪ,ˈalɔɪ/
+      [32m1.[0m [37mmix (metals) to make an alloy.[0m
+	   "alloying tin with copper to make bronze"
+	   [3msynonyms:[0m mix, amalgamate, fuse, meld, blend, 
+		    "copper and tin are alloyed to make bronze"
+          • [37mdebase (something) by adding something inferior.[0m
+	   "a salutary fear alloyed their admiration"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+    [31mमिश्र धातु[0m      [31mमिश्रित धातु[0m       [31mखोटा करना[0m   

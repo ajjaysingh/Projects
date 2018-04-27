@@ -1,0 +1,64 @@
+[35m                                                                                       PEN                                                                                        [0m
+[91m        SHORT  A pen is an ink-filled tool that you use for writing or drawing. Doing a crossword puzzle with a pen shows a lot of self confidence, since you can't erase
+               your answers.[0m
+[36m         LONG  Pen is also a verb meaning "to write," especially when you're writing something of literary value: "She's my favorite writer — I can't wait for her to pen
+               another novel!" Then there's the pen that you keep your pet donkey safely inside (you can also say you pen him in there), and inspired by this
+               "livestock enclosure" meaning there's also the slang for "penitentiary" or "jail."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Earlier this year, she posted another artfully arranged scene: pen and spiral-bound notebook, frothy mug and “The Collected Essays of Elizabeth Hardwick.”[0m
+[3m             > Bush said being asked to pen a passage about Emily was "an honour and, in a way, a chance to say thank you to her".[0m
+[3m             > Shawn Micallef, a Toronto Star columnist, even penned “The Trouble With Brunch,” a book that connects brunch culture with a kind of class warfare.[0m
+[3m             > Mr. Pence also penned an op-ed in the Milwaukee Journal Sentinel ahead of his visit to the state to praise the tax cuts passed by Republicans late last year.[0m
+[3m             > And in December 1984, geneticist Robert Weaver—the son of longtime National Geographic editor Kenneth Weaver—penned a feature about the then-nascent field of
+               biotechnology, kicking off decades of coverage involving this rapidly advancing science.[0m
+
+[35mPen[0m[36m /pɛn/,[0m [91m[3mnoun[0m[0m | noun: pen; plural noun: pens
+      [32m1.[0m [37man instrument for writing or drawing with ink, typically consisting of a metal nib or ball, or a nylon tip, fitted into a metal or plastic holder.[0m
+	   "invective flowed from the journalists' pens"
+          • [37mthe occupation of writing.[0m
+	   noun: the pen
+          • [37man electronic pen-like device used in conjunction with a writing surface to enter commands or data into a computer.[0m
+
+      [32m2.[0m [37mthe tapering cartilaginous internal shell of a squid.[0m
+    [91m[3mverb[0m[0m | verb: pen; 3rd person present: pens; past tense: penned; past participle: penned; gerund or present participle: penning
+      [32m1.[0m [37mwrite or compose.[0m
+	   "Olivia penned award-winning poetry"
+[35mPen[0m[36m /pɛn/,[0m [91m[3mnoun[0m[0m | noun: pen; plural noun: pens
+      [32m1.[0m [37ma small enclosure in which sheep, pigs, or other farm animals are kept.[0m
+	   "a sheep pen"
+  	   [3msynonyms:[0m potrero, stockade, stall, coop, parrock, cage, compound, pound, sheepfold, kraal, paddock, lock-up, sty, fold, corral, enclosure,
+		    "the sheep in the pen behind the barn"
+          • [37ma number of animals in or sufficient to fill a pen.[0m
+	   "a pen of twenty-five Cheviots"
+          • [37many small enclosure in which someone or something can be confined.[0m
+	   "she took the baby out of the pen and played with it"
+          • [37ma covered dock for a submarine or other warship.[0m
+	   "U-boat pens"
+
+      [32m2.[0m [37m(in the West Indies) a farm or plantation.[0m
+    [91m[3mverb[0m[0m | verb: pen; 3rd person present: pens; past tense: penned; past participle: penned; gerund or present participle: penning
+      [32m1.[0m [37mput or keep (an animal) in a pen.[0m
+	   "it was the practice to pen the sheep for clipping"
+  	   [3msynonyms:[0m trap, close in, cage, intern, kettle, rail in, mew up, surround, shut in, hem in, incarcerate, hedge in, lock up/in, enclose, hurdle, box up/in, hold
+                     captive, corral, coop (up), impound, imprison, encircle, encompass, confine, ring, fence in, immure,
+		    "you should ask the owners to pen up their dogs"
+          • [37mconfine someone in a restricted space.[0m
+	   "they had been penned up day and night in the house"
+[35mPen[0m[36m /pɛn/,[0m [91m[3mnoun[0m[0m | noun: pen; plural noun: pens
+          • [37ma female swan.[0m
+[35mPen[0m[36m /pɛn/,[0m [91m[3mnoun North American informal[0m[0m | noun: pen; plural noun: pens
+          • [37mshort for penitentiary (sense 1).[0m
+	   "you could get twenty years in a federal pen for shooting your mouth off like that"
+[35mPen[0m [91m[3mabbreviation[0m[0m | singular proper noun: PEN
+      [32m1.[0m [37mInternational Association of Poets, Playwrights, Editors, Essayists, and Novelists.[0m
+
+      [32m2.[0m [37mPeruvian nuevo sol(es).[0m
+[35mPen.[0m [91m[3mabbreviation[0m[0m | symbol: Pen.
+          • [37mPeninsula.[0m
+  [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mकलम[0m                [31mलेखनी[0m               [31mलिखना[0m       
+        [31mखड़का[0m                [31mक़लम[0m                [31mरचना[0m       
+         [31mघेरा[0m                [31mलेखक[0m              [31mबंद करना[0m     
+         [31mबाडा[0m                [31mबाँध[0m            [31mभीतर दौड़ाना[0m   
+
+      Origin:  Middle English (originally denoting a feather with a sharpened quill): from Old French penne, from Latin penna ‘feather’ (in late Latin ‘pen’).

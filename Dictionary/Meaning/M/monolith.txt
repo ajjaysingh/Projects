@@ -1,0 +1,25 @@
+[35m                                                                                     MONOLITH                                                                                     [0m
+[91m        SHORT  When something is really huge, like a giant stone, building, or company, call it a monolith. You can also use it to describe a huge amount of work, like the
+               monolith that is your 40-page term paper.[0m
+[36m         LONG  The noun monolith comes from the Greek words monos, meaning “single” and lithos, meaning “stone.” Any large structures, like a factory that could cover many
+               football fields in size, can be called a monolith. So can monuments that have little definition, like Stonehenge. Even companies that seem to
+               be everywhere, their products and neon-signed restaurants covering the globe, can be called monoliths.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > At the suggestion of a Monolith employee, I started my time with War by attempting to seize a fortress.[0m
+[3m             > So we end up being a monolith without trying to be.[0m
+[3m             > What worked was Monolith's delightful, pliable A.I. sandbox, which when nudged pushed back, often punitively.[0m
+[3m             > Using only his hands and feet, the 31-year-old reached the top of the granite monolith in under four hours.[0m
+[3m             > “It’s this monolith, this great literary magazine, but also something from a fading past.”[0m
+
+[35mMonolith[0m[36m /ˈmɒn(ə)lɪθ/,[0m [91m[3mnoun[0m[0m | noun: monolith; plural noun: monoliths
+      [32m1.[0m [37ma large single upright block of stone, especially one shaped into or serving as a pillar or monument.[0m
+	   "we passed Stonehenge, the strange stone monoliths silhouetted against the horizon"
+  	   [3msynonyms:[0m standing stone, standing stone menhir, menhir sarsen (stone), megalith megalith
+          • [37ma very large and characterless building.[0m
+	   "the 72-storey monolith overlooking the waterfront"
+          • [37ma large block of concrete sunk in water, e.g. in the building of a dock.[0m
+
+      [32m2.[0m [37ma large, impersonal political, corporate, or social structure regarded as indivisible and slow to change.[0m
+	   "independent voices have been crowded out by the media monoliths"
+
+      Origin:  mid 19th century: from French monolithe, from Greek monolithos, from monos ‘single’ + lithos ‘stone’.

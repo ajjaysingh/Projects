@@ -1,0 +1,43 @@
+[35m                                                                                       LEND                                                                                       [0m
+[91m        SHORT  When you lend something, you loan it or let someone borrow it. You might, for example, lend your bike to your brother — if he promises to be careful with it.[0m
+[36m         LONG  Libraries lend people books, and car rental companies lend people cars — in both cases, the item that's been borrowed is supposed to be returned eventually.
+               Another way to lend is to "add a quality to," or "be suitable for." You could say that you think your hat lends you a mysterious quality, or
+               that your trench coat lends itself to walking through a foggy city at dusk.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Though he is on the road as a globe-trotting guest conductor up to six months a year, Willis finds time to lend a hand at home.[0m
+[3m             > In addition to employment, civil rights laws prohibit discrimination in housing, employment, lending, voting, and education.[0m
+[3m             > And this show includes both actual Minoan artifacts, such as a frowzy female figurine dating to 1600-1450 B.C., lent by the Metropolitan Museum of Art, and
+               forgeries Evans acquired on the site.[0m
+[3m             > After the war — rebuilt once more after a second bombing — it lent prestige to the leadership of the German Democratic Republic.[0m
+[3m             > China’s economy, the world’s second largest after that of the United States, is fueled to a considerable extent by lending from its state-controlled banking
+               system.[0m
+
+[35mLend[0m[36m /lɛnd/,[0m [91m[3mverb[0m[0m | verb: lend; 3rd person present: lends; past tense: lent; past participle: lent; gerund or present participle: lending
+      [32m1.[0m [37mgrant to (someone) the use of (something) on the understanding that it will be returned.[0m
+	   "Stewart asked me to lend him my car"
+  	   [3msynonyms:[0m loan, loan give someone the loan of, let someone use, let someone have the use of ;  advance advance ;  sub sub
+		    "I'll lend you my towel"
+  	   [3mantonyms:[0m borrow, borrow withhold withhold
+          • [37mallow (a person or organization) the use of (a sum of money) under an agreement to pay it back later, typically with interest.[0m
+	   "no one would lend him the money"
+
+      [32m2.[0m [37mcontribute or add (a quality) to.[0m
+	   "the smile lent his face a boyish charm"
+  	   [3msynonyms:[0m add, add impart, impart give, give bestow, bestow confer, confer provide, provide grant, grant supply, supply furnish, furnish accord, accord offer,
+                     offer contribute, contribute afford, afford bring, bring donate donate
+		    "these examples lend weight to his assertions"
+  	   [3mantonyms:[0m detract detract
+
+      [32m3.[0m [37maccommodate or adapt oneself to.[0m
+	   "John stiffly lent himself to her aromatic embraces"
+          • [37m(of a thing) be suitable for.[0m
+	   "bay windows lend themselves to blinds"
+  	   [3msynonyms:[0m be suitable for, be suited to, be appropriate for, be adaptable to, have the right characteristics for, be applicable for, be easily used for, be readily
+                     used for, be serviceable for
+		    "the landscape does not lend itself to long-distance walking or riding"
+   [31m[4m[34mverb[0m[0m[0m      [31m[4m[34m[0m[0m[0m   
+         [31mउधार देना[0m             [31mकिराये पर देना[0m     
+       [31mकिराए पर देना[0m             [31mकर्ज़ देना[0m       
+
+      Origin:  Old English lǣnan, of Germanic origin; related to Dutch lenen, also to loan1. The addition of the final -d in late Middle English was due to association with
+               verbs such as bend and send .

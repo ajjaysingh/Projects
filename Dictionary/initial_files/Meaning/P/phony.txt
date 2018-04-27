@@ -1,0 +1,32 @@
+[35m                                                                                      PHONY                                                                                       [0m
+[91m        SHORT  Whether you're talking about your attitude, a gigantic diamond, or that obnoxious guy's claims that he knows everything about quantum physics, you can use
+               phony to say that something’s not real.[0m
+[36m         LONG  Use the adjective phony to describe anything that’s fake. If you’re making phony money in the basement, you’ll be in trouble if you get caught using it. Phony
+               has a noun version with a similar meaning. If you say someone or something is a phony, then you’re saying it isn’t what it pretends to be.
+               Someone who’s a phony isn’t sincere, like your classmate who pretended to be your best friend just to try to steal your boyfriend.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The complaint says that some of the seized emails show Mr. Latchford and Ms. Bunker concocting phony ownership histories.[0m
+[3m             > “He is a total phony,” Cohen said in an interview.[0m
+[3m             > But, unsurprisingly, traffic to their sites is vanishingly small when compared to the manufacturers of phony information itself.[0m
+[3m             > Phony rules, which proliferate like urban legends and are just as hard to eradicate, are responsible for vast amounts of ham-fisted copyediting and smarty-
+               pants one-upmanship.[0m
+[3m             > The White House press secretary cheerfully announces that formerly “phony” job numbers are real, now that they’re positive.[0m
+
+[35mPhoney[0m[36m /ˈfəʊni/,[0m [91m[3madjective[0m[0m
+	adjective: phony
+      [32m1.[0m [37mnot genuine; fraudulent.[0m
+	   "phoney cruise-ship job offers"
+	   [3msynonyms:[0m bogus, not genuine, sham, false, fake, 
+		    "he gave a phoney address"
+	   [3mantonyms:[0m authentic, genuine
+    [91m[3mnoun[0m[0m
+	adjective: phony
+      [32m1.[0m [37ma fraudulent person or thing.[0m
+	   "the doctor's a phoney"
+	   [3msynonyms:[0m impostor, sham, fake, fraud, mountebank, 
+		    "the doctor's a phoney"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mजाली[0m      [31mनक़ली चीज़[0m 
+     [31mग़लत[0m      [31mजाली वस्तु[0m 
+     [31mनक़ली[0m      [31mधोखेबाज़[0m  
+     [31mझूठा[0m         [31mकपटी[0m    

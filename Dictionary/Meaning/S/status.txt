@@ -1,0 +1,35 @@
+[35m                                                                                      STATUS                                                                                      [0m
+[91m        SHORT  If someone wants to know the status of something, they want to know what condition it's in, where it is, or how much progress it's made. You've probably
+               checked the status of your flight to see if it's on time or delayed.[0m
+[36m         LONG  Status doesn't only apply to the state of flights, projects, and traffic jams — it also can be used to refer to a person's social standing or rank. In fact,
+               status was first used in reference to someone's height, and later, their legal standing. Someone with VIP status gets to fly first class and
+               probably has a bunch of photographers following them.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > There were a handful of actual design elements, and their rare use signified a certain megastar status.[0m
+[3m             > The government abandoned an effort at the time to seek United Nations World Heritage status for the complex.[0m
+[3m             > As Danah Boyd recently wrote, what is missing from this account is an “understanding of the local perception of wealth, poverty, and status”.[0m
+[3m             > Stanton remains on the roster, so his status is uncertain.[0m
+[3m             > Jeter solidified the status of the two teams in 2000, as the most valuable player of the crosstown World Series.[0m
+
+[35mStatus[0m[36m /ˈsteɪtəs/,[0m [91m[3mnoun[0m[0m | noun: status; plural noun: statuses
+      [32m1.[0m [37mrelative social or professional position; standing.[0m
+	   "an improvement in the status of women"
+  	   [3msynonyms:[0m standing, rank, ranking, position, social position, station, level, footing, place ;  repute, reputation, estimation, stature ;  condition, degree,
+                     report
+		    "an improvement in the status of women"
+          • [37mhigh rank or social standing.[0m
+	   "those who enjoy wealth and status"
+  	   [3msynonyms:[0m prestige, kudos, cachet, standing, stature, prestigiousness, reputation, repute, (good) name, regard, fame, note, renown, honour, esteem, estimation,
+                     image, account, rank, character, celebrity, importance, prominence, consequence, class, distinction, laurels, influence, weight,
+                     authority, supremacy, eminence, superiority ;  mana ;  izzat ;  clout
+		    "those who enjoy wealth and status"
+          • [37mthe official classification given to a person, country, or organization, determining their rights or responsibilities.[0m
+	   "the duchy had been elevated to the status of a principality"
+
+      [32m2.[0m [37mthe situation at a particular time during a process.[0m
+	   "an update on the status of the bill"
+          • [37ma posting on a social networking website that indicates a user's current situation, state of mind, or opinion about something.[0m
+	   "when I updated my status on Facebook yesterday I said I was 'seeking a sense of purpose'"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mहैसियत[0m          [31mप्रतिष्ठा[0m   
+       [31mस्थति[0m           [31mअवस्था[0m     

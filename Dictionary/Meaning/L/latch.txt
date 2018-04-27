@@ -1,0 +1,31 @@
+[35m                                                                                      LATCH                                                                                       [0m
+[91m        SHORT  When you unlock your front door, you open the latch. A latch is a fastener or lock that you open with a key.[0m
+[36m         LONG  A latch can usually be opened with a key or by turning a knob or lifting a hook or bar. You can also use the word latch as a verb, like when your mom reminds
+               you to latch the front and back doors before you leave for school in the morning. In some places, the word "latch-key" is used to mean "key."
+               The root of latch is the Germanic word læccan, "to grasp or seize."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I think it was that generation’s reaction to wanting to latch on to a scene.[0m
+[3m             > Finding the back door now open, oh not open wide, but on the latch, as the saying is, Watt was able to enter the house.[0m
+[3m             > As per the finale’s title, “Latching,” he attaches to Hannah’s breast.[0m
+[3m             > One late night, as she sings Tracy Chapman’s “Fast Car” as a lullaby, he finally latches on.[0m
+[3m             > In training camp, the Wizards never latched on to the narrative of bracing for a slow start.[0m
+
+[35mLatch[0m[36m /latʃ/,[0m [91m[3mnoun[0m[0m | noun: latch; plural noun: latches
+      [32m1.[0m [37ma metal bar with a catch and lever used for fastening a door or gate.[0m
+	   "lifting the latch, she pushed the gate open"
+  	   [3msynonyms:[0m fastening, catch, fastener ;  clasp, hasp, hook, bar, bolt, clip ;  lock, padlock, deadlock ;  sneck, snib
+		    "lifting the latch, she pushed the gate open"
+          • [37ma spring lock for an outer door, which catches when the door is closed and can only be opened from the outside with a key.[0m
+          • [37mthe part of a knitting machine needle which closes or opens to hold or release the wool.[0m
+
+      [32m2.[0m [37ma circuit which retains whatever output state results from a momentary input signal until reset by another signal.[0m
+    [91m[3mverb[0m[0m | verb: latch; 3rd person present: latches; past tense: latched; past participle: latched; gerund or present participle: latching
+      [32m1.[0m [37mfasten (a door or gate) with a latch.[0m
+	   "she latched the door carefully"
+  	   [3msynonyms:[0m fasten, secure, make fast, bar, bolt ;  lock, padlock, deadlock ;  sneck, snib
+		    "Jess latched the back door"
+
+      [32m2.[0m [37m(of a device) become fixed in a particular state.[0m
+	   "the output relay can be set to latch at a preset value"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+          [31mकुंडी[0m          [31mसिटकिनी से बन्द करना[0m          [31mसिटकिनी[0m       

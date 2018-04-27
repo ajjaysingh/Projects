@@ -1,0 +1,18 @@
+[35m                                                                                   AGGREGATION                                                                                    [0m
+[91m        SHORT  An aggregation is a collection, or the gathering of things together. Your baseball card collection might represent the aggregation of lots of different types
+               of cards.[0m
+[36m         LONG  Aggregation comes from the Latin ad, meaning to, and gregare, meaning herd. So the word was first used to literally mean to herd or to flock. Now it's just
+               refers to anything herded together in a collection or assemblage. If you work in a lab, for example, you may be charged with the aggregation of
+               samples prior to experimentation.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “The consumer is benefited from the aggregation,” he said.[0m
+[3m             > In Britain, so-called demand aggregation is already a profitable business model.[0m
+[3m             > At first, the site started by Andrew Breitbart was a simple news aggregation service.[0m
+[3m             > The aggregation of proteins into structures known as amyloids is observed in many neurodegenerative diseases, including Alzheimer's disease.[0m
+[3m             > The hallmark intracellular deposits of AD, neurofibrillary tangles, are the result of aberrant aggregation of tau protein, which usually associates with
+               microtubules.[0m
+
+	Wiki Definition:
+              	An aggregation is a collection, or the gathering of things together. Your baseball card collection might represent the aggregation of lots of different types
+               of cards. Aggregation comes from the Latin ad, meaning to, and gregare, meaning herd. So the word was first used to literally mean to herd or
+               to flock.

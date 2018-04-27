@@ -1,0 +1,36 @@
+[35m                                                                                    MALIGNANT                                                                                     [0m
+[91m        SHORT  For something that's very harmful, especially a tumor that's cancerous, use the term malignant.[0m
+[36m         LONG  Malignant and its opposite benign are medical terms used to describe a tumor or growth as either cancerous or not respectively. The gn part of both words
+               comes from the Latin word for born, differing in the prefix mal "evil" and bene "kind." A malignant tumor grows uncontrollably and spreads to
+               other parts of the body. Though less common, malignant can also be used to mean "evil, malicious" like when someone has a malignant
+               imagination.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Another Sunstone product, Virxcan-X Salve, is marketed for “liver congestion, arthritis, malignant growths, respiratory and urinary tract infection,”
+               according to the FDA.[0m
+[3m             > But this proves nothing: malignant cells consume in abundance not only carbohydrates like glucose and fructose but other nutrients, like vitamins.[0m
+[3m             > The doctors found sarcomas, which are malignant tumors.[0m
+[3m             > This conflation continues a malignant trend of needlessly politicizing the work of scientists, conservationists and environmental stewards.[0m
+[3m             > The cause was malignant melanoma, said his wife, Susan Kelly.[0m
+
+[35mMalignant[0m[36m /məˈlɪɡnənt/,[0m [91m[3madjective[0m[0m | adjective: malignant
+      [32m1.[0m [37mevil in nature or effect; malevolent.[0m
+	   "in the hands of malignant fate"
+  	   [3msynonyms:[0m spiteful, hostile, malevolent, malicious, malign, evil-intentioned, baleful, full of hate, vicious, nasty, poisonous, venomous, acrimonious, rancorous,
+                     splenetic, cruel
+		    "one of the most malignant glares she had ever seen"
+  	   [3mantonyms:[0m benevolent
+
+      [32m2.[0m [37m(of a disease) very virulent or infectious.[0m
+	   "a malignant disease"
+  	   [3msynonyms:[0m virulent, infectious, invasive, uncontrollable, dangerous, harmful, pernicious ;  deadly, fatal, life-threatening, lethal, terminal, incurable
+		    "a malignant disease"
+          • [37m(of a tumour) tending to invade normal tissue or to recur after removal; cancerous.[0m
+	   "a malignant growth in her left kidney"
+  	   [3msynonyms:[0m cancerous, non-benign, metastatic
+		    "a malignant growth in her left kidney"
+  	   [3mantonyms:[0m benign
+  [31m[4m[34madjective[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+          [31mघातक[0m                  [31mअसाध्य[0m        
+          [31mदुष्ट[0m                 [31mविषालु[0m        
+        [31mहानिकारक[0m               [31mदुर्दम्य[0m       
+       [31mनुक़सानदेह[0m                [31mकपटी[0m         

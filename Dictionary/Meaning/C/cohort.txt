@@ -1,0 +1,30 @@
+[35m                                                                                      COHORT                                                                                      [0m
+[91m        SHORT  A cohort is a group of people who are around the same age, like a cohort of college students who  have similar experiences and concerns.[0m
+[36m         LONG  The word cohort was originally used to describe a military unit in ancient Rome. You can see how this retains traces of the word’s origins: cohorts are bound
+               together by similar circumstances just like a group of soldiers in a military unit. Some  language purists insist that the word only describe a
+               group, such as a cohort of accountants, but it can also refer to companions or supporters, such as “Susie and her cohorts.”[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But they found no significant differences in a cohort of 900 people aged 80 to 90.[0m
+[3m             > But somewhere along the way, he and his cohorts started to express their doubts.[0m
+[3m             > Now Taylor finds herself squaring up against an opposing, larger cohort of foreign fighters, schooled in a strain of nihilistic jihadism.[0m
+[3m             > Others in Mr. Greene’s cohort are focused on a more short-term goal: getting through high school.[0m
+[3m             > Coachella … the start of the festival season or a thinly disguised photo opportunity for the latest cohort of digital influencers to show off their outfits?[0m
+
+[35mCohort[0m[36m /ˈkəʊhɔːt/,[0m [91m[3mnoun[0m[0m | noun: cohort; plural noun: cohorts
+      [32m1.[0m [37man ancient Roman military unit, comprising six centuries, equal to one tenth of a legion.[0m
+	   "the Roman army was organized into centuries, cohorts, and legions"
+  	   [3msynonyms:[0m unit, outfit, force ;  army, group, corps, division, brigade, battalion, regiment, squadron, company, commando, battery, troop, section, patrol, cadre,
+                     crew, detachment, contingent, column, squad, detail, band, legion
+		    "the Roman army was organized into centuries, cohorts, and legions"
+
+      [32m2.[0m [37ma group of people with a shared characteristic.[0m
+	   "a cohort of civil servants patiently drafting legislation"
+          • [37ma group of people with a common statistical characteristic.[0m
+	   "the 1940–4 birth cohort of women"
+  	   [3msynonyms:[0m group, grouping, category, categorization, grade, grading, classification, class, set, section, division, order, batch, list ;  age group, generation
+		    "52% of the mothers in the 1946 cohort of births had two children"
+
+      [32m3.[0m [37ma supporter or companion.[0m
+	   "young Jack arrived with three of his cohorts"
+  [31m[4m[34mnoun[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+         [31mकाउहोट[0m          [31mरोम की सेना का एक दल[0m 

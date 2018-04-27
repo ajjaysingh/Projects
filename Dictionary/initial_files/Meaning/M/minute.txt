@@ -1,0 +1,63 @@
+[35m                                                                                      MINUTE                                                                                      [0m
+[91m        SHORT  Craftsmen can paint whole villages or detailed portraits of people on a grain of rice using minute, or tiny, paintbrushes. Often the works of art are so
+               minute that you can only see them with a magnifying glass.[0m
+[36m         LONG  Minutus is the Latin word for "small," and it gave rise to both the adjective minute (my-NOOT), or incredibly small, and the noun minute (MIN-it), or 60
+               seconds of time. Though they are pronounced differently, both words refer to small measurements. An object can be minute, like a flea compared
+               with its dog, and less concrete things can be minute, like your minute chance of winning the lottery. A minute freckle on the side of your nose
+               is a minute detail of your whole face.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He completed a full 90 minutes of league action for the first time since September and enjoyed a productive partnership with Martial.[0m
+[3m             > Lundqvist managed a reactive glove save off a rifled slap shot from Shea Weber in the waning minutes of the second period.[0m
+[3m             > For most of the first 45 minutes Liverpool dominated and Palace were happy to let them do so.[0m
+[3m             > After an even first half, Napoli broke the deadlock seven minutes after the break thanks to a rare header from Dries Mertens.[0m
+[3m             > The whole experience lasts five or 10 minutes, and even a good half hour later it’s as though coals are gently banked in my mouth.[0m
+
+[35mMinute[0m[36m /ˈmɪnɪt/,[0m [91m[3mnoun[0m[0m | noun: minute; plural noun: minutes; noun: arc minute; plural noun: arc minutes; noun: minute of arc; plural noun: minutes of arc
+      [32m1.[0m [37ma period of time equal to sixty seconds or a sixtieth of an hour.[0m
+	   "we waited for twenty minutes"
+          • [37mthe distance covered in a minute by someone driving or walking.[0m
+	   "the hotel is situated just ten minutes from the centre of the resort"
+          • [37ma very short time.[0m
+	   "come and sit down for a minute"
+	   [3msynonyms:[0m moment, short time, little while, second, bit, 
+		    "it'll only take a minute"
+          • [37ma point in time.[0m
+	   "she was laughing one minute and crying the next"
+	   [3msynonyms:[0m point in time, point, moment, instant, time, 
+		    "at that minute, Tony walked in"
+
+      [32m2.[0m [37ma sixtieth of a degree of angular measurement (symbol: ʹ).[0m
+	   "Delta Lyrae is a double star with a separation of over 10 minutes of arc"
+[35mMinute[0m[36m /mʌɪˈnjuːt/,[0m [91m[3madjective[0m[0m | adjective: minute; superlative adjective: minutest
+          • [37mextremely small.[0m
+	   "minute particles"
+	   [3msynonyms:[0m tiny, minuscule, microscopic, nanoscopic, very small, 
+		    "minute particles of gold dust"
+	   [3mantonyms:[0m huge
+          • [37mso small as to be insignificant.[0m
+	   "he will have no more than a minute chance of exercising influence"
+	   [3msynonyms:[0m negligible, slight, infinitesimal, minimal, trifling, 
+		    "a minute chance of success"
+	   [3mantonyms:[0m significant
+          • [37m(of an investigation or account) taking the smallest points into consideration; precise and meticulous.[0m
+	   "a minute examination of the islands"
+	   [3msynonyms:[0m exhaustive, painstaking, systematic, meticulous, rigorous, 
+		    "considering the proposal in minute detail"
+	   [3mantonyms:[0m superficial, cursory
+[35mMinute[0m[36m /ˈmɪnɪt/,[0m [91m[3mnoun[0m[0m | plural noun: minutes; noun: minute
+      [32m1.[0m [37ma summarized record of the proceedings at a meeting.[0m
+	   "Pat is taking the minutes"
+	   [3msynonyms:[0m record(s), proceedings, log, notes, transactions, 
+		    "their objection was noted in the minutes"
+
+      [32m2.[0m [37man official memorandum authorizing or recommending a course of action.[0m
+    [91m[3mverb[0m[0m | verb: minute; 3rd person present: minutes; past tense: minuted; past participle: minuted; gerund or present participle: minuting
+      [32m1.[0m [37mrecord (the proceedings of a meeting).[0m
+	   "the Secretary shall minute the proceedings of each meeting"
+
+      [32m2.[0m [37msend a memorandum to (someone).[0m
+	   "look up the case and minute me about it"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mमिनट[0m            [31mसूक्ष्म[0m       [31mस्मरणार्थ लिखना[0m      [31mछोटी-छोटी[0m    
+        [31mक्षण[0m           [31mबहुत छोटा[0m       [31mरिपोर्ट लिखना[0m         [31mटिप्पण[0m     
+    [31mअधिकृत पात्र[0m        [31mक्षुद्र[0m         [31mरिपोर्ट करना[0m       [31mकार्यविवरण[0m   

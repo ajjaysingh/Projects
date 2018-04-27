@@ -1,0 +1,17 @@
+[35m                                                                                     CONVOLVE                                                                                     [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A Volume is, 'something rolled or convolved;' and so is a barrel, a foot-ball, and a blanket.[0m
+[3m             > "Upwards and downwards, thwarting and convolved," the myriads of insects dance away their hour, and are forgot.[0m
+[3m             > There you see it above, and to a great height, shaping into varied and convolving forms.[0m
+[3m             > On the farther side, to which we now hastily scrambled, the wood was not so dense, the web of creepers not so solidly convolved.[0m
+[3m             > Convolving clouds poured smoky volumes through the expansion; a deep, hollow, distant roar, announced the approach of “summoned winds.”[0m
+
+[35mConvolve[0m[36m /kənˈvɒlv/,[0m [91m[3mverb[0m[0m | verb: convolve; 3rd person present: convolves; past tense: convolved; past participle: convolved; gerund or present participle: convolving
+      [32m1.[0m [37mroll or coil together; entwine.[0m
+
+      [32m2.[0m [37mcombine (one function or series) with another by forming their convolution.[0m
+  [31m[4m[34m[0m[0m[0m
+    [31mलपेटना[0m   
+  [31mगोला बनाना[0m 
+
+      Origin:  late 16th century (in the sense ‘enclose in folds’): from Latin convolvere ‘roll together’, from con- ‘together’ + volvere ‘roll’.

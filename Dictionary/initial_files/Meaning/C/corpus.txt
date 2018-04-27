@@ -1,0 +1,28 @@
+[35m                                                                                      CORPUS                                                                                      [0m
+[91m        SHORT  A corpus is a collection of writings. If you tend to never throw anything away, you might have your entire school corpus, from your first scribbled words to
+               your high school English essays.[0m
+[36m         LONG  The written works of an author, or from one specific time period, can be called a corpus if they're gathered together into a collection or talked about as a
+               group. You could discuss the corpus of Dr. Seuss, for example. Corpus sounds a little like corpse, and that's no coincidence; corpus means
+               "body" in Latin, and though it's come to mean specifically "body of work," the two words are closely related.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s time to dust off our understanding of doctrines like “the separation of powers,” “the rule of law,” and “the writ of habeas corpus.”[0m
+[3m             > His father shipped off to Corpus Christi, Texas, for fighter school as well as advanced training and night training.[0m
+[3m             > “Daily killings, talk of suspension of the writ of habeas corpus, talk of martial law — all this really stinks of the Marcos era.”[0m
+[3m             > Mr. Gershengorn responded that no such hearings were required but that the immigrants could file individual habeas corpus petitions to challenge their
+               detentions.[0m
+[3m             > A federal judge in Corpus Christi allowed the soldiers from El Paso to remain free on bond pending sentencing next year.[0m
+
+[35mCorpus[0m[36m /ˈkɔːpəs/,[0m [91m[3mnoun[0m[0m | noun: corpus; plural noun: corpuses; plural noun: corpora
+      [32m1.[0m [37ma collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.[0m
+	   "the Darwinian corpus"
+	   [3msynonyms:[0m collection, compilation, body, entity, whole, 
+		    "his work has no parallel in the whole corpus of Renaissance poetry"
+          • [37ma collection of written or spoken material in machine-readable form, assembled for the purpose of linguistic research.[0m
+
+      [32m2.[0m [37mthe main body or mass of a structure.[0m
+          • [37mthe central part of the stomach, between the fundus and the antrum.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mमानवशरीर[0m 
+    [31mशरीर[0m   
+     [31mदेह[0m   
+     [31mकाय[0m   

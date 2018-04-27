@@ -1,0 +1,27 @@
+[35m                                                                                    PROVENANCE                                                                                    [0m
+[91m        SHORT  Where something comes from is its provenance. If a style of music originated in the capital of Rhode Island, you could say that its provenance was Providence.[0m
+[36m         LONG  Some items of foreign provenance are taxed more heavily than domestic products. If you claim that an artwork put up for sale was stolen from your family's art
+               collection, an investigation may be ordered to resolve issues of provenance. In this case, provenance refers to who has the legal right to the
+               specific work of art, or to whom it belongs.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > With a new computer science curriculum already in the education system, pupils are learning about encryption and data provenance.[0m
+[3m             > Though Cho is proud of the Korean provenance of the tower, he deliberately prioritized American influences in the design.[0m
+[3m             > There is a nice selection of hand-drawn ales, their provenance explained to me by other customers.[0m
+[3m             > When imbued with the right provenance, a simple pen or keyboard may even be capable of tilting the performance odds in our favor.[0m
+[3m             > He also likes to check the provenance of goods, preferring to buy from a trusted dealer or family of the sports person in question.[0m
+
+[35mProvenance[0m[36m /ˈprɒv(ə)nəns/,[0m [91m[3mnoun[0m[0m | noun: provenance
+          • [37mthe place of origin or earliest known history of something.[0m
+	   "an orange rug of Iranian provenance"
+  	   [3msynonyms:[0m origin, origin source, source place of origin ;  birthplace, birthplace spring, spring wellspring, wellspring fount, fount roots, history, history
+                     pedigree, pedigree derivation, derivation root, root etymology etymology ;  provenience provenience ;  radix radix
+		    "the police were suspicious about the provenance of the paintings"
+          • [37mthe beginning of something's existence; something's origin.[0m
+	   "they try to understand the whole universe, its provenance and fate"
+          • [37ma record of ownership of a work of art or an antique, used as a guide to authenticity or quality.[0m
+	   plural noun: provenances
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mउत्पत्तिस्थान[0m   [31mप्राप्ति-स्थान[0m 
+     [31mउत्पत्ति[0m         [31mमूल-स्रोत[0m   
+
+      Origin:  late 18th century: from French, from the verb provenir ‘come or stem from’, from Latin provenire, from pro- ‘forth’ + venire ‘come’.

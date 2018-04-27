@@ -1,0 +1,40 @@
+[35m                                                                                     EARMARK                                                                                      [0m
+[91m        SHORT  To earmark something is to set it aside for a specific purpose. If you’re saving money to spend it in a particular way — whether it’s for college or a fancy
+               new pair of shoes — you have earmarked that money.[0m
+[36m         LONG  Originally, an earmark was a mark on the ear of an animal — such as a sheep — that indicated ownership. Similarly, when government officials earmark a
+               resource, they're indicating what the resource will be used for. Earmarking is usually about money. $10,000 could be earmarked for cancer
+               research. A grant could be earmarked for a children's hospital. Earmarking is a way of stating how something will be used.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The shipbuilder said in a regulatory filing some 869 billion won of the total funds raised will be earmarked as operating funds, with the rights issue
+               expected to be completed in March 2018.[0m
+[3m             > At least 10 percent of any surplus is supposed to pay down retirement debt, and a quarter of a surplus is earmarked for the state’s “rainy day” fund.[0m
+[3m             > Though some of that money is earmarked for specific work, Moody’s, the credit-rating agency, cited the city’s ample cash and modest debt as a sign of good
+               financial health in a May report.[0m
+[3m             > The new money is earmarked for artificial intelligence efforts and international expansion.[0m
+[3m             > About 90 percent of the revenue would be earmarked for a $4,000 teacher pay raise and to address the ongoing teacher shortage.[0m
+
+[35mEarmark[0m[36m /ˈɪəmɑːk/,[0m [91m[3mverb[0m[0m | verb: earmark; 3rd person present: earmarks; past tense: earmarked; past participle: earmarked; gerund or present participle: earmarking
+      [32m1.[0m [37mdesignate (funds or resources) for a particular purpose.[0m
+	   "the cash had been earmarked for a big expansion of the programme"
+  	   [3msynonyms:[0m set aside, lay aside, set apart, keep back, appropriate, appropriate reserve, reserve keep keep ;  designate, designate assign, assign label, label tag,
+                     tag mark mark ;  allocate to, allot to, devote to, pledge to, commit to, give over to ;  hypothecate hypothecate
+		    "the cash had been earmarked for a big expansion of the firm"
+          • [37mdesignate a particular outcome for (someone or something).[0m
+	   "the yard has been earmarked for a complete overhaul"
+
+      [32m2.[0m [37mmark the ear of (a domesticated animal) as a sign of ownership or identity.[0m
+    [91m[3mnoun[0m[0m | noun: earmark; plural noun: earmarks
+      [32m1.[0m [37ma characteristic or identifying feature.[0m
+	   "this car has all the earmarks of a classic"
+  	   [3msynonyms:[0m characteristic, characteristic attribute, attribute feature, feature quality, quality essential quality, property, property mark, mark trademark,
+                     trademark hallmark hallmark ;  mannerism, mannerism way, way tendency tendency ;  lineament lineament
+		    "he had all the earmarks of a big leaguer"
+
+      [32m2.[0m [37ma congressional directive that funds should be spent on a specific project.[0m
+
+      [32m3.[0m [37ma mark on the ear of a domesticated animal indicating ownership or identity.[0m
+    [31m[4m[34mverb[0m[0m[0m       [31m[4m[34mnoun[0m[0m[0m         [31m[4m[34m[0m[0m[0m     
+            [31mदाग़ना[0m                      [31mलक्षण[0m                    [31mचिह्नित करना[0m       
+         [31mअनुदान देना[0m                     [31mदाग़[0m                   [31mउद्दिष्ट करना[0m       
+
+      Origin:  a mark on the ear of a domesticated animal indicating ownership or identity.

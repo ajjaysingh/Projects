@@ -1,0 +1,30 @@
+[35m                                                                                      REMAND                                                                                      [0m
+[91m        SHORT  In law, to remand is to send a case back to be reconsidered by another court — or to imprison someone who's been arrested until they go to trial.[0m
+[36m         LONG  In some cases, a court will remand a case for a completely new trial, and in others it might instruct the new court to use different legal standards, or to
+               decide only on a defendant's sentence. When a judge remands an accused criminal — holding them in custody until the case goes to trial — it's
+               often because they have a criminal record or have been charged with very serious crimes.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "With time spent on remand, he was free in a short amount of time," Sally said.[0m
+[3m             > Judges ordered that the suspect be remanded in custody.[0m
+[3m             > Mr Roome appeared at the Old Bailey and was remanded in custody until his trial on 13 March next year.[0m
+[3m             > The trial judge, Mr Justice Spencer, remanded Bulhan into custody until his trial, which is due to last two weeks.[0m
+[3m             > Circuit agreed and remanded the case to the lower court.[0m
+
+vb (tr)
+  1. (Law) law (of a court or magistrate) to send (a prisoner or accused person) back into custody or admit him or her to bail, esp on adjourning a case for further inquiries to be made
+  2. to send back
+n
+  3. (Law) the sending of a prisoner or accused person back into custody (or sometimes admitting him or her to bail) to await trial or continuation of his or her trial
+  4. the act of remanding or state of being remanded
+  5. (Law) on remand in custody or on bail awaiting trial or completion of one's trial
+
+[35mRemand[0m[36m /rɪˈmɑːnd/,[0m [91m[3mverb[0m[0m | verb: remand; 3rd person present: remands; past tense: remanded; past participle: remanded; gerund or present participle: remanding
+      [32m1.[0m [37mplace (a defendant) on bail or in custody, especially when a trial is adjourned.[0m
+	   "he was remanded in custody for a week"
+          • [37mreturn (a case) to a lower court for reconsideration.[0m
+    [91m[3mnoun[0m[0m | noun: remand; plural noun: remands
+      [32m1.[0m [37ma committal to custody.[0m
+	   "the prosecutor applied for a remand to allow forensic evidence to be investigated"
+     [31m[4m[34m[0m[0m[0m      [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34madjective[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m 
+          [31mरिमांड[0m             [31mवापस भेजने की आज्ञा[0m         [31mजेल वापसी का[0m              [31mवापस भेजना[0m       
+        [31mप्रतिप्रेषण[0m               [31mजेल वापसी[0m         [31mवापस भेजने की आज्ञा का[0m        [31mबंधन में रखना[0m     

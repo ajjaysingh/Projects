@@ -1,0 +1,19 @@
+[35m                                                                                      CIDER                                                                                       [0m
+[91m        SHORT  Cider is an unfiltered juice or fermented beverage made from apples. In the fall, there's nothing like a mug of hot, spiced cider.[0m
+[36m         LONG  Apple cider is a darker-colored, unsweetened version of apple juice — the main difference is that cider is fresh, with a short shelf life, and it isn't
+               filtered. Another kind of cider is this same pressed apple juice, allowed to ferment and become alcoholic. This is often called "hard cider."
+               The word comes from the Old French cidre, "pear or apple cider," ultimately from the Hebrew shekhar, "strong drink."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Beer on tap featured Michigan breweries, and the boisterous crowd enjoying ale and hard cider mimicked the perfect pub.[0m
+[3m             > Three types of yeast are available in a standard three-pack for sparkling cider, fruitier concoctions and recipes with a stronger alcohol content.[0m
+[3m             > It also expands the sale of cider to 32 ounce, 64 ounce and one-gallon growlers, putting it on the same playing field as craft beers.[0m
+[3m             > The wallet was handed into lost property after the cider purchase.[0m
+[3m             > The advert ran in some newspapers to promote "great offers on beer and cider" in the run up to Easter.[0m
+
+[35mCider[0m[36m /ˈsʌɪdə/,[0m [91m[3mnoun[0m[0m | noun: cider; plural noun: ciders; noun: cyder; plural noun: cyders
+          • [37man alcoholic drink made from fermented apple juice.[0m
+	   "a bottle of cider"
+          • [37man unfermented drink made by crushing fruit, typically apples.[0m
+	   noun: sweet cider; plural noun: sweet ciders; noun: apple cider; plural noun: apple ciders
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mसाइडर[0m      [31mसेब की मदिरा[0m 

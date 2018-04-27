@@ -1,0 +1,24 @@
+[35m                                                                                    INOCULATE                                                                                     [0m
+[91m        SHORT  If you inoculate someone, you try to make him immune to a disease by injecting a little dose of it, so his body can make antibodies to fight it off. When you
+               were little you probably got a vaccine to inoculate you against smallpox.[0m
+[36m         LONG  When inoculate first came into English in the 15th century, it referred to inserting a bud onto another plant. Now you’re more likely to hear it used to
+               describe the process of building up immunity to a disease by giving someone a vaccine, which also involves the insertion of foreign matter. You
+               can also inoculate someone metaphorically, with ideas.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > As with the mice, the inoculated monkeys developed immunity: all three vaccines protected completely against infection.[0m
+[3m             > The goal, he said, was “deterring the Russians from further malign cyber action and inoculating the public against such manipulation in the future.”[0m
+[3m             > While we cleaned and shopped, the family was being interviewed and inoculated in preparation for travel as refugees to the United States.[0m
+[3m             > Five years ago, Mr. Sinskey became a client of the American Truffle Company, which sells trees that have been inoculated with the truffle fungus.[0m
+[3m             > The phenomenon limits the spread of virus when enough of a population is inoculated against infection through vaccination, prior exposure or both.[0m
+
+[35mInoculate[0m[36m /ɪˈnɒkjʊleɪt/,[0m [91m[3mverb[0m[0m | verb: inoculate; 3rd person present: inoculates; past tense: inoculated; past participle: inoculated; gerund or present participle: inoculating
+          • [37mtreat with a vaccine to produce immunity against a disease; vaccinate.[0m
+	   "he inoculated his tenants against smallpox"
+	   [3msynonyms:[0m immunize, vaccinate, inject; 
+		    "he inoculated his patients against smallpox"
+          • [37mintroduce (an infective agent) into an organism.[0m
+	   "the micro-organism can be inoculated into laboratory animals"
+          • [37mintroduce (cells or organisms) into a culture medium.[0m
+	   "0.5 ml of the specimen was inoculated into each tissue culture flask"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+       [31mटीका लगाना[0m            [31mकलम लगाना[0m      

@@ -1,0 +1,5 @@
+[35m                                                                                      NODAL                                                                                       [0m
+
+	Wiki Definition:
+              	adj. Of, relating to, resembling, being, or situated near or at a node. nodal in Technology Expand. Interpreted language implemented on Norsk Data's NORD-10
+               computers. Used by CERN and DESY high energy physics labs to control their accelerator hardware, PADAC and SEDAC.

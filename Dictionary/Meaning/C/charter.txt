@@ -1,0 +1,57 @@
+[35m                                                                                     CHARTER                                                                                      [0m
+[91m        SHORT  What do rock gods do when they travel? They charter their own plane, of course. Charter means you rent or lease a particular service or object. Anyone can
+               charter something, though lesser mortals tend to limit themselves to buses.[0m
+[36m         LONG  Charter comes from the Latin charta, meaning "paper, card or map." As a noun, charter refers to a written document outlining — or mapping — the rights and
+               obligations of a company or organization, or even, in older days, a town or entire colony. New York City was given a charter, for example, by
+               the British monarch in the 17th century, guaranteeing it certain rights in exchange for goods and services. Today corporations still have
+               charters governing their behavior.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the latest note, Deutsche Bank said Charter's change apparently applied beyond legacy markets from the Time Warner Cable and Bright House Networks
+               acquisitions.[0m
+[3m             > “Charter was really strong in a bunch of second-largest markets, and then it bought New York and L.A.,” he said.[0m
+[3m             > The Wisconsin Republican did not speak with reporters Tuesday as he slipped into the Success Academy charter school in Harlem.[0m
+[3m             > The report describes how the city’s political elite fell under the spell of the charter industry’s billionaire sponsors, in this case Microsoft founder Bill
+               Gates.[0m
+[3m             > Because of Federal Aviation Administration restrictions on pilot hours, if the Yankees’ charter flight was not airborne by 3:22 a.m.[0m
+
+[35mCharter[0m[36m /ˈtʃɑːtə/,[0m [91m[3mnoun[0m[0m | noun: charter; plural noun: charters
+      [32m1.[0m [37ma written grant by the sovereign or legislative power of a country, by which a body such as a borough, company, or university is created or its rights and
+           privileges defined.[0m
+	   "the town received a charter from the Emperor"
+  	   [3msynonyms:[0m authority, authorization, sanction, covenant, dispensation, consent, permission, sufferance ;  prerogative, privilege, right ;  droit  permit, licence,
+                     warrant, warranty, deed, bond, document, indenture ;  concession, franchise, privilege
+		    "the company is operating under Royal charter"
+          • [37ma written constitution or description of an organization's functions.[0m
+	   "the impending review of the BBC's Charter"
+  	   [3msynonyms:[0m constitution, code, canon, body of law, system of rules ;  fundamental principles, rules, laws
+		    "they violated the principles of the UN Charter"
+          • [37m(in the UK) a written statement of the rights of a specified group of people.[0m
+	   "the standard set by the patient's charter"
+          • [37ma policy or law regarded as enabling people to engage more easily in a specified undesirable activity.[0m
+	   "he described the act as a charter for vandals"
+
+      [32m2.[0m [37mthe hiring of an aircraft, ship, or motor vehicle for a special purpose.[0m
+	   "a plane on charter to a multinational company"
+  	   [3msynonyms:[0m hire, hiring, lease, leasing, rent, rental, renting, booking, reservation, reserving ;  engaging, engagement ;  bespeaking
+		    "there is a fee for the independent charter of yachts"
+          • [37ma ship or vehicle that is hired.[0m
+	   "the fifty foot charter Capricorn will join the team"
+          • [37ma trip made by a ship or vehicle under hire.[0m
+	   "he liked to see the boat sparkling clean before each charter"
+    [91m[3mverb[0m[0m | verb: charter; 3rd person present: charters; past tense: chartered; past participle: chartered; gerund or present participle: chartering
+      [32m1.[0m [37mgrant a charter to (a city, university, or other body).[0m
+	   "chartered corporations"
+
+      [32m2.[0m [37mhire (an aircraft, ship, or motor vehicle).[0m
+	   "he immediately chartered a plane to take him to Paris"
+  	   [3msynonyms:[0m hire, lease, rent, pay for the use of, book, reserve ;  engage ;  bespeak
+		    "they chartered a train for the trip to Milwaukee"
+        [31m[4m[34mnoun[0m[0m[0m              [31m[4m[34mverb[0m[0m[0m                [31m[4m[34m[0m[0m[0m        
+               [31mचार्टर[0m                           [31mसुविधा देना[0m                        [31mअधिकार देना[0m           
+              [31mघोषणापत्र[0m                         [31mरिआयत देना[0m                           [31mराजलेख[0m              
+             [31mविशेषाधिकार[0m                     [31mविशेषाधिकार देना[0m                          [31mसनद[0m               
+
+
+> A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.
+> A similar document conferring rights and privileges on a person, corporation etc.
+> A contract for the commercial leasing of a vessel, or space on a vessel.

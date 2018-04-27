@@ -1,0 +1,36 @@
+[35m                                                                                    MACHINERY                                                                                     [0m
+[91m        SHORT  Machinery refers to specific machines or machines in general. A farmer has lots of farm machinery, like tractors and plows. Machinery is also the inner
+               workings of something — the machinery of a society is how a society works.[0m
+[36m         LONG  You can refer to a group of machines as machinery, such as the machinery in a factory or the machinery in a laboratory. It’s also the inner workings of a
+               particular machine, like the machinery that keeps your computer running. Machinery has to do with how something works or functions. The
+               government, media, business, and family are all part of the machinery of society. The word machinery originally referred to the devices used
+               for creating stage effects in the theater.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Thacker won the industry’s highest honor, the Association for Computing Machinery’s A.M.[0m
+[3m             > They talk about their writing processes, their lives as working musicians and their fears and triumphs in an often-overlooked corner of the pop music
+               machinery.[0m
+[3m             > Mr. Thacker won the industry’s highest honor, the Association for Computing Machinery’s A.M.[0m
+[3m             > Juniors and seniors operate machinery that the local orthopedic companies helped fund, shaping titanium rods into polished discs.[0m
+[3m             > It’s also superstars v journeymen, overlords v underdogs, well-oiled machinery v something more mercurial, and, broadly speaking, batsmen v bowlers.[0m
+
+[35mMachinery[0m[36m /məˈʃiːn(ə)ri/,[0m [91m[3mnoun[0m[0m | noun: machinery; plural noun: machineries
+          • [37mmachines collectively.[0m
+	   "farm machinery"
+  	   [3msynonyms:[0m equipment, equipment apparatus, apparatus hardware, hardware plant, plant mechanism, mechanism gear, gear tackle, tackle instruments, tools, gadgetry,
+                     gadgetry technology technology ;  enginery enginery
+		    "a paper mill equipped with modern machinery"
+          • [37mthe components of a machine.[0m
+	   "long hair should be tied back to avoid it getting stuck in machinery"
+          • [37mthe organization or structure of something or for doing something.[0m
+	   "the machinery of the state"
+  	   [3msynonyms:[0m workings, organization, organization system, system structure, structure administration, administration institution, institution agency, agency channel,
+                     channel vehicle vehicle ;  set-up, set-up nuts and bolts, brass tacks, nitty-gritty nitty-gritty
+		    "the machinery of local government"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mमशीनरी[0m           [31mसामग्री[0m     
+        [31mसाधन[0m         [31mयंत्र का कार्य[0m 
+       [31mतन्त्र[0m       [31mयंत्रों का समूह[0m 
+     [31mयंत्रसमूह[0m           [31mबनावट[0m      
+     [31mकल-पुर्जे[0m           [31mढांचा[0m      
+
+      Origin:  "the machinery of local government"

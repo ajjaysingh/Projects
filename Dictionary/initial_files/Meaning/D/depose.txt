@@ -1,0 +1,29 @@
+[35m                                                                                      DEPOSE                                                                                      [0m
+[91m        SHORT  When you force someone in authority out of office — a politician, a king, or a cheerleading captain — you depose them.[0m
+[36m         LONG  The word almost always associated with an act of deposition is coup, meaning a sudden act of overthrowing of the government. Sometimes bloodless, more often
+               not. On a less dramatic scale, lawyers depose less exalted folk every day; it means they take evidence from them under oath, possibly to be
+               used in a court case later. Often those giving evidence (mobsters, murderers, financial scammers, etc,) are unwilling to talk to lawyers, hence
+               the suggestion of a stripping away of power and dignity implicit in the term depose.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > She would become the first sitting South Korean president to be deposed in the country's democratic era.[0m
+[3m             > The revolution that deposed the Bakiyev clan was followed by terrible ethnic violence in southern Kyrgyzstan, where there is a large ethnic Uzbek population.[0m
+[3m             > He was deposed as leader of the Liberal Party in December 2009, primarily as a result of his support for a price on carbon emissions.[0m
+[3m             > If you wanted him to shake up the system and depose the coastal elites — well, early signs are you’ve been had.[0m
+[3m             > For many months, his lawyers had successfully delayed Fisher’s demands to depose him in person, insisting on a variety of jurisdictional, geographic and
+               practical complications.[0m
+
+[35mDepose[0m[36m /dɪˈpəʊz/,[0m [91m[3mverb[0m[0m | verb: depose; 3rd person present: deposes; past tense: deposed; past participle: deposed; gerund or present participle: deposing
+      [32m1.[0m [37mremove from office suddenly and forcefully.[0m
+	   "he had been deposed by a military coup"
+	   [3msynonyms:[0m overthrow, overturn, topple, bring down, remove from office, 
+		    "the president was deposed by a right-wing junta"
+
+      [32m2.[0m [37mtestify to or give (evidence) under oath, typically in a written statement.[0m
+	   "every affidavit shall state which of the facts deposed to are within the deponent's knowledge"
+	   [3msynonyms:[0m swear, testify, attest, undertake, assert, 
+		    "an independent witness deposed that he had seen the accused"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mउपदस्थ करना[0m        [31mबयान देना[0m    
+     [31mनिकाल देना[0m     [31mअभिसाक्ष्य देना[0m 
+     [31mगवाही देना[0m       [31mअपदस्थ करना[0m   
+       [31mहटाना[0m          [31mसाक्ष्य देना[0m  

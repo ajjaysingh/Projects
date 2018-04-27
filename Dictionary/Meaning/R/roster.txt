@@ -1,0 +1,27 @@
+[35m                                                                                      ROSTER                                                                                      [0m
+[91m        SHORT  If you see your name on the roster of players for the new softball team, then congratulations! Better start practicing, because you’re on the list of players
+               who made the team.[0m
+[36m         LONG  The word roster originally meant a list of the names, duties, and schedule of members of the military. That meaning is still in use, but today, a roster is
+               more likely to be a list of players on your favorite team, a list of artists whose artwork appears regularly in a certain gallery, or a list of
+               participants, such as an airline that posts its roster of flight crew members for the red-eye to Phoenix.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And the B team roster he’s chosen for it reflects the vision of a builder, not someone merely trying to save his job.[0m
+[3m             > Most of the rest of their roster is far below that mark.[0m
+[3m             > The 76 Venezuelan players on the 25-man rosters of the 30 MLB teams was a record at the start of the season.[0m
+[3m             > But the new public report adds to the roster of curious private meetings between Trump allies and Russians during and after the campaign.[0m
+[3m             > The six other S2 players were all on the roster as substitutes.[0m
+
+[35mRoster[0m[36m /ˈrɒstə/,[0m [91m[3mnoun[0m[0m | noun: roster; plural noun: rosters
+      [32m1.[0m [37ma list or plan showing turns of duty or leave for individuals or groups in an organization.[0m
+	   "next week's duty roster"
+  	   [3msynonyms:[0m list, list listing, listing register, register schedule, schedule agenda, agenda calendar, calendar roll, roll directory, directory table table ;  rota
+                     rota
+		    "according to the roster, he was due to work today"
+          • [37ma list of members of a team or organization, in particular of sports players available for team selection.[0m
+	   "a cluster of outstanding players on the club's roster"
+    [91m[3mverb British[0m[0m | verb: roster; 3rd person present: rosters; past tense: rostered; past participle: rostered; gerund or present participle: rostering
+      [32m1.[0m [37mplace on or assign according to a duty roster.[0m
+	   "the locomotive is rostered for service on Sunday"
+
+      Origin:  early 18th century (originally denoting a list of duties and leave for military personnel): from Dutch rooster ‘list’, earlier ‘gridiron’, from roosten ‘to
+               roast’, with reference to its parallel lines.

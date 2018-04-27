@@ -1,0 +1,25 @@
+[35m                                                                                      SPLINE                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > At one point, Norman noticed that the computer program had reached the stage where it was “reticulating splines.”[0m
+[3m             > Other times it’s held in framing via splines, and the frames are attached to the support structure.[0m
+[3m             > The points mark the computed 1 − CL values and the curve is their spline interpolation.[0m
+[3m             > The caning on your chair appears to be the machine-made type that’s held in place with a spline stuffed into a groove around the edges.[0m
+[3m             > A restricted cubic spline regression model and a simple linear regression model were used to investigate the association between mitoflash activity and the
+               lifespan.[0m
+
+[35mSpline[0m[36m /splʌɪn/,[0m [91m[3mnoun[0m[0m | noun: spline; plural noun: splines; noun: spline curve; plural noun: spline curves
+      [32m1.[0m [37ma rectangular key fitting into grooves in the hub and shaft of a wheel, especially one formed integrally with the shaft which allows movement of the wheel on the
+           shaft.[0m
+          • [37ma corresponding groove in a hub along which the key may slide.[0m
+
+      [32m2.[0m [37ma slat of wood, metal, etc.[0m
+          • [37ma flexible wood or rubber strip used especially in drawing large curves.[0m
+
+      [32m3.[0m [37ma continuous curve constructed so as to pass through a given set of points and have a certain number of continuous derivatives.[0m
+    [91m[3mverb[0m[0m | verb: spline; 3rd person present: splines; past tense: splined; past participle: splined; gerund or present participle: splining
+      [32m1.[0m [37msecure (a part) by means of a spline.[0m
+	   "the clutch units are splined on to the mainshaft"
+          • [37mfit with a spline.[0m
+	   "splined freewheels"
+                                  [31m[4m[34mnoun[0m[0m[0m                                                                     [31m[4m[34m[0m[0m[0m                                   
+                                          [31mपट्टी[0m                                           [31mआयताकार	 कुंजी जो पहिए की हब और घूरे की झिरी में फिट रहती है ताकि दोनो एक साथ घूम सके[0m 

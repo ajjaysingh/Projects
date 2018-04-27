@@ -1,0 +1,32 @@
+[35m                                                                                     PENANCE                                                                                      [0m
+[91m        SHORT  Penance is the act of doing a good deed to make up for past wrongs. Shoveling your neighbor's sidewalk all winter could be your penance for not helping rake
+               the leaves that dropped from your tree into his yard during the fall.[0m
+[36m         LONG  Although the noun penance can mean any remorse for past mistakes, or any voluntary action meant to right the wrong, Penance, with a capital P, also
+               specifically refers to a sacrament in the Catholic Church. When a person receives Penance, he or she confesses sins to a priest, and along with
+               a blessing, receives an order to do something, such as say certain prayers. This assignment is also called penance.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The prevailing mood is one of suffering: pilgrimages, confinement, penance and death.[0m
+[3m             > According to church lore, the Virgin Mary urged penance, sacrifice, and turning away from sin during her appearances to the children.[0m
+[3m             > My penance was a round of emails with various parties at Hertz, which eventually reversed the charges.[0m
+[3m             > Perhaps it was penance for ripping up that California road years back.[0m
+[3m             > The “traditional cultural warrior” — he counted himself one — “believes in the Judeo-Christian code of forgiveness — but with punishment and with penance.”[0m
+
+[35mPenance[0m[36m /ˈpɛnəns/,[0m [91m[3mnoun[0m[0m | noun: penance; plural noun: penances
+      [32m1.[0m [37mpunishment inflicted on oneself as an outward expression of repentance for wrongdoing.[0m
+	   "he had done public penance for those hasty words"
+  	   [3msynonyms:[0m atonement, expiation, self-punishment, self-mortification, self-abasement, reparation, amends, penalty, punishment  atone, make
+                     amends/reparation/recompense/restitution, make up, redeem oneself, pay the penalty, pay, recompense, pay the price, expiate,
+                     redress, compensate
+		    "self-awareness is the necessary ingredient for penance"
+
+      [32m2.[0m [37ma sacrament in which a member of the Church confesses sins to a priest and is given absolution.[0m
+          • [37ma religious observance or other duty required of a person by a priest as part of this sacrament to indicate repentance.[0m
+    [91m[3mverb archaic[0m[0m | verb: penance; 3rd person present: penances; past tense: penanced; past participle: penanced; gerund or present participle: penancing
+      [32m1.[0m [37mimpose a penance on.[0m
+	   "the Bishop penanced him severely for his conduct"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mतपस्या[0m     [31mप्रायश्चित[0m 
+     [31mतोबा[0m       [31mकायाक्लेश[0m 
+    [31mपछतावा[0m       [31mदेह दंड[0m  
+
+       Origin  Middle English: from Old French, from Latin paenitentia ‘repentance’, from the verb paenitere ‘be sorry’.

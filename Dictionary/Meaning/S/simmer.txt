@@ -1,0 +1,44 @@
+[35m                                                                                      SIMMER                                                                                      [0m
+[91m        SHORT  Usually when you're making a soup, you want to bring it to a boil and then let it simmer, cooking it just below the boiling point to get all the flavors to
+               release.[0m
+[36m         LONG  The word simmer is usually used to describe the temperature just below boiling or the process of cooking something at that temperature. But it can also be
+               used to describe a feeling that's been simmering or slowly developing over time. It's also a word used to describe suppressed anger — that
+               feeling just before you boil over. Just in case you do boil over, you might need to take a moment to simmer down, a casual expression that
+               means, "Chill out, my friend."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A friend of mine simmers his brisket on top of the stove for at least 15 hours, yes--15.[0m
+[3m             > US officials published a list on Tuesday of $50bn in Chinese imports set to be targeted by US tariffs, the latest move in Donald Trump’s simmering trade
+               confrontation with Beijing.[0m
+[3m             > A strong yen and simmering fears of a trade war, triggered by U.S.[0m
+[3m             > The simmering row escalated Sunday with newspaper reports about numerous anti-Semitic Facebook posts from groups that support Labour.[0m
+[3m             > Onstage, his anxious chords matched the book’s seething tone and simmering tension.[0m
+
+[35mSimmer[0m[36m /ˈsɪmə/,[0m [91m[3mverb[0m[0m | verb: simmer; 3rd person present: simmers; past tense: simmered; past participle: simmered; gerund or present participle: simmering
+      [32m1.[0m [37m(of water or food that is being heated) stay just below boiling point while bubbling gently.[0m
+	   "the goulash was simmering slowly in the oven"
+  	   [3msynonyms:[0m boil gently, not quite boil, cook gently, stew, stew poach poach ;  bubble bubble ;  seethe seethe
+		    "a pan of vegetable soup was simmering on the stove"
+          • [37mkeep (food) just below boiling point when cooking or heating it.[0m
+	   "simmer the sauce gently until thickened"
+          • [37mexist in a suppressed state.[0m
+	   "the disagreement simmered for years and eventually boiled over"
+          • [37mshow or feel barely suppressed anger or other strong emotion.[0m
+	   "she was simmering with resentment"
+  	   [3msynonyms:[0m be furious, be enraged, be angry, be incensed, be infuriated, be beside oneself, have lost one's temper, have a fit, boil, boil seethe, seethe be boiling
+                     over, chafe, chafe rage, rage be in a rage, rant, rant rave, rave rant and rave, storm, storm fume, fume smoulder, smoulder spit,
+                     spit breathe fire, burn burn ;  be livid, be wild, jump up and down, froth/foam at the mouth, be steamed up, be hot under the
+                     collar, have steam coming out of one's ears ;  do one's head/nut in
+		    "she was simmering with resentment"
+          • [37mbecome calmer and quieter.[0m
+	   "she gave him time to simmer down after their argument"
+  	   [3msynonyms:[0m become less angry, cool off, cool down, be placated, let someone smooth one's ruffled feathers, contain oneself, control oneself, become calmer, calm
+                     down, become quieter, quieten down, loosen up, settle (down)
+		    "he stormed out of the theatre in a rage but soon simmered down"
+  	   [3mantonyms:[0m get steamed up
+    [91m[3mnoun[0m[0m | noun: simmer; plural noun: simmers
+      [32m1.[0m [37ma state or temperature just below boiling point.[0m
+	   "bring the water to a simmer"
+      [31m[4m[34mnoun[0m[0m[0m          [31m[4m[34mverb[0m[0m[0m            [31m[4m[34m[0m[0m[0m      
+              [31mउबाल[0m                       [31mनरज़ हो जाना[0m                  [31mथोडा थोडा खोलना[0m       
+
+      Origin:  mid 17th century: alteration of dialect simper (in the same sense), perhaps imitative.

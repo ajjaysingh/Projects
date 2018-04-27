@@ -1,0 +1,44 @@
+[35m                                                                                     GRAPHIC                                                                                      [0m
+[91m        SHORT  Something graphic is visual. Graphic design is made of visual elements. A graphic novel tells its story with pictures. And a story that is too graphic is too
+               good at showing you things that are, for example, shocking or violent.[0m
+[36m         LONG  Derived from the Greek graphikos, meaning "drawn" or "written," graphic shows up often before words such as design or art. There's debate over whether Norman
+               Rockwell was a painter or just a graphic artist. In certain cases, usually involving loaded issues such as violence or sex, graphic means
+               overly clear in a visual way. Gruesome slasher movies could be too graphic for some viewers, leaving them feeling sick to their stomachs.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > She also relays graphic details of how her husband died.[0m
+[3m             > Last month, it agreed to buy U.S.-based Mentor Graphics in a $4.5 billion deal.[0m
+[3m             > However these passages cannot be quoted in full in this story due to their somewhat graphic content.[0m
+[3m             > In the 1980s, he worked as a consultant for Marvel Comics and Computer Graphics Laboratories.[0m
+[3m             > Her words are concise and her graphics relatively simple, emblematic.[0m
+
+[35mGraphic[0m[36m /ˈɡrafɪk/,[0m [91m[3madjective[0m[0m | adjective: graphic
+      [32m1.[0m [37mrelating to visual art, especially involving drawing, engraving, or lettering.[0m
+	   "his mature graphic work"
+  	   [3msynonyms:[0m visual, symbolic, pictorial, depictive, illustrative, diagrammatic, drawn, written, in writing, delineative
+		    "writing is a graphic representation of language"
+          • [37mrelating to or denoting a visual image.[0m
+	   "graphic information such as charts and diagrams"
+
+      [32m2.[0m [37mgiving clear and vividly explicit details.[0m
+	   "a graphic account of the riots"
+  	   [3msynonyms:[0m vivid, explicit, expressive, detailed, uninhibited, striking, forceful, powerful, punchy ;  lively, colourful, highly coloured, rich ;  lurid, shocking,
+                     startling ;  cogent, clear, lucid ;  realistic, descriptive, illustrative, pictorial, well defined, well delineated, well drawn,
+                     well expressed, photographic ;  telling, effective
+		    "a graphic account of the horrors of war"
+  	   [3mantonyms:[0m vague, softened
+
+      [32m3.[0m [37mof or in the form of a graph.[0m
+
+      [32m4.[0m [37mof or denoting rocks having a surface texture resembling cuneiform writing.[0m
+    [91m[3mnoun Computing[0m[0m | noun: graphic; plural noun: graphics
+      [32m1.[0m [37ma graphical item displayed on a screen or stored as data.[0m
+	   "this printer's good enough for churning out letters, and the odd graphic"
+  	   [3msynonyms:[0m picture, illustration, image ;  icon, logo ;  diagram, graph, chart
+		    "this printer's good enough for churning out letters, and the odd graphic"
+[35m-Graphic[0m[36m /ˈɡrafɪk/,[0m [91m[3mcombining form[0m[0m | suffix: -graphic
+          • [37min adjectives corresponding to nouns ending in -graphy (such as demographic corresponding to demography ).[0m
+    [31m[4m[34m[0m[0m[0m    [31m[4m[34madjective[0m[0m[0m
+        [31mग्राफ़िक[0m              [31mचित्रात्मक[0m      
+          [31mविशद[0m                   [31mआलेखी[0m        
+          [31mसजीव[0m                  [31mस्पष्ट[0m        
+        [31mचित्रोपमा[0m        [31mभली भांति दरसाया हुआ[0m 

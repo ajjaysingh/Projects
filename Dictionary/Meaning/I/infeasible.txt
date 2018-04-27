@@ -1,0 +1,23 @@
+[35m                                                                                    INFEASIBLE                                                                                    [0m
+[91m        SHORT  Infeasible things are impossible, or too complicated to actually be done. Your idea of staging a city-wide game of Capture the Flag is probably infeasible.[0m
+[36m         LONG  After several frustrating attempts at walking your cat around the neighborhood on a leash, you might finally decide the idea is infeasible — it's just not
+               going to work the way you imagined. When something is feasible, it's entirely possible. Feasible comes from the Old French faisable, "that may
+               be done," from the Latin root facere, "to make or do." When you add the "not" prefix in-, you get infeasible.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A series of municipal regulations made the project infeasible.[0m
+[3m             > In a leaked draft of a report about global warming due for publication in October, a UN panel of climate experts express scepticism about solar
+               geoengineering, suggesting it may be “economically, socially and institutionally infeasible”.[0m
+[3m             > A U.N. panel of climate experts, in a leaked draft of a report about global warming due for publication in October, is skeptical about solar geo-engineering,
+               saying it may be “economically, socially and institutionally infeasible.”[0m
+[3m             > But such geo-engineering may be “economically, socially and institutionally infeasible,” according to a draft obtained by Reuters covering hundreds of pages
+               on risks of droughts, floods, heat waves and more powerful storms.[0m
+[3m             > But, with our collection of about 15,000 snowflakes, clustering such large vectors was computationally infeasible.[0m
+
+[35mInfeasible[0m[36m /ɪnˈfiːzɪb(ə)l/,[0m [91m[3madjective[0m[0m | adjective: infeasible
+          • [37mnot possible to do easily or conveniently; impracticable.[0m
+	   "proof that a program works is infeasible unless it is very short"
+  [31m[4m[34m[0m[0m[0m
+  [31mअव्यवहार्य[0m 
+   [31mअसंभाव्य[0m  
+
+      Origin:  "proof that a program works is infeasible unless it is very short"

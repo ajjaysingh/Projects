@@ -1,0 +1,47 @@
+[35m                                                                                   CONGLOMERATE                                                                                   [0m
+[91m        SHORT  A conglomerate is a group of things, especially companies, put together to form one. If you are rich enough to buy a TV network, a record company, several
+               newspapers, and a radio station, you too can own a media conglomerate.[0m
+[36m         LONG  The root of conglomerate is glomus, a Latin word for “ball.” So think of a conglomerate as a bunch of different things balled together. Before it came to
+               describe giant corporations, a conglomerate  was a rock formed from different kinds of minerals. Conglomerate can also be used as a verb — like
+               when your media companies conglomerated successfully.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Excluding one-time items, including $37 million in unspecified restructuring charges, the entertainment conglomerate earned 54 cents a share in the most
+               recent quarter.[0m
+[3m             > It reduces the market price of solar tariffs well past the average charged by India’s largest thermal coal conglomerate, currently around 3.20 rupees per kWh
+               .[0m
+[3m             > When the Sazerac Company bought Southern Comfort from the liquor conglomerate Brown-Forman last year, the business motivation was clear.[0m
+[3m             > Reining in the country’s politically connected conglomerates is also a major issue in the election.[0m
+[3m             > It is sponsored by Dalian Wanda, the Chinese property conglomerate that owns a chunk of the club.[0m
+
+[35mConglomerate[0m [91m[3mnoun[0m[0m | noun: conglomerate; plural noun: conglomerates    /kənˈɡlɒm(ə)rət/
+      [32m1.[0m [37ma thing consisting of a number of different and distinct parts or items that are grouped together.[0m
+	   "the Earth is a specialized conglomerate of organisms"
+  	   [3msynonyms:[0m mixture, mix, combination, mingling, commingling, amalgamation, amalgam, union, conjunction, marriage, merging, compound, alloy, fusion, meld, composite,
+                     concoction, synthesis, homogenization ;  miscellany, jumble, hotchpotch ;  mash-up
+		    "Austria–Hungary was a conglomerate of disparate peoples"
+          • [37ma large corporation formed by the merging of separate and diverse firms.[0m
+	   "a media conglomerate"
+  	   [3msynonyms:[0m corporation, combine, group, grouping, consortium, partnership, joint concern, trust, merger, merged firms/companies/businesses ;  firm, company,
+                     business, multinational ;  zaibatsu
+		    "the conglomerate was broken up"
+
+      [32m2.[0m [37ma coarse-grained sedimentary rock composed of rounded fragments embedded in a matrix of cementing material such as silica.[0m
+	   "the sediments vary from coarse conglomerate to fine silt and clay"
+  	   [3msynonyms:[0m aggregate, agglomerate
+		    "a rocky conglomerate"
+    [91m[3madjective[0m[0m | adjective: conglomerate    /kənˈɡlɒm(ə)rət/
+      [32m1.[0m [37mrelating to a conglomerate, especially a large corporation.[0m
+	   "conglomerate firms"
+  	   [3msynonyms:[0m aggregate, agglomerate, amassed, gathered, clustered, combined
+		    "a conglomerate mass"
+    [91m[3mverb[0m[0m | verb: conglomerate; 3rd person present: conglomerates; past tense: conglomerated; past participle: conglomerated; gerund or present participle: conglomerating    /kənˈɡlɒməreɪt/
+      [32m1.[0m [37mgather together into a compact mass.[0m
+	   "atoms which conglomerate at the centre"
+  	   [3msynonyms:[0m coalesce, unite, join together, combine, merge, fuse, consolidate, amalgamate, integrate, mingle, meld, blend, intermingle, knit (together), link up,
+                     converge, come together ;  commingle
+		    "the debris then conglomerated into planets"
+  	   [3mantonyms:[0m split up
+          • [37mform a conglomerate by merging diverse firms.[0m
+	   "the urge to conglomerate has long been out of fashion in American boardrooms"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mपिंड[0m       [31mएकत्रित होना[0m     [31mकंगलोमेरट[0m  

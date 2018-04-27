@@ -1,0 +1,38 @@
+[35m                                                                                    CANONICAL                                                                                     [0m
+[91m        SHORT  If something's canonical, it follows a principle or rule, usually in a religious or church-related situation. It is also used in mathematics, music and can
+               refer to something reduced to its most basic form.[0m
+[36m         LONG  The word canonical is from the root canon, with both evolving from the Latin cononicus, or "according to rule," a meaning applied to religion during the
+               Middle Ages. However, the definition of "rules" also applies in other areas as well. In mathematics, the word is used to describe an equation
+               reduced to its most basic form. In canonical music, a melody line is repeated at intervals throughout a piece. Perhaps the most familiar of
+               these is Pachebel's "Canon in D."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Still, there are enjoyable moments, and it does offer the opportunity to spend a little more canonical time in the Doctor's world.[0m
+[3m             > “And Then There Were None” is Christie’s masterpiece, but for a slightly less canonical starting point, try these five:[0m
+[3m             > There is no canonical way of narrating history, no single way to interpret a founding document.[0m
+[3m             > The dance is peppered with allusions to canonical ballets.[0m
+[3m             > A “grand canonical ensemble” is, oddly enough, the proper term for a quantitative model system in thermodynamics, borrowed from music by way of mathematics.[0m
+
+[35mCanonical[0m[36m /kəˈnɒnɪk(ə)l/,[0m [91m[3madjective[0m[0m | adjective: canonical
+      [32m1.[0m [37maccording to or ordered by canon law.[0m
+	   "the canonical rites of the Roman Church"
+
+      [32m2.[0m [37mincluded in the list of sacred books officially accepted as genuine.[0m
+	   "the canonical Gospels of the New Testament"
+          • [37maccepted as being accurate and authoritative.[0m
+	   "the canonical method of comparative linguistics"
+	   [3msynonyms:[0m recognized, authoritative, authorized, accepted, sanctioned, 
+		    "the canonical method of comparative linguistics"
+	   [3mantonyms:[0m unorthodox, innovative
+          • [37m(of a writer or work) belonging to the literary canon.[0m
+	   "canonical writers like Jane Austen"
+          • [37maccording to recognized rules or scientific laws.[0m
+	   "canonical nucleotide sequences"
+          • [37mrelating to a general rule or standard formula.[0m
+
+      [32m3.[0m [37mrelating to a cathedral chapter or a member of it.[0m
+	   "his college tutors were later his canonical colleagues"
+    [91m[3mnoun[0m[0m | plural noun: canonicals; plural noun: canonical
+      [32m1.[0m [37mthe prescribed official dress of the clergy.[0m
+	   "Cardinal Bea in full canonicals"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mविहित[0m        [31mकैनन का[0m   

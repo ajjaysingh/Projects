@@ -1,0 +1,60 @@
+[35m                                                                                       SAP                                                                                        [0m
+[91m        SHORT  To sap something is to drain or deplete something over time.  If you sap a maple tree, you drain the liquid inside it to make maple syrup.  But if you sap a
+               person of strength, you've rendered him defenseless.[0m
+[36m         LONG  Whether used as a noun or verb, sap is rarely a good thing. If your energy or will is sapped, it’s not meant lightly; it means you have been exhausted of all
+               your reserve energy, you’re reduced to a shell. If someone calls you "a sap," it suggests you lack strength and character. And if you get sap —
+               the sticky liquid inside a tree — on your hands, good luck getting it off in the middle of a forest without a bar of soap and running water.
+               Yuck.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The rise in interest rates during the quarter made newly issued bonds more attractive to investors looking for income, and that sapped demand for stocks that
+               pay big dividends.[0m
+[3m             > Just as he was saying the end of the sap run was near, a bee flew into the “sugar house” through an open door.[0m
+[3m             > The New Hampshire Maple Producers Association says nearly 100 sugar houses will be open to the public this weekend to demonstrate the centuries-old craft of
+               turning sap into syrup.[0m
+[3m             > The 15-year-old waited two minutes to start her jumps, which in theory raises their value, but in this competition she seemed sapped of energy.[0m
+[3m             > “Unsane” keeps those seesawing possibilities alive for a good while, but eventually settles definitively - disappointingly, because it saps the mystery - on
+               one side.[0m
+
+[35mSap[0m[36m /sap/,[0m [91m[3mnoun[0m[0m | noun: sap
+      [32m1.[0m [37mthe fluid which circulates in the vascular system of a plant, consisting chiefly of water with dissolved sugars and mineral salts.[0m
+	   "these insects suck the sap from the roots of trees"
+  	   [3msynonyms:[0m plant fluid, vital fluid, life fluid, juice, juice secretion, secretion liquor, liquor liquid liquid
+		    "these insects suck the sap from the roots of trees"
+          • [37mvigour or energy.[0m
+	   "the hot, heady days of youth when the sap was rising"
+  	   [3msynonyms:[0m vigour, vigour energy, energy gusto, gusto drive, drive push, push brio, brio dynamism, dynamism life, life go, go spirit, spirit liveliness, liveliness
+                     animation, animation bounce, bounce sparkle, sparkle effervescence, effervescence fizz, fizz verve, verve spiritedness, ebullience,
+                     ebullience high spirits, high spirits enthusiasm, enthusiasm initiative, initiative vitality, vitality vivacity, vivacity fire, fire
+                     dash, dash panache, panache elan, elan snap, snap zest, zest zeal, zeal exuberance exuberance ;  feistiness, get-up-and-go,
+                     gumption, gumption oomph, oomph pizzazz, pizzazz vim, vim zing, zing zip zip
+		    "people full of sap and ready to go"
+    [91m[3mverb[0m[0m | verb: sap; 3rd person present: saps; past tense: sapped; past participle: sapped; gerund or present participle: sapping
+      [32m1.[0m [37mgradually weaken or destroy (a person's strength or power).[0m
+	   "our energy is being sapped by bureaucrats and politicians"
+  	   [3msynonyms:[0m erode, erode wear away, wear down, deplete, deplete reduce, reduce lessen, lessen lower, lower attenuate, attenuate undermine, undermine exhaust, exhaust
+                     impair, impair drain, drain bleed, bleed consume consume  drain, drain empty, empty exhaust, exhaust deprive, deprive milk milk
+		    "the great loss of life had sapped the will of the troops to attack"
+          • [37mdrain someone of (strength or power).[0m
+	   "her illness had sapped her of energy and life"
+[35mSap[0m[36m /sap/,[0m [91m[3mnoun[0m[0m | noun: sap; plural noun: saps
+      [32m1.[0m [37ma tunnel or trench to conceal an assailant's approach to a fortified place.[0m
+    [91m[3mverb historical[0m[0m | verb: sap; 3rd person present: saps; past tense: sapped; past participle: sapped; gerund or present participle: sapping
+      [32m1.[0m [37mdig a sap or saps.[0m
+	   "having sapped up to the glacis of the city ramparts, Versaillais troops entered the city"
+          • [37mmake insecure by removing the foundations of.[0m
+	   "a crazy building, sapped and undermined by the rats"
+          • [37mundercut by water or glacial action.[0m
+	   "cliffs may form cirque-like alcoves around the head of springs as a result of sapping"
+[35mSap[0m[36m /sap/,[0m [91m[3mnoun North American informal[0m[0m | noun: sap; plural noun: saps
+          • [37ma foolish and gullible person.[0m
+	   "He fell for it! What a sap!"
+[35mSap[0m[36m /sap/,[0m [91m[3mnoun[0m[0m | noun: sap; plural noun: saps
+      [32m1.[0m [37ma bludgeon or club.[0m
+    [91m[3mverb[0m[0m | verb: sap; 3rd person present: saps; past tense: sapped; past participle: sapped; gerund or present participle: sapping
+      [32m1.[0m [37mhit with a bludgeon or club.[0m
+	   "it was nice to see someone else get sapped for a change"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+      [31mपौधों का रस[0m         [31mनिर्बल बनाना[0m      [31mसेवा क्षेत्र योजना[0m 
+
+      Origin:  Old English sæp, probably of Germanic origin. The verb (dating from the mid 18th century) is often interpreted as a figurative use of the notion ‘drain the
+               sap from’, but is derived originally from the verb sap2, in the sense ‘undermine’.

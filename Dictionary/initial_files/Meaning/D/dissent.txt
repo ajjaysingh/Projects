@@ -1,0 +1,37 @@
+[35m                                                                                     DISSENT                                                                                     [0m
+[91m        SHORT  To dissent is to publicly disagree with an official opinion or decision. Dissent is also a noun referring to public disagreement.[0m
+[36m         LONG  Both verb and noun are often used in reference to a statement by a judge who disagrees with a decision made by other judges. Dissent is also used to refer to
+               political opposition to government policies. The verb derives from Middle English, from Latin dissentire, from the prefix dis- "apart" plus
+               sentire "to feel."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                            
+[3m             > The announcement caused dissent among some of the dancers who voiced concerns.[0m
+[3m             > The dissenting judgment accused the majority justices of overreach and “judicial redrafting of the law”.[0m
+[3m             > Why do some people consider civility an antonym — anathema, even — to political action and dissent?[0m
+[3m             > Democratic centralism still prevails—exemplified by the party’s monopoly on power, Xi Jinping’s autocratic rule and the suppression of dissent.[0m
+[3m             > Amid the positivity, there were some dissenting voices.[0m
+
+[35mDissent[0m[36m /dɪˈsɛnt/,[0m [91m[3mnoun[0m[0m | noun: dissent
+      [32m1.[0m [37mthe holding or expression of opinions at variance with those commonly or officially held.[0m
+	   "there was no dissent from this view"
+	   [3msynonyms:[0m disagreement, lack of agreement, difference of opinion, argument, dispute, 
+		    "there were murmurs of dissent from the opposition benches"
+	   [3mantonyms:[0m agreement, acceptance
+          • [37mrefusal to accept the doctrines of an established or orthodox Church; nonconformity.[0m
+	   noun: Dissent
+          • [37m(in sport) the offence of expressing disagreement with the referee's decision.[0m
+	   "he was sent off for dissent"
+          • [37ma statement by a judge giving reasons as to why he or she disagrees with a decision made by the other judges in a court case.[0m
+	   plural noun: dissents
+    [91m[3mverb[0m[0m | verb: dissent; 3rd person present: dissents; past tense: dissented; past participle: dissented; gerund or present participle: dissenting
+      [32m1.[0m [37mhold or express opinions that are at variance with those commonly or officially held.[0m
+	   "two members dissented from the majority"
+          • [37mdisagree with the doctrine of an established or orthodox Church.[0m
+	   "we do not dissent from the points that have been made"
+	   [3msynonyms:[0m differ, demur, diverge; 
+		    "we do not dissent from the points that have been made"
+	   [3mantonyms:[0m assent, agree, accept
+    [31m[4m[34m[0m[0m[0m    [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+         [31mअसहमति[0m                  [31mमतभेद[0m               [31mमतभेद करना[0m      
+       [31mअसहमत होना[0m               [31mअसम्मति[0m              [31mविरोध करना[0m      
+        [31mविमत होना[0m            [31mनाइत्तिफ़ाक़ी[0m         [31mअन्यथा विचारना[0m    
+  [31mअस्वीकृति प्रकट करना[0m      [31mविचार-विभिन्नता[0m          [31mएतराज़ करना[0m     

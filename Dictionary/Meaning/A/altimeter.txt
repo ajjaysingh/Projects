@@ -1,0 +1,21 @@
+[35m                                                                                    ALTIMETER                                                                                     [0m
+[91m        SHORT  An altimeter measures how far above ground something is. You wouldn't want to fly a plane without an altimeter![0m
+[36m         LONG  The two halves of altimeter should give you a clue to its meaning: altitude is height above ground, and meters are used to measure distance. An altimeter
+               measures altitude. This is an extremely important device in the field of aviation. When flying an airplane, pilots needs to know exactly what
+               their altitude is: the altimeter tells them. Pilots flying helicopters, blimps, and other flying vehicles use altimeters too. A plane without a
+               working altimeter isn't safe to fly.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > As well as gravity and magnetic sensors, the airborne campaign carried a radar and a laser altimeter.[0m
+[3m             > This European Space Agency satellite carries a radar altimeter designed specifically for the purpose of studying marine floes.[0m
+[3m             > Neither model includes an altimeter for measuring the number of stairs you climb in a day, either.[0m
+[3m             > Nine thrusters will kick in for this last kilometer, guided by a radar altimeter.[0m
+[3m             > They ruled out using barometric sensors or GPS and settled on the concept of using a laser altimeter to measure the distance.[0m
+
+[35mAltimeter[0m[36m /ˈaltɪmiːtə/,[0m [91m[3mnoun[0m[0m | noun: altimeter; plural noun: altimeters
+          • [37man instrument for determining altitude attained, especially a barometric or radar device fitted in an aircraft.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mतुंगतामापी[0m 
+   [31mआरोह मापक[0m 
+  [31mऊँचाई मापक[0m 
+
+      Origin:  early 20th century: from Latin altus ‘high’ + -meter.

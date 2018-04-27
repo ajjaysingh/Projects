@@ -1,0 +1,33 @@
+[35m                                                                                      PARITY                                                                                      [0m
+[91m        SHORT  All things being equal, parity means, basically, equality. It’s used in finance, physics, math, and even sports. When people talk about parity in a football
+               league, for example, they mean the teams are evenly matched. Go, evenly matched team, go![0m
+[36m         LONG  Parity comes from the same Latin root as pair, which is par, for “equal.” Parity is an equal amount of something, or an equal rank or skill level between
+               people or teams. During the Cold War, the word parity was used to describe the equal amount of resources the US and the USSR had. So now it
+               also means an equal amount between enemies, which is probably why sportscasters love it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > They “back tested” risk parity over periods such as the Great Depression and the postwar bond-bear market with similar results.[0m
+[3m             > Contract workers excluded from that policy say they want parity — and more.[0m
+[3m             > On Thursday, the Palestinian statistics bureau said demographic parity would be reached by the end of 2017.[0m
+[3m             > The euro is closing in on dollar parity.[0m
+[3m             > It was as if the war for parity was nearly won, and what was left was a mopping-up operation.[0m
+
+[35mParity[0m[36m /ˈparɪti/,[0m [91m[3mnoun[0m[0m | noun: parity
+      [32m1.[0m [37mthe state or condition of being equal, especially as regards status or pay.[0m
+	   "parity of incomes between rural workers and those in industrial occupations"
+	   [3msynonyms:[0m equality, equivalence, uniformity, sameness, consistency, 
+		    "parity of incomes between rural workers and those in industrial occupations"
+          • [37mequivalent value of one currency in terms of another at an established exchange rate.[0m
+	   plural noun: parities
+
+      [32m2.[0m [37m(of a number) the fact of being even or odd.[0m
+          • [37mthe property of a spatial wave equation that either remains the same ( even parity ) or changes sign ( odd parity ) under a given transformation.[0m
+	   noun: odd parity; noun: even parity
+          • [37mthe value of a quantum number corresponding to parity.[0m
+          • [37ma function whose being even (or odd) provides a check on a set of binary values.[0m
+[35mParity[0m[36m /ˈparɪti/,[0m [91m[3mnoun Medicine[0m[0m | noun: parity
+          • [37mthe fact or condition of having borne children.[0m
+	   "the relationship between breast cancer and parity was investigated"
+          • [37mthe number of children previously borne.[0m
+	   plural noun: parities
+  [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+         [31mसमता[0m               [31mसमानता[0m      

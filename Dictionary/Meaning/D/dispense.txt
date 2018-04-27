@@ -1,0 +1,49 @@
+[35m                                                                                     DISPENSE                                                                                     [0m
+[91m        SHORT  To dispense means to give out or distribute something. A school nurse can dispense students' medication and we all can dispense advice.[0m
+[36m         LONG  The word dispense comes from the Old French word dispenser, meaning "give out." You can dispense anything from hand sanitizer to dating advice. When dispense
+               is paired with with it means "get rid of it" or "skip." If you dispense with traditional Thanksgiving dishes, you might instead celebrate with
+               pizza, pancakes, tacos — anything but turkey and all the fixings.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Crowds throng the courthouse in Lahore, the capital of the state of Punjab, drawn by the spectacle of a judge dispensing verdicts like a king.[0m
+[3m             > Photo: Alibaba Photo: Alibaba When they get to the vending machine, customers verify their identity, and the car is then dispensed from the multistory
+               structure.[0m
+[3m             > Cash was siphoned off via bank transfers or dispensed automatically through cash machines.[0m
+[3m             > Reminds me of the subtle wisdom dispensed by Mr. Miyagi in the original.[0m
+[3m             > Mr Xi dispensed with several political norms during the recent NPC session.[0m
+
+[35mDispense[0m[36m /dɪˈspɛns/,[0m [91m[3mverb[0m[0m | verb: dispense; 3rd person present: dispenses; past tense: dispensed; past participle: dispensed; gerund or present participle: dispensing
+      [32m1.[0m [37mdistribute or provide (a service or information) to a number of people.[0m
+	   "orderlies went round dispensing drinks"
+  	   [3msynonyms:[0m distribute, distribute pass round, pass out, hand out, deal out, dole out, share out, divide out, parcel out, allocate, allocate allot, allot apportion,
+                     apportion assign, assign bestow, bestow confer, confer supply, supply disburse disburse ;  dish out
+		    "the servants are ready to dispense the drinks"
+  	   [3mantonyms:[0m collect collect
+          • [37m(of a machine or container) supply or release (a product or cash).[0m
+	   "the machines dispense a range of drinks"
+  	   [3msynonyms:[0m prepare, prepare make up, mix mix ;  supply, supply provide, provide sell sell
+		    "the pharmacists dispense only licensed medicines"
+          • [37m(of a chemist) make up and give out (medicine) according to a doctor's prescription.[0m
+	   "he was stopped from dispensing prescriptions"
+
+      [32m2.[0m [37mmanage without or get rid of.[0m
+	   "let's dispense with the formalities, shall we?"
+  	   [3msynonyms:[0m waive, waive omit, omit drop, drop leave out, forgo, forgo give up, relinquish, relinquish renounce renounce ;  ignore, ignore disregard, disregard pass
+                     over, brush aside ;  do away with, put a stop to, put an end to ;  cut out, give something a miss, knock something on the head  get
+                     rid of, throw away, throw out, cast aside, do away with, dispose of, discard, discard shed shed ;  manage without, do without, cope
+                     without ;  ditch, ditch scrap, scrap axe, axe junk, junk dump, dump chuck out, chuck away, get shut of ;  get shot of ;  trash trash
+		    "I think we can dispense with the formalities"
+  	   [3mantonyms:[0m include, include keep keep
+          • [37mgive special exemption from (a law or rule).[0m
+	   "the Secretary of State was empowered to dispense with the nationality requirement in individual cases"
+          • [37mgrant (someone) an exemption from a religious obligation.[0m
+	   "the Pope personally nominated him as bishop, dispensing him from his impediment"
+  	   [3msynonyms:[0m exempt, exempt excuse, excuse except, except release, release relieve, relieve reprieve, reprieve absolve absolve ;  grant someone a dispensation, grant
+                     someone an exemption ;  let off
+		    "the pope nominated him as bishop, dispensing him from his impediment"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mबांटना[0m          [31mदेना[0m     
+   [31mवितरित करना[0m       [31mहटाना[0m    
+   [31mविभाग करना[0m    [31mविमुक्त करना[0m 
+     [31mअलगाना[0m        [31mदवा देना[0m   
+
+      Origin:  late Middle English: via Old French from Latin dispensare ‘continue to weigh out or disburse’, from the verb dispendere, based on pendere ‘weigh’.

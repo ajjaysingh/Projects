@@ -1,0 +1,35 @@
+[35m                                                                                      ASSAY                                                                                       [0m
+[91m        SHORT  An assay is a breakdown of a material, examining the individual parts that make up the whole. When you assay a situation, you look at all the elements that
+               created the problem in order to come up with a solution.[0m
+[36m         LONG  The word assay comes from the French word essai, which means "trial," an appropriate sense for a word that means to examine for analysis. As a noun, assay
+               means a test or appraisal to determine the components of a substance or object. As a verb, it refers to the act of analyzing, or of conducting
+               that test. It is usually used in chemistry-related fields like metallurgy and pharmaceuticals, but you can also assay a poem.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “We said either there’s something wrong with our assay or this patient’s got recurring disease,” said Swanton.[0m
+[3m             > Investigators must track the genetic shifts in cancer cells in real time by setting up prospective assays that sample and analyse tumours during therapy.[0m
+[3m             > On that radio show, Tagliabue assayed a defense of his legacy on concussions.[0m
+[3m             > Teuscher was to assay her first “Swan Lake” on Sunday afternoon, but she stepped in on short notice Thursday night for an injured Gillian Murphy.[0m
+[3m             > Yet no one assays this territory quite like Alex Ross Perry.[0m
+
+[35mAssay[0m[36m /əˈseɪ,ˈaseɪ/,[0m [91m[3mnoun[0m[0m | noun: assay
+      [32m1.[0m [37mthe testing of a metal or ore to determine its ingredients and quality.[0m
+	   "submission of plate for assay"
+	   [3msynonyms:[0m evaluation, assessment, analysis, examination, test, 
+		    "new plate was taxed when it was brought for assay"
+          • [37ma procedure for measuring the biochemical or immunological activity of a sample.[0m
+	   plural noun: assays
+    [91m[3mverb[0m[0m | verb: assay; 3rd person present: assays; past tense: assayed; past participle: assayed; gerund or present participle: assaying
+      [32m1.[0m [37mdetermine the content or quality of (a metal or ore).[0m
+	   "the man who assayed gold was more than a technician"
+          • [37mdetermine the biochemical or immunological activity of (a sample).[0m
+	   "cell contents were assayed for enzyme activity"
+          • [37mexamine (something) in order to assess its nature.[0m
+	   "stepping inside, I quickly assayed the clientele"
+	   [3msynonyms:[0m evaluate, assess, analyse, examine, test, 
+		    "silver and gold is assayed to determine its purity"
+
+      [32m2.[0m [37mattempt.[0m
+	   "I assayed a little joke of mine on him"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mपरख[0m            [31mपरखना[0m     
+     [31mचात्त्च[0m          [31mजॉँचना[0m    

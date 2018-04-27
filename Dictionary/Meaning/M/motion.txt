@@ -1,0 +1,83 @@
+[35m                                                                                      MOTION                                                                                      [0m
+[91m        SHORT  Motion is the way things get from place to place. The ball rolling down a hill is in motion, and as Isaac Newton once proved, it will remain in motion until
+               it hits a wall or something else that makes it stop.[0m
+[36m         LONG  When motion is used as a noun, it describes movement, like the motion that propels a car from one end of the highway to another. When used as a verb, motion
+               means to signal or direct. "A restaurant patron will motion to the server when he's ready for the check." Someone who is just "going through
+               the motions" doesn't have to move at all, because they're just pretending.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In addition to the outdoor plug, iHome also announced a motion sensor, leak sensor, and a door/window opening sensor that all connect to Wi-Fi.[0m
+[3m             > Once set in motion he/she was superstitious, fatalistic, and uncomplaining.[0m
+[3m             > Democracy in action is like poetry in motion, it totally...[0m
+[3m             > Grillner, S. Biological pattern generation: the cellular and computational logic of networks in motion.[0m
+[3m             > “Regardless of his theory, Fogle’s challenge of this court’s jurisdiction is rejected” and his motion is denied, U.S.[0m
+
+[35mMotion[0m[36m /ˈməʊʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: motion; plural noun: motions
+      [32m1.[0m [37mthe action or process of moving or being moved.[0m
+	   "the laws of planetary motion"
+  	   [3msynonyms:[0m movement, movement moving, moving locomotion, locomotion rise and fall, shifting, shifting stirring, stirring to and fro, to and fro toing and froing,
+                     coming and going ;  progress, progress passage, passage passing, passing transit, transit course, course flow, flow going, going
+                     travel, travel travelling travelling ;  motility, mobility mobility
+		    "the rocking motion of the boat"
+          • [37ma gesture.[0m
+	   "she made a motion with her free hand"
+  	   [3msynonyms:[0m gesture, gesture gesticulation, gesticulation movement, movement signal, signal sign, sign indication indication ;  wave, wave nod nod ;  body language,
+                     body language kinesics kinesics
+		    "she made a little fluttering motion with her hands"
+          • [37ma piece of moving mechanism.[0m
+	   "the earliest engines had the Gresley conjugated motion for the middle cylinder"
+
+      [32m2.[0m [37ma formal proposal put to a legislature or committee.[0m
+	   "opposition parties tabled a no-confidence motion"
+  	   [3msynonyms:[0m proposal, proposal proposition, proposition submission, submission recommendation, recommendation suggestion suggestion
+		    "the motion failed to obtain an absolute majority in the Assembly"
+          • [37man application for a rule or order of court.[0m
+	   "often the defendant contributes to the length of proceedings by filing many procedural motions"
+
+      [32m3.[0m [37man evacuation of the bowels.[0m
+	   "73% of the patients had fewer than three bowel motions a day"
+    [91m[3mverb[0m[0m | verb: motion; 3rd person present: motions; past tense: motioned; past participle: motioned; gerund or present participle: motioning
+      [32m1.[0m [37mdirect or command (someone) with a movement of the hand or head.[0m
+	   "he motions her towards the lift"
+  	   [3msynonyms:[0m gesture, gesture gesticulate, gesticulate signal, signal sign, sign direct, direct indicate indicate ;  wave, wave beckon, beckon nod nod
+		    "he motioned her to sit down"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+          [31mगति[0m              [31mइशारा करना[0m              [31mदस्त[0m        
+       [31mप्रस्ताव[0m            [31mसंकेत करना[0m             [31mसमावेदन[0m      
+
+      Origin:  late Middle English: via Old French from Latin motio(n- ), from movere ‘to move’.
+
+ :a formal plan or suggestion for action offered according to the rules of a meeting
+    e.g. She made a motion to adjourn.
+
+
+
+legal Definition of motion
+  1 :a proposal for action; especially :a formal proposal made in a legislative assembly
+      e.g. made a motion to refer the bill to committee
+
+2 a :an application made to a court or judge to obtain an order, ruling, or direction
+      e.g. a motion to arrest judgment; 
+      also :a document containing such an application
+  b :the initiative of a court to issue an order, ruling, or direction
+      e.g. the court is given discretion to order a pretrial conference either on its own motion 
+           or at the request of a party —J. H. Friedenthal et al. 
+
+  — motion for a more definite statement
+      :a motion that is filed before an answer and that requests the court to order the plaintiff to clarify
+       allegations in the complaint because the claims are so vague or ambiguous that an answer cannot
+       reasonably be framed.
+  — motion for judgment on the pleadings
+      :a motion made after pleadings have been entered that requests the court to issue a judgment at that point
+  — motion in limine \-in-ˈli-mə-nē\
+      :a usually pretrial motion that requests the court to issue an interlocutory order which prevents an
+       opposing party from introducing or referring to potentially irrelevant, prejudicial, or otherwise
+       generally inadmissible evidence until the court has finally ruled on its admissibility
+  — motion to strike
+    1 :a motion in a civil trial to remove from a pleading an insufficient defense or any redundant, immaterial, 
+       impertinent, or scandalous matter
+    2 :a motion in a criminal trial to exclude evidence from the record
+  — motion to suppress
+      :a pretrial motion requesting the court to exclude evidence that was obtained illegally and especially 
+       in violation of Fourth, Fifth, and Sixth Amendment protections
+  — omnibus motion \ˈäm-ni-bəs-\
+      :a motion that makes multiple requests

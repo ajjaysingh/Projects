@@ -1,0 +1,36 @@
+[35m                                                                                    MERCURIAL                                                                                     [0m
+[91m        SHORT  Mercurial describes someone whose mood or behavior is changeable and unpredictable, or someone who is clever, lively, and quick. With a mercurial teacher, you
+               never know where you stand.[0m
+[36m         LONG  Mercury was the ancient Roman god of commerce and messenger of the gods, and the planet Mercury was named after the Roman god. In Middle English, this
+               adjective meant "relating to the planet or god Mercury" and derives from Latin mercuriālis, from Mercurius "Mercury."  A mercurial personality
+               has the unpredictability associated with the god Mercury or, in astrology, is supposedly influenced by the planet.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Mr. Trump’s mercurial ways may be a source of great concern or indifference, depending on your ideological leanings.[0m
+[3m             > But the mercurial professor suspects that the young man is a spy dispatched by his archenemy, Professor Edward Drinker Cope.[0m
+[3m             > And later, in Ruwe’s persuasively mercurial portrayal, this sincere yet careless kid delivers a more jolting betrayal that is much harder to excuse.[0m
+[3m             > He worried, though, that Trump’s mercurial personality might mean a sudden change in course.[0m
+[3m             > As Erdoğan discovered to his cost, Putin seems happy to play along with his mercurial American counterpart – but at what price?[0m
+
+[35mMercurial[0m[36m /məːˈkjʊərɪəl/,[0m [91m[3madjective[0m[0m | adjective: mercurial; adjective: Mercurial
+      [32m1.[0m [37msubject to sudden or unpredictable changes of mood or mind.[0m
+	   "his mercurial temperament"
+  	   [3msynonyms:[0m volatile, capricious, temperamental, excitable, fickle, changeable, unpredictable, variable, protean, mutable, erratic, quicksilver, inconstant,
+                     inconsistent, unstable, unsteady, fluctuating, ever-changing, kaleidoscopic, fluid, wavering, vacillating, moody, flighty, wayward,
+                     whimsical, giddy, impulsive ;  labile
+		    "a mercurial temperament"
+  	   [3mantonyms:[0m stable, steady, constant
+
+      [32m2.[0m [37mof or containing the element mercury.[0m
+	   "gels containing organic mercurial compounds"
+
+      [32m3.[0m [37mof the planet Mercury.[0m
+    [91m[3mnoun[0m[0m | noun: mercurial; plural noun: mercurials
+      [32m1.[0m [37ma drug or other compound containing mercury.[0m
+	   "for twenty years organic mercurials were the most potent diuretics in clinical use"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mचंचल[0m            [31mतेज[0m      
+      [31mअस्थिर[0m      [31mक्षणिक बुद्धि[0m 
+     [31mपारद का[0m          [31mउडनशील[0m    
+
+      Origin:  late Middle English (in sense 3 of the adjective): from Latin mercurialis ‘relating to the god Mercury’, from Mercurius ‘Mercury’. Sense 1 of the adjective
+               dates from the mid 17th century.

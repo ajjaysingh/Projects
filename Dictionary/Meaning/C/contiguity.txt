@@ -1,0 +1,23 @@
+[35m                                                                                    CONTIGUITY                                                                                    [0m
+[91m        SHORT  Use the noun contiguity when you're talking about the state of things being right up next to each other, like the contiguity of two countries that share a
+               border.[0m
+[36m         LONG  You're most likely to come across the word contiguity in a discussion of geography. For example, you could talk about the contiguity of the United States and
+               its northern neighbor, Canada, or the contiguity of New Hampshire and Vermont. Contiguity shares a root with the more common contiguous, the
+               Latin contingere, which means "to touch upon."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Mr. Mladenov called the expansion “deeply concerning” and said that the “territorial contiguity of a future Palestinian state” is threatened.[0m
+[3m             > And also: “Contiguity plays a role in hair’s significance.”[0m
+[3m             > While the Assad regime holds large territory encompassing major population centers of western Syria, there is no contiguity between that territory and Iraq.[0m
+[3m             > Haplotig A in chromosome 8 is even longer than the non-N bases of the reference, indicating both assembly and phasing achieved higher contiguity.[0m
+[3m             > The extremist group’s firewall blocks territorial contiguity between Iran and its Arab proxies in Syria and Lebanon.[0m
+
+[35mContiguity[0m[36m /ˌkɒntɪˈɡjuːɪti/,[0m [91m[3mnoun[0m[0m | noun: contiguity
+          • [37mthe state of bordering or being in contact with something.[0m
+	   "nations bound together by geographical contiguity"
+          • [37mthe sequential occurrence or proximity of stimulus and response, causing their association in the mind.[0m
+	   "contiguity is necessary in all forms of learning"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mसमीपता[0m       [31mनिकट[0m   
+  [31mसान्निध्य[0m    [31mसंस्पर्श[0m 
+
+      Origin:  early 16th century: from late Latin contiguitas, from Latin contiguus ‘touching’ (see contiguous).

@@ -1,0 +1,19 @@
+[35m                                                                                   COUNTERVAIL                                                                                    [0m
+[91m        SHORT  To countervail is to oppose something successfully.[0m
+[36m         LONG  To countervail is to counteract, counterbalance, or neutralize. This verb is best known to us in the form of its participle countervailing, which gets far
+               more time in the limelight as an adjective than countervail gets as a verb. A favorite combo these days is countervailing duty, a duty imposed
+               on imports to match (or retaliate for) what a foreign government is imposing. You could say a running back was countervailed if a defensive
+               player stops him in his tracks.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The two things I saw change while I was there was the countervailing trajectories of the two main parties.[0m
+[3m             > She said the government strongly disagrees with the Commerce Department’s decision to initiate anti-dumping and countervailing duty investigations.[0m
+[3m             > When he delegitimized Fox to his followers, there was no countervailing authority left.[0m
+[3m             > While concerns about fairness may motivate a preference for inequality, there are various countervailing psychological forces that may lead people to endorse
+               equality.[0m
+[3m             > The investigation concluded this week with the Commerce Department announcing a “countervailing duty” of roughly 20 percent.[0m
+
+[35mCountervail[0m[36m /ˌkaʊntəˈveɪl/,[0m [91m[3mverb[0m[0m | verb: countervail; 3rd person present: countervails; past tense: countervailed; past participle: countervailed; gerund or present participle: countervailing
+          • [37moffset the effect of (something) by countering it with something of equal force.[0m
+	   "the dominance of the party was mediated by a number of countervailing factors"
+
+      Origin:  late Middle English (in the sense ‘be equivalent to in value’): from Anglo-Norman French contrevaloir, from Latin contra valere ‘be of worth against’.

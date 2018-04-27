@@ -1,0 +1,9 @@
+[35m                                                                                      PHYLIC                                                                                      [0m
+[91m        SHORT  These days, asking the pharmacist for a physic to relieve your constipation will probably get you a blank stare; it's an old-fashioned, rarely-used term for
+               "laxative."[0m
+[36m         LONG  Physic comes from the Latin word for "study of nature," so it's unclear how it came to mean a "purging medicine." An almost-synonym is "cathartic," although
+               that word is usually used to describe an emotional purging- like a good cry- rather than physical one. Don't confuse physic with physics, the
+               scientific study of the interaction between energy and matter, or psychic, someone who can read minds and see the future.[0m
+
+	Wiki Definition:
+              	Definition  of  phylic . 1 : of or relating to a Grecian phyle. 2 : being or viewed as a member of a group man as a  phylic  organism.

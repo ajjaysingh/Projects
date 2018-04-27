@@ -1,0 +1,39 @@
+[35m                                                                                     IDENTITY                                                                                     [0m
+[91m        SHORT  Your identity is what makes you "you." If you are having "an identity crisis," then I guess you can't figure out who you are. Good luck with that.[0m
+[36m         LONG  The noun identity can also refer to a name or persona. Criminals tend to use false identities so they won't get caught. If you falsely identify someone, it is
+               a case of "mistaken identity." The word identity doesn't have to be used for a single person either. People refer to "corporate identity" when
+               talking about what makes a company unique.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “That was the closest thing to Penguins identity that we’ve seen in the playoffs,” Sullivan said of his team.[0m
+[3m             > Dr. Phil A woman claims her husband physically abused her and stole her identity.[0m
+[3m             > It also hid its identity so that people would find it harder to complain.[0m
+[3m             > He further accuses the author of inventing a racial identity struggle that never happened and retrofitting his early life story to conform to it.[0m
+[3m             > The results narrowed the girl’s identity to two prime candidates.[0m
+
+[35mIdentity[0m[36m /ʌɪˈdɛntɪti/,[0m [91m[3mnoun[0m[0m | noun: identity; plural noun: identities; noun: identity operation; plural noun: identity operations
+      [32m1.[0m [37mthe fact of being who or what a person or thing is.[0m
+	   "he knows the identity of the bombers"
+  	   [3msynonyms:[0m name ;  specification  identification, recognition, naming, singling out, picking out, pinpointing, placing ;  discerning, distinguishing ;  fingering
+		    "they eventually discovered the identity of the owner"
+          • [37mthe characteristics determining who or what a person or thing is.[0m
+	   "he wanted to develop a more distinctive Scottish Tory identity"
+  	   [3msynonyms:[0m individuality, self, selfhood, ego, personality, character, originality, distinctiveness, distinction, singularity, peculiarity, uniqueness,
+                     differentness
+		    "she was afraid of losing her identity if she became his wife"
+          • [37m(of an object) serving to establish who the holder, owner, or wearer is by bearing their name and often other details such as a signature or photograph.[0m
+	   modifier noun: identity
+
+      [32m2.[0m [37ma close similarity or affinity.[0m
+	   "an identity between the company's own interests and those of the local community"
+  	   [3msynonyms:[0m identicalness, sameness, selfsameness, oneness, congruity, congruence, indistinguishability, interchangeability ;  likeness, alikeness, uniformity,
+                     similarity, closeness, accordance, alignment, parallelism, symmetry
+		    "management need to secure an identity of interests with shareholders"
+  	   [3mantonyms:[0m mismatch
+
+      [32m3.[0m [37ma transformation that leaves an object unchanged.[0m
+          • [37man element of a set which, if combined with another element by a specified binary operation, leaves that element unchanged.[0m
+	   noun: identity element; plural noun: identity elements
+
+      [32m4.[0m [37mthe equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. ( x + 1)2 = x 2 + 2 x + 1.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mपहचान[0m       [31mसरूपता[0m  

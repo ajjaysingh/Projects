@@ -1,0 +1,26 @@
+[35m                                                                                      SURETY                                                                                      [0m
+[91m        SHORT  A surety is a fact that no one questions. Surety, in a legal sense, is the security you can provide when you apply for a loan.[0m
+[36m         LONG  When you're sure of something, you're positive it's true. Such things are sureties, because they inspire such confidence. Also, there's a legal type of
+               surety. If you take out a loan, a house you own could be a surety: it could be claimed by your creditors if you don't repay the loan. That type
+               of surety provides security (or insecurity, if you fail to pay back the loan).[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Passing the Petroleum Storage Surety legislation would do just that.[0m
+[3m             > Bond is set at $1 million cash or professional surety.[0m
+[3m             > Popkin was arrested on the latest charge April 14 and was freed on a $50,000 cash or surety bond April 17.[0m
+[3m             > The farther down they drop, the less surety that their preferred player will be available.[0m
+[3m             > Because they are affiliated with surety companies registered with the U.S.[0m
+
+[35mSurety[0m[36m /ˈʃʊərɪti,ˈʃɔːrɪti/,[0m [91m[3mnoun[0m[0m | noun: surety; plural noun: sureties
+      [32m1.[0m [37ma person who takes responsibility for another's performance of an undertaking, for example their appearing in court or paying a debt.[0m
+	   "the rights of wives who act as sureties for their husband's debts"
+  	   [3msynonyms:[0m guarantor, sponsor
+		    "these are all cases in which a wife has become a surety for her husband's obligations"
+          • [37mmoney given to support an undertaking that someone will perform a duty, pay their debts, etc.; a guarantee.[0m
+	   "the magistrate granted bail with a surety of £500"
+  	   [3msynonyms:[0m pledge, collateral, guaranty, guarantee, bond, assurance, insurance, bail, deposit ;  security, indemnity, indemnification ;  gage, earnest
+		    "he was released on bail of $100,000 with a further $100,000 surety"
+
+      [32m2.[0m [37mthe state of being sure or certain of something.[0m
+	   "the surety of my impending fatherhood"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mप्रतिभू[0m      [31mज़ामिन ज़मानत[0m 

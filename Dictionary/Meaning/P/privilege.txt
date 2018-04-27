@@ -1,0 +1,36 @@
+[35m                                                                                    PRIVILEGE                                                                                     [0m
+[91m        SHORT  A privilege is a special advantage not enjoyed by everyone. If you're very snooty, you probably don't allow just anyone the privilege of being your friend.[0m
+[36m         LONG  Privilege comes from Latin privilegium, meaning a law for just one person, and means a benefit enjoyed by an individual or group beyond what's available to
+               others. Someone wealthy come from privilege. Someone with a library card has borrowing privileges. Privilege can also be used as a verb. If you
+               are on a committee giving away scholarships, you'll have to decide whether to privilege students from poor backgrounds or the students with
+               high test scores.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And sure, we might dismiss their complaints as the kvetching of the privileged.[0m
+[3m             > True, the Mexica apparently did call the Spaniards teteo, a term referring both to gods and to powerful, privileged people.[0m
+[3m             > Haitian government officials say they’re ill-equipped to welcome back tens of thousands of people granted U.S. immigration privileges after a 2010 earthquake.[0m
+[3m             > Smith’s narrative conveys the system’s unthinking superiority, the lazy morality, the philistinism, the sense of demanded privilege and analyzes it cannily.[0m
+[3m             > Matt, are you trying to get golf privileges revoked from the rest of your teammates?[0m
+
+[35mPrivilege[0m[36m /ˈprɪvɪlɪdʒ/,[0m [91m[3mnoun[0m[0m | noun: privilege; plural noun: privileges
+      [32m1.[0m [37ma special right, advantage, or immunity granted or available only to a particular person or group.[0m
+	   "education is a right, not a privilege"
+  	   [3msynonyms:[0m advantage, right, benefit, prerogative, entitlement, birthright, due ;  concession, freedom, liberty
+		    "he sought to reduce the legal privileges of the unions"
+          • [37msomething regarded as a special honour.[0m
+	   "I had the privilege of giving the Sir George Brown memorial lecture"
+  	   [3msynonyms:[0m honour, pleasure, source of pleasure/pride/satisfaction
+		    "it was a privilege to meet her"
+          • [37m(especially in a parliamentary context) the right to say or write something without the risk of incurring punishment or legal action for defamation.[0m
+	   noun: absolute privilege; plural noun: absolute privileges; noun: parliamentary privilege; plural noun: parliamentary privileges
+          • [37mthe right of a lawyer or official to refuse to divulge confidential information.[0m
+          • [37ma grant to an individual, corporation, or place of special rights or immunities, especially in the form of a franchise or monopoly.[0m
+	   "a breach of parliamentary privilege"
+  	   [3msynonyms:[0m immunity, exemption, dispensation
+		    "a breach of parliamentary privilege"
+    [91m[3mverb formal[0m[0m | verb: privilege; 3rd person present: privileges; past tense: privileged; past participle: privileged; gerund or present participle: privileging
+      [32m1.[0m [37mgrant a privilege or privileges to.[0m
+	   "English inheritance law privileged the eldest son"
+          • [37mexempt (someone) from a liability or obligation to which others are subject.[0m
+	   "barristers are privileged from arrest going to, coming from, and abiding in court"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mविशेषाधिकार[0m      [31mविशेष अधिकार देना[0m 

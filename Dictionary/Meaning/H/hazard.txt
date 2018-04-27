@@ -1,0 +1,49 @@
+[35m                                                                                      HAZARD                                                                                      [0m
+[91m        SHORT  If something is a hazard, it is a potential source of danger. Balloons are fun, but they're a hazard for little kids who might put them in their mouths.[0m
+[36m         LONG  If you play miniature golf, you have to watch for hazards on the course — obstacles like the sand trap beside the dinosaur or the water hazard just past the
+               windmill. As a verb, hazard means to take a risk, especially for the chance of a good return. You might hazard your chances at the roulette
+               table or hazard a guess — that is, risk making a guess when you aren't certain.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Eden Hazard shimmered with menace and Fàbregas added his refined touches.[0m
+[3m             > Kante and Hazard received more than 65 percent of the vote.[0m
+[3m             > Many of the trees to be harvested are near roads and trails and are considered a hazard to the traveling and recreating public.[0m
+[3m             > The properties must be vacated if a hazard is found and not cleaned up.[0m
+[3m             > Field manager Melissa Warren says so far officials haven’t visited much the conservation area’s burned section because of fire hazards.[0m
+
+[35mHazard[0m[36m /ˈhazəd/,[0m [91m[3mnoun[0m[0m | noun: hazard; plural noun: hazards
+      [32m1.[0m [37ma danger or risk.[0m
+	   "the hazards of childbirth"
+  	   [3msynonyms:[0m danger, risk, peril, threat, menace ;  difficulty, problem, pitfall ;  jeopardy, perilousness, endangerment, imperilment
+		    "the hazards of high-energy radiation"
+          • [37ma potential source of danger.[0m
+	   "a safety hazard"
+          • [37ma permanent feature of a golf course which presents an obstruction to playing a shot, such as a bunker or stream.[0m
+
+      [32m2.[0m [37mchance; probability.[0m
+	   "we can form no calculation concerning the laws of hazard"
+  	   [3msynonyms:[0m chance, probability, fortuity, luck, fate, destiny, fortune, providence, serendipity, accident ;  happenstance
+		    "we can form no calculation concerning the laws of hazard"
+
+      [32m3.[0m [37ma gambling game using two dice, in which the chances are complicated by arbitrary rules.[0m
+
+      [32m4.[0m [37m(in real tennis) each of the winning openings in the court.[0m
+
+      [32m5.[0m [37ma stroke with which a ball is pocketed.[0m
+          • [37mthe pocketing of the cue ball off another ball.[0m
+	   noun: losing hazard; plural noun: losing hazards
+          • [37mthe pocketing of the object ball.[0m
+	   noun: winning hazard; plural noun: winning hazards
+    [91m[3mverb[0m[0m | verb: hazard; 3rd person present: hazards; past tense: hazarded; past participle: hazarded; gerund or present participle: hazarding
+      [32m1.[0m [37msay (something) in a tentative way.[0m
+	   "he hazarded a guess"
+  	   [3msynonyms:[0m venture, put forward, proffer, advance, volunteer ;  conjecture, speculate, surmise ;  opine
+		    "he hazarded a guess"
+
+      [32m2.[0m [37mput (something) at risk of being lost.[0m
+	   "the cargo business is too risky to hazard money on"
+  	   [3msynonyms:[0m risk, put at risk, jeopardize, chance, gamble, stake, bet, take a chance with ;  endanger, imperil, expose to danger, put in jeopardy
+		    "the cargo business is too risky to hazard money on"
+  	   [3mantonyms:[0m keep safe
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+       [31mखतरा[0m             [31mजोखिम[0m       [31mसंकट में डालना[0m 
+      [31mहज़ार्ड[0m           [31mसंकट[0m         [31mख़तरा मोल लेना[0m 

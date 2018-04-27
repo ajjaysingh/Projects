@@ -1,0 +1,37 @@
+[35m                                                                                      FEIGN                                                                                       [0m
+[91m        SHORT  For a more formal way to say pretend to or imitate, choose the verb feign. You might feign indifference when you hear about some gossip, but you're probably
+               dying to know.[0m
+[36m         LONG  Feign comes from the Latin fingere "to devise, fabricate." The word fiction comes from the same source, so if you feign something such as sleep, you give off
+               the fiction that you are sleeping. This can be done to be polite but also to deceive such as when you feign an injury or the flu so you can
+               stay home from school or work. You can also feign an accent, though some are better at this than others.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "You can see him reach into the take-a-penny-leave-a-penny tray when the clerk turns to retrieve the packs of cigarettes the robber feigned to buy."[0m
+[3m             > There’s no need to feign uprightness; it’s always weird to see them stood.[0m
+[3m             > Iranian athletes are forbidden to compete with Israelis in any sport, and, if necessary, are told to forfeit their matches or to feign sickness.[0m
+[3m             > All this feigned concern is nothing more than lame attempt to impose another barrier to voting.[0m
+[3m             > The most interesting part of the discussions coming out of the recent flurry of harassment news stories is the utter cluelessness being displayed, both real
+               and feigned, by men - the "huh?"[0m
+
+[35mFeign[0m[36m /feɪn/,[0m [91m[3mverb[0m[0m | verb: feign; 3rd person present: feigns; past tense: feigned; past participle: feigned; gerund or present participle: feigning
+          • [37mpretend to be affected by (a feeling, state, or injury).[0m
+	   "she feigned nervousness"
+  	   [3msynonyms:[0m simulate, simulate fake, fake sham, sham affect, affect give the appearance of, make a show of, make a pretence of, play at, go through the motions of ;
+                     put on  pretend, pretend put it on, fake, fake sham, sham bluff, bluff pose, pose posture, posture masquerade, masquerade make
+                     believe, act, act play-act, play-act go through the motions, put on a false display ;  malinger malinger ;  kid kid ;  mess mess
+                     pretended, pretended simulated, simulated assumed, affected, affected artificial, artificial insincere, insincere put-on, put-on
+                     fake, fake faked, false, false sham sham ;  apparent, apparent ostensible, ostensible seeming, seeming surface, surface avowed,
+                     avowed professed professed ;  pretend, pretend pseudo, pseudo phoney phoney ;  cod cod
+		    "she lay still and feigned sleep"
+  	   [3mantonyms:[0m sincere sincere
+          • [37minvent (a story or excuse).[0m
+  [31m[4m[34mverb[0m[0m[0m
+   [31mबहाना करना[0m 
+     [31mगढ़ना[0m    
+    [31mछल करना[0m   
+   [31mढोंग करना[0m  
+  [31mअनुमान करना[0m 
+  [31mस्वांग करना[0m 
+   [31mझूठा करना[0m  
+
+      Origin:  Middle English: from Old French feign-, stem of feindre, from Latin fingere ‘mould, contrive’. Senses in Middle English (taken from Latin) included ‘make
+               something’, ‘invent a story, excuse, or allegation’, hence ‘make a pretence of a feeling or response’. Compare with fiction and figment.

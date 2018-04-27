@@ -1,0 +1,32 @@
+[35m                                                                                      SQUEAK                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The 15-month-old toddles about the sprawling courtyard of her parents’ farm, her oily curls tied up in a top knot, her rubber-soled shoes squeaking.[0m
+[3m             > When a character, in desperation, vigorously runs his fingers through his hair, the soundtrack captures every tiny rustle and squeak.[0m
+[3m             > The most significant bill, so far, was a long-delayed House health care measure that squeaked through earlier this month.[0m
+[3m             > A chair squeaks, followed by footsteps leaving his room.[0m
+[3m             > “Hopefully it would squeak through the infield and win the game.”[0m
+
+[35mSqueak[0m[36m /skwiːk/,[0m [91m[3mnoun[0m[0m | noun: squeak; plural noun: squeaks
+      [32m1.[0m [37ma short, high-pitched sound or cry.[0m
+	   "the door opened with a slight squeak"
+  	   [3msynonyms:[0m peep, cheep, pipe, piping, squeal, tweet, warble, yelp, whimper  screech, creak, scrape, grate, rasp, jar, groan
+		    "the dying squeak of a captured vole or bird"
+          • [37ma single remark or communication.[0m
+	   "I didn't hear a squeak from him for months"
+    [91m[3mverb[0m[0m | verb: squeak; 3rd person present: squeaks; past tense: squeaked; past participle: squeaked; gerund or present participle: squeaking
+      [32m1.[0m [37mmake a high-pitched sound or cry.[0m
+	   "he oiled the hinges to stop them squeaking"
+  	   [3msynonyms:[0m peep, cheep, pipe, squeal, tweet, yelp, whimper  screech, creak, scrape, grate, rasp, jar, groan
+		    "the rat squeaked"
+          • [37msay something in a nervous or excited high-pitched tone.[0m
+	   "‘You're scaring me,’ she squeaked"
+          • [37minform on someone.[0m
+	   "I have assured them that you will not squeak"
+
+      [32m2.[0m [37msucceed in achieving something by a very narrow margin.[0m
+	   "the bill squeaked through with just six votes to spare"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mकिकियान[0m           [31mचिल्लाना[0m        [31mतीव्र चिल्लाहट[0m  
+  [31mचूं-चूं की ध्वनि[0m       [31mकिकियाना[0m         [31mअति कठोर शब्द[0m  
+
+      Origin:  late Middle English (as a verb): imitative; compare with Swedish skväka ‘croak’, also with squeal and shriek. The noun dates from the early 17th century.

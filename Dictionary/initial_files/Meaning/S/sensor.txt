@@ -1,0 +1,14 @@
+[35m                                                                                      SENSOR                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Sensors, camera and ultrasonic technology help the robot with navigation, but there is human oversight in case there is a problem.[0m
+[3m             > Both systems require you to put small sensors into the ends of your grips.[0m
+[3m             > Remote sensors installed 40 years ago provide real-time depths, though not reliably.[0m
+[3m             > Adding a larger fingerprint sensor would also decrease the risk, Boehnen said.[0m
+[3m             > Hush-hush intelligence agencies might want to rejoice, as researchers reveal a counterintuitive new way to track airborne objects—using sensors designed to
+               record earthquakes underground.[0m
+
+[35mSensor[0m[36m /ˈsɛnsə/,[0m [91m[3mnoun[0m[0m | noun: sensor; plural noun: sensors
+          • [37ma device which detects or measures a physical property and records, indicates, or otherwise responds to it.[0m
+	   "to ensure greater response and surer handling, the engineers used electronic sensors to monitor each wheel"
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mज्ञानेंद्री[0m 

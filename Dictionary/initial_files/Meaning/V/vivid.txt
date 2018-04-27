@@ -1,0 +1,34 @@
+[35m                                                                                      VIVID                                                                                      [0m
+[91m        SHORT  Vivid is an adjective that describes a bold and bright color, an intense feeling, or an image in your mind that is so clear you can almost touch it.[0m
+[36m         LONG  Sometimes you have a vivid dream that feels so real that even when you wake up, you can’t tell if the dream is really over.  In that dream, perhaps there
+               were flowers with deep, rich, and vivid colors that looked like they were painted.  Vivid comes from the Latin vivere, which means “to live,”
+               and vivid memories do seem to live on.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                            
+[3m             > When the monster returns, his tales are rendered in vivid, painterly animation.[0m
+[3m             > The report abounds with vivid details of the moribund state of the judicial death business.[0m
+[3m             > The memory is fleeting but vivid, in the way childhood memories often are.[0m
+[3m             > There is certainly nothing scary about the fruit bat Stellaluna, one of the vivid puppets that bring the tale to life.[0m
+[3m             > His semi-autobiographical period epic opens with one of the most sumptuous and dramatically vivid Christmas feasts ever filmed.[0m
+
+[35mVivid[0m[36m /ˈvɪvɪd/,[0m [91m[3madjective[0m[0m | adjective: vivid; comparative adjective: vivider; superlative adjective: vividest
+      [32m1.[0m [37mproducing powerful feelings or strong, clear images in the mind.[0m
+	   "memories of that evening were still vivid"
+	   [3msynonyms:[0m graphic, evocative, realistic, true to life, lifelike, 
+		    "Dickens provides us with a vivid account of nineteenth-century urban poverty"
+	   [3mantonyms:[0m vague, boring
+
+      [32m2.[0m [37m(of a colour) intensely deep or bright.[0m
+	   "the rhododendron bush provides a vivid splash of mauve"
+	   [3msynonyms:[0m bright, bright-coloured, colourful, deep-coloured, brilliant, 
+		    "a vivid blue Mediterranean sea"
+	   [3mantonyms:[0m dull, washed out
+
+      [32m3.[0m [37m(of a person or animal) lively and vigorous.[0m
+	   "she had a deep voice and a strikingly vivid personality"
+	   [3msynonyms:[0m dynamic, flamboyant, striking, strong, powerful, 
+		    "she had a deep voice and a strikingly vivid personality"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mज्वलंत[0m       [31mसुस्पष्ट[0m  
+     [31mचमकीला[0m        [31mउज्जवल[0m   
+    [31mउज्ज्वल[0m         [31mशोख[0m     
+     [31mचटकीला[0m        [31mचमकदार[0m   

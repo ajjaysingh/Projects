@@ -1,0 +1,23 @@
+[35m                                                                                     PARALLAX                                                                                     [0m
+[91m        SHORT  Parallax is how an object's position seems to shift, the way a person appears to move when you alternate looking through a camera viewfinder and using just
+               your eyes.[0m
+[36m         LONG  You can get an idea of what parallax is by closing first one eye and then the other; the object you're focused on seems to move slightly. Parallax also
+               describes the way that objects appear different depending on where an observer is located. It's a concept that helps astronomers measure the
+               distances between planets, stars, and moons. The root word is Greek, parallaxis, meaning "a change."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The best way to counteract parallax is to use an intermediate target.[0m
+[3m             > One is an affectionate parody of Valley excess, the other a Snowden-era updating of '70s paranoid thrillers such as “The Conversation” and “The Parallax
+               View.”[0m
+[3m             > If users do want to move away from Yahoo after recent breaches, news site The Parallax recently wrote advice on how to do this.[0m
+[3m             > Lonergan said, using that last word often and as a kind of parallax; competing views on hopelessness is the animating force of all his movies.[0m
+[3m             > But the field sputtered in the 1960s, when scientists reached the smallest parallaxes that Earth-based telescopes could measure, stymied by interference from
+               our rippling atmosphere.[0m
+
+[35mParallax[0m[36m /ˈparəlaks/,[0m [91m[3mnoun[0m[0m | noun: parallax
+          • [37mthe effect whereby the position or direction of an object appears to differ when viewed from different positions, e.g. through the viewfinder and the lens of
+            a camera.[0m
+	   "what you see in the viewfinder won't be quite what you get in the photograph because of parallax error"
+          • [37mthe angular amount of parallax in a particular case, especially that of a star viewed from different points in the earth's orbit.[0m
+	   plural noun: parallaxes
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mलंबन[0m       [31mविस्‍थापनाभास[0m 

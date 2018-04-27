@@ -1,0 +1,17 @@
+[35m                                                                                    STOCHASTIC                                                                                    [0m
+[91m        SHORT  The adjective stochastic describes something that has a random variable. You like to joke that the city buses follow a stochastic schedule because they arrive
+               at random times at the various bus stops.[0m
+[36m         LONG  Stochastic is from the Greek word stokhastikos, meaning able to guess, with the root stokhos meaning a target––in Greek stokhos literally means a stick meant
+               for archers to shoot at. The "guess" part of the original Greek work is still part of the word's meaning today: A stochastic process in a
+               computer program, for example, is one where you can't predict what is going to happen in the program because of something random in it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > We note that this represents one extreme of possible combined deterministic and stochastic scenarios.[0m
+[3m             > However, the dynamics of individual fear cells seem too stochastic to support reliable memory storage1.[0m
+[3m             > Critics of the war-as-game metaphor point out that the real world is, if a game at all, a stochastic and messy one.[0m
+[3m             > Simulated survival probability s as a function of |Q| for the stochastic trials.[0m
+[3m             > Anton and its successors spend their days bringing world-class processing power to bear on the stochastic wrigglings of protein chains.[0m
+
+[35mStochastic[0m[36m /stəˈkastɪk/,[0m [91m[3madjective technical[0m[0m | adjective: stochastic
+          • [37mhaving a random probability distribution or pattern that may be analysed statistically but may not be predicted precisely.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mस्टोकेस्टिक[0m 

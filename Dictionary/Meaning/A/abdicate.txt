@@ -1,0 +1,35 @@
+[35m                                                                                     ABDICATE                                                                                     [0m
+[91m        SHORT  Sometimes someone in power might decide to give up that power and step down from his or her position. When they do that, they abdicate their authority, giving
+               up all duties and perks of the job.[0m
+[36m         LONG  The original meaning of the verb abdicate came from the combination of the Latin ab- "away" and dicare "proclaim." (Note that in the charming relationships
+               between languages with common roots, the Spanish word for "he says" is dice, which comes directly from dicare.) The word came to refer to
+               disowning one's children, and it wasn't until the 17th century that the first use of the word relating to giving up power or public office was
+               recorded.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Tesla Inc did not immediately comment on Monday but said in 2016 that Autopilot "does not allow the driver to abdicate responsibility."[0m
+[3m             > Not for the first time, the pope is reminding politicians that history will judge whether they rise to the challenge or abdicate their responsibility.”[0m
+[3m             > Expect the 81-year-old King Salman to abdicate in favor of his son in the next few months, allowing the father to smooth his son’s transition.[0m
+[3m             > Louis-Antoine automatically became King Louis XIX but he, too, abdicated, feeling unable to overcome the dynasty's unpopularity.[0m
+[3m             > We are aware of no precedent for a sovereign pardoning himself, then abdicating or being deposed but being immune from criminal process.[0m
+
+[35mAbdicate[0m[36m /ˈabdɪkeɪt/,[0m [91m[3mverb[0m[0m | verb: abdicate; 3rd person present: abdicates; past tense: abdicated; past participle: abdicated; gerund or present participle: abdicating
+      [32m1.[0m [37m(of a monarch) renounce one's throne.[0m
+	   "in 1918 Kaiser Wilhelm abdicated as German emperor"
+  	   [3msynonyms:[0m resign, resign retire, retire quit, quit stand down, step down, bow out, renounce the throne ;  demit demit  resign from, relinquish, relinquish
+                     renounce, renounce give up, hand over, turn over, deliver up, surrender, surrender vacate, vacate forswear, forswear abjure, abjure
+                     cede cede ;  disclaim disclaim
+		    "in 1936, Edward VIII abdicated in favour of George VI"
+  	   [3mantonyms:[0m be crowned, accede to
+
+      [32m2.[0m [37mfail to fulfil or undertake (a responsibility or duty).[0m
+	   "the government was accused of abdicating its responsibility"
+  	   [3msynonyms:[0m disown, disown turn down, spurn, spurn reject, reject renounce, renounce give up, avoid, avoid refuse, refuse abnegate, abnegate relinquish, relinquish
+                     abjure, abjure repudiate, repudiate waive, waive yield, yield forgo, forgo abandon, abandon surrender, surrender deliver up,
+                     disgorge, disgorge cast aside, drop, drop turn one's back on, wash one's hands of ;  shirk shirk ;  forsake forsake
+		    "the state virtually abdicated all responsibility for their welfare"
+  	   [3mantonyms:[0m accept, accept take on
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+       [31mत्यागना[0m        [31mअधिकार को त्यागना[0m 
+    [31mसत्ता त्यागना[0m       [31mपद को त्यागना[0m   
+
+      Origin:  mid 16th century: from Latin abdicat- ‘renounced’, from the verb abdicare, from ab- ‘away, from’ + dicare ‘declare’.

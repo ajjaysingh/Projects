@@ -1,0 +1,11 @@
+[35m                                                                                     LAZARUS                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Symantec’s researchers first pointed the finger at Lazarus last week, but on Monday said their findings were close to conclusive.[0m
+[3m             > Lazarus is a serious player in the cybercrime world.[0m
+[3m             > Industry researchers later linked Lazarus hackers to the 2016 Bangladesh bank heist and a financial system attack in Poland in 2017.[0m
+[3m             > But it’s possible the code was simply copied from the Lazarus malware without any other direct connection.[0m
+[3m             > According to Lazarus Research, the profit margins of five of the big six suppliers rose to 5.6% last year - the largest since 2009.[0m
+
+	Wiki Definition:
+              	Definition  of  Lazarus . 1 : a brother of Mary and Martha raised by Jesus from the dead according to the account in John 11. 2 : the diseased beggar in the
+               parable of the rich man and the beggar found in Luke 16.

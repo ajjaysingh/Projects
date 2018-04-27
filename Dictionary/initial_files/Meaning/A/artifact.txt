@@ -1,0 +1,21 @@
+[35m                                                                                     ARTIFACT                                                                                     [0m
+[91m        SHORT  An artifact is a man-made object that has some kind of cultural significance. If you find a 12th-century vase, it's an artifact of that time. Don't drop it![0m
+[36m         LONG  Artifact is a combination of two Latin words, arte, meaning "by skill" and factum which means "to make." Usually when you use the word artifact, you are
+               describing something crafted that was used for a particular purpose during a much earlier time.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It does so with interactive exhibits, theater presentations and large-scale replicas, in addition to original artifacts and the occasional whiff of gunpowder.[0m
+[3m             > Most existing research into the effects of science funding tries to quantify research artifacts, such as publications and patents, rather than tracking
+               people.[0m
+[3m             > The museum tells the campfire tales of the American West through paintings, sculpture, photography and such artifacts as Meriwether Lewis’s tomahawk.[0m
+[3m             > The task force is also seeking to collect artifacts from the time period.[0m
+[3m             > It features 10 of the life-sized figures from the original site, and more than 100 other artifacts.[0m
+
+[35mArtefact[0m[36m /ˈɑːtɪfakt/,[0m [91m[3mnoun[0m[0m
+	noun: artifact
+      [32m1.[0m [37man object made by a human being, typically one of cultural or historical interest.[0m
+	   "gold and silver artefacts"
+
+      [32m2.[0m [37msomething observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure.[0m
+	   "the curvature of the surface is an artefact of the wide-angle view"
+  [31m[4m[34m[0m[0m[0m
+  [31mविरूपण साक्ष्य[0m 

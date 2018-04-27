@@ -1,0 +1,12 @@
+[35m                                                                                  STEGANOGRAPHY                                                                                   [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Steganography—hiding messages in otherwise innocuous image files—is a similar technique.[0m
+[3m             > Steganography — literally “hidden writing” — provided an alternate set of tools for practitioners of the espionage trade.[0m
+[3m             > The choice is inspired by the spy technique Wickr is emulating with this integration–steganography, or hiding messages in plain sight.[0m
+[3m             > “Haystack was claiming to be using steganography, and it got me thinking about stego,” he says.[0m
+[3m             > This year's iteration already appears to be fiendishly difficult, requiring understanding of OutGuess, a complex steganography tool.[0m
+
+[35mSteganography[0m[36m /stɛɡəˈnɒɡrəfɪ/,[0m [91m[3mnoun[0m[0m | noun: steganography
+          • [37mthe practice of concealing messages or information within other non-secret text or data.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mस्टेग्नोग्राफ़ी[0m 

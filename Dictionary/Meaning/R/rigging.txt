@@ -1,0 +1,56 @@
+[35m                                                                                     RIGGING                                                                                      [0m
+[91m        SHORT  Everything on a sailboat or ship that holds the sails up is its rigging. The rigging typically includes masts and ropes.[0m
+[36m         LONG  Sometimes the term rigging is used for just about everything on a sailing vessel, including the sails themselves. You can also use this noun for the process
+               of adjusting or setting up these parts, either on a ship or an airship, parachute, or hang-glider. Rigging comes from the verb rig, which was
+               originally nautical and meant just "to fit with sails."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > That was after the women reportedly lost their engines and sustained damage to their rigging and mast.[0m
+[3m             > Redfish are fair on live bait and down rigging spoons near the dam in 15-20 feet.[0m
+[3m             > "They see it rigging our political system to favor special interests."[0m
+[3m             > Giant is a model ship with four masts, ornate rigging, and portholes whose windows open to reveal the cities of Jerusalem, Mecca, and Medina.[0m
+[3m             > The filmmakers probably show Riggs betting on himself to win in the film in order to debunk the rigging rumor.[0m
+
+[35mRigging[0m[36m /ˈrɪɡɪŋ/,[0m [91m[3mnoun[0m[0m | noun: rigging; noun: standing rigging; noun: running rigging
+      [32m1.[0m [37mthe system of ropes or chains employed to support a ship's masts ( standing rigging ) and to control or set the yards and sails ( running rigging ).[0m
+	   "I'm listening to the wind in the rigging"
+          • [37mthe action of providing a sailing ship with rigging.[0m
+
+      [32m2.[0m [37mthe ropes and wires supporting the structure of an airship, biplane, hang-glider, or parachute.[0m
+          • [37mthe system of cables and fittings controlling the flight surfaces and engines of an aircraft.[0m
+          • [37mthe action of assembling and adjusting the rigging of an airship, hang-glider, etc.[0m
+[35mRig[0m[36m /rɪɡ/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: rigging
+      [32m1.[0m [37mprovide (a sailing boat) with sails and rigging.[0m
+	   "the catamaran will be rigged as a ketch"
+  	   [3msynonyms:[0m equip, equip kit out, fit out/up, supply, supply outfit, outfit furnish, furnish accoutre, accoutre array, array provide, provide provision, provision
+                     stock, stock arm arm
+		    "these vessels were rigged with a single square sail"
+          • [37massemble and adjust (the equipment of a sailing boat, aircraft, etc.) in readiness for operation.[0m
+	   "most sails are kept ready rigged"
+
+      [32m2.[0m [37mset up (equipment or a device or structure), typically in a makeshift or hasty way.[0m
+	   "he had rigged up a sort of tent"
+  	   [3msynonyms:[0m set up hastily, erect hastily, assemble hastily, throw together, cobble together, put together, whip up, improvise, improvise devise, devise contrive,
+                     contrive jury-rig ;  knock up
+		    "Alfred will rig up a bit of shelter"
+
+      [32m3.[0m [37mprovide (someone) with clothes of a particular type.[0m
+	   "a cavalry regiment rigged out in green and gold"
+  	   [3msynonyms:[0m dress, dress attire, attire clothe, clothe robe, robe garb, garb array, array deck out, drape, drape accoutre, accoutre outfit, outfit costume, costume
+                     get up, turn out, trick out/up ;  doll up ;  bedizen, bedizen caparison caparison ;  apparel, apparel invest, invest habit, habit
+                     trap out
+		    "I rigged myself out in all-American gear"
+[35mRig[0m[36m /rɪɡ/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: rigging; adjective: -rigging
+          • [37mmanage or conduct (something) fraudulently so as to gain an advantage.[0m
+	   "the results of the elections had been rigged"
+  	   [3msynonyms:[0m manipulate, manipulate arrange fraudulently, interfere with, influence, influence gerrymander, gerrymander juggle, juggle massage, massage distort,
+                     distort misrepresent, misrepresent pervert, pervert manoeuvre, manoeuvre tamper with, tinker with, doctor doctor ;  falsify, falsify
+                     forge, forge fake, fake engineer, engineer trump up ;  fix, fix cook cook ;  fiddle fiddle
+		    "he will not need to rig the election or buy voters"
+          • [37mcause an artificial rise or fall in prices in (the stock market) with a view to personal profit.[0m
+	   "he accused games firms of rigging the market"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mसामान[0m            [31mसाज समान[0m     
+
+      Origin:  the action of assembling and adjusting the rigging of an airship, hang-glider, etc.

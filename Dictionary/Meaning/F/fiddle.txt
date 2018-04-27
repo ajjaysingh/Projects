@@ -1,0 +1,59 @@
+[35m                                                                                      FIDDLE                                                                                      [0m
+[91m        SHORT  A fiddle is the same thing as a violin. The instrument, which has strings and is played with a bow, is more likely to be called a fiddle when it's used to
+               play traditional or folk tunes, rather than classical music.[0m
+[36m         LONG  Fiddle music is typically written for dancing, and it comes from backgrounds as diverse as Scotland, Eastern Europe, and the Cajun and Zydeco traditions from
+               Louisiana. To play the fiddle is to fiddle, and when you mess or play around with something, you also fiddle: "Do you have to fiddle with your
+               pen while I'm talking?" Someone who's "fit as a fiddle" is in perfect health.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > If things are looking bad—an expensive vet bill threw things off at the start of the month—I fiddle with a few budget sliders, and things look a little less
+               bad.[0m
+[3m             > In contrast with many other trade shows, demonstration of technology still plays second fiddle to the spectacle of the race.[0m
+[3m             > The Johnson story, Iannucci said, epitomizes the tragicomic: a powerful man and a prodigious senator who suddenly finds himself playing second fiddle as vice
+               president to John F. Kennedy.[0m
+[3m             > “You’ve been fiddling around for years on immigration,” he told lawmakers.[0m
+[3m             > For the scene depicting a present-day economic forum, Mr. Norris updated references, mentioning Brexit and protectionist policies, but saw no need to fiddle
+               with the punch lines.[0m
+
+[35mFiddle[0m[36m /ˈfɪd(ə)l/,[0m [91m[3mnoun[0m[0m | noun: fiddle; plural noun: fiddles
+      [32m1.[0m [37ma violin.[0m
+	   "their feet moved in time with the fiddle"
+  	   [3msynonyms:[0m violin, violin viola, viola cello, cello double bass double bass ;  kit kit
+		    "their feet moved in time with the fiddle"
+
+      [32m2.[0m [37man act of defrauding, cheating, or falsifying.[0m
+	   "a major mortgage fiddle"
+  	   [3msynonyms:[0m fraud, fraud swindle, swindle fix, fix wangle, wangle confidence trick, confidence trick ruse, ruse wile, wile piece of deception, bit of sharp practice
+                     ;  racket, racket con trick, con trick flimflam, flimflam sting sting
+		    "the men were involved in a major VAT fiddle"
+
+      [32m3.[0m [37ma small task that seems awkward and unnecessarily complex.[0m
+	   "inserting a tape is a bit of a fiddle"
+
+      [32m4.[0m [37ma ledge or raised rim that prevents things from rolling or sliding off a table in rough seas.[0m
+    [91m[3mverb[0m[0m | verb: fiddle; 3rd person present: fiddles; past tense: fiddled; past participle: fiddled; gerund or present participle: fiddling
+      [32m1.[0m [37mtouch or fidget with something in a restless or nervous way.[0m
+	   "Lena fiddled with her cup"
+  	   [3msynonyms:[0m fidget, fidget play, play toy, toy twiddle, twiddle fuss, fuss fool about/around, trifle trifle ;  finger, finger thumb, thumb handle, handle feel, feel
+                     touch touch ;  waste time, act aimlessly ;  mess about/around, paw paw
+		    "he fiddled with a beer mat"
+          • [37mtinker with something in an attempt to make minor adjustments or improvements.[0m
+	   "he fiddled with the blind, trying to prevent the sun from shining in her eyes"
+  	   [3msynonyms:[0m tinker, tinker play about/around, tamper, tamper meddle, meddle interfere, interfere monkey monkey ;  adjust adjust
+		    "he fiddled with some dials and buttons"
+          • [37mpass time aimlessly, without doing or achieving anything of substance.[0m
+
+      [32m2.[0m [37mfalsify (figures, data, or records), typically in order to gain money.[0m
+	   "everyone is fiddling their expenses"
+  	   [3msynonyms:[0m falsify, falsify manipulate, manipulate massage, massage rig, rig distort, distort pervert, pervert misrepresent, misrepresent juggle, juggle doctor,
+                     doctor alter, alter tamper with, interfere with ;  cook, cook fix, fix diddle, diddle finagle, finagle flimflam, flimflam cook the
+                     books
+		    "the government is trying to fiddle the figures"
+
+      [32m3.[0m [37mplay the violin.[0m
+    [31m[4m[34mnoun[0m[0m[0m        [31m[4m[34m[0m[0m[0m        [31m[4m[34mverb[0m[0m[0m  
+            [31mबेला[0m                   [31mसारंगी बजाना[0m                [31mबेला बजाना[0m        
+           [31mसारंगी[0m            [31mतुच्छ बातों में लगे रहना[0m         [31mचिकारा बजाना[0m       
+
+      Origin:  Old English fithele, denoting a violin or similar instrument (originally not an informal or depreciatory term), related to Dutch vedel and German Fiedel,
+               based on Latin vitulari ‘celebrate a festival, be joyful’, perhaps from Vitula, the name of a Roman goddess of joy and victory. Compare with
+               viol.

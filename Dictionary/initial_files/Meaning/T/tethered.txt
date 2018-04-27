@@ -1,0 +1,24 @@
+[35m                                                                                     TETHERED                                                                                     [0m
+[91m        SHORT  Tethered describes something that's tied up, like a horse that's tethered to a fence or a dog that's tethered to the person who is walking it.[0m
+[36m         LONG  Whenever you confine a person or an animal to keep them in one place, they're tethered. A bank robber might leave his hostages tethered together in the vault,
+               and you might keep your fence-jumping dog tethered to the porch when she's out in your yard. The root word is the Old Norse tjoðr, tether,
+               which was used only as a noun to describe the rope that ties animals until the late 15th century, when the verb form developed.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The culture there is to be tethered to one's computer all the time.[0m
+[3m             > Solar companies need customers to be tethered to the grid, yet their products reduce electricity usage, and that chips away at utility profits.[0m
+[3m             > So sports fans remain tethered to their cable bundle.[0m
+[3m             > Jensen was in one of two lifeboats that were initially tethered to the sinking Juris but eventually were cut loose.[0m
+[3m             > Americans jumped on holiday deals this weekend but spending is increasingly moving online, highlighting the high-wire act that faces retailers tethered to
+               stores.[0m
+
+[35mTether[0m[36m /ˈtɛðə/,[0m [91m[3mverb[0m[0m
+      [32m1.[0m [37mtie (an animal) with a rope or chain so as to restrict its movement.[0m
+	   "the horse had been tethered to a post"
+	   [3msynonyms:[0m tie, tie up, hitch, rope, chain
+		    "the horse had been tethered to a post"
+	   [3mantonyms:[0m unleash, release
+
+      [32m2.[0m [37muse (a smartphone) in order to connect a computer or other device to the Internet.[0m
+	   "one prediction is that tethering will cost around $30 per month, probably with some cap on the amount of data transfer allowed"
+  [31m[4m[34m[0m[0m[0m
+  [31mसीमित[0m 

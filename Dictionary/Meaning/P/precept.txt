@@ -1,0 +1,28 @@
+[35m                                                                                     PRECEPT                                                                                      [0m
+[91m        SHORT  A precept is a rule or direction, often with some religious basis, dictating a way you should act or behave.[0m
+[36m         LONG  Precepts are little life lessons that are usually passed down to children by authority figures such as parents, teachers, or religious figures. They are not
+               as simple or practical as "eat your vegetables"; they tend to be more weighty and pretentious. In Hamlet, the character Polonius dished out a
+               few choice precepts to his son Laertes: "neither a borrower nor a lender be" and "give every man thy ear, but few thy voice." Of course Laertes
+               never lived long enough to benefit from Polonius's sage advice, since Hamlet offed him with his own poisoned blade.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Besides, the precepts Evans offers are both edifying and entertaining.[0m
+[3m             > More than just a retroactive critique of policy, Simon’s transparency in planning “An Occupation of Loss” grounds its more unknowable precepts.[0m
+[3m             > The various accounts that survive, though sketchy, broadly agree that Corax was the first person to set down precepts for the art of persuasion.[0m
+[3m             > And he agreed with Adams that “moral precepts, innate in man,” bolstered by the general principles laid down by religion, helped avert a human-produced hell.[0m
+[3m             > There was a time when I wondered bleakly if Donald Trump may be exempt from this philosophical precept.[0m
+
+[35mPrecept[0m[36m /ˈpriːsɛpt/,[0m [91m[3mnoun[0m[0m | noun: precept; plural noun: precepts
+      [32m1.[0m [37ma general rule intended to regulate behaviour or thought.[0m
+	   "the legal precept of being innocent until proven guilty"
+  	   [3msynonyms:[0m principle, rule, tenet, canon, code, doctrine, guideline, working principle, law, ordinance, statute, command, order, decree, mandate, dictate, dictum,
+                     directive, direction, instruction, injunction, prescription, commandment ;  mitzvah ;  prescript
+		    "the precepts of Orthodox Judaism"
+
+      [32m2.[0m [37ma writ or warrant.[0m
+	   "the Commissioner issued precepts requiring the companies to provide information"
+
+      [32m3.[0m [37man order issued by one local authority to another specifying the rate of tax to be charged on its behalf.[0m
+	   "the precept required a supplementary rate of 6.1p in the pound"
+          • [37ma rate or tax set by a precept.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mनियम[0m     [31mसमादेश[0m 

@@ -1,0 +1,28 @@
+[35m                                                                                    PREDICATED                                                                                    [0m
+[91m        SHORT  The predicate is the part of a sentence that includes the verb and verb phrase. The predicate of "The boys went to the zoo" is "went to the zoo."[0m
+[36m         LONG  We change the pronunciation of this noun ("PRED-uh-kit") when we turn it into a verb ("PRED-uh-kate"). The verb predicate means to require something as a
+               condition of something else, and we use this term mostly in connection with logic, mathematics, or rhetoric. To predicate your argument on
+               certain facts is to use those facts as evidence.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the first quarter, the Wizards’ defense was predicated on optimism — hoping that Thomas and the Celtics would miss.[0m
+[3m             > Wang explains the concept is “predicated on a relationship. One of our fundamental beliefs is that you can’t sell home cooking to strangers.”[0m
+[3m             > It was predicated on this being Game 1 of a seven-game series.[0m
+[3m             > That’s because the law, which is predicated on a school’s poor performance, originated under a different school-rating system.[0m
+[3m             > Orion this month helped finance the expansion of a Florida oil-storage terminal, a move predicated in part on growth in U.S. oil exports.[0m
+
+[35mPredicate[0m[36m /ˈprɛdɪkeɪt/,[0m [91m[3mverb[0m[0m
+	past tense: predicated; past participle: predicated
+      [32m1.[0m [37mstate, affirm, or assert (something) about the subject of a sentence or an argument of a proposition.[0m
+	   "a word which predicates something about its subject"
+          • [37mdeclare or affirm (something) as true or existing; postulate or assert.[0m
+	   "the Pleistocene colonization of Tasmania has long been predicated"
+
+      [32m2.[0m [37mfound or base something on.[0m
+	   "the theory of structure on which later chemistry was predicated"
+	   [3msynonyms:[0m base, be dependent, found, establish, rest, 
+		    "all the social sciences are predicated on the notion that individuals are not isolated"
+  [31m[4m[34m[0m[0m[0m
+  [31mप्रतिपादित[0m 
+   [31mप्रागुक्त[0m 
+   [31mपूर्वकथित[0m 
+    [31mस्थापित[0m  

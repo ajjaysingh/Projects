@@ -1,0 +1,23 @@
+[35m                                                                                    MONGERING                                                                                     [0m
+[91m        SHORT  A monger is a seller, especially of something specific like a fish monger or an iron monger.[0m
+[36m         LONG  You can use the noun monger as a word on its own, although it frequently shows up as a suffix, in words like cheesemonger. Monger can also be used as a verb
+               meaning "to sell or peddle." In both cases, the word is a bit old fashioned, used more often these days to describe a person who promotes
+               something hurtful, as in warmonger. The Old English root word is mangere, "merchant or broker," from the Latin mango, "dealer or trader."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But he called a press conference Monday to brand it “bogus” and “fear mongering.”[0m
+[3m             > “Last year was a tough year. There were a lot of divisions and fear mongering in the rhetoric,” Fairey said.[0m
+[3m             > He believes there is a lot of hysteria and fear mongering when it comes to the reporting of shark attacks.[0m
+[3m             > There's a reason he's descended into conspiracy mongering, but the damage wrought could long outlast him.[0m
+[3m             > While other leadership contenders have condemned her proposal as "fear mongering", Ms Leitch has denied she is targeting any specific groups with the values
+               test,[0m
+
+	Wiki Definition:
+              	A  monger  is a seller, especially of something specific like a fish  monger  or an iron  monger . You can use the noun  monger  as a word on its own,
+               although it frequently shows up as a suffix, in words like cheesemonger.  Monger  can also be used as a verb meaning "to sell or peddle."
+
+noun
+    1. a person who is involved with something in a petty or contemptible way (usually used in combination):  a gossipmonger.
+    2. Chiefly British. a dealer in or trader of a commodity (usually used in combination): fishmonger; cheesemonger.
+
+verb (used with object)
+    3. to sell; hawk.

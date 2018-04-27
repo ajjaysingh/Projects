@@ -1,0 +1,27 @@
+[35m                                                                                   DEPRECATING                                                                                    [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The 70-year-old businessman later said his remarks were "about a little deprecating humour which America lost for a long time".[0m
+[3m             > “And yes, it’s about a little deprecating humor which America lost for a long time,” he wrote.[0m
+[3m             > Please, Mr. Isherwood, spare us and future works of art this deprecating and bitter analysis.[0m
+[3m             > He delights in deprecating every conceivable American minority.[0m
+[3m             > An interest in ordinary and unclassifiable things also engaged the British contingent, who brought to conceptual art an anti-establishment edge and a
+               deprecating wit.[0m
+
+[35mDeprecate[0m[36m /ˈdɛprɪkeɪt/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: deprecating
+      [32m1.[0m [37mexpress disapproval of.[0m
+	   "what I deprecate is persistent indulgence"
+  	   [3msynonyms:[0m disapprove of, deplore, abhor, find unacceptable, be against, frown on, take a dim view of, look askance at, take exception to, detest, despise, execrate
+                     ;  criticize, censure, condemn, denounce, protest against, inveigh against, rail against ;  knock, slam, hammer, cane, blast, bad-
+                     mouth, pull to pieces, pull apart, hit out at ;  slate, slag off, rubbish ;  slash, vituperate against, reprobate ;  animadvert on,
+                     asperse, derogate
+		    "the school deprecates the social mixing of older and younger boys"
+  	   [3mantonyms:[0m praise
+          • [37m(chiefly of a software feature) be usable but regarded as obsolete and best avoided, typically because it has been superseded.[0m
+	   "this feature is deprecated and will be removed in later versions"
+
+      [32m2.[0m [37manother term for depreciate (sense 2).[0m
+	   "he deprecates the value of children's television"
+
+      Origin:  early 17th century (in the sense ‘pray against’): from Latin deprecat- ‘prayed against (as being evil)’, from the verb deprecari, from de- (expressing
+               reversal) + precari ‘pray’.

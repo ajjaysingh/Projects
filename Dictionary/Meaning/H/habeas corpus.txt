@@ -1,0 +1,23 @@
+[35m                                                                                  HABEAS CORPUS                                                                                   [0m
+[91m        SHORT  The law says if the government is keeping a person in jail, it is obligated to explain why: when someone legally demands such an explanation, the order is
+               called a writ of habeas corpus.[0m
+[36m         LONG  It would be pretty bad if the government could imprison you for no reason with no explanation, right? That can happen in totalitarian countries, but in
+               democracies we depend on habeas corpus, which requires a judge to release someone when there's no lawful reason to imprison them. Like most
+               legalese, habeas corpus is Latin, literally "You should have the person," and it means a person can’t be locked up without explanation or trial
+               — they must be brought before a judge.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > We are worried about the president emboldening foreign dictators and being controlled and/or blackmailed by Vladimir Putin and his attorney general rescinding
+               habeas corpus.[0m
+[3m             > Late last year, Bloomfield filed a writ of habeas corpus to withdraw his plea.[0m
+[3m             > The ruling allowed Mathews to challenge his convictions in a federal habeas corpus petition.[0m
+[3m             > California law guarantees each death row inmate both an automatic appeal to the California Supreme Court and a separate habeas corpus challenge.[0m
+[3m             > The family contacted their lawyer, who filed a motion for habeas corpus.[0m
+
+[35mHabeas Corpus[0m[36m /ˌheɪbɪəs ˈkɔːpəs/,[0m [91m[3mnoun Law[0m[0m | noun: habeas corpus
+          • [37ma writ requiring a person under arrest to be brought before a judge or into court, especially to secure the person's release unless lawful grounds are shown
+            for their detention.[0m
+	   "his application for habeas corpus"
+          • [37mthe legal right to apply for a habeas corpus writ.[0m
+	   "Europe was first to introduce habeas corpus and the jury system"
+
+      Origin:  late Middle English: Latin, literally ‘you shall have the body (in court)’.

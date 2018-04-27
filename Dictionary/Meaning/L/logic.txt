@@ -1,0 +1,40 @@
+[35m                                                                                      LOGIC                                                                                       [0m
+[91m        SHORT  Some people think of logic as cold in its insistence on reasoning based only on what can be proven. But without logic's systematic thinking, most mathematical
+               and scientific advances would never have been made.[0m
+[36m         LONG  Over time, the meaning of logic has expanded to include any system of thought––you might talk about the "three-year-old logic that puts lollipops ahead of
+               safety," or talk about the "flawed logic of thinking that anyone you meet on the Internet must be cool."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > What’s perhaps most interesting about this data is that it can’t be explained by the blame-the-victim logic often used to dismiss concern about poor people.[0m
+[3m             > The characters speak a kind of bad-faith dialogue, often mechanical or contrary to logic.[0m
+[3m             > “The AG Memorandum contradicts the Court’s interpretation of the grant-eligibility provision and thereby undermines much of the logic upon which the Court’s
+               analysis is based.”[0m
+[3m             > This is done by drawing up 'smart contracts' that represent business logic written in computer code.[0m
+[3m             > “It’s the exchange of logic for ideas based on moralizing and faith.”[0m
+
+[35mLogic[0m[36m /ˈlɒdʒɪk/,[0m [91m[3mnoun[0m[0m | noun: logic
+      [32m1.[0m [37mreasoning conducted or assessed according to strict principles of validity.[0m
+	   "experience is a better guide to this than deductive logic"
+  	   [3msynonyms:[0m science of reasoning, science of deduction, science of thought, dialectics, argumentation, ratiocination
+		    "the study of logic"
+          • [37ma particular system or codification of the principles of proof and inference.[0m
+	   "Aristotelian logic"
+          • [37mthe systematic use of symbolic and mathematical techniques to determine the forms of valid deductive argument.[0m
+	   plural noun: logics
+          • [37mthe quality of being justifiable by reason.[0m
+	   "there seemed to be a lack of logic in his remarks"
+  	   [3msynonyms:[0m reason, judgement, logical thought, rationality, cognition, wisdom, sagacity, sound judgement, sense, good sense, common sense, rationale, sanity ;
+                     deduction, inference, syllogistic reasoning ;  coherence, relevance ;  horse sense
+		    "this case appears to defy all logic"
+          • [37mthe course of action suggested by or following as a necessary consequence of.[0m
+	   "the logic of private competition was to replace small firms by larger firms"
+  	   [3msynonyms:[0m reasoning, line of reasoning, chain of reasoning, process of reasoning, argument, argumentation
+		    "the economic logic of the argument"
+
+      [32m2.[0m [37ma system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task.[0m
+          • [37mlogical operations collectively.[0m
+[35m-Logic[0m[36m /ˈlɒdʒɪk/,[0m [91m[3mcombining form[0m[0m | suffix: -logic
+          • [37mequivalent to -logical (as in pharmacologic ).[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+        [31mतर्क[0m            [31mतर्कशास्त्र[0m          [31mतार्किक[0m     
+
+      Origin:  late Middle English: via Old French logique and late Latin logica from Greek logikē (tekhnē) ‘(art) of reason’, from logos ‘word, reason’.

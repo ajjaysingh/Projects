@@ -1,0 +1,33 @@
+[35m                                                                                      ELIXIR                                                                                      [0m
+[91m        SHORT  Miraculous, magical, and maybe a little mysterious, an elixir is a sweet substance or solution that cures the problem at hand.[0m
+[36m         LONG  Elixir is a word often used with a knowing wink — a sort of overstatement of a product's effectiveness, or a decision maker's policy. With linguistic roots in
+               the long-ago alchemists' search for the philosophers' stone, the word has an element of fantasy to spice up anything, like a remedy for the
+               common cold. The mythic fountain of youth is certainly an elixir, but it can also refer to a real liquid, concept, or plan.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Tiger Fork specializes in elixirs that incorporate aspects of traditional Chinese medicine.[0m
+[3m             > Then there are wealthy users who flock to anti-aging medical clinics in search of youthful elixirs.[0m
+[3m             > If you went through the trouble of spraying on a shellac of sweetness, you wanted people to notice, to inhale deeply during a hug and ask after your elixir.[0m
+[3m             > In a city consumed by culture wars over language, Cohen’s music proved a unifying elixir.[0m
+[3m             > It offered a striking view of how promoters aggressively market scientifically dubious elixirs to aging people desperate to defy their own mortality.[0m
+
+[35mElixir[0m[36m /ɪˈlɪksə,ɪˈlɪksɪə/,[0m [91m[3mnoun[0m[0m | noun: elixir; plural noun: elixirs
+      [32m1.[0m [37ma magical or medicinal potion.[0m
+	   "an elixir guaranteed to induce love"
+  	   [3msynonyms:[0m tonic, tincture, medicine, potation, brew, draught, concoction, decoction, potion, philtre,
+		    "an elixir guaranteed to induce love"
+          • [37ma preparation supposedly able to change metals into gold, sought by alchemists.[0m
+          • [37ma preparation supposedly able to prolong life indefinitely.[0m
+	   noun: elixir of life; plural noun: elixirs of life
+
+      [32m2.[0m [37ma particular type of medicinal solution.[0m
+	   "a cough elixir"
+  	   [3msynonyms:[0m solution, concentrate, tincture, mixture, extract, distillate, distillation, potion, essence,
+		    "a cough elixir"
+  [31m[4m[34m[0m[0m[0m
+   [31mअमृत[0m  
+   [31mसुधा[0m  
+  [31mएक दवा[0m 
+    [31mहीर[0m  
+    [31mसत[0m   
+
+      Origin:  late Middle English: via medieval Latin from Arabic al-'iksīr, from al ‘the’ + 'iksīr from Greek xērion ‘powder for drying wounds’ (from xēros ‘dry’).

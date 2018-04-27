@@ -1,0 +1,24 @@
+[35m                                                                                    VESTIGIAL                                                                                     [0m
+[91m        SHORT  Vestigial describes an organ or body part that continues to exist without retaining its original function, such as our appendix.[0m
+[36m         LONG  The adjective vestigial derives from the Latin word vestigium, meaning "footprint, trace." It's most often used in biology to describe something that either
+               didn't finish developing or has become, through evolution, pretty much useless. An ostrich's wings are vestigial because it's unable to fly —
+               or do much of anything — with them. A penguin's wings, on the other hand, are not vestigial because it has found another use for them — to help
+               it swim.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Our thinking is still vestigially shaped by religious categories.[0m
+[3m             > The document proposes that “remote viewing” is “inherent to every human to some degree” and “Probably a vestigial form of self-preservation.”[0m
+[3m             > I believe we possess a ghost psyche: a set of capacities that helped secure our survival in more dangerous times, but that now are vestigial.[0m
+[3m             > But the institution has long been seen by most as a vestigial remnant of a bygone era.[0m
+[3m             > The tradition of voting on the first Tuesday after the first Monday in November is a vestigial structure of a by-gone age.[0m
+
+[35mVestigial[0m[36m /vɛˈstɪdʒɪəl,vɛˈstɪdʒ(ə)l/,[0m [91m[3madjective[0m[0m | adjective: vestigial
+      [32m1.[0m [37mforming a very small remnant of something that was once greater or more noticeable.[0m
+	   "he felt a vestigial flicker of anger from last night"
+  	   [3msynonyms:[0m remaining, surviving, residual, leftover, lingering ;  persisting, abiding, lasting, enduring
+		    "he feels a vestigial flicker of anger from last night"
+
+      [32m2.[0m [37m(of an organ or part of the body) degenerate, rudimentary, or atrophied, having become functionless in the course of evolution.[0m
+	   "the vestigial wings of kiwis are entirely hidden"
+  	   [3msynonyms:[0m rudimentary, undeveloped, incomplete, embryonic, immature ;  non-functional ;  abortive, primitive, obsolete
+		    "vestigial limbs enabled the fish to crawl on to the land"
+  	   [3mantonyms:[0m well developed

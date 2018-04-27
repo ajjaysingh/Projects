@@ -1,0 +1,53 @@
+[35m                                                                                     FLUTTER                                                                                      [0m
+[91m        SHORT  Flutter means to move back and forth rapidly. Flags flutter in the wind. Leaves flutter to the ground. Flutter also exists as a noun—you might feel a flutter
+               in your heart when you're excited.[0m
+[36m         LONG  To remember flutter, think of the children's rhyme, "See the butterfly flutter by." Flutter is often paired with "flit," to describe the way that birds and
+               insects fly––they flit and flutter. It can also be used to describe indecision—someone who can't make up their mind might flutter between two
+               choices.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A brief flutter of excitement rippled through the throng as a helicopter flew overhead half an hour before the ceremony was due to begin.[0m
+[3m             > Saudi and US flags are already fluttering along streets in Riyadh’s central business district.[0m
+[3m             > Her sari, a different pattern each day, fluttered below the hem of a checkered all-weather coat.[0m
+[3m             > Pieces of the silvery fabric fluttered down, some in flames.[0m
+[3m             > A gorgeous stylist, Tóibín captures the subtle flutterings of consciousness better than any writer alive.[0m
+
+[35mFlutter[0m[36m /ˈflʌtə/,[0m [91m[3mverb[0m[0m | verb: flutter; 3rd person present: flutters; past tense: fluttered; past participle: fluttered; gerund or present participle: fluttering
+      [32m1.[0m [37m(of a bird or other winged creature) fly unsteadily or hover by flapping the wings quickly and lightly.[0m
+	   "a couple of butterflies fluttered around the garden"
+  	   [3msynonyms:[0m flit, hover, flitter, dance
+		    "a couple of butterflies fluttered around the garden"
+          • [37m(of a bird or other winged creature) flap (its wings) quickly and lightly.[0m
+	   "a small white tern was fluttering its wings"
+  	   [3msynonyms:[0m flap, move up and down, beat, quiver, agitate, vibrate, twitch, shake, wag, waggle, swing, oscillate, thresh, thrash, flail
+		    "a small white tern was fluttering its wings"
+          • [37mmove with a light irregular or trembling motion.[0m
+	   "flags of different countries fluttered in the breeze"
+  	   [3msynonyms:[0m flicker, bat  flap, wave, ripple, undulate, stir, shake, quiver, shiver, tremble ;  fly, blow  beat weakly/irregularly, palpitate, miss/skip a beat,
+                     quiver, go pit-a-pat ;  exhibit arrhythmia ;  quop
+		    "she fluttered her eyelashes"
+          • [37m(of a person) move restlessly or uncertainly.[0m
+	   "Mavis fluttered about nervously"
+          • [37m(of a pulse or heartbeat) beat feebly or irregularly.[0m
+    [91m[3mnoun[0m[0m | noun: flutter; plural noun: flutters
+      [32m1.[0m [37man act of fluttering.[0m
+	   "there was a flutter of wings at the window"
+  	   [3msynonyms:[0m agitation, beating, flapping, quivering, vibrating, twitching, shaking, wagging, oscillation, threshing, thrashing, flailing  flicker, bat  flapping,
+                     waving, rippling
+		    "the flutter of the birds' wings"
+          • [37ma state or sensation of tremulous excitement.[0m
+	   "her insides were in a flutter"
+  	   [3msynonyms:[0m tremor, wave, rush, surge, flash, stab, flush, tremble, quiver, shake, shaking, shakiness, shiver, frisson, chill, thrill, tingle, vibration, quaver,
+                     quake, shudder, palpitation, pulsation, throb, oscillation, fluctuation, waver, ripple, flicker  fluster, flurry, bustle, panic,
+                     state of panic/agitation ;  state, dither, twitter, blue funk, stew, tizz, tizzy, tiz-woz ;  twit
+		    "a flutter of nervousness started up inside her"
+          • [37mdisturbance of the rhythm of the heart that is less severe than fibrillation.[0m
+          • [37mundesired oscillation in a part of an aircraft under stress.[0m
+          • [37mrapid variation in the pitch or amplitude of a signal, especially of recorded sound.[0m
+
+      [32m2.[0m [37ma small bet.[0m
+	   "a flutter on the horses"
+  	   [3msynonyms:[0m bet, wager, gamble ;  punt
+		    "he enjoys a flutter on the horses"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mस्पंदन[0m    [31mफड़फड़ाना[0m     [31mखलबली[0m   
+    [31mसंवेग[0m       [31mलहराना[0m      [31mघबराहट[0m  

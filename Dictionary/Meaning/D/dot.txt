@@ -1,0 +1,61 @@
+[35m                                                                                       DOT                                                                                        [0m
+[91m        SHORT  A dot is a round speck or spot. A first grade teacher might remind his students to put dots on their is and js.[0m
+[36m         LONG  A period, a little circle or point, is a dot. Another kind is a polka dot, which might decorate your favorite pair of shorts or the curtains in your room. In
+               Morse code, a dot is a short signal, as opposed to the longer "dash." When you recite your website's URL, you might end with "dot com." As a
+               verb, to dot is to mark something with a dot: "You forgot to dot your is!"[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > While Reykjavik is buzzing with tourism, and construction cranes dot the skyline, it is also feeling the strain of the surge of visitors.[0m
+[3m             > The company is focusing on silicon quantum dots, often called "artificial atoms."[0m
+[3m             > Connect the dots between Washington’s woes, the Wall-Cousins relationship and Boogie supposedly wanting to dance out of California, and an easy trade
+               projection comes together.[0m
+[3m             > Its testing phase began last fall, but Iowa DOT has yet to implement the program on a statewide level.[0m
+[3m             > In a celebrated career already dotted with various awards, director Ridley Scott is about to add one more top honor.[0m
+
+[35mDot[0m[36m /dɒt/,[0m [91m[3mnoun[0m[0m | noun: dot; plural noun: dots
+      [32m1.[0m [37ma small round mark or spot.[0m
+	   "a symbol depicted in coloured dots"
+  	   [3msynonyms:[0m spot, speck, fleck, speckle, point, pinpoint, pinprick, mark, dab ;  bit, particle, atom, molecule, iota, jot, mote, mite ;  full stop, decimal point ;
+                     macule, macula
+		    "the photograph is made up of tiny dots"
+          • [37ma small round mark written or printed as part of an i or j, as one of a series of marks to signify omission, or as a full stop.[0m
+	   "the photograph is made up of tiny dots"
+  	   [3msynonyms:[0m spot, speck, fleck, speckle, point, pinpoint, pinprick, mark, dab ;  bit, particle, atom, molecule, iota, jot, mote, mite ;  full stop, decimal point ;
+                     macule, macula
+		    "the photograph is made up of tiny dots"
+          • [37ma small round mark used to denote the lengthening of a note or rest by half, or to indicate staccato.[0m
+          • [37mthe shorter signal of the two used in Morse code.[0m
+          • [37mused to refer to an object that appears tiny because it is far away.[0m
+	   "they were mere dots on the horizon now"
+          • [37mused to indicate the punctuation separating parts of an email or website address.[0m
+	   "OUP dot com"
+    [91m[3mverb[0m[0m | verb: dot; 3rd person present: dots; past tense: dotted; past participle: dotted; gerund or present participle: dotting
+      [32m1.[0m [37mmark with a small spot or spots.[0m
+	   "wet spots of rain began to dot his shirt"
+  	   [3msynonyms:[0m spot, fleck, bespeckle, mark, dab, stipple, pock, freckle, sprinkle, dust ;  befleck, bestrew, besprinkle
+		    "spots of rain began to dot his shirt"
+          • [37m(of a number of items) be scattered over (an area).[0m
+	   "churches dot the countryside"
+  	   [3msynonyms:[0m scatter, pepper, sprinkle, strew, litter ;  punctuate, stud, cover ;  spread, disperse, intersperse, distribute
+		    "North Africa was once dotted with freshwater lakes"
+          • [37mplace a dot over (a letter).[0m
+	   "you need to dot the i"
+          • [37mmark (a note or rest) to show that the time value is increased by half.[0m
+	   "a dotted minim"
+
+      [32m2.[0m [37mhit (someone).[0m
+	   "‘You want to dot him one ,’ he said"
+[35mDot[0m[36m /dɒt/,[0m [91m[3mnoun archaic[0m[0m | noun: dot; plural noun: dots
+          • [37ma dowry from which only the interest or annual income was available to the husband.[0m
+[35mDot[0m [91m[3mabbreviation[0m[0m | singular proper noun: DoT
+      [32m1.[0m [37m(in Canada and formerly in the UK) Department of Transport.[0m
+
+      [32m2.[0m [37m(in the US) Department of Transportation.[0m
+[35mDot[0m [91m[3mabbreviation[0m[0m | noun: DOT
+          • [37mdirectly observed therapy, a method of supervising patients to ensure that they take medication as directed.[0m
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m 
+           [31mडॉट[0m            [31mबिंदुओं से अंकित करना[0m 
+          [31mबिंदु[0m                [31mबिंदु लगाना[0m      
+          [31mबिंदी[0m                  [31mछितराना[0m        
+
+      Origin:  Old English dott ‘head of a boil’. The word is recorded only once in Old English, then not until the late 16th century, when it is found in the sense ‘a small
+               lump or clot’, perhaps influenced by Dutch dot ‘a knot’. The sense ‘small mark or spot’ dates from the mid 17th century.

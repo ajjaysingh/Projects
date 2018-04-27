@@ -1,0 +1,22 @@
+[35m                                                                                     SCULLERY                                                                                     [0m
+[91m        SHORT  You're most likely to see the word scullery in an English novel, since it's a small room off the kitchen, usually in a very old, very British home.[0m
+[36m         LONG  In the old days, maids cleaned dishes and utensils — and sometimes clothing — in the scullery, out of sight of their wealthy employers. In some parts of
+               Britain, the word scullery is still used to mean "kitchen," although few people would claim to employ a "scullery maid," or a low-ranking
+               member of a household staff. The root of the word is in doubt, but it probably comes from the Latin word for wooden platter, scutra, or the Old
+               Norse skola, "to wash."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “Sweet of you,” she replied, and she smiled as she left the scullery.[0m
+[3m             > Like the scullery maid who becomes a princess, or the stablehand who becomes a prince, the Castle at Forest Glen didn’t begin life as a castle.[0m
+[3m             > He went from apprenticeships and cooking “brigades” at a time when stoves were coal-fired and chefs also served as scullery workers to the ultra-modern
+               kitchen of his Auberge.[0m
+[3m             > He went from apprenticeships and cooking “brigades,” as kitchen teams are known, when stoves were coal-fired and chefs also served as scullery maids, to the
+               ultra-modern kitchen of his Auberge.[0m
+[3m             > They ran through the echoing hall, along the corridor and into the kitchen, through the scullery, and into a cobbled court beyond it.[0m
+
+[35mScullery[0m[36m /ˈskʌl(ə)ri/,[0m [91m[3mnoun historical[0m[0m | noun: scullery; plural noun: sculleries
+          • [37ma small kitchen or room at the back of a house used for washing dishes and other dirty household work.[0m
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+  [31mबरतन माँजने की जगह[0m     [31mबावरची की मददगर[0m  
+
+      Origin:  late Middle English (denoting the department of a household concerned with kitchen utensils): from Old French escuelerie, from escuele ‘dish’, from Latin
+               scutella ‘salver’, diminutive of scutra ‘wooden platter’.

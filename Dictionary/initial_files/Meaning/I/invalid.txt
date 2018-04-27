@@ -1,0 +1,39 @@
+[35m                                                                                     INVALID                                                                                     [0m
+[91m        SHORT  A person who is very sick or injured and needs frequent care is an invalid. Also, something no longer current or useful is invalid.[0m
+[36m         LONG  The main uses of this word have to do with people and things that don't work very well anymore. A driver's license that has expired is invalid — it needs to
+               be renewed. If you lost your health insurance, it's invalid. People who are called invalids are disabled or incapacitated severely. Be careful
+               with this word, because some think it is inappropriate, since it sounds as if some people are not as valid as others based on physical
+               capability.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                            
+[3m             > Then, in September, the trademark bureau finally relented, declaring Dong Wei’s trademark invalid.[0m
+[3m             > However, the repeal resolution includes language stating that it will become invalid if H.B.[0m
+[3m             > The bill on Park’s impeachment was passed by a vote of 234 for and 56 opposed, with seven invalid votes and two abstentions.[0m
+[3m             > Drivers of "nearly new" cars are being put at risk of invalid insurance and breaking the law because some motor traders are retaining log books.[0m
+[3m             > Pence cited a 2012 Pew Research study that — well short of suggesting widespread voter fraud — found 1 in every 8 voter registrations to be invalid.[0m
+
+[35mInvalid[0m[36m /ˈɪnvəlɪd/,[0m [91m[3mnoun[0m[0m | noun: invalid; plural noun: invalids
+      [32m1.[0m [37ma person made weak or disabled by illness or injury.[0m
+	   "she spent the rest of her life as an invalid"
+    [91m[3mverb[0m[0m | verb: invalid; 3rd person present: invalids; past tense: invalided; past participle: invalided; gerund or present participle: invaliding
+      [32m1.[0m [37mremove (someone) from active service in the armed forces because of injury or illness.[0m
+	   "he was badly wounded and invalided out of the infantry"
+          • [37mdisable (someone) by injury or illness.[0m
+	   "an officer invalided by a chest wound"
+	   [3msynonyms:[0m disable, incapacitate, indispose, hospitalize, put out of action, 
+		    "an officer invalided by a chest wound"
+[35mInvalid[0m[36m /ɪnˈvalɪd/,[0m [91m[3madjective[0m[0m | adjective: invalid
+          • [37mnot valid, in particular:[0m
+          • [37m(especially of an official document or procedure) not legally recognized because it contravenes a regulation or law.[0m
+	   "the vote was declared invalid due to a technicality"
+	   [3msynonyms:[0m void, legally void, null, null and void, unenforceable, 
+		    "the by-law was invalid because it infringed rights of common"
+	   [3mantonyms:[0m valid, binding
+          • [37m(especially of an argument, statement, or theory) not true because based on erroneous information or unsound reasoning.[0m
+	   "a comparison is invalid if we are not comparing like with like"
+	   [3msynonyms:[0m false, untrue, inaccurate, faulty, fallacious, 
+		    "the whole theory is invalid"
+	   [3mantonyms:[0m true, accurate
+          • [37m(of computer instructions, data, etc.) not conforming to the correct format or specifications.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mअमान्य[0m            [31mअशक्त[0m         [31mअविधिमान्य[0m   
+       [31mअशक्त[0m           [31mअपाहिज[0m             [31mअशत[0m      

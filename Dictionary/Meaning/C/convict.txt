@@ -1,0 +1,28 @@
+[35m                                                                                     CONVICT                                                                                      [0m
+[91m        SHORT  A convict is a person who has been found guilty — convicted — of a crime and is serving a sentence in prison.[0m
+[36m         LONG  When you convict (accent on the second syllable) someone of a crime, you find them guilty. The person is then a convict (accent on the first syllable). When
+               the person is released from jail, he's an ex-con, that is, he's not a convict any more.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The first voice we hear belongs to the convict’s son, Jojo.[0m
+[3m             > Proano is the first Chicago cop in memory to be convicted in federal court of criminal charges stemming from an on-duty shooting.[0m
+[3m             > Nassida’s sister killed herself after the two were convicted last year.[0m
+[3m             > Joseph was convicted of cruelty and child neglect and sentenced to five years of probation.[0m
+[3m             > Kim Johns is returning to Detroit federal court on Tuesday, five months after she was convicted of kidnapping and other crimes.[0m
+
+[35mConvict[0m [91m[3mverb[0m[0m | verb: convict; 3rd person present: convicts; past tense: convicted; past participle: convicted; gerund or present participle: convicting    /kənˈvɪkt/
+      [32m1.[0m [37mdeclare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law.[0m
+	   "her former boyfriend was convicted of assaulting her"
+  	   [3msynonyms:[0m declare/find/pronounce guilty ;  sentence, sentence give someone a sentence ;  send down for
+		    "her former boyfriend was convicted of assaulting her"
+  	   [3mantonyms:[0m acquit, acquit clear clear
+    [91m[3mnoun[0m[0m | noun: convict; plural noun: convicts    /ˈkɒnvɪkt/
+      [32m1.[0m [37ma person found guilty of a criminal offence and serving a sentence of imprisonment.[0m
+	   "two escaped convicts kidnapped them at gunpoint"
+  	   [3msynonyms:[0m prisoner, prisoner inmate inmate ;  criminal, criminal offender, offender lawbreaker, lawbreaker felon felon ;  trusty trusty ;  jailbird, jailbird con,
+                     con (old) lag, lifer, lifer crook crook ;  yardbird yardbird ;  lighty lighty ;  transport transport
+		    "two escaped convicts"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+   [31mमिद्धदोष अपराधी[0m    [31mअपराधी घोषित करना[0m     [31mदोष सिद्ध करना[0m  
+
+      Origin:  Middle English: from Latin convict- ‘demonstrated, refuted, convicted’, from the verb convincere (see convince). The noun is from obsolete convict
+               ‘convicted’.

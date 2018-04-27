@@ -1,0 +1,34 @@
+[35m                                                                                    CONVEYANCE                                                                                    [0m
+[91m        SHORT  Conveyance is a formal word that can mean either the transportation of something from one place to another, or the vehicle that does the transporting.[0m
+[36m         LONG  Conveyance is a rather archaic — or old-fashioned — way to describe a mode of transportation. It's easy to imagine someone in the 1800s asking for a horse and
+               carriage as their conveyance to a friend's house. Today, we'd skip the formalities and simply jump in the car and drive there ourselves. In its
+               less common usage, a conveyance is a legal document that transfers ownership of a property from one person to another.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > From costly conveyancing scams to fake IT support, it’s more important than ever to double-check anything asking for personal details or money.[0m
+[3m             > Perhaps a hydraulic platform, accessorised with the royal crest and Trump Hotels logo, will gently elevate the president and first lady to their picturesque
+               conveyance.[0m
+[3m             > Cars should be simple and mostly about conveyance.[0m
+[3m             > At the edge of the set, a man sat in a three-wheeled conveyance called a Vanderhall Laguna, looking vaguely disappointed.[0m
+[3m             > Real estate transactions are handled by conveyancing lawyers, who specialize in property transfer.[0m
+
+[35mConveyance[0m[36m /kənˈveɪəns/,[0m [91m[3mnoun[0m[0m | noun: conveyance
+      [32m1.[0m [37mthe action or process of transporting or carrying someone or something from one place to another.[0m
+	   "a busy centre for the conveyance of agricultural produce from the Billingshurst area"
+	   [3msynonyms:[0m transportation, transport, carriage, carrying, transfer, 
+		    "the conveyance of agricultural produce from the Billingsgate area"
+          • [37ma means of transport; a vehicle.[0m
+	   plural noun: conveyances
+	   [3msynonyms:[0m vehicle, means/method of transport; 
+		    "three-wheeled conveyances"
+          • [37mthe action of making an idea, feeling, or impression known or understandable to someone.[0m
+	   "a role that demands much more than the conveyance of simple emotions"
+
+      [32m2.[0m [37mthe legal process of transferring property from one owner to another.[0m
+	   "such protective measures might be taken before the conveyance is concluded"
+	   [3msynonyms:[0m transfer, transference, transferral, granting, ceding, 
+		    "the conveyance of property"
+          • [37ma legal document effecting the transfer of property in the case of an unregistered title.[0m
+	   "the wife's solicitors will submit a draft conveyance or transfer to the husband's solicitors"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mवाहन[0m       [31mसंवहन[0m  
+  [31mसंप्रेषण[0m      [31mवहन[0m   

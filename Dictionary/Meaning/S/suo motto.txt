@@ -1,0 +1,9 @@
+[35m                                                                                       MOTO                                                                                       [0m
+[91m        SHORT  A motor runs your car, whizzes the blender and gets your golf cart going: it's simply a machine that converts energy into motion.[0m
+[36m         LONG  Coming to us from a Latin word that means "to move," motor is certainly connected to the world of motion. Without the innovation of Ford motors, most of
+               America wouldn't be able to get anywhere today. These days the motor is undergoing some serious revisions, as engineers look for a way to power
+               things with less gasoline and more sunshine.[0m
+
+	Wiki Definition:
+              	Suo motu , meaning "on its own motion," is a Latin legal term, approximately equivalent to the term sua sponte. For example, it is used where a government
+               agency acts on its own cognizance, as in "the Commission took  suo motu  control over the matter."

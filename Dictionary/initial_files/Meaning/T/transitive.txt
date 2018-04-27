@@ -1,0 +1,20 @@
+[35m                                                                                    TRANSITIVE                                                                                    [0m
+[91m        SHORT  Use the adjective transitive when you're talking about a verb that needs both a subject and at least one object, like "give" in this sentence: "I will give
+               you a cupcake if you're really nice."[0m
+[36m         LONG  You're only going to hear the word transitive in a grammar lesson, although you probably use transitive verbs all the time. While an intransitve verb, like to
+               die, doesn't need an object — you can say "My dog died," for example — a transitive verb has a direct object upon which an action is performed.
+               This grammatical meaning has been in use since the 1500s.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It was as simple as eighth-grade math: by the transitive property of equality, therefore,[0m
+[3m             > For the duration of this article, we are going be using “feminist” as a transitive verb.[0m
+[3m             > In California the term “rock star” has been turned into a transitive verb.[0m
+[3m             > The transitive property always involves three elements, for example: if x=y and y=z, then x=z.[0m
+[3m             > Remember the transitive property of Trump: Whenever Donald Trump loves something, it loves him back.[0m
+
+[35mTransitive[0m[36m /ˈtranzɪtɪv,ˈtrɑːnzɪtɪv,ˈtransɪtɪv,ˈtrɑːnsɪtɪv/,[0m [91m[3madjective[0m[0m | adjective: transitive
+      [32m1.[0m [37m(of a verb or a sense or use of a verb) able to take a direct object (expressed or implied), e.g. saw in he saw the donkey.[0m
+
+      [32m2.[0m [37m(of a relation) such that, if it applies between successive members of a sequence, it must also apply between any two members taken in order. For instance, if A is
+           larger than B, and B is larger than C, then A is larger than C.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mसकर्मक[0m    [31mसंक्रामक[0m 

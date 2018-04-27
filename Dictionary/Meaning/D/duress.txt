@@ -1,0 +1,25 @@
+[35m                                                                                      DURESS                                                                                      [0m
+[91m        SHORT  Let’s hope you’re never denied food and sleep and forced to sign a confession, but if you are, that's called being under duress. Threats and harsh treatment
+               meant to make you do something you don’t want to do is duress.[0m
+[36m         LONG  The word duress came into English through French, with origins in the Latin word duritia, which means “hardness.” First used to describe harsh or cruel
+               treatment, duress soon took on the additional meaning of forcing someone to do something, usually through threats. Duress is typically used
+               with the word under, as in a suspect who only signs a confession because he is under duress.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Goff’s mechanics looked fine from a distance, but he was not under the duress of a rush.[0m
+[3m             > D.C. was under duress at the start of the second half but absorbed pressure and answered in the 55th minute.[0m
+[3m             > The Fly InTransit Travel Bag was born under slight duress.[0m
+[3m             > Ultimately, Raj was granted asylum in 2011 because of rules that allow for waivers for people who provided aid to terrorists under duress.[0m
+[3m             > Hamdan argues the treaty is invalid because it was signed under duress as the result of the 1846-1848 Mexican-American war launched with a U.S. invasion.[0m
+
+[35mDuress[0m[36m /djʊ(ə)ˈrɛs,ˈdjʊərɛs/,[0m [91m[3mnoun[0m[0m | noun: duress
+          • [37mthreats, violence, constraints, or other action used to coerce someone into doing something against their will or better judgement.[0m
+	   "confessions extracted under duress"
+  	   [3msynonyms:[0m coercion, compulsion, force, pressure, pressurization, intimidation, threats, constraint, enforcement, exaction ;  arm-twisting
+		    "their confessions were extracted under duress"
+  	   [3mantonyms:[0m free will
+          • [37mconstraint illegally exercised to force someone to perform an act.[0m
+          • [37mforcible restraint or imprisonment.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+        [31mदबाव[0m               [31mअवरोध[0m      
+       [31mअवपीड़न[0m           [31mप्रतिबंध[0m     
+      [31mबलप्रयोग[0m       [31mकारागृह में बंधन[0m 

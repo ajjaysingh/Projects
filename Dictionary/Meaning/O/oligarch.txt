@@ -1,0 +1,20 @@
+[35m                                                                                     OLIGARCH                                                                                     [0m
+[91m        SHORT  An oligarch is one of the rulers in an oligarchy, which is a small group of people who are in power.[0m
+[36m         LONG  The word oligarch has Greek roots, and comes from oligoi for "few” and arkhein "to rule." When a country is ruled by an oligarchy, power isn't in the hands of
+               one person (like a monarchy) or the people (like a democracy) but a small group of people. An oligarch can be a member of the nobility or a
+               wealthy person. People often say a democracy has oligarchs when rich people appear to have too much influence on a country.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > On the subject of a new anti-Brexit centre party, he suggested: "Their proposed name ought to be the oligarchs, rather than the Democrats."[0m
+[3m             > Manafort resigned from the campaign last August while facing increased scrutiny over his previous lobbying work for pro-Russian Ukrainian oligarchs.[0m
+[3m             > The media buildup to the pageant found Mr. Trump praising Mr. Putin and Russia’s growing oligarch class.[0m
+[3m             > Mr Rogozin earlier alleged that the Moldovan government was being controlled by a mafia oligarch.[0m
+[3m             > At different publications, I saw the names of Russian oligarchs removed from stories after threats of lawsuits.[0m
+
+[35mOligarch[0m[36m /ˈɒlɪɡɑːk/,[0m [91m[3mnoun[0m[0m | noun: oligarch; plural noun: oligarchs
+      [32m1.[0m [37ma ruler in an oligarchy.[0m
+
+      [32m2.[0m [37m(especially in Russia) a very rich business leader with a great deal of political influence.[0m
+           [31m[4m[34mnoun[0m[0m[0m                       [31m[4m[34m[0m[0m[0m            
+                   [31mकुलीन[0m                                   [31mधनिकतंत्र[0m                
+
+      Origin:  late 19th century: from Greek oligarkhēs, from oligoi ‘few’ + arkhein ‘to rule’.

@@ -1,0 +1,31 @@
+[35m                                                                                    STEREOTYPE                                                                                    [0m
+[91m        SHORT  A stereotype is a preconceived notion, especially about a group of people. Many stereotypes are racist, sexist, or homophobic.[0m
+[36m         LONG  Have you ever heard someone say Irish people are all drunks, or African-American people are always late, or women are bad drivers? Those are stereotypes:
+               commonly held ideas about specific groups. You most often hear about negative stereotypes, but some are positive. For example, there's a
+               stereotype that Asian people do better in school. One of many problems with any stereotype is that even if it's true in some cases, it's
+               certainly not true in all cases.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Even sympathetic artists couldn’t help but buy into the stereotype.[0m
+[3m             > Asked about racial stereotyping, Lica says that he is aware there may be negative reactions, but adds “I don’t want to insult anyone’s feelings.”[0m
+[3m             > While there, the two are kidnapped, leading to high jinks — and charges of ethnic stereotyping against the comedian on social media.[0m
+[3m             > Latino activists and scholars say those feelings are bolstered by the hazy history of Cinco de Mayo and by stereotypes exploited by marketers.[0m
+[3m             > Latino activists and scholars say that ambivalence is bolstered by the hazy history of Cinco de Mayo and by stereotypes exploited by marketers.[0m
+
+[35mStereotype[0m[36m /ˈstɛrɪə(ʊ)tʌɪp,ˈstɪərɪə(ʊ)tʌɪp/,[0m [91m[3mnoun[0m[0m | noun: stereotype; plural noun: stereotypes
+      [32m1.[0m [37ma widely held but fixed and oversimplified image or idea of a particular type of person or thing.[0m
+	   "the stereotype of the woman as the carer"
+	   [3msynonyms:[0m standard/conventional image, received idea, cliché, hackneyed idea, formula
+		    "the stereotype of the alcoholic as a down-and-out vagrant"
+          • [37ma person or thing that conforms to a widely held but oversimplified image of the class or type to which they belong.[0m
+	   "don't treat anyone as a stereotype"
+
+      [32m2.[0m [37ma relief printing plate cast in a mould made from composed type or an original plate.[0m
+    [91m[3mverb[0m[0m | verb: stereotype; 3rd person present: stereotypes; past tense: stereotyped; past participle: stereotyped; gerund or present participle: stereotyping
+      [32m1.[0m [37mview or represent as a stereotype.[0m
+	   "the city is too easily stereotyped as an industrial wasteland"
+	   [3msynonyms:[0m typecast, pigeonhole, conventionalize, standardize, categorize, 
+		    "the city is too easily stereotyped as an industrial wasteland"
+	   [3mantonyms:[0m unconventional, original, fresh
+    [31m[4m[34m[0m[0m[0m     [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m 
+       [31mस्टीरियोटाइप[0m               [31mटकसाली[0m              [31mछपाई का प्लेट[0m     
+     [31mरूढ़िबद्ध धारणा[0m           [31mस्टिरियोटाइप[0m            [31mस्थिर नमूना[0m      

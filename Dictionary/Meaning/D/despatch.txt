@@ -1,0 +1,60 @@
+[35m                                                                                     DESPATCH                                                                                     [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Twenty-three extra buses were despatched to ferry people to the stadium when officials realized the scale of the log-jam but it did little to prevent seething
+               ticket-holders from demanding their money back.[0m
+[3m             > Criminal and malicious hackers are endlessly inventive and every day despatch novel viruses and other digital threats into cyber-space to wreak havoc.[0m
+[3m             > Mark Ellen wrote: "If Nick Kent penned a despatch declaring Marquee Moon by Television a masterpiece - which it was - then great swathes of the populace would
+               believe him and buy a copy."[0m
+[3m             > Several vehicles, including an armed response team, were despatched to the farm, near Peterhead, before the tiger was found not to be real.[0m
+[3m             > "It's been my privilege to answer questions from this despatch box on behalf of the government," he told peers.[0m
+
+[35mDispatch[0m[36m /dɪˈspatʃ/,[0m [91m[3mverb[0m[0m
+	verb: despatch
+      [32m1.[0m [37msend off to a destination or for a purpose.[0m
+	   "he dispatched messages back to base"
+  	   [3msynonyms:[0m send, send send off, post, post mail, mail ship, ship freight freight ;  forward, forward transmit, transmit consign, consign remit, remit convey convey
+		    "the press releases have all been dispatched"
+
+      [32m2.[0m [37mdeal with (a task or opponent) quickly and efficiently.[0m
+	   "the Welsh team were dispatched comfortably by the opposition"
+  	   [3msynonyms:[0m deal with, finish, finish dispose of, conclude, conclude settle, settle sort out, discharge, discharge execute, execute perform perform ;  expedite,
+                     expedite push through, accelerate, accelerate hasten, hasten speed up, hurry on ;  make short work of
+		    "all serious business was dispatched in the morning"
+          • [37mkill.[0m
+	   "he dispatched the animal with one blow"
+  	   [3msynonyms:[0m kill, kill put to death, do to death, do away with, put an end to, finish off, take the life of, end the life of ;  slaughter, slaughter butcher, butcher
+                     massacre, massacre wipe out, mow down, shoot down, cut down, destroy, destroy exterminate, exterminate eliminate, eliminate
+                     eradicate, eradicate annihilate annihilate ;  murder, murder assassinate, assassinate execute execute ;  bump off, knock off, polish
+                     off, do in, top, top take out, snuff out, erase, erase croak, croak stiff, stiff zap, zap blow away, blow someone's brains out, give
+                     someone the works ;  ice, ice off, off rub out, waste, waste whack, whack smoke, smoke scrag scrag ;  terminate with extreme
+                     prejudice ;  slay slay
+		    "in such films the good guy must always dispatch a host of vicious villains"
+    [91m[3mnoun[0m[0m
+	verb: despatch
+      [32m1.[0m [37mthe sending of someone or something to a destination or for a purpose.[0m
+	   "a resolution authorizing the dispatch of a peacekeeping force"
+  	   [3msynonyms:[0m sending, sending posting, posting mailing, mailing shipping, shipping transmittal, consignment consignment
+		    "we have 125 cases of wine ready for dispatch"
+          • [37mpromptness and efficiency.[0m
+	   "the situation might change, so he should proceed with dispatch"
+  	   [3msynonyms:[0m promptness, speed, speed speediness, swiftness, swiftness rapidity, rapidity quickness, quickness briskness, haste, haste hastiness, hurriedness, urgency
+                     urgency ;  fleetness, celerity celerity ;  expedition, expedition expeditiousness, promptitude
+		    "he carries out his duties with efficiency and dispatch"
+
+      [32m2.[0m [37man official report on state or military affairs.[0m
+	   "in his battle dispatch he described the gunner's bravery"
+  	   [3msynonyms:[0m communication, communication communiqué, communiqué bulletin, bulletin release, release report, report account, account announcement, announcement
+                     statement, statement missive, missive letter, letter epistle, epistle message, message instruction instruction ;  news, news
+                     intelligence intelligence ;  memo, memo info, info low-down, low-down dope dope ;  tidings tidings
+		    "she read out the latest dispatch from the front"
+          • [37ma report sent in from abroad by a journalist.[0m
+	   "he conducted meetings for the correspondents and censored their dispatches"
+
+      [32m3.[0m [37mthe killing of someone or something.[0m
+	   "the executioner's merciful dispatch of his victims"
+  	   [3msynonyms:[0m killing, killing slaughter, slaughter massacre, massacre destruction, destruction extermination, extermination elimination, elimination liquidation
+                     liquidation ;  murder, murder assassination, assassination execution execution ;  slaying slaying
+		    "the hound was used for the capture and dispatch of the wolf"
+
+      Origin:  early 16th century: from Italian dispacciare or Spanish despachar ‘expedite’, from dis-, des- (expressing reversal) + the base of Italian impacciare, Spanish
+               empachar ‘hinder’.

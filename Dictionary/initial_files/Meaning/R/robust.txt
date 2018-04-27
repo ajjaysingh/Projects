@@ -1,0 +1,38 @@
+[35m                                                                                      ROBUST                                                                                      [0m
+[91m        SHORT  Use robust to describe a person or thing that is healthy and strong, or strongly built. This adjective also commonly describes food or drink: a robust wine
+               has a rich, strong flavor.[0m
+[36m         LONG  If your school has a robust sports program, it means they offer lots of different kinds of sports and that a lot of kids participate. If you have a robust
+               speaking voice, it means you have a voice that's deep and loud and strong. Robust is from Latin robustus "of oak, hard, strong," from robur
+               "oak tree, strength."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This stringent requirement reflects California’s robust protection of privacy; indeed, the right to privacy is an enumerated right under the state
+               constitution.[0m
+[3m             > These estimates may be more robust against possible contamination from neoplastic expansions at very low VAFs than the global estimate above.[0m
+[3m             > Neural ensembles might allow more robust storage, but how cell ensembles encode associative memories and whether this fits the Hebbian model remain unknown.[0m
+[3m             > Coherence often hides in complex systems, and its presence is deemed too fleeting to be relevant for robust function.[0m
+[3m             > Public engagement, staff training and the capacity for scientific assessment should all be enhanced to build a truly robust, global MPA network.[0m
+
+[35mRobust[0m[36m /rə(ʊ)ˈbʌst/,[0m [91m[3madjective[0m[0m | adjective: robust; comparative adjective: robuster; superlative adjective: robustest
+      [32m1.[0m [37mstrong and healthy; vigorous.[0m
+	   "the Caplan family are a robust lot"
+	   [3msynonyms:[0m strong, vigorous, sturdy, tough, powerful, 
+		    "a large and robust man"
+	   [3mantonyms:[0m weak, frail
+          • [37m(of an object) sturdy in construction.[0m
+	   "a robust metal cabinet"
+	   [3msynonyms:[0m durable, resilient, tough, hard-wearing, long-lasting, 
+		    "these knives are more robust and better at cutting"
+	   [3mantonyms:[0m fragile
+          • [37m(of a system, organization, etc.) able to withstand or overcome adverse conditions.[0m
+	   "the country's political system has continued to be robust in spite of its economic problems"
+          • [37muncompromising and forceful.[0m
+	   "he took quite a robust view of my case"
+
+      [32m2.[0m [37m(of wine or food) strong and rich in flavour or smell.[0m
+	   "a robust mixture of fish, onions, capers and tomatoes"
+	   [3msynonyms:[0m strong, full-bodied, flavourful, full-flavoured, flavoursome, 
+		    "a robust red wine"
+	   [3mantonyms:[0m insipid, tasteless
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mमजबूत[0m         [31mपुष्ट[0m    
+      [31mठोस[0m          [31mतगड़ा[0m    

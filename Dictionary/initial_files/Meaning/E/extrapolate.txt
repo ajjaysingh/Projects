@@ -1,0 +1,24 @@
+[35m                                                                                   EXTRAPOLATE                                                                                    [0m
+[91m        SHORT  When you extrapolate, you use specific details to make a general conclusion. For example, if you travel to Canada and encounter only friendly, kind natives,
+               you might extrapolate that all Canadians are friendly.[0m
+[36m         LONG  The verb extrapolate can mean "to predict future outcomes based on known facts." For example, looking at your current grade report for math and how you are
+               doing in class now, you could extrapolate that you'll likely earn a solid B for the year. Another meaning of extrapolate is "estimate the value
+               of." You could extrapolate how much your antique watch is worth by finding how much similar watches sold for at recent auctions.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The researchers then used a series of rough calculations to extrapolate the commercial impact of those patents.[0m
+[3m             > Schnapf was extrapolating from a common suspicion about JFK’s death.[0m
+[3m             > They’ve developed an impressive new method for extrapolating a high-resolution image from a pixelated or very low-resolution photograph—what they call “super
+               resolution.”[0m
+[3m             > “We’re trying to extrapolate that data and deliver it to farmers here, but there are still a lot of unknowns,” Maxwell said.[0m
+[3m             > While it is difficult to extrapolate how many noncitizens vote illegally in Virginia, their data provide firm evidence that some do.[0m
+
+[35mExtrapolate[0m[36m /ɪkˈstrapəleɪt,ɛkˈstrapəleɪt/,[0m [91m[3mverb[0m[0m | verb: extrapolate; 3rd person present: extrapolates; past tense: extrapolated; past participle: extrapolated; gerund or present participle: extrapolating
+          • [37mextend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue or similar methods will be
+            applicable.[0m
+	   "the results cannot be extrapolated to other patient groups"
+          • [37mestimate or conclude (something) by extrapolating.[0m
+	   "the figures were extrapolated from past trends"
+          • [37mextend (a graph, curve, or range of values) by inferring unknown values from trends in the known data.[0m
+	   "the low-temperature results can be extrapolated to room temperature"
+  [31m[4m[34mverb[0m[0m[0m
+  [31mएक्सट्रपलेशन करना[0m 

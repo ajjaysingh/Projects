@@ -1,0 +1,50 @@
+[35m                                                                                     SUPPRESS                                                                                     [0m
+[91m        SHORT  To suppress something means to curb, inhibit, or even stop it. If the sound of your boss moving in his chair sounds like gas, you’re going to have to learn
+               how to suppress your giggles.[0m
+[36m         LONG  In the strictest sense, suppress means to put an end to something by force, like a government that suppresses the right to free speech by shutting down the
+               newspapers or the military suppressing an uprising by rebel forces. But we also use suppress in less serious terms to describe an attempt to
+               muffle or stifle something, such as suppressing a sneeze in a quiet theater or suppressing your true emotions to not cause a teary scene.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Li Wenzu got a loud knock at the door from a man claiming to represent the domestic security agency tasked with suppressing political dissent.[0m
+[3m             > The Drosophila DCO mutation suppresses age-related memory impairment without affecting lifespan.[0m
+[3m             > More neoantigens means that there are more potential targets for T cells — if the T cells are not being suppressed.[0m
+[3m             > A judge in Orleans Superior Court recently rejected a motion to suppress a confession by Ray.[0m
+[3m             > Weinstein’s spokeswoman dismissed the report, telling the New Yorker: “It is a fiction to suggest that any individuals were targeted or suppressed at any
+               time.”[0m
+
+[35mSuppress[0m[36m /səˈprɛs/,[0m [91m[3mverb[0m[0m | verb: suppress; 3rd person present: suppresses; past tense: suppressed; past participle: suppressed; gerund or present participle: suppressing
+          • [37mforcibly put an end to.[0m
+	   "the rising was savagely suppressed"
+  	   [3msynonyms:[0m subdue, subdue defeat, defeat conquer, conquer vanquish, vanquish triumph over, repress, repress crush, crush quell, quell quash, quash squash, squash
+                     stamp out, overpower, overpower extinguish, extinguish put down, put out, crack down on, clamp down on, cow, cow drive underground ;
+                     end, end put an end to, stop, stop discontinue, discontinue terminate, terminate halt, halt arrest arrest
+		    "the government proved incapable of suppressing the rebellion by force"
+  	   [3mantonyms:[0m incite, incite encourage encourage
+          • [37mprevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain.[0m
+	   "she could not suppress a rising panic"
+  	   [3msynonyms:[0m conceal, conceal restrain, restrain stifle, stifle smother, smother bottle up, keep a rein on, hold back, keep back, fight back, choke back, control,
+                     control keep under control, check, check keep in check, curb, curb contain, contain bridle, bridle inhibit, inhibit put a lid on,
+                     deaden, deaden muffle muffle
+		    "she only just managed to suppress her irritation"
+          • [37mprevent the dissemination of (information).[0m
+	   "the report had been suppressed"
+  	   [3msynonyms:[0m censor, censor redact, redact keep secret, conceal, conceal hide, hide keep hidden, hush up, gag, gag keep silent about, withhold, withhold cover up,
+                     smother, smother stifle, stifle muzzle, muzzle ban, ban not disclose, not breathe a word of ;  mute, mute proscribe, proscribe
+                     outlaw, outlaw sweep under the carpet
+		    "the government denied that the report had been suppressed"
+  	   [3mantonyms:[0m publicize, publicize disclose disclose
+          • [37mprevent or inhibit (a process or reaction).[0m
+	   "use of the drug suppressed the immune response"
+          • [37mpartly or wholly eliminate (electrical interference).[0m
+          • [37mconsciously inhibit (an unpleasant idea or memory) to avoid considering it.[0m
+  [31m[4m[34mverb[0m[0m[0m
+     [31mदबाना[0m   
+     [31mरोकना[0m   
+    [31mकुचलना[0m   
+   [31mशमन करना[0m  
+   [31mदमन करना[0m  
+  [31mअवरोध करना[0m 
+   [31mअंत करना[0m  
+    [31mछिपाना[0m   
+
+      Origin:  late Middle English: from Latin suppress- ‘pressed down’, from the verb supprimere, from sub- ‘down’ + premere ‘to press’.

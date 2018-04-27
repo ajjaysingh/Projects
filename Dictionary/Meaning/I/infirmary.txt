@@ -1,0 +1,28 @@
+[35m                                                                                    INFIRMARY                                                                                     [0m
+[91m        SHORT  An infirmary is a hospital, or the area of an institution that's used as a hospital. If you come down with chickenpox at summer camp, you might have to spend
+               a few nights in the camp infirmary.[0m
+[36m         LONG  While you can call a hospital an infirmary, you're most likely to do this if you're British and referring to a specific hospital, like the Glasgow Royal
+               Infirmary. Infirmaries are usually spaces within larger buildings that provide healthcare. Inmates go to the prison infirmary when they're
+               sick, and soldiers get their checkups at the military base infirmary. The earliest infirmaries were in monasteries. The Latin root is infirmus,
+               "weak or frail."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Correctional officers and medical staff took him to the infirmary for treatment but he was pronounced dead about 12 minutes later.[0m
+[3m             > In 1854, the county opened a poorhouse and farm and gradually added an insane asylum, infirmary and tuberculosis hospital to the property.[0m
+[3m             > He attends coffee break with other monks at 10 o’clock every morning and attends Mass in the infirmary at 11:15 a.m., followed by lunch in the infirmary
+               dining room.[0m
+[3m             > He attends coffee break with other monks at 10 o’clock every morning and attends Mass in the infirmary at 11:15 a.m., followed by lunch in the infirmary
+               dining room.[0m
+[3m             > Correctional officers and medical staff transported the 37-year-old inmate to the infirmary for emergency medical treatment and he was pronounced dead.[0m
+
+[35mInfirmary[0m[36m /ɪnˈfəːm(ə)ri/,[0m [91m[3mnoun[0m[0m | noun: infirmary; plural noun: infirmaries
+          • [37ma hospital.[0m
+	   "the Edinburgh Royal Infirmary"
+          • [37ma place in a large institution for the care of those who are ill.[0m
+	   "the prison infirmary"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mदुर्बलता[0m       [31mप्रग्णालय[0m   
+      [31mअशक्ति[0m      [31mजीर्णरोगीशाला[0m 
+     [31mअवसन्नता[0m       [31mरुग्णावास[0m   
+     [31mअदृढ़ता[0m         [31mअशक्तालय[0m   
+
+      Origin:  late Middle English: from medieval Latin infirmaria, from Latin infirmus (see infirm).

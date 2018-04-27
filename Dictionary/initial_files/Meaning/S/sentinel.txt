@@ -1,0 +1,25 @@
+[35m                                                                                     SENTINEL                                                                                     [0m
+[91m        SHORT  A sentinel is a guard, a lookout, a person keeping watch. It's often a soldier, but not always. If you're watching a pot, waiting for it to boil, you're
+               standing sentinel over it — and incidentally, it won't boil until you leave.[0m
+[36m         LONG  Etymologists think sentinel stems from the Old Italian words sentina, meaning "vigilance," and  sentire, "to hear or perceive." It's a close cousin of sentry,
+               which means the same thing. You can use sentinel as a noun or a verb. A kid in a snowball war might be the sentinel, patrolling the entrance to
+               the fort. Wolves stand sentinel over their kill, stepping aside only for the alpha male, who always eats first.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A 2013 profile in the Los Angeles Sentinel described him as a man on a mission, eager to care for the community.[0m
+[3m             > In an interview with The Milwaukee Journal Sentinel this week, House Speaker Paul Ryan promised the transition would ensure that “no one is worse off.”[0m
+[3m             > In an interview with The Milwaukee Journal Sentinel this week, Speaker Paul Ryan promised that the transition would ensure that “no one is worse off.”[0m
+[3m             > “It was emotional for all of us,” Miami forward Justise Winslow told the Sun Sentinel after his visit.[0m
+[3m             > So, too, did the specifics of their “mission” as Operation Enduring Freedom evolved into Operation Freedom’s Sentinel.[0m
+
+[35mSentinel[0m[36m /ˈsɛntɪn(ə)l/,[0m [91m[3mnoun[0m[0m | noun: sentinel; plural noun: sentinels
+      [32m1.[0m [37ma soldier or guard whose job is to stand and keep watch.[0m
+	   "soldiers stood sentinel with their muskets"
+
+      [32m2.[0m [37man indicator of the presence of disease.[0m
+	   "the first national HIV sentinel surveillance programme in the developing world"
+    [91m[3mverb[0m[0m | verb: sentinel; 3rd person present: sentinels; past tense: sentinelled; past participle: sentinelled; gerund or present participle: sentinelling; past tense: sentineled; past participle: sentineled; gerund or present participle: sentineling
+      [32m1.[0m [37mstation a soldier or guard by (a place) to keep watch.[0m
+	   "a wide course had been roped off and sentinelled with police"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mप्रहरी[0m         [31mपहरेदार[0m   
+      [31mसंतरी[0m         [31mरखवाली[0m    

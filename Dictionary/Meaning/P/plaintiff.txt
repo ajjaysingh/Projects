@@ -1,0 +1,27 @@
+[35m                                                                                    PLAINTIFF                                                                                     [0m
+[91m        SHORT  In a courtroom, the plaintiff is the person or group who is accusing another person or group of some wrongdoing. If you’re the plaintiff, you are claiming
+               that a law was broken, and you’re in court to present your case.[0m
+[36m         LONG  The plaintiff accuses, the defendant tries to prove that accusation wrong.  You’ve seen this relationship on television shows about lawyers, or maybe you’ve
+               been to court yourself.  The Old French root word translates as “complain” and the Latin root is literally “beating of the breast,” or
+               explaining your grief in a dramatic way.  Plaintiff shares roots with the adjective plaintive, which describes a sorrowful sound.  The
+               plaintiff made a plaintive cry when the defendant was declared not guilty.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > According to the plaintiffs, this caused an estimated $300 million in damage.[0m
+[3m             > One item listed as a “pro” in the report: moving back to the original algorithm was “responsive to trial result,” as it would raise the plaintiffs’ hours
+               close to their previous levels.[0m
+[3m             > The Senate Judiciary Committee also is weighing legislation that passed the House last year that would force class-action plaintiffs to reveal whether they
+               are getting funding.[0m
+[3m             > The complaint, filed in Northern California District Court, accuses Uber of violating the Americans with Disabilities Act and the Texas Human Resources Code,
+               and the plaintiff is seeking damages for “intentional infliction of emotional distress.”[0m
+[3m             > It seeks to block what plaintiffs say would be “a giveaway of a valuable and cherished Nevada asset.”[0m
+
+[35mPlaintiff[0m[36m /ˈpleɪntɪf/,[0m [91m[3mnoun Law[0m[0m | noun: plaintiff; plural noun: plaintiffs
+          • [37ma person who brings a case against another in a court of law.[0m
+	   "the plaintiff commenced an action for damages"
+  [31m[4m[34mnoun[0m[0m[0m
+    [31mवादी[0m  
+  [31mअभियोगी[0m 
+   [31mमुद्दई[0m 
+
+      Origin:  late Middle English: from Old French plaintif ‘plaintive’ (used as a noun). The -f ending has come down through Law French; the word was originally the same
+               as plaintive .

@@ -1,0 +1,34 @@
+[35m                                                                                      LIBEL                                                                                       [0m
+[91m        SHORT  Libel is the act of publishing a statement about someone that is not true and that gives a bad impression about the person.[0m
+[36m         LONG  Libel is usually contrasted with slander, which refers to a spoken statement that is not true. Both libel and slander are used in legal contexts. In Middle
+               English, libel referred to a written declaration, from Anglo-French, from Latin libellus, from liber "book."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But for most of America’s history the courts operated with a repressive version of the libel law they inherited from the British empire.[0m
+[3m             > Chau separately sued writer Michael Lewis for libel over "The Big Short," saying the 2010 book portrayed him as a crook or incompetent.[0m
+[3m             > "We also got legal advice from Uppsala University; they said if it's relevant to the case, it's not libel or slander," he says.[0m
+[3m             > “We have statements by President Trump saying he’s against net neutrality and he wants to expand libel laws,” Archive.org founder Brewster Kahle told the
+               Guardian.[0m
+[3m             > Georgia is among 13 U.S. states that have food libel laws that generally have a lower legal burden than traditional libel laws.[0m
+
+[35mLibel[0m[36m /ˈlʌɪb(ə)l/,[0m [91m[3mnoun[0m[0m | noun: libel; plural noun: libels
+      [32m1.[0m [37ma published false statement that is damaging to a person's reputation; a written defamation.[0m
+	   "he was found guilty of a libel on a Liverpool inspector of taxes"
+	   [3msynonyms:[0m defamation, defamation of character, character assassination, calumny, misrepresentation, 
+		    "she sued two national newspapers for libel"
+          • [37mthe action or crime of publishing a libel.[0m
+	   "she sued two newspapers for libel"
+          • [37ma false and typically malicious statement about a person.[0m
+          • [37ma thing that brings undeserved discredit on a person by misrepresentation.[0m
+
+      [32m2.[0m [37m(in admiralty and ecclesiastical law) a plaintiff's written declaration.[0m
+    [91m[3mverb[0m[0m | verb: libel; 3rd person present: libels; past tense: libelled; past participle: libelled; gerund or present participle: libelling; past tense: libeled; past participle: libeled; gerund or present participle: libeling
+      [32m1.[0m [37mdefame (someone) by publishing a libel.[0m
+	   "the jury found that he was libelled by a newspaper"
+	   [3msynonyms:[0m defame, malign, slander, give someone a bad name, blacken someone's name, 
+		    "she alleged the magazine had libelled her"
+          • [37mmake a false and typically malicious statement about.[0m
+
+      [32m2.[0m [37m(in admiralty and ecclesiastical law) bring a suit against.[0m
+	   "if a ship does you any injury you libel the ship"
+      [31m[4m[34mnoun[0m[0m[0m          [31m[4m[34mverb[0m[0m[0m            [31m[4m[34m[0m[0m[0m      
+             [31mपरिवाद[0m                 [31mझूठ के सहारे बदनाम करना[0m               [31mअपमान-लेख[0m          

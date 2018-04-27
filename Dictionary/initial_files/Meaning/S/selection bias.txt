@@ -1,0 +1,9 @@
+[35m                                                                                  SELECTION BIAS                                                                                  [0m
+[91m        SHORT  Selection is all about choosing. Think about a salad bar: you can make a selection from among several choices, with croutons always being a popular selection.[0m
+[36m         LONG  Inside selection is the word select, "to choose." Selection means the act of choosing, the thing chosen, or the offerings to be chosen from among. Selection
+               can also mean a passage excerpted (or selected) from a longer text. Church services often involve reading a day's selection from the Bible.[0m
+
+	Wiki Definition:
+              	Selection bias  is the  bias  introduced by the  selection  of individuals, groups or data for analysis in such a way that proper randomization is not
+               achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed. It is sometimes referred
+               to as the  selection  effect.

@@ -1,0 +1,39 @@
+[35m                                                                                     WRANGLE                                                                                      [0m
+[91m        SHORT  To wrangle is to take part in a long, angry, intense argument, especially over an issue with lots of details. You can also wrangle, or herd, a bunch of cows.
+               Politicians and lawyers frequently wrangle, no cows necessary.[0m
+[36m         LONG  Wrangle in its current meaning comes from the nineteenth century American term wrangling, the art of herding cattle, probably with the idea in mind that
+               rounding up those tiresome details is a bit like rounding up all those tiresome cattle; they tend to go flying off in all directions. From
+               wrangler in the cowboy sense we get Wrangler jeans, though not all wranglers wear Wranglers of course.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Exactly 50 years ago, Ailes wrangled a job with Nixon, the former vice president who was hungry for a comeback in the 1968 presidential race.[0m
+[3m             > David Bowers, who directed the second and third installments of the franchise, returns to wrangle this particular out-of-control-minivan down the freeway.[0m
+[3m             > However unknown Cloudera is to the public, the software company that helps corporations wrangle their digital data achieved an ignominious Silicon Valley
+               milestone.[0m
+[3m             > “Wrangled,” released in late April, chronicles Presley’s journey and frustrations in the country music world through an absorbing collection of a dozen songs.[0m
+[3m             > On her new album, “Wrangled,” she cements it with muscular fury.[0m
+
+[35mWrangle[0m[36m /ˈraŋɡ(ə)l/,[0m [91m[3mnoun[0m[0m | noun: wrangle; plural noun: wrangles
+      [32m1.[0m [37ma dispute or argument, typically one that is long and complicated.[0m
+	   "an insurance wrangle is holding up compensation payments"
+  	   [3msynonyms:[0m argument, dispute, disagreement, quarrel, row, fight, squabble, difference of opinion, altercation, angry exchange, war of words, shouting match, tiff ;
+                     tussle, brouhaha, fracas, rumpus, brawl, clash, scuffle, battle, war, feud ;  controversy, uproar ;  donnybrook ;  falling-out, set-
+                     to, run-in, shindig, shindy, dust-up, punch-up, scrap, spat, free-for-all, argy-bargy, ruckus, fisticuffs, ruction ;  barney,
+                     bunfight, ding-dong, bust-up, ruck, slanging match ;  afters ;  rammy ;  rhubarb ;  broil, miff
+		    "a demeaning wrangle over a small amount of money"
+  	   [3mantonyms:[0m agreement
+    [91m[3mverb[0m[0m | verb: wrangle; 3rd person present: wrangles; past tense: wrangled; past participle: wrangled; gerund or present participle: wrangling
+      [32m1.[0m [37mhave a long, complicated dispute or argument.[0m
+	   "the bureaucrats continue wrangling over the fine print"
+  	   [3msynonyms:[0m argue, quarrel, row, have a row, bicker, squabble, have words, debate, disagree, have a disagreement, have an altercation, be at odds, bandy words ;
+                     contend, fight, have a fight, war, battle, feud, clash, grapple, brawl, spar, wrestle, tilt, come to blows, cross swords, lock
+                     horns, be at each other's throats, be at loggerheads ;  fall out, scrap, go at it hammer and tongs, fight like cat and dog ;
+                     altercate, chop logic ;  threap
+		    "negotiators had wrangled over details of the agreement"
+  	   [3mantonyms:[0m agree
+
+      [32m2.[0m [37mround up, herd, or take charge of (livestock).[0m
+	   "the horses were wrangled early"
+  [31m[4m[34m[0m[0m[0m
+  [31mलड़ाई[0m 
+  [31mतकरार[0m 
+   [31mझगडा[0m 

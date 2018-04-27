@@ -1,0 +1,24 @@
+[35m                                                                                      RECUSE                                                                                      [0m
+[91m        SHORT  The verb recuse is used in legal situations and means to remove someone from a position of judicial authority, either a judge or a member of a jury, who is
+               deemed unacceptable to judge, usually because of some bias.[0m
+[36m         LONG  The Latin recusare, meaning "to refuse" is the place to start in the history of recuse.  You can recuse someone else, but also yourself.  As the sister-in-law
+               of the person accused of stealing 400 gallons of pudding from the local pudding factory, you had no choice but to recuse yourself from judging
+               the trial.  Too bad, it sounds like an interesting one.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Indeed, didn’t the attorney general vow to recuse himself from decisions such as these?[0m
+[3m             > Shortly after that was reported, Sessions recused himself from the Justice Department’s investigation into potential ties between Russia and the Trump
+               campaign.[0m
+[3m             > Deputy Attorney General Rod Rosenstein tapped Special Counsel Robert Mueller to lead the Russia probe after Sessions recused himself from the investigation
+               due to his role in Trump’s campaign.[0m
+[3m             > To be very clear, you intend to recuse yourself from both the Clinton email investigation and any matters involving the Clinton Foundation, if there are any?[0m
+[3m             > And then there is Attorney General Jeff Sessions, whose original sin — the decision to recuse himself from oversight of the Russia investigation — made him
+               the regular target of presidential ire.[0m
+
+[35mRecuse[0m[36m /rɪˈkjuːz/,[0m [91m[3mverb North American[0m[0m | verb: recuse; 3rd person present: recuses; past tense: recused; past participle: recused; gerund or present participle: recusing
+          • [37mchallenge (a judge or juror) as unqualified to perform legal duties because of a potential conflict of interest or lack of impartiality.[0m
+	   "he was recused when he referred to the corporation as ‘a bunch of villains’"
+          • [37m(of a judge) excuse oneself from a case because of a potential conflict of interest or lack of impartiality.[0m
+	   "it was the right of counsel to ask a judge to recuse himself from continuing to hear a case because of bias"
+
+      Origin:  late Middle English (in the sense ‘reject’, specifically ‘object to a judge as prejudiced’): from Latin recusare ‘to refuse’, from re- (expressing opposition)
+               + causa ‘a cause’. The current sense dates from the early 19th century.

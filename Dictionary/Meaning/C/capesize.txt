@@ -1,0 +1,9 @@
+[35m                                                                                     CAPESIZE                                                                                     [0m
+[91m        SHORT  To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.[0m
+[36m         LONG  When a boat tips over in a lake, it capsizes, and so does a boy who is sitting on an inner tube when it flips suddenly. Anything overturning in a body of
+               water can be said to capsize. Sometimes vessels that capsize can be righted, like a canoe, and other times they sink to the bottom of the sea.
+               The origin of capsize is uncertain, though it may be related to the Spanish word capuzar, "sink by the head."[0m
+
+	Wiki Definition:
+              	Capesize  ships are the largest dry cargo ships. They are too large to transit the Suez Canal (Suezmax limits) or Panama Canal (Neopanamax limits), and so
+               have to pass either Cape Agulhas or Cape Horn to traverse between oceans.

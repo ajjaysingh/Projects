@@ -1,0 +1,22 @@
+[35m                                                                                    EXTRADITE                                                                                     [0m
+[91m        SHORT  When a government extradites someone, it delivers that person to another country or state, usually to be tried for a crime. Treaties between countries often
+               require them to extradite suspected criminals.[0m
+[36m         LONG  You might hear about a criminal attempting to hide in one country, only to have its government extradite him back to the place where he committed the crime.
+               While individual countries sometimes resist the pressure to extradite suspects, treaties between countries often encourage them to do so. The
+               verb extradite comes from its noun form, extradition, which was likely invented by Voltaire from a combination of the Latin ex, "out," and
+               traditionem, "a delivering up or handing over."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In 2014, he was extradited to the United States to face terrorism charges, for which he was sentenced to life in prison without parole.[0m
+[3m             > Lopreto was arrested and jailed last week in New Orleans before being extradited to New York.[0m
+[3m             > He was extradited to California and booked in Tulare County jail on suspicion of murder.[0m
+[3m             > He was arrested in Poland last fall and extradited to the U.S.[0m
+[3m             > The Mexican government is reluctant to extradite citizens charged with serious crimes in the U.S., so it put Garcia on trial.[0m
+
+[35mExtradite[0m[36m /ˈɛkstrədʌɪt/,[0m [91m[3mverb[0m[0m | verb: extradite; 3rd person present: extradites; past tense: extradited; past participle: extradited; gerund or present participle: extraditing
+          • [37mhand over (a person accused or convicted of a crime) to the jurisdiction of the foreign state in which the crime was committed.[0m
+	   "Brazil refused to extradite him to Britain"
+  	   [3msynonyms:[0m deport, deport hand over, send back, send home, repatriate, repatriate expel, expel banish banish  have someone deported, request the extradition of,
+                     have someone handed over, have someone sent back, have someone sent home, bring back
+		    "the Russian government announced that it would extradite him to Germany"
+
+      Origin:  mid 19th century: back-formation from extradition.

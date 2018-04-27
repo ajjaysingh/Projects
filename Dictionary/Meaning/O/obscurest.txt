@@ -1,0 +1,41 @@
+[35m                                                                                    OBSCUREST                                                                                     [0m
+[91m        SHORT  If something is obscure, it's vague and hard to see. Be careful if you're driving in heavy rain — the painted lines can be obscure.[0m
+[36m         LONG  Obscure comes from Latin obscurus, which can mean "dark, dim," "unclear, hard to understand," or "insignificant, humble." We tend to use obscure in the
+               metaphorical senses: an obscure sound is unclear, an obscure village is hidden away in the countryside, and an obscure poet is little known and
+               probably insignificant. Obscure can also be used as a verb. If you get really nervous when you speak during a debate, your embarrassing
+               twitches and shaking hands can obscure your argument.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > They know what their regulars might like, from the latest Jay Z album to the obscurest songs of Malian music pioneers like Ali Farka Touré.[0m
+[3m             > And if Swinburne is one of the obscurest of English poets, it is due in large part to this same element of motion.[0m
+[3m             > Very often the family from which the great man is raised up is among the obscurest and least distinguished of the country.[0m
+[3m             > The obscurest man in the House of Commons is not more modest; and there is nothing ungenial in his manner or his temper.[0m
+[3m             > I know it all from its broad faubourgs to its obscurest cul de sac.[0m
+
+[35mObscure[0m[36m /əbˈskjʊə/,[0m [91m[3madjective[0m[0m
+	superlative adjective: obscurest
+      [32m1.[0m [37mnot discovered or known about; uncertain.[0m
+	   "his origins and parentage are obscure"
+  	   [3msynonyms:[0m unclear, uncertain, unknown, in doubt, doubtful, dubious, mysterious, hazy, vague, indeterminate, concealed, hidden
+		    "he was born about 1650 though his origins and parentage remain obscure"
+          • [37mnot important or well known.[0m
+	   "a relatively obscure actor"
+  	   [3msynonyms:[0m little known, unknown, unheard of, undistinguished, insignificant, unimportant, inconsequential, inconspicuous, unnoticed, nameless, anonymous, minor,
+                     humble, lowly, unrenowned, unsung, unrecognized, unhonoured, inglorious, forgotten
+		    "an obscure Peruvian painter"
+  	   [3mantonyms:[0m famous, renowned
+
+      [32m2.[0m [37mnot clearly expressed or easily understood.[0m
+	   "obscure references to Proust"
+  	   [3msynonyms:[0m abstruse, recondite, arcane, esoteric, recherché, occult ;  enigmatic, mystifying, puzzling, perplexing, baffling, ambiguous, cryptic, equivocal,
+                     Delphic, oracular, riddling, oblique, opaque, elliptical, unintelligible, uninterpretable, incomprehensible, impenetrable,
+                     unfathomable, inexplicable ;  unexplained ;  as clear as mud
+		    "obscure references to Proust"
+  	   [3mantonyms:[0m clear, plain
+          • [37mhard to make out or define; vague.[0m
+	   "grey and obscure on the horizon rose a low island"
+  	   [3msynonyms:[0m indistinct, faint, vague, ill-defined, unclear, blurred, blurry, misty, hazy, foggy, veiled, cloudy, clouded, nebulous, fuzzy ;  dark, dim, unlit, black,
+                     murky, sombre, gloomy, shady, shadowy ;  dusky, tenebrous, darkling, crepuscular ;  caliginous, Cimmerian
+		    "grey and obscure on the horizon rose a low island"
+  	   [3mantonyms:[0m distinct
+  [31m[4m[34m[0m[0m[0m
+  [31mobscurest[0m 

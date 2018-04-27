@@ -1,0 +1,23 @@
+[35m                                                                                    APPELLATE                                                                                     [0m
+[91m        SHORT  The adjective appellate is good for talking about the legal process for hearing appeals. An appellate court of law mainly deals with people attempting to
+               reverse legal decisions.[0m
+[36m         LONG  After a defendant has been convicted of a crime, she has the opportunity to appeal that decision, or apply to have her case re-tried. The judge who would hear
+               this new case is called an appellate judge, and the court in which the case would be heard is an appellate court. The word appellate is a legal
+               way to say "relating to appeals," and its root is the Latin appellare, "to address, appeal to, or summon."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Justice Anthony Kennedy wrote for the court in upholding an appellate ruling that there is no requirement in federal law that the lawsuit be dismissed.[0m
+[3m             > The Herald reports that prosecutors plan to ask the state Supreme Court to review the appellate court’s decision.[0m
+[3m             > The state appellate court concluded that the trial judge was wrong to allow a deputy prosecutor to question a defense witness the way she did.[0m
+[3m             > The appellate court reversed a 2014 decision from the state Commerce Commission, which approved construction of the line.[0m
+[3m             > While the quick appeal does not foreshadow the outcome, it lets the families bypass a state appellate court, saving several months of litigation.[0m
+
+adj
+    1. (Law) of or relating to appeals
+    2. (Law) (of a tribunal) having jurisdiction to review cases on appeal and to reverse decisions of inferior courts
+    e.g. With this the appellate jurisdiction of the Privy Council came to an end.
+
+[35mAppellate[0m[36m /əˈpɛlət/,[0m [91m[3madjective Law[0m[0m | adjective: appellate
+          • [37m(especially of a court) concerned with or dealing with applications for decisions to be reversed.[0m
+	   "courts of appellate jurisdiction"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+     [31mअपीली[0m      [31mअपील-संबंधी[0m 

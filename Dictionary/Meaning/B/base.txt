@@ -1,0 +1,96 @@
+[35m                                                                                       BASE                                                                                       [0m
+[91m        SHORT  The base of something is usually the foundation, starting point, or main ingredient of something. A soup base is the flavoring or broth you use to get your
+               soup started.[0m
+[36m         LONG  If you're a soldier, you might live on a base ("place where you're stationed"). When your unit plays softball, you must touch each base before scoring. The
+               bottom of pentagon-shaped home plate is its base ("bottom"). Yelling at or pushing the empire is considered base ("mean-spirited") behavior. At
+               end of the season, your team might get a trophy, which sits on a base ("pedestal"), or a plaque made of brass, an alloy of zinc, which is base
+               metal (it corrodes easily).[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Turner injured himself while rounding second base May 18.[0m
+[3m             > “It’s not based solely on the name on the back of his jersey,” Farrell said.[0m
+[3m             > They say there is also an increasing practice of stealing oxygen bottles from high camps and bringing them down to base camp to sell them.[0m
+[3m             > McMahon, a fearless United States Army general sent to Afghanistan to end the war, is based on retired U.S.[0m
+[3m             > The 10-episode first season addresses the same  concerns as the 2014 movie it’s based on: race, racism, appropriation, assimilation, conflict and
+               enlightenment.[0m
+
+[35mBase[0m[36m /beɪs/,[0m [91m[3mnoun[0m[0m | noun: base; plural noun: bases
+      [32m1.[0m [37mthe lowest part or edge of something, especially the part on which it rests or is supported.[0m
+	   "she sat down at the base of a tree"
+  	   [3msynonyms:[0m foundation, bottom, foot, support, prop, stay, stand, pedestal, plinth, rest, bed, substructure
+		    "the base of the tower"
+  	   [3mantonyms:[0m top
+          • [37mthe part of a column between the shaft and pedestal or pavement.[0m
+          • [37mthe end at which a part or organ is attached to the trunk or main part.[0m
+	   "a shoot is produced at the base of the stem"
+          • [37ma line or surface on which a figure is regarded as standing.[0m
+	   "the base of the triangle"
+          • [37ma known line used as a geometrical base for trigonometry.[0m
+          • [37mthe lowest part of a shield.[0m
+
+      [32m2.[0m [37ma conceptual structure or entity on which something draws or depends.[0m
+	   "the town's economic base collapsed"
+          • [37ma foundation or starting point for further work.[0m
+	   "she uses existing data as the base for the study"
+  	   [3msynonyms:[0m basis, bedrock, foundation, core, essence, essential, nitty-gritty, basics, starting point, key component, fundamental, root(s), heart, backbone, theory,
+                     principle, rationale ;  source, origin, spring, well head, fountainhead, fount
+		    "early learning will provide a sound base for what follows"
+          • [37ma group of people regarded as supporting an organization, for example by buying its products.[0m
+	   "a customer base"
+
+      [32m3.[0m [37ma place used as a centre of operations by the armed forces or others; a headquarters.[0m
+	   "he headed back to base"
+  	   [3msynonyms:[0m headquarters, centre, starting point, camp, site, station, settlement, post
+		    "he used the hut as a base for his search"
+          • [37mthe main place where a person works or stays.[0m
+	   "she makes the studio her base"
+
+      [32m4.[0m [37ma main or important element or ingredient to which other things are added.[0m
+	   "soaps with a vegetable oil base"
+  	   [3msynonyms:[0m medium, vehicle, carrier
+		    "add a few drops of the aromatic oil to a vegetable oil base"
+          • [37ma substance into which a pigment is mixed to form paint, such as water, oil, or powdered aluminium hydroxide.[0m
+          • [37ma substance used as a foundation for make-up.[0m
+	   "her make-up artist works with base, eye make-up, and lipstick"
+
+      [32m5.[0m [37ma substance capable of reacting with an acid to form a salt and water, or (more broadly) of accepting or neutralizing hydrogen ions.[0m
+          • [37ma purine or pyrimidine group in a nucleotide or nucleic acid.[0m
+
+      [32m6.[0m [37mthe middle part of a bipolar transistor, separating the emitter from the collector.[0m
+
+      [32m7.[0m [37mthe root or stem of a word or a derivative.[0m
+          • [37mthe uninflected form of a verb.[0m
+
+      [32m8.[0m [37ma number used as the basis of a numeration scale.[0m
+          • [37ma number in terms of which other numbers are expressed as logarithms.[0m
+
+      [32m9.[0m [37meach of the four stations that must be reached in turn to score a run.[0m
+    [91m[3mverb[0m[0m | verb: base; 3rd person present: bases; past tense: based; past participle: based; gerund or present participle: basing; adjective: -based
+      [32m1.[0m [37muse (something specified) as the foundation or starting point for something.[0m
+	   "the film is based on a novel by Pat Conroy"
+  	   [3msynonyms:[0m found, build, construct, form, establish, ground, root ;  use as a basis ;  rest, hinge ;  emanate from, derive from, spring from, stem from, originate
+                     in, have its origin in, can be traced back to
+		    "the legend is based on fact"
+
+      [32m2.[0m [37msituate at a specified place as the centre of operations.[0m
+	   "the Science Policy Review Unit is based at the University of Sussex"
+  	   [3msynonyms:[0m locate, station, situate, post, position, place, install, deploy, site, establish, garrison
+		    "the company was based in London"
+[35mBase[0m[36m /beɪs/,[0m [91m[3madjective[0m[0m | adjective: base; comparative adjective: baser; superlative adjective: basest
+      [32m1.[0m [37mwithout moral principles; ignoble.[0m
+	   "the electorate's baser instincts of greed and selfishness"
+  	   [3msynonyms:[0m sordid, improper, low, mean, bad, wrong, evil, wicked, iniquitous, immoral, sinful ;  unscrupulous, unprincipled, unseemly, unsavoury, shoddy, squalid,
+                     vile, foul, vulgar, tawdry, cheap, low-minded, debased, degenerate, depraved, corrupt, reprobate, dissolute, dishonest,
+                     dishonourable, disreputable, despicable, discreditable, contemptible, petty, ignominious, ignoble, shameful, wretched, scandalous,
+                     infamous, abhorrent, abominable, disgusting
+		    "some of these struggles have been inspired by base motives"
+  	   [3mantonyms:[0m good, lofty
+
+      [32m2.[0m [37mdenoting or befitting a person of low social class.[0m
+
+      [32m3.[0m [37m(of coins or other articles) not made of precious metal.[0m
+	   "the basest coins in the purse were made in the 620s AD"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mआधार[0m            [31mआधारभूत[0m        [31mआधारित करना[0m      [31mआधारित होना[0m  
+        [31mमूल[0m           [31mबुनियादी[0m        [31mनींव डालना[0m      [31mस्थापना करना[0m  
+
+      Origin:  Middle English: from Old French, from Latin basis ‘base, pedestal’, from Greek.

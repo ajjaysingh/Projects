@@ -1,0 +1,52 @@
+[35m                                                                                      CLAMP                                                                                       [0m
+[91m        SHORT  A clamp is a tool that's used to secure two things tightly together. When you repair a chair, it's best to use a clamp to hold the glued pieces together
+               firmly.[0m
+[36m         LONG  Carpenters, woodworkers, and plumbers all use clamps when they want to hold things together while they wait for glue to dry or need their hands free. When you
+               use this kind of device, you can also say you clamp something: "Clamp that board down for me before I turn the saw on." Clamp most likely
+               shares a Germanic root with the word clam — *klam-, "to press together."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But it also asked the regulator to clamp down on unlawful activity by short-sellers and to ensure there is enough public information about potential market
+               manipulation.[0m
+[3m             > Crucifix, into the house when he clamped down on her right hand Tuesday afternoon.[0m
+[3m             > Illinois Democrats hoping to clamp down on gun violence face the clock, an uncertain roll call and thousands of gun-rights advocates.[0m
+[3m             > Unsurprisingly, censors clamped down further during the 15 years of conflict.[0m
+[3m             > It is intended to clamp down on people offering services and selling trinkets to tourists ahead of the summer season.[0m
+
+[35mClamp[0m[36m /klamp/,[0m [91m[3mnoun[0m[0m | noun: clamp; plural noun: clamps
+      [32m1.[0m [37ma brace, band, or clasp for strengthening or holding things together.[0m
+	   "I have fixed the motor to the table with two clamps"
+  	   [3msynonyms:[0m capo, clasp, bracket, fastener, vice, mute, press, holdfast, jumar, capo tasto, brace,
+		    "a clamp holds the pieces of wood at right angles"
+          • [37mshort for wheel clamp.[0m
+	   "clamps had been fitted to the car's back wheels"
+  	   [3msynonyms:[0m wheel clamp, immobilizer, boot,
+		    "clamps had been fitted to the car's back wheels"
+
+      [32m2.[0m [37man electric circuit which serves to maintain the voltage limits of a signal at prescribed levels.[0m
+    [91m[3mverb[0m[0m | verb: clamp; 3rd person present: clamps; past tense: clamped; past participle: clamped; gerund or present participle: clamping
+      [32m1.[0m [37mfasten (something) in place with a clamp.[0m
+	   "the sander is clamped on to the edge of a workbench"
+  	   [3msynonyms:[0m secure, clip, screw, fix, fasten, bolt, attach, make fast,
+		    "the sander is clamped on to the edge of a workbench"
+          • [37mfasten (two things) firmly together.[0m
+	   "the two frames are clamped together"
+          • [37mhold (something) tightly against another thing.[0m
+	   "Maggie had to clamp a hand over her mouth to stop herself from laughing"
+  	   [3msynonyms:[0m clench, clasp, clutch, press, grasp, squeeze, grip, hold,
+		    "an empty pipe was clamped between his teeth"
+          • [37mimmobilize (an unlawfully parked car) by fixing a wheel clamp to one of its wheels.[0m
+	   "he had flown into a rage when he found his car was clamped"
+  	   [3msynonyms:[0m boot, immobilize, wheel-clamp,
+		    "he flew into a rage when he found his car was clamped"
+
+      [32m2.[0m [37mmaintain the voltage limits of (an electrical signal) at prescribed values.[0m
+[35mClamp[0m[36m /klamp/,[0m [91m[3mnoun British[0m[0m | noun: clamp; plural noun: clamps
+      [32m1.[0m [37ma heap of potatoes or other root vegetables stored under straw or earth.[0m
+
+      [32m2.[0m [37ma three-sided structure used to store silage.[0m
+	   "a silage clamp"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+         [31mदबाना[0m                 [31mक्लंप[0m                  [31mकीलक[0m        
+        [31mबंद करना[0m          [31mघोड़े का अंसबंध[0m     [31mपत्थर जोडने का लोहा[0m 
+
+      Origin:  Middle English: probably of Dutch or Low German origin and related to clam.

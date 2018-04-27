@@ -1,0 +1,39 @@
+[35m                                                                                       GRID                                                                                       [0m
+[91m        SHORT  A grid is a network of intersecting parallel lines, whether real or imaginary. Most American streets are laid out in a grid pattern, meaning the streets
+               intersect at right angles and form a pattern of squares when viewed from above.[0m
+[36m         LONG  You've probably seen a map grid, the uniform lines drawn on a map that allow you to pinpoint a particular location. Grid can also refer to a physical network
+               of sorts, not necessarily made of straight or parallel lines. You may be familiar with the high voltage electrical cables that carry power
+               throughout the country, known as the national grid. A gird can also be a device made up of intersecting metal bars that you use when grilling
+               food.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The energy created by the array will flow back into the grid for Fort Rucker and Alabama Power customers near the post.[0m
+[3m             > On a weekend later that month, National Grid achieved a coal-free stretch of 19 hours, the longest at the time, Mr. Kemp said.[0m
+[3m             > But the commission recently decided to re-open the customer grid supply program because some rooftop solar projects in the queue were never completed.[0m
+[3m             > The UK is set to spend its first full day without generating electricity from coal on Friday, the National Grid says.[0m
+[3m             > During the coal-less periods, the plants are not shut down altogether, but do not supply electricity to the grid.[0m
+
+[35mGrid[0m[36m /ɡrɪd/,[0m [91m[3mnoun[0m[0m | noun: grid; plural noun: grids
+      [32m1.[0m [37ma framework of spaced bars that are parallel to or cross each other; a grating.[0m
+	   "the metal grids had been pulled across the foyer"
+	   [3msynonyms:[0m grating, mesh, gauze, grille, grillwork, 
+		    "the castings were placed on to a metal grid"
+
+      [32m2.[0m [37ma network of lines that cross each other to form a series of squares or rectangles.[0m
+	   "a grid of tree-lined streets"
+	   [3msynonyms:[0m matrix, network, reticulation, reticulum;
+		    "the grid of streets"
+          • [37ma grid of regular squares on a map that are marked with numbers or letters to enable a place to be precisely located.[0m
+          • [37ma pattern of lines marking the starting places on a motor-racing track.[0m
+	   "the 20-year-old didn't get the best of starts off the grid"
+          • [37ma field for American football; a gridiron.[0m
+
+      [32m3.[0m [37ma network of cables or pipes for distributing power, especially high-voltage transmission lines for electricity.[0m
+	   "the reactor was connected to the grid in 1985"
+          • [37ma number of computers linked together via the Internet so that their combined power may be harnessed to work on difficult problems.[0m
+
+      [32m4.[0m [37man electrode placed between the cathode and anode of a thermionic valve or cathode ray tube, serving to control or modulate the flow of electrons.[0m
+    [91m[3mverb[0m[0m | verb: grid; 3rd person present: grids; past tense: gridded; past participle: gridded; gerund or present participle: gridding
+      [32m1.[0m [37mput into or set out as a grid.[0m
+	   "a core of gridded streets"
+  [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+        [31mग्रिड[0m         [31mछड़ लगा हुआ ढांचा[0m 

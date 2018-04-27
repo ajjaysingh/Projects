@@ -1,0 +1,31 @@
+[35m                                                                                     ABRIDGE                                                                                      [0m
+[91m        SHORT  So the editor wants to cut your epic 800-page history of the stapler to a 150-page summary instead. Don't cry — he just wants to abridge your masterpiece,
+               trimming it down to the more readable essential elements.[0m
+[36m         LONG  Synonymous with abbreviate, condense and cut short, abridge comes from the Latin word abreviare, which means "to shorten." Although it's usually used in
+               reference to wordy texts, one can also abridge or shorten a piece of clothing; a miniskirt is just an abridged version of the old floor length
+               hoop skirt, for example. But abridging something isn't always good: If your civil rights are abridged, they've been lessened in some way.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Mac is abridging that production for the road, which will include a one-night engagement at the Kennedy Center next March.[0m
+[3m             > This is an abridged version of an essay from the latest issue of n+1, on sale now.[0m
+[3m             > The answer is complicated, but the abridged version is because demographics in the district are changing and certain flavors of Republican voters despise
+               Donald Trump.[0m
+[3m             > An abridged book, for instance, is a condensed version.[0m
+[3m             > “It’s about Citizens United and the government abridging speech,” he said.[0m
+
+[35mAbridge[0m[36m /əˈbrɪdʒ/,[0m [91m[3mverb[0m[0m | verb: abridge; 3rd person present: abridges; past tense: abridged; past participle: abridged; gerund or present participle: abridging
+      [32m1.[0m [37mshorten (a book, film, speech, etc.) without losing the sense.[0m
+	   "an abridged text of his speech"
+  	   [3msynonyms:[0m shorten, cut, cut short/down, curtail, truncate, lessen, trim, crop, clip, pare down, prune ;  abbreviate, condense, contract, compress, reduce,
+                     decrease, diminish, shrink ;  summarize, give a summary of, sum up, abstract, give an abstract of, precis, give a precis of,
+                     synopsize, give a synopsis of, digest, give a digest of, outline, give an outline of, sketch, put in a nutshell, edit ;  epitomize
+                     shortened, cut, cut short, cut down, concise, condensed, contracted, compressed, abbreviated, reduced, decreased, diminished,
+                     shrunk, curtailed, truncated, lessened, trimmed, cropped, clipped, pruned, pared down, stripped down, bare-bones, skeleton ;
+                     summarized, summary, abstracted, precised, synoptic, synopsized, digest, outline, thumbnail, sketch, edited, essential ;  censored,
+                     bowdlerized, expurgated ;  potted
+		    "the editor reserves the right to abridge letters to fit the space available"
+  	   [3mantonyms:[0m lengthen, expand on, pad out, lengthened, expanded
+
+      [32m2.[0m [37mcurtail (a right or privilege).[0m
+	   "even the right to free speech can be abridged"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+  [31mसंक्षिप्तीकरण[0m    [31mसंक्षेप करना[0m 

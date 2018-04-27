@@ -1,0 +1,43 @@
+[35m                                                                                     INVALID                                                                                      [0m
+[91m        SHORT  A person who is very sick or injured and needs frequent care is an invalid. Also, something no longer current or useful is invalid.[0m
+[36m         LONG  The main uses of this word have to do with people and things that don't work very well anymore. A driver's license that has expired is invalid — it needs to
+               be renewed. If you lost your health insurance, it's invalid. People who are called invalids are disabled or incapacitated severely. Be careful
+               with this word, because some think it is inappropriate, since it sounds as if some people are not as valid as others based on physical
+               capability.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The companies will also cancel reservations and deactivate listings if the city notifies them of an invalid registration.[0m
+[3m             > Airbnb will deactivate listings that the city says are invalid.[0m
+[3m             > Airbnb will deactivate listings if the city notifies it of an invalid registration.[0m
+[3m             > Airbnb will deactivate listings after receiving notice from the city of an invalid registration.[0m
+[3m             > Hamdan argues the treaty is invalid because it was signed under duress as the result of the 1846-1848 Mexican-American war launched with a U.S. invasion.[0m
+
+[35mInvalid[0m[36m /ˈɪnvəlɪd/,[0m [91m[3mnoun[0m[0m | noun: invalid; plural noun: invalids
+      [32m1.[0m [37ma person made weak or disabled by illness or injury.[0m
+	   "she spent the rest of her life as an invalid"
+    [91m[3mverb[0m[0m | verb: invalid; 3rd person present: invalids; past tense: invalided; past participle: invalided; gerund or present participle: invaliding
+      [32m1.[0m [37mremove (someone) from active service in the armed forces because of injury or illness.[0m
+	   "he was badly wounded and invalided out of the infantry"
+          • [37mdisable (someone) by injury or illness.[0m
+	   "an officer invalided by a chest wound"
+  	   [3msynonyms:[0m disable, incapacitate, indispose, hospitalize, put out of action, lay up, cripple, paralyse, lame, put on the sick list ;  injure, wound, hurt, weaken,
+                     enfeeble
+		    "an officer invalided by a chest wound"
+[35mInvalid[0m[36m /ɪnˈvalɪd/,[0m [91m[3madjective[0m[0m | adjective: invalid
+          • [37mnot valid, in particular:[0m
+          • [37m(especially of an official document or procedure) not legally recognized because it contravenes a regulation or law.[0m
+	   "the vote was declared invalid due to a technicality"
+  	   [3msynonyms:[0m void, legally void, null, null and void, unenforceable, not binding, inoperative, worthless ;  illegitimate, incorrect, improper, unacceptable,
+                     inapplicable ;  annulled, nullified, cancelled, revoked, rescinded, abolished, repealed
+		    "the by-law was invalid because it infringed rights of common"
+  	   [3mantonyms:[0m valid, binding
+          • [37m(especially of an argument, statement, or theory) not true because based on erroneous information or unsound reasoning.[0m
+	   "a comparison is invalid if we are not comparing like with like"
+  	   [3msynonyms:[0m false, untrue, inaccurate, faulty, fallacious, spurious, inadequate, unconvincing, unsound, weak, wrong, wrongly inferred, wide of the mark, off target ;
+                     unjustified, unsubstantiated, unwarranted, untenable, baseless, ill-founded, unfounded, groundless ;  illogical, irrational,
+                     unscientific, absurd, preposterous, inconsistent ;  off beam, out, way out, full of holes, bogus
+		    "the whole theory is invalid"
+  	   [3mantonyms:[0m true, accurate
+          • [37m(of computer instructions, data, etc.) not conforming to the correct format or specifications.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mअमान्य[0m            [31mअशक्त[0m         [31mअविधिमान्य[0m   
+       [31mअशक्त[0m           [31mअपाहिज[0m             [31mअशत[0m      

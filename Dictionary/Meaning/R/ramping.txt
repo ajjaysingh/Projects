@@ -1,0 +1,38 @@
+[35m                                                                                     RAMPING                                                                                      [0m
+[91m        SHORT  A ramp is a slope or an incline, a surface that tilts from one level to another. Someone using a wheelchair might need a ramp to get from the doorway of a
+               building down to its parking lot.[0m
+[36m         LONG  A skateboarder might use a ramp to gather speed, while a man pushing a stroller uses it to push his baby onto the sidewalk after crossing the street.
+               Passengers also walk down ramps when they exit boats and trains. There's also the plant called a ramp, also known as wild onion or wild garlic.
+               As a verb, to ramp means to provide with a ramp, but the more common "to ramp up" means "to increase."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The budget office estimated 14 million more people would be uninsured in 2018, ramping up to 24 million losing their health insurance by 2026.[0m
+[3m             > The thing that worries me about this present situation is that it’s only ramping up, and we don’t seem to be especially bothered by it.[0m
+[3m             > Some states may respond to the Labor Department’s softening by ramping up their own investigations into claims of wage theft by companies that misclassify
+               workers.[0m
+[3m             > That will require a ramping up of investigative work, not a pullback.[0m
+[3m             > At the same time, Mr. D’Andrea was ramping up the drone program inside Pakistan.[0m
+
+[35mRamp[0m[36m /ramp/,[0m [91m[3mverb[0m[0m
+	gerund or present participle: ramping
+      [32m1.[0m [37mincrease the level or amount of (something) sharply.[0m
+	   "the company has moved into new quarters in order to ramp up production"
+          • [37mdrive up the price of (a company's shares) in order to gain a financial advantage.[0m
+	   "a rule against share price ramping which forbids a broker to account for more than 30 per cent of trading in a share"
+
+      [32m2.[0m [37m(of an animal) rear up on its hind legs in a threatening posture.[0m
+	   "they roared and ramped in cages"
+          • [37mrush about uncontrollably.[0m
+	   "an awful beast ramping about the woods and fields"
+          • [37m(of a plant) grow or climb luxuriantly.[0m
+	   "ivy ramped over the flower beds"
+
+      [32m3.[0m [37m(of an electrical waveform) increase or decrease voltage linearly with time.[0m
+	   "the integrated circuit's output then ramps in the negative direction"
+
+      [32m4.[0m [37mprovide with a ramp.[0m
+	   "ramped access to public buildings"
+  [31m[4m[34m[0m[0m[0m
+  [31mअपेक्षाओं[0m 
+
+      Origin:  Middle English (as a verb in the sense ‘rear up’, also used as a heraldic term): from Old French ramper ‘creep, crawl’, of unknown origin. Sense 1 of the noun
+               dates from the late 18th century.

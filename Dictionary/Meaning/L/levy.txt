@@ -1,0 +1,50 @@
+[35m                                                                                       LEVY                                                                                       [0m
+[91m        SHORT  Use the word levy as you would use the word tax: “When the state government imposed a levy on soft drinks, thousands of citizens took to the streets in
+               protest.”[0m
+[36m         LONG  The word levy can act as either a verb or a noun in a sentence. The noun levy refers to a charge, such as a tax, fine, or other fee, that is imposed on
+               something. The verb levy is used to describe the act of imposing or collecting the charge. If you need to raise money, for example, you may
+               decide to levy a fine on your family every time you have to make the coffee in the morning. (Be careful though: your family may also take to
+               the streets in protest.)[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Lévy Gorvy, which specializes in “classic contemporary” art from the late 20th century, sold more than 20 works during the two preview days.[0m
+[3m             > The penalty against Google is expected to top the EU’s previous record fine levied on a...[0m
+[3m             > Such oversight would include the right to demand information, conduct on-site inspections and levy fines.[0m
+[3m             > Earlier this week, Councilmember Tim Burgess proposed using funds from the Seattle Department of Transportation’s budget instead of levy dollars.[0m
+[3m             > “Some people are complete aficionados and will do all of the events,” Ms. Lévy said — including herself.[0m
+
+[35mLevy[0m[36m /ˈlɛvi/,[0m [91m[3mverb[0m[0m | verb: levy; 3rd person present: levies; past tense: levied; past participle: levied; gerund or present participle: levying
+      [32m1.[0m [37mimpose (a tax, fee, or fine).[0m
+	   "a tax of two per cent was levied on all cargoes"
+  	   [3msynonyms:[0m impose, impose charge, charge exact, exact demand, demand raise, raise collect, collect gather gather ;  tax tax ;  mulct mulct
+		    "a proposal to levy VAT on fuel"
+          • [37mimpose a tax, fee, or fine on.[0m
+	   "there will be powers to levy the owner"
+  	   [3msynonyms:[0m impose, impose charge, charge exact, exact demand, demand raise, raise collect, collect gather gather ;  tax tax ;  mulct mulct
+		    "a proposal to levy VAT on fuel"
+          • [37mseize (property) to satisfy a legal judgement.[0m
+	   "there were no goods to levy upon"
+
+      [32m2.[0m [37menlist (someone) for military service.[0m
+	   "he sought to levy one man from each vill for service"
+          • [37mbegin to wage (war).[0m
+	   "they then proceeded without further ceremony to levy war upon the king"
+    [91m[3mnoun[0m[0m | noun: levy; plural noun: levies
+      [32m1.[0m [37man act of levying a tax, fee, or fine.[0m
+	   "police forces receive 49 per cent of their funding via a levy on the rates"
+  	   [3msynonyms:[0m tax, tax tariff, tariff toll, toll excise, excise duty, duty fee, fee imposition, imposition impost, impost exaction, exaction assessment, assessment
+                     tithe, tithe payment payment ;  mulct mulct ;  taxation, taxation customs, customs dues
+		    "the record industry's call for a levy on blank audio tapes"
+          • [37ma tax raised by levying.[0m
+	   "we all pay a fossil fuel levy in our electricity bills"
+          • [37ma sum collected as a supplement to an existing subscription.[0m
+	   "the trade-union political levy"
+  	   [3msynonyms:[0m imposition, imposition charging, exaction, exaction raising, collection, collection gathering gathering
+		    "the troubles had been caused by the levy of taxation for the defence of the realm"
+          • [37man item or items of property seized to satisfy a legal judgement.[0m
+
+      [32m2.[0m [37man act of enlisting troops.[0m
+	   "Edward I and Edward II had made substantial use of the feudal levy for raising an army"
+          • [37ma body of troops that have been enlisted.[0m
+	   "lightly armed local levies"
+
+      Origin:  Middle English (as a noun): from Old French levee, feminine past participle of lever ‘raise’, from Latin levare, from levis ‘light’.

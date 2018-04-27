@@ -1,0 +1,41 @@
+[35m                                                                                    INDEMNITY                                                                                     [0m
+[91m        SHORT  Indemnity is protection against loss or harm — it is most often used in insurance.[0m
+[36m         LONG  If you suffer an injury or there's damage to your house, an indemnity makes up for the loss — if it's part of your insurance. An indemnity may also keep
+               something or someone from being held responsible for harm. Protection indemnity is mainly offered for unlikely events. If you regularly crash
+               hot-air balloons, you won’t get indemnity for the next one you rent. In fact, the balloon rental company will probably demand their own
+               indemnity in case you crash again.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “Environmentalists want to protect the land but they don’t want to pay indemnity.”[0m
+[3m             > There is a sordid feeling attached this indemnity, as gun's core purpose is the act of killing.[0m
+[3m             > Historical significance is not necessarily indemnity against the bulldozer, even with Ben Hogan and Byron Nelson as posthumous advocates, and even in the city
+               of Fort Worth.[0m
+[3m             > France threatened to invade Haiti again, basically pointing a gun at the people there, unless Haitians paid the indemnity.[0m
+[3m             > Those contracts included indemnity agreements, meaning that the United States government agreed to pay their legal fees and is expected to pay for the
+               settlement.[0m
+
+[35mIndemnity[0m[36m /ɪnˈdɛmnɪti/,[0m [91m[3mnoun[0m[0m | noun: indemnity
+          • [37msecurity or protection against a loss or other financial burden.[0m
+	   "no indemnity will be given for loss of cash"
+  	   [3msynonyms:[0m insurance, insurance assurance, assurance protection, protection security, security indemnification, surety, surety endorsement, endorsement guarantee,
+                     guarantee warranty, warranty safeguard safeguard
+		    "an outgoing partner should insist on indemnity against future liabilities of the firm"
+          • [37msecurity against or exemption from legal responsibility for one's actions.[0m
+	   plural noun: indemnities
+  	   [3msynonyms:[0m immunity, immunity exemption, exemption exception, exception dispensation, dispensation exclusion, exclusion freedom, freedom release, release relief,
+                     relief absolution, absolution exoneration exoneration ;  special treatment, privilege, privilege favouritism favouritism ;  impunity
+                     impunity ;  a let-off ;  derogation derogation
+		    "those charged with political offences were granted indemnity from prosecution"
+          • [37ma sum of money paid as compensation, especially one paid by a country defeated in war as a condition of peace.[0m
+	   "the public purse would be saved the burden of paying indemnity"
+  	   [3msynonyms:[0m reimbursement, reimbursement compensation, compensation recompense, recompense repayment, repayment restitution, restitution payment, payment
+                     remuneration, remuneration requital, redress, redress reparation(s), damages ;  comp comp ;  guerdon, guerdon meed meed ;  solatium
+                     solatium
+		    "the public purse would be saved the burden of paying indemnity"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mक्षतिपूर्ति[0m      [31mहानि से सुरक्षा[0m 
+       [31mहर्जाना[0m       [31mक्षति से सुरक्षा[0m 
+     [31mहानिपूर्ति[0m           [31mमुआवज़ा[0m     
+      [31mहानिरक्षा[0m          [31mमुआविज़ा[0m     
+       [31mमुक्ति[0m           [31mबीमे की रकम[0m   
+
+      Origin:  late Middle English: from French indemnite, from late Latin indemnitas, from indemnis ‘unhurt, free from loss’.

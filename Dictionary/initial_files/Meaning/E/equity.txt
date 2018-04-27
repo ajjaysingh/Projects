@@ -1,0 +1,34 @@
+[35m                                                                                      EQUITY                                                                                     [0m
+[91m        SHORT  Equity is the state or quality of being fair. In classrooms, it's important to establish equity as any hint of unfairness turns everyone against the teacher.[0m
+[36m         LONG  In finance, equity refers to the value of a business or piece of property after subtracting the amount of the mortgage. Also in finance, equities are stocks,
+               in contrast to bonds. Equity is from Middle English equite, from Old French équité, from Latin aequitas "equality," from aequus "equal."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                            
+[3m             > It is high for U.S. equities by historical averages, elevated for Japan, moderate for Europe and low for emerging markets.[0m
+[3m             > Beyond the purchase of IndyMac, Mnuchin was an active private equity investor with stakes in retail companies and Hollywood film studios.[0m
+[3m             > But equity investors responded to this year of surprises by placing buy orders.[0m
+[3m             > At least 40 percent of the fund is in so-called alternative investments, including expensive private equity deals, hedge funds and real estate.[0m
+[3m             > In one version of this “Christmas Carol,” Actors’ Equity is Scrooge.[0m
+
+[35mEquity[0m[36m /ˈɛkwɪti/,[0m [91m[3mnoun[0m[0m | noun: equity; singular proper noun: Equity; noun: Equity
+      [32m1.[0m [37mthe quality of being fair and impartial.[0m
+	   "equity of treatment"
+	   [3msynonyms:[0m fairness, fair-mindedness, justness, justice, equitableness, 
+		    "the equity of Finnish society"
+	   [3mantonyms:[0m inequity, imbalance
+          • [37ma branch of law that developed alongside common law and is concerned with fairness and justice, formerly administered in special courts.[0m
+	   "if there is any conflict between the principles of common law and equity, equity prevails"
+
+      [32m2.[0m [37mthe value of the shares issued by a company.[0m
+	   "he owns 62% of the group's equity"
+	   [3msynonyms:[0m value, worth, valuation; 
+		    "the builder owns 25% of the equity in the property"
+          • [37mstocks and shares that carry no fixed interest.[0m
+	   plural noun: equities
+
+      [32m3.[0m [37mthe value of a mortgaged property after deduction of charges against it.[0m
+	   "people who have built up a significant amount of equity in their homes"
+
+      [32m4.[0m [37m(in the UK, US, and several other countries) a trade union to which all professional actors must belong.[0m
+	   "an Equity card"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mन्यायसम्य[0m     [31mन्यायपरस्ता[0m 

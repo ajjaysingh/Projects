@@ -1,0 +1,17 @@
+[35m                                                                                      NOTARY                                                                                      [0m
+[91m        SHORT  A notary is someone with the legal power to witness signatures, verify documents, and take depositions.[0m
+[36m         LONG  A notary — also known as a notary public — is a person who has been licensed by a state to perform a few legal functions. The most common one is to witness
+               signatures. For many types of paperwork, you need a notary to be present as you sign, which makes the paperwork official. Notaries also have
+               the power to verify various types of documents and are allowed to take depositions (statements) in some legal situations.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Auctions are supervised by a notary public, who faces a weekly hour of crowd harassment.[0m
+[3m             > Buyers must hire a notary to manage the transaction; fees vary according to the size of the investment.[0m
+[3m             > Notaries public witness the signing of important documents.[0m
+[3m             > Agents recommend hiring an experienced real estate lawyer who is also a notary.[0m
+[3m             > Digital signatures are, in essence, the Internet equivalent of a notary — but without the cool stamp.[0m
+
+[35mNotary[0m[36m /ˈnəʊt(ə)ri/,[0m [91m[3mnoun[0m[0m | noun: notary; plural noun: notaries; noun: notary public; plural noun: notaries public
+          • [37ma person authorized to perform certain legal formalities, especially to draw up or certify contracts, deeds, and other documents for use in other
+            jurisdictions.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mलेख्य प्रमाणक[0m        [31mशपथ[0m      

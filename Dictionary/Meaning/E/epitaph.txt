@@ -1,0 +1,25 @@
+[35m                                                                                     EPITAPH                                                                                      [0m
+[91m        SHORT  An epitaph is an inscription on a gravestone. Famous for his comedic jabs at the City of Brotherly Love, writer W.C. Fields once said he wanted "I'd rather be
+               living in Philadelphia" as the epitaph on his tombstone.[0m
+[36m         LONG  Once you trace this word back to its origins, you'll never forget its meaning. Forms of it show up in Middle English, Old French, Latin, and, before that,
+               Greek: epi- "upon" and taphos "tomb." This gives us a mini history lesson on burial traditions. For thousands of years various societies have
+               carved poetic, weepy, and witty words onto the monuments marking the final resting places of famous and infamous citizens.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The other was a rudimentary epitaph to their daughter:[0m
+[3m             > “Or would you like a few moments to compose an epitaph?”[0m
+[3m             > And in the end, he's providing an epitaph for the movement, as well as himself.[0m
+[3m             > There’s a reasonable chance Mourinho would ask for that as an epitaph.[0m
+[3m             > It is, potentially, a tragic epitaph for the consensus view of our legal system as a disinterested finder of fact and dispenser of justice.[0m
+
+[35mEpitaph[0m[36m /ˈɛpɪtɑːf,ˈɛpɪtaf/,[0m [91m[3mnoun[0m[0m | noun: epitaph; plural noun: epitaphs
+          • [37ma phrase or form of words written in memory of a person who has died, especially as an inscription on a tombstone.[0m
+	   "a poignant epitaph to his creative career"
+  	   [3msynonyms:[0m obituary, funeral oration, inscription, engraving, legend, commemoration, etching, elegy,
+		    "an epitaph on a tombstone"
+          • [37msomething by which a person, time, or event will be remembered.[0m
+	   "the story makes a sorry epitaph to a great career"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+  [31mस्मृति लेख[0m    [31mसमाधि-लेख[0m 
+
+      Origin:  late Middle English: from Old French epitaphe, via Latin from Greek epitaphion ‘funeral oration’, neuter of ephitaphios ‘over or at a tomb’, from epi ‘upon’ +
+               taphos ‘tomb’.

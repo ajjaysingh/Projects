@@ -1,0 +1,109 @@
+[35m                                                                                      SCORE                                                                                       [0m
+[91m        SHORT  When you're playing a game, your score is the number of points you have. If the score of a basketball game is 34 to 34, it means both teams have 34 points —
+               the score is tied.[0m
+[36m         LONG  To score in a game is to achieve points or goals. In school, you get a score, or a grade, on your tests and papers. Another kind of score is the written part
+               of a musical composition. And when someone asks, "What's the score?" they might also mean "What's going on?" The Gettysburg Address famously
+               begins, "Four score and seven years ago..." In this case, a score is "twenty," from the Old English scoru, also "twenty."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Most rock memoirs are written to pay bills, settle scores or make a claim to the author’s place in history.[0m
+[3m             > Most importantly, globally, we should find ways to incentivize the countries that score high rates of Humanity.[0m
+[3m             > Still, San Diego State has the No. 1 scoring defense in the Mountain West, allowing opponents 20.8 points per game.[0m
+[3m             > Moreover, where others would use the job as a platform for scoring points, Sir Keir considers himself a sort of national ombudsman.[0m
+[3m             > The Huskies have surrendered slightly less than 18 points a game, which ties them for 10th in scoring defense.[0m
+
+[35mScore[0m[36m /skɔː/,[0m [91m[3mnoun[0m[0m | noun: score; plural noun: scores
+      [32m1.[0m [37mthe number of points, goals, runs, etc. achieved in a game or by a team or an individual.[0m
+	   "the final score was 4–3 to Royston"
+  	   [3msynonyms:[0m result, outcome ;  number of goals/runs/points, total, sum total, tally, count
+		    "the final score was 4–3"
+          • [37man act of gaining a goal or point in a game.[0m
+          • [37ma rating or grade, such as a mark achieved in a test.[0m
+	   "an IQ score of 161"
+  	   [3msynonyms:[0m rating, grade, mark, percentage
+		    "an IQ score of 161"
+          • [37mthe state of affairs; the facts about the present situation.[0m
+	   noun: the score
+  	   [3msynonyms:[0m the situation, the position, the facts, the truth of the matter, the (true) state of affairs, the picture, the story, how things stand, the lie of the
+                     land ;  the state of play ;  the lay of the land ;  the set-up, what's what
+		    "he knew the score before he got here"
+          • [37man act of buying illegal drugs.[0m
+	   "she made her first score from a dealer in Times Square"
+          • [37mthe proceeds of a crime.[0m
+	   "robbers usually case a score a few times before they go in"
+
+      [32m2.[0m [37ma group or set of twenty or about twenty.[0m
+	   "a score of men lost their lives in the battle"
+          • [37ma large number of something.[0m
+	   "he sent scores of enthusiastic letters to friends"
+  	   [3msynonyms:[0m a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty, a host, hosts, a crowd, crowds, droves, a bevy, bevies, an
+                     army, armies, a horde, hordes, a flock, flocks, herds, a throng, throngs, legions, a multitude, multitudes, a swarm, swarms ;
+                     copious, abundant, profuse, an abundance, a profusion ;  lots, umpteen, loads, masses, stacks, scads, heaps, piles, bags, tons,
+                     oodles, dozens, hundreds, thousands, millions, billions, zillions, more … than one can shake a stick at ;  shedloads, a shedload ;
+                     a slew, a bunch, gazillions, gobs, bazillions ;  a swag ;  a shitload ;  myriad, divers
+		    "police have received scores of complaints"
+  	   [3mantonyms:[0m few
+
+      [32m3.[0m [37ma written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.[0m
+          • [37mthe music composed for a film or play.[0m
+	   "a film score"
+
+      [32m4.[0m [37ma notch or line cut or scratched into a surface.[0m
+	   "check the shaft for scratches and scores"
+  	   [3msynonyms:[0m scratch, nick, notch, snick, scrape, groove, chip, cut, gouge, incision, slit, gash ;  mark ;  scotch
+		    "check the shaft for rust, scores, and any other types of damage"
+          • [37ma running account kept by marks against a customer's name, typically in a public house.[0m
+    [91m[3mverb[0m[0m | verb: score; 3rd person present: scores; past tense: scored; past participle: scored; gerund or present participle: scoring
+      [32m1.[0m [37mgain (a point, goal, run, etc.) in a competitive game.[0m
+	   "McCartney scored a fine goal"
+  	   [3msynonyms:[0m get, gain, chalk up, win, achieve, attain, make ;  record ;  notch up, bag, knock up, rack up
+		    "he has already scored 13 goals for Aston Villa this season"
+          • [37mdecide on the score to be awarded to (a competitor).[0m
+	   "the judge must score each dog and handler against this standard"
+          • [37mbe worth (a number of points).[0m
+	   "a yes answer scores ten points"
+          • [37mdecide on the scores to be awarded in (a match or competition).[0m
+	   "the three judges each scored the bout 100–86 for the Panamanian"
+          • [37mrecord the score during a game; act as scorer.[0m
+	   "the important thing is to score neatly"
+  	   [3msynonyms:[0m keep (the) score, keep count, keep a record, keep a tally
+		    "when I was your age I spent every summer weekend scoring for my father's village cricket team"
+          • [37mcause (a teammate) to score.[0m
+	   "Abe Herbst singled, scoring Norman and Lang"
+          • [37msecure (a success or an advantage).[0m
+	   "the band scored a hit single"
+  	   [3msynonyms:[0m be successful, be a success, achieve success, win, triumph, make an impression, have an impact, go down well, get an enthusiastic reception ;  be a hit,
+                     be a winner, be a sell-out, go down a storm
+		    "his new movie really scored"
+          • [37moutdo or humiliate (someone) in an argument.[0m
+	   "Harry was continually seeking ways to score points off Sam"
+  	   [3msynonyms:[0m get the better of, gain an advantage over, outdo, best, worst, have the edge over ;  have the last laugh on, make a fool of, humiliate ;  get/be one up
+                     on, get one over on
+		    "Harry was continually seeking ways to score points off Sam"
+          • [37mbuy or acquire (something, typically illegal drugs).[0m
+	   "Sally had scored some acid"
+          • [37msucceed in attracting a sexual partner for a casual encounter.[0m
+	   "he thought he could score with bimbos by telling crude jokes"
+
+      [32m2.[0m [37morchestrate or arrange (a piece of music), typically for a specified instrument or instruments.[0m
+	   "the Quartet Suite was scored for flute, violin, viola da gamba, and continuo"
+  	   [3msynonyms:[0m orchestrate, arrange, set, adapt ;  write, compose ;  instrument
+		    "the Quartet Suite was scored for flute, violin, viola da gamba, and continuo"
+          • [37mcompose the music for (a film or play).[0m
+	   "he'd previously scored the first and fifth films"
+
+      [32m3.[0m [37mcut or scratch a notch or line on (a surface).[0m
+	   "score the card until you cut through"
+  	   [3msynonyms:[0m scratch, cut, make a notch/notches in, make a groove/grooves in, notch, incise, scrape, nick, snick, chip, gouge, slit, gash ;  mark ;  cross-hatch ;
+                     carve, engrave ;  scotch
+		    "score the wood in criss-cross patterns"
+          • [37mdelete text by drawing a line through it.[0m
+	   "she scored out the last word"
+  	   [3msynonyms:[0m cross out, strike out, put a line through, ink out, blue-pencil, scratch out ;  delete, obliterate, expunge
+		    "she scored out the last word"
+          • [37mrecord (a total owed) by making marks against a customer's name.[0m
+	   "a slate on which the old man scored up vast accounts"
+
+      [32m4.[0m [37mexamine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character.[0m
+	   "the aim should be to score between fifty and one hundred mitotic cells"
+     [31m[4m[34m[0m[0m[0m       [31m[4m[34mnoun[0m[0m[0m     [31m[4m[34mverb[0m[0m[0m  
+           [31mस्कोर[0m                     [31mहिसाब[0m               [31mखेल में अंक बनाना[0m    

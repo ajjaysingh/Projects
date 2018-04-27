@@ -1,0 +1,21 @@
+[35m                                                                                      PATHOS                                                                                      [0m
+[91m        SHORT  Pathos is a quality that stirs emotions. A song with a lot of pathos hits you right in the heart.[0m
+[36m         LONG  You ever notice how some songs or movies appeal to your brains, while others appeal to your feelings? The ones that are all about feeling are full of pathos,
+               an appeal to emotions that originally meant "suffering" in Greek. Often, this word has to do specifically with pity and sympathy: when someone
+               tells a story about people suffering that makes you feel for them, that's pathos.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Adiga invests even his minor characters with pathos and depth.[0m
+[3m             > Her charm was apparent but she lacked the pathos or complexity of her future TV persona.[0m
+[3m             > Trump’s tweets frequently lapse into the pathos of quantification and measurement.[0m
+[3m             > Publisher Doubleday said the tale explores themes of charity, kindness and bravery in the face of tyranny, with sharply drawn satire and touching pathos.[0m
+[3m             > The staging lends the scene dignity and pathos.[0m
+
+[35mPathos[0m[36m /ˈpeɪθɒs/,[0m [91m[3mnoun[0m[0m | noun: pathos
+          • [37ma quality that evokes pity or sadness.[0m
+	   "the actor injects his customary humour and pathos into the role"
+	   [3msynonyms:[0m poignancy, tragedy, sadness, pitifulness, piteousness, 
+		    "the pathos of Antoine's predicament"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mहौसला[0m         [31mजोश[0m    
+    [31mबढ़ावा[0m         [31mअसर[0m    
+  [31mप्रोत्साहन[0m     [31mमनोभाव[0m   

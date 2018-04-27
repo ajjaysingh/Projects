@@ -1,0 +1,36 @@
+[35m                                                                                      FABLE                                                                                       [0m
+[91m        SHORT  A fable is a moral tale that often features animal characters. “The Tortoise and the Hare” is a well-known fable whose moral is "Slow and steady wins the
+               race."[0m
+[36m         LONG  We often associate fables with the master of them all, Aesop. Among the most famous fables attributed to this storyteller of ancient Greece are "The Boy Who
+               Cried Wolf" and "The Fox and the Grapes." But like its cousins tale, myth, and legend, the word fable is also used to describe a deliberate
+               fabrication or fiction. In other words, it can be a polite way to describe a lie.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This was not a fable, not a myth.[0m
+[3m             > This isn’t a facile fable about the very real evils of racism, one in which the villains are typical mouth-breathing rednecks.[0m
+[3m             > It’s called A Fable for All Ages even though it’s just a gussied-up kids’ book.[0m
+[3m             > Whatever license the word “fable” grants Hamilton, it doesn’t redeem the narrative muddle.[0m
+[3m             > This gentle fable is nominated for an Academy Award for best animated film.[0m
+
+[35mFable[0m[36m /ˈfeɪb(ə)l/,[0m [91m[3mnoun[0m[0m | noun: fable; plural noun: fables
+      [32m1.[0m [37ma short story, typically with animals as characters, conveying a moral.[0m
+	   "the fable of the sick lion and the wary fox"
+	   [3msynonyms:[0m moral tale, parable, apologue, allegory, bestiary
+		    "the fable of the sick lion and the wary fox"
+          • [37ma supernatural story incorporating elements of myth and legend.[0m
+	   "he had conjured up a monster fit for any fable"
+	   [3msynonyms:[0m myth, legend, saga, epic, folk tale, 
+		    "the fables of ancient Greece"
+          • [37mmyth and legend.[0m
+	   "the unnatural monsters of fable"
+          • [37ma false statement or belief.[0m
+	   "believers accused the cosmologists of inventing fables on the birth of the universe"
+    [91m[3mverb archaic[0m[0m | verb: fable; 3rd person present: fables; past tense: fabled; past participle: fabled; gerund or present participle: fabling
+      [32m1.[0m [37mtell fictitious tales.[0m
+	   "I do not dream nor fable"
+          • [37minvent (an incident, person, or story).[0m
+	   "men soon fabled up their Histories into Miracle and Wonder"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mकल्पित कहानी[0m       [31mकहानी[0m    
+     [31mनीतिकथा[0m        [31mदंतकथा[0m    
+    [31mआख्यायिका[0m       [31mकिस्सा[0m    
+   [31mकपोलकल्पना[0m       [31mलघुकथा[0m    

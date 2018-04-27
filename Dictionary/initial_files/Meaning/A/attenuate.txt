@@ -1,0 +1,33 @@
+[35m                                                                                    ATTENUATE                                                                                     [0m
+[91m        SHORT  Attenuate is a verb that means to make or become weaker. The effects of aging may be attenuated by exercise (or by drinking from the fountain of youth).[0m
+[36m         LONG  The versatile word attenuate denotes a weakening in amount, intensity, or value. As a verb, attenuate is usually transitive, meaning it needs an object to be
+               complete, such as in the sentence: "This tanning process tends to attenuate the deer hide, making it softer." The word can be intransitive in
+               past tense, as in "The rain attenuated, ending the storm."  And it can even be used as an adjective to describe something weakened: "Even an
+               attenuated solution will remove the stain."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And the big tires’ road noise seeped into the cabin despite all efforts to attenuate.[0m
+[3m             > “If you are dealt a bad hand, there are things you can do to attenuate the risk.”[0m
+[3m             > As important, their postcard beauty and rented emotions also attenuate some of the less palatable aspects of their conspiracy theories.[0m
+[3m             > One option was to use a weakened, or attenuated, form of the virus to make a vaccine.[0m
+[3m             > "I do see the price of oil setting itself a band. Shale oil in the US… will attenuate the price a bit."[0m
+
+[35mAttenuate[0m [91m[3mverb[0m[0m | verb: attenuate; 3rd person present: attenuates; past tense: attenuated; past participle: attenuated; gerund or present participle: attenuating    /əˈtɛnjʊeɪt/
+      [32m1.[0m [37mreduce the force, effect, or value of.[0m
+	   "her intolerance was attenuated by an unexpected liberalism"
+	   [3msynonyms:[0m weakened, reduced, lessened, decreased, diminished, 
+		    "radiation from the sun is attenuated by the earth's atmosphere"
+	   [3mantonyms:[0m strengthened
+          • [37mreduce the amplitude of (a signal, electric current, or other oscillation).[0m
+	   "the filter must severely attenuate frequencies above 10 Hz"
+	   [3msynonyms:[0m weakened, reduced, lessened, decreased, diminished, 
+		    "radiation from the sun is attenuated by the earth's atmosphere"
+	   [3mantonyms:[0m strengthened
+          • [37mreduce the virulence of (a pathogenic organism or vaccine).[0m
+	   "researchers hoped that the substance would attenuate the course of the disease"
+
+      [32m2.[0m [37mreduce in thickness; make thin.[0m
+    [91m[3madjective rare[0m[0m | adjective: attenuate    /əˈtɛnjʊət/
+      [32m1.[0m [37mreduced in force, effect, or physical thickness.[0m
+	   "the doctrines of Christianity became very attenuate and distorted"
+    [31m[4m[34m[0m[0m[0m     [31m[4m[34mverb[0m[0m[0m 
+         [31mकम करना[0m               [31mदुर्बल होना[0m      

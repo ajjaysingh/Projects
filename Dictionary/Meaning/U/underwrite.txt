@@ -1,0 +1,35 @@
+[35m                                                                                    UNDERWRITE                                                                                    [0m
+[91m        SHORT  To underwrite is to insure or promise to be financially responsible in case of loss or damage. An insurance agent can underwrite your renter's insurance
+               policy, which protects you if there's a fire or robbery, for example.[0m
+[36m         LONG  Insurance companies can underwrite, estimating the value of a life or property, and so can large banks — when a bank underwrites a loan, it means they
+               carefully check the borrower's credit history. The word underwrite comes from the Old English underwritan, "write at the foot of," and
+               originally is exactly what underwriters did, signing their names at the bottom of an assessment of risk, promising to pay in case of disaster
+               in exchange for a set amount of money.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Barclays fared better in advisory and underwriting, reporting its best ever performance in debt capital markets in terms of market share.[0m
+[3m             > The film is somehow both overwritten and underwritten.[0m
+[3m             > Soccer Federation, which underwrites and administers the league, are in a tricky spot.[0m
+[3m             > As a result, many borrowers’ debt ratios were pushed beyond most lenders’ underwriting limits.[0m
+[3m             > A UK government commitment to underwrite funding for existing EU projects means that the early years of investment will be guaranteed.[0m
+
+[35mUnderwrite[0m[36m /ʌndəˈrʌɪt,ˈʌndərʌɪt/,[0m [91m[3mverb[0m[0m | verb: underwrite; 3rd person present: underwrites; past tense: underwrote; gerund or present participle: underwriting; past participle: underwritten
+      [32m1.[0m [37msign and accept liability under (an insurance policy), thus guaranteeing payment in case loss or damage occurs.[0m
+	   "the policy, underwritten at Lloyd's, indemnifies trustees against loss arising from wrongful acts"
+          • [37maccept (a liability or risk) under the terms of an insurance policy.[0m
+	   "the insurance companies have underwritten just over half the risk"
+
+      [32m2.[0m [37m(of a bank or other financial institution) pledge to buy all the unsold shares in (an issue of new shares).[0m
+	   "the purchase is being paid for by a share issue, which has been underwritten"
+          • [37mundertake to finance or otherwise support or guarantee (something).[0m
+	   "they were willing to underwrite, in part, the construction of a ship"
+  	   [3msynonyms:[0m sponsor, support, back, insure, indemnify, provide security for, take the risk for, subsidize, contribute to, pay for, provide capital for, finance, fund
+                     ;  sanction, agree to, approve, confirm, ratify, validate, authenticate, certify, seal, guarantee, warrant, accredit ;  foot the
+                     bill for, pick up the tab for ;  bankroll
+		    "the London-based company which underwrote the deal has crashed"
+
+      [32m3.[0m [37mwrite (something) below something else, especially other written matter.[0m
+	   "each subscriber should underwrite his reason for the place he allots his candidate"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+      [31mबीमा कराना[0m        [31mनिम्नांकन करना[0m  
+     [31mदस्तखत करना[0m        [31mहामीदारी करना[0m   
+    [31mदस्तखत कर देना[0m    [31mमहत्व घटाकर लिखना[0m 

@@ -1,0 +1,24 @@
+[35m                                                                                    MORPHOLOGY                                                                                    [0m
+[91m        SHORT  Morphology is the study of how things are put together, like the make-up of animals and plants, or the branch of linguistics that studies the structure of
+               words.[0m
+[36m         LONG  In morphology, the word part morph- means "form" and -ology means "the study of." So, those who study how something is made or formed are engaged in
+               morphology. In biology, the morphology of fish might investigate how the gills work as part of the respiratory system. In language morphology,
+               you might study how prefixes and suffixes added to a word change its meaning.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This shows that the typical penguin tarsometatarsus morphology evolved more rapidly than we thought.[0m
+[3m             > The exhibition is organized similarly, grouped into seven “vectors,” such as Art in Action, Street Morphology, Fidelity to Place or Common Language.[0m
+[3m             > Seahorses possess one of the most highly specialized morphologies and reproductive behaviours.[0m
+[3m             > S2R+ cells were obtained from the laboratory of S. Sigrist, regularly authenticated by morphology and routinely tested for absence of mycoplasma
+               contamination.[0m
+[3m             > This specialized morphology necessitates highly coordinated intracellular functions, however, AD disrupts processes that maintain neuronal health and support
+               circuit function.[0m
+
+[35mMorphology[0m[36m /mɔːˈfɒlədʒi/,[0m [91m[3mnoun[0m[0m | noun: morphology; plural noun: morphologies
+      [32m1.[0m [37mthe study of the forms of things, in particular:[0m
+          • [37mthe branch of biology that deals with the form of living organisms, and with relationships between their structures.[0m
+          • [37mthe study of the forms of words, in particular inflected forms.[0m
+	   "grammar is organized along two main dimensions: morphology and syntax"
+
+      [32m2.[0m [37ma particular form, shape, or structure.[0m
+        [31m[4m[34mnoun[0m[0m[0m                 [31m[4m[34m[0m[0m[0m         
+       [31mशब्द के भागों का विज्ञान[0m       [31mपशुओं और पौधों के रूपों का अध्ययन[0m 

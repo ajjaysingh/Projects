@@ -1,0 +1,29 @@
+[35m                                                                                      POSIT                                                                                       [0m
+[91m        SHORT  To posit something is to assume or suggest that it is true. You can posit an idea or opinion.[0m
+[36m         LONG  When you posit, you submit an idea or give an opinion. Scientists posit many ideas — called hypotheses — that they then try to prove or disprove through
+               experimentation and research. In science, you hear about positing a lot, and the same is true in math and logic. When you say "If X, then Y"
+               you're positing a proposition. Positing can also mean to put something somewhere firmly — this means to deposit, fix, or situate.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But this documentary posits a revision of food history, chronicling the life of the magnetic, repellent man who changed American dining, then disappeared.[0m
+[3m             > Justin Simien’s program remorselessly vilifies the legacy cases on campus, but posits that villainous nature as a fundamental symptom of the entitlement that
+               accompanies status.[0m
+[3m             > Dr Deméré and colleagues are not the first scientists to posit much earlier dates for people settling in the Americas.[0m
+[3m             > Business education doctrine posits that all tax money paid is lost money.[0m
+[3m             > In other words, the stakes on both sides are posited so extraordinarily high.[0m
+
+[35mPosit[0m[36m /ˈpɒzɪt/,[0m [91m[3mverb[0m[0m | verb: posit; 3rd person present: posits; past tense: posited; past participle: posited; gerund or present participle: positing
+      [32m1.[0m [37mput forward as fact or as a basis for argument.[0m
+	   "the Confucian view posits a perfectible human nature"
+  	   [3msynonyms:[0m postulate, put forward, advance, propound, submit, predicate, hypothesize, take as a hypothesis, set forth, propose, pose, assert ;  presuppose, assume,
+                     presume
+		    "there are those who posit a purely biological basis for this phenomenon"
+          • [37mbase something on the truth of (a particular assumption).[0m
+	   "these plots are posited on a false premise about women's nature as inferior"
+
+      [32m2.[0m [37mput in position; place.[0m
+	   "the Professor posits Cohen in his second category of poets"
+    [91m[3mnoun Philosophy[0m[0m | noun: posit; plural noun: posits
+      [32m1.[0m [37ma statement which is made on the assumption that it will prove to be true.[0m
+          [31m[4m[34mverb[0m[0m[0m                     [31m[4m[34m[0m[0m[0m           
+           [31mकिसी स्थिति में रखना[0m                       [31mतथ्‍य मान लेना[0m            
+               [31mमंज़ूर करना[0m                         [31mआधार तत्‍व मान लेना[0m          

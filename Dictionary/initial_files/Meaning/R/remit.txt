@@ -1,0 +1,56 @@
+[35m                                                                                      REMIT                                                                                       [0m
+[91m        SHORT  If you send your client a bill for your consulting services, be sure to include your address so he knows where to remit the payment.[0m
+[36m         LONG  Remit means send back, and it has many uses. If you remit payment, you send it back to the person you owe it to. If you’ve been in prison for five years of a
+               seven-year sentence but you’ve been on good behavior, a judge might remit the remainder of your sentence and let you go free. If you have a
+               chronic illness and it seems to clear up or go away, we say it is in remittance.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Wahls will observe 100 people with relapsing–remitting MS for 12 weeks before splitting them randomly into the Swank or the Wahls treatment.[0m
+[3m             > Freedman, for example, is collaborating with colleagues to enrol 40 patients with either relapsing–remitting or secondary progressive MS into a Canadian trial
+               called MESCAMS.[0m
+[3m             > Yet all these agents combat the clinical attacks associated with the more common relapsing–remitting MS.[0m
+[3m             > “Your debt has not been waived, canceled or remitted by this notice.”[0m
+[3m             > How much workers are paid isn't part of the Fed’s remit, but their situation might help limit inflation.[0m
+
+[35mRemit[0m [91m[3mverb[0m[0m | verb: remit; 3rd person present: remits; past tense: remitted; past participle: remitted; gerund or present participle: remitting    /rɪˈmɪt/
+      [32m1.[0m [37mcancel or refrain from exacting or inflicting (a debt or punishment).[0m
+	   "the excess of the sentence over 12 months was remitted"
+	   [3msynonyms:[0m cancel, set aside, revoke, repeal, rescind, 
+		    "the fines imposed on the Earl of Lancaster were remitted"
+          • [37mforgive (a sin).[0m
+	   "God's act of remitting the sins of guilty men"
+	   [3msynonyms:[0m pardon, forgive; 
+		    "remitting their sins"
+
+      [32m2.[0m [37msend (money) in payment or as a gift.[0m
+	   "the income they remitted to their families"
+	   [3msynonyms:[0m send, dispatch, forward, transmit, convey
+		    "they refused to remit customs duties to the federal authorities"
+
+      [32m3.[0m [37mrefer (a matter for decision) to an authority.[0m
+	   "the request for an investigation was remitted to a special committee"
+	   [3msynonyms:[0m pass (on), refer, send on, transfer, hand on, 
+		    "the case was remitted to the Court of Appeal"
+          • [37msend back (a case) to a lower court.[0m
+          • [37msend (someone) from one tribunal to another for a trial or hearing.[0m
+	   "it remits an offender to another court after convicting him"
+          • [37mpostpone.[0m
+	   "the movers refused Mr Tierney's request to remit the motion"
+	   [3msynonyms:[0m postpone, defer, put off, put back, shelve, 
+		    "we remitted all further discussion until he sent me a copy of his letter"
+          • [37mconsign again to a previous state.[0m
+	   "thus his indiscretion remitted him to the nature of an ordinary person"
+
+      [32m4.[0m [37mdiminish.[0m
+	   "phobias may remit spontaneously without any treatment"
+	   [3msynonyms:[0m diminish, lessen, decrease, ease (up), abate, 
+		    "the fever remitted"
+    [91m[3mnoun[0m[0m | noun: remit; plural noun: remits    /ˈriːmɪt,rɪˈmɪt/
+      [32m1.[0m [37mthe task or area of activity officially assigned to an individual or organization.[0m
+	   "the committee was becoming caught up in issues that did not fall within its remit"
+	   [3msynonyms:[0m area of responsibility, area of activity, sphere, orbit, scope, 
+		    "his remit includes administering the consumer credit licensing system"
+
+      [32m2.[0m [37man item referred to someone for consideration.[0m
+	   "a remit on the question failed"
+    [31m[4m[34mverb[0m[0m[0m         [31m[4m[34m[0m[0m[0m     
+            [31mछोड़ना[0m                   [31mप्रेषण करना[0m        

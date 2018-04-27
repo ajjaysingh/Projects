@@ -1,0 +1,25 @@
+[35m                                                                                     DE JURE                                                                                      [0m
+[91m        SHORT  Use the adjective de jure to describe something that exists legally, like a law which specifies that companies can't discriminate against disabled people when
+               they're hiring workers.[0m
+[36m         LONG  The phrase de jure is often used to emphasize the opposite of de facto, which means "by fact, or "by practice." For example, de facto practices at companies
+               are sometimes discriminatory despite de jure regulations against those practices. The Latin phrase literally means "of law," and it's been used
+               since the 1600s to mean "legitimate or legal," especially by those in the legal profession.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Only if neighborhoods are segregated “de jure,” by explicit government policy, is remedial action permitted.[0m
+[3m             > It was democracy de facto, not democracy de jure: a vision of American power as what it’s sometimes been, not as what it should be.[0m
+[3m             > However, Israel says the Fourth Geneva Convention does not apply de jure to the West Bank because, it says, the territory is not technically occupied.[0m
+[3m             > After the Second World War, the State of Israel was established and gradually recognized ‘de jure’ — or lawfully — by most of the world’s countries.[0m
+[3m             > Those who become Trump’s ally de jure may become America’s foe in the future.[0m
+
+[35mDe Jure[0m[36m /deɪ ˈjʊəreɪ,diː ˈdʒʊəri/,[0m [91m[3madverb[0m[0m | adverb: de jure; adverb: dejure
+      [32m1.[0m [37maccording to rightful entitlement or claim; by right.[0m
+	   "the resolution declared that the independent Republic of Latvia proclaimed on November 18, 1918 was still in existence de jure"
+  	   [3msynonyms:[0m by right, rightfully, rightfully legally, legally according to the law ;  Morerightful, legal rightful, rightful legal legal
+  	   [3mantonyms:[0m de facto de facto
+    [91m[3madjective[0m[0m | adjective: de jure; adjective: dejure
+      [32m1.[0m [37mexisting or holding a specified position by legal right.[0m
+	   "he had been de jure king since his father's death"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34madverb[0m[0m[0m
+         [31mविधित[0m         [31mक़ानूनी प्रकार में[0m 
+
+      Origin:  Latin, literally ‘of law’.

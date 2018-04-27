@@ -1,0 +1,14 @@
+[35m                                                                                      SENSOR                                                                                      [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Cars with sensors for driver-assist systems already are gathering data about road signs, lane lines and human driver behavior.[0m
+[3m             > Sensors gauging a hive’s temperature, weight, humidity, acoustics and more already exist, but Symes said that data is just sitting there.[0m
+[3m             > A few years ago, the European Union installed a ground sensor station for its Galileo global satellite navigation system on St. Pierre.[0m
+[3m             > Some require sensors on every door and window, or motion detectors in every room.[0m
+[3m             > The project aims to exploit the bizarre behaviour shown by quantum systems to develop new technologies, such as super-secure communication systems and
+               miniature, ultra-accurate sensors.[0m
+
+[35mSensor[0m[36m /ˈsɛnsə/,[0m [91m[3mnoun[0m[0m | noun: sensor; plural noun: sensors
+          • [37ma device which detects or measures a physical property and records, indicates, or otherwise responds to it.[0m
+	   "to ensure greater response and surer handling, the engineers used electronic sensors to monitor each wheel"
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mज्ञानेंद्री[0m 

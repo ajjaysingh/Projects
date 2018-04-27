@@ -1,0 +1,28 @@
+[35m                                                                                    INSOLVENT                                                                                     [0m
+[91m        SHORT  Piggy bank empty? Nothing but lint in your pockets? Then you're probably unable to meet any financial obligations. In other words, you are insolvent.[0m
+[36m         LONG  Being insolvent isn't just about being poor. A person or business that's insolvent has no resources, no assets and no way to pay any of the bills. This
+               adjective insolvent is a synonym for bankrupt, and surely the last thing anyone wants to be. The only way to solve the problem of insolvency?
+               Start saving your pennies again from scratch.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The case will not be formally called bankruptcy, since Puerto Rico is barred from using Chapter 9, the usual chapter used by insolvent local governments.[0m
+[3m             > Zombie companies are loosely defined as loss-making or insolvent entities that should be allowed to fail, but continue to operate because of lenient
+               creditors.[0m
+[3m             > In January 2016, the city was told that Pronto was insolvent and would shut down if the city didn’t buy it.[0m
+[3m             > Describing Metro’s cash-flow condition as “very serious,” an official in the District said that without the infusion of cash, “they’re insolvent.”[0m
+[3m             > The state of Rio is nearly insolvent, struggling to pay salaries and mollify enraged employees.[0m
+
+[35mInsolvent[0m[36m /ɪnˈsɒlv(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: insolvent
+      [32m1.[0m [37munable to pay debts owed.[0m
+	   "the company became insolvent"
+  	   [3msynonyms:[0m bankrupt, unable to pay one's debts, ruined, collapsed, defaulting, liquidated, wiped out ;  penniless, impoverished, penurious, impecunious, without a
+                     sou ;  in the hands of the receivers, in receivership, in administration, without a penny (to one's name) ;  bust, broke, flat
+                     broke, belly-up, gone under, gone to the wall, on the rocks, in the red, hard up, strapped for cash ;  skint, in Queer Street, stony
+                     broke, cleaned out, without two pennies to rub together ;  in Carey Street ;  pauperized, beggared
+		    "the bank was declared insolvent"
+  	   [3mantonyms:[0m solvent
+          • [37mrelating to insolvency.[0m
+	   "insolvent liquidation"
+    [91m[3mnoun[0m[0m | noun: insolvent; plural noun: insolvents
+      [32m1.[0m [37man insolvent person.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mदिवालिया[0m    [31mदिवालियापन[0m    [31mशोधाक्षम[0m  

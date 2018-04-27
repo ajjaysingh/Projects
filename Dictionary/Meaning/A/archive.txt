@@ -1,0 +1,32 @@
+[35m                                                                                     ARCHIVE                                                                                      [0m
+[91m        SHORT  An archive is a collection of older things — documents, books, movies, or something else — that's meant to preserve them. Archives tell us about history.[0m
+[36m         LONG  An archive involves old stuff — specifically, a collection of old stuff, often put together by a librarian. Newspaper archives collect old newspapers, usually
+               all copies of a paper from a certain date onward. There are movie and music archives. Most museums have many types of archives within them. And
+               it's always a good idea to keep an archive of important files on your computer. When you put something in an archive, you're archiving it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Burden agreed right away and provided the filmmakers with access to his personal archives — which included photographs, video and audio.[0m
+[3m             > Its Twitter feed is not normally noted for trolling, usually opting instead to publish archive photographs of Nixon tied in to topical themes.[0m
+[3m             > With his adjutants, Dobyns visited a dozen archives, including those in the cathedral.[0m
+[3m             > The recording is part of an exhibit at the Harvard Archives on Kennedy’s ties to the Cambridge school.[0m
+[3m             > The archives will digitize and preserve the original film.[0m
+
+[35mArchive[0m[36m /ˈɑːkʌɪv/,[0m [91m[3mnoun[0m[0m | noun: archive; plural noun: archives
+      [32m1.[0m [37ma collection of historical documents or records providing information about a place, institution, or group of people.[0m
+	   "a section of archive film"
+  	   [3msynonyms:[0m records, annals, chronicles, registers, accounts ;  papers, documents, rolls, dossiers, files, deeds, ledgers ;  history, information, evidence ;
+                     documentation, paperwork ;  muniments
+		    "if you delve into the family archives you'll find that their marriage was a very happy one"
+          • [37mthe place where historical documents or records are kept.[0m
+	   "they were allowed to study in the archives"
+  	   [3msynonyms:[0m record office, registry, repository, museum, chancery
+		    "more and more museums, archives, and libraries are becoming independent"
+          • [37ma complete record of the data in part or all of a computer system, stored on an infrequently used medium.[0m
+    [91m[3mverb[0m[0m | verb: archive; 3rd person present: archives; past tense: archived; past participle: archived; gerund or present participle: archiving
+      [32m1.[0m [37mplace or store (something) in an archive.[0m
+	   "these videos are archived for future use"
+  	   [3msynonyms:[0m file, log, catalogue, pigeonhole ;  store, record, register, chronicle, cache ;  document, put on record, post
+		    "these videos are archived for future use"
+          • [37mtransfer (data) to a less frequently used storage medium such as magnetic tape.[0m
+	   "the entire directory will be archived"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mसंग्रह[0m   [31mपुरालेख[0m 

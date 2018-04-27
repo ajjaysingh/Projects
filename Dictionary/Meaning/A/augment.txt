@@ -1,0 +1,29 @@
+[35m                                                                                     AUGMENT                                                                                      [0m
+[91m        SHORT  Do you need to make something bigger, better, or stronger? Then you need to augment it. To augment is to increase the amount or strength of something.[0m
+[36m         LONG  Maybe your bike isn't getting around very well on hills: the bike needs to be augmented with a better set of tires. People augment their computers and phones
+               all the time, adding new gadgets and apps. They augment the storage space in their cars by buying roof racks. If the President decides to
+               augment taxes, taxes are going up. When you see the word augment, think "More!"[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Amazons and Apples of the world are going after people familiar with Bluetooth speaker technology, who are looking to augment their home not just with
+               audio, but with additional voice-based functionality.[0m
+[3m             > Still, many experts see potential in platforms that hope to augment, rather than replace, human interactions.[0m
+[3m             > Finally, China is also seeking to augment its influence in the region.[0m
+[3m             > One intriguing feature of peripheral innate immunity is a phenomenon called immune memory: the body’s innate immune system ‘remembers’ previous exposures to
+               microbes, and augments its responses to reinfections accordingly1,2.[0m
+[3m             > While the software maker demonstrates basic games for learning, programming, and augmented reality, this looks like the perfect hardware to combine the
+               company’s Minecraft game with real-world Lego blocks.[0m
+
+[35mAugment[0m [91m[3mverb[0m[0m | verb: augment; 3rd person present: augments; past tense: augmented; past participle: augmented; gerund or present participle: augmenting    /ɔːɡˈmɛnt/
+      [32m1.[0m [37mmake (something) greater by adding to it; increase.[0m
+	   "he augmented his meagre income by plying for hire as a ferryman"
+  	   [3msynonyms:[0m inflame, step up, intensify, extend, exacerbate, jack up, reinforce, escalate, crank up, up, boost, compound, bump up, improve, hike, enlarge, magnify,
+                     upgrade, swell, aggravate, top up, ameliorate, add to, raise, enhance, make bigger, make larger, worsen, supplement, heighten, make
+                     worse, multiply, make greater, inflate, increase, amplify, make better, hike up, elevate, build up, expand,
+		    "he augmented his meagre income by plying for hire as a ferryman"
+  	   [3mantonyms:[0m decrease,
+    [91m[3mnoun Linguistics[0m[0m | noun: augment; plural noun: augments    /ˈɔːɡm(ə)nt/
+      [32m1.[0m [37ma vowel prefixed to past tenses of verbs in Greek and certain other Indo-European languages.[0m
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mबढ़ाना[0m        [31mवृद्ध[0m       [31mसंवर्ध[0m   
+
+      Origin:  late Middle English: from Old French augmenter (verb), augment (noun), or late Latin augmentare, from Latin augere ‘to increase’.

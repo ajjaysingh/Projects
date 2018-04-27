@@ -1,0 +1,37 @@
+[35m                                                                                      DEMUR                                                                                       [0m
+[91m        SHORT  If your mother asks you to clean your room and you refuse, you demur. And if your friend invites you to the Death Metal Forever concert but you hesitate, you
+               demur. Whether you object, politely disagree, or hesitate, you demur.[0m
+[36m         LONG  If Aunt Tilly offers to knit you a sweater, you might politely demur, being reluctant to accept. When she describes the bunnies she plans for the sweater, you
+               would want to strongly demur, explaining that you are moving to Texas next week and will no longer need sweaters. And if you find yourself the
+               defendant in a civil suit, you might file a demurrer, objecting to the plaintiff’s complaint. When you file that demurrer, you also demur.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > During the encounter, Baril attempted to kiss the woman and she demurred, rejecting his advances by saying, “not in public,” the prosecutor said.[0m
+[3m             > Stone demurred that it was politeness to an extremely busy man and curiosity about such a captivating figure.[0m
+[3m             > Pressed during the second debate on whether she believes human activity is a cause of climate change, Handel demurred, saying: “I am not a scientist.”[0m
+[3m             > Asked directly whether the president’s actions constituted obstruction of justice, Comey demurred.[0m
+[3m             > For now, most of the possible contenders are demurring when asked about their plans for 2020.[0m
+
+[35mDemur[0m[36m /dɪˈməː/,[0m [91m[3mverb[0m[0m | verb: demur; 3rd person present: demurs; past tense: demurred; past participle: demurred; gerund or present participle: demurring
+      [32m1.[0m [37mraise objections or show reluctance.[0m
+	   "normally she would have accepted the challenge, but she demurred"
+  	   [3msynonyms:[0m raise objections, object, object take exception, take issue, protest, protest lodge a protest, cavil, cavil dissent dissent ;  raise doubts, express
+                     doubt, express reluctance, express reservations, express misgivings, be unwilling, be reluctant, baulk, hesitate, hesitate think
+                     twice, hang back, drag one's heels, refuse refuse ;  be cagey, boggle, boggle kick up a fuss, kick up a stink
+		    "Mr Steed demurred when the suggestion was put to him"
+          • [37mput forward a demurrer.[0m
+    [91m[3mnoun[0m[0m | noun: demur
+      [32m1.[0m [37mthe action of objecting to or hesitating over something.[0m
+	   "they accepted this ruling without demur"
+  	   [3msynonyms:[0m objection, objection protest, protest protestation, protestation complaint, complaint dispute, dispute dissent, dissent carping, carping cavilling,
+                     recalcitrance, opposition, opposition resistance resistance ;  reservation, reservation hesitation, hesitation reluctance,
+                     reluctance unwillingness, unwillingness disinclination, disinclination lack of enthusiasm ;  doubts, qualms, misgivings, second
+                     thoughts second thoughts ;  a murmur, a peep, a word, a sound ;  niggling, griping, grousing, boggling ;  demurrers ;  demurral
+                     demurral
+		    "they accepted the ruling without demur"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mआपत्ति[0m           [31mशंका उपजना[0m         [31mआपत्ति करना[0m   
+       [31mरतराज़[0m        [31mमन डांवाडोल होना[0m      [31mविलम्ब करना[0m   
+        [31mशंका[0m            [31mअपत्ति करना[0m         [31mरोक देना[0m     
+        [31mसंदेह[0m              [31mडोलना[0m           [31mस्थगित करना[0m   
+
+      Origin:  Middle English (in the sense ‘linger, delay’): from Old French demourer (verb), demeure (noun), based on Latin de- ‘away, completely’ + morari ‘delay’.

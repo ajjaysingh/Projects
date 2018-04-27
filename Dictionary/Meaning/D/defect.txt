@@ -1,0 +1,29 @@
+[35m                                                                                      DEFECT                                                                                      [0m
+[91m        SHORT  A flaw in something is a defect. At certain stores you can buy clothes with slight defects. You have to be careful because the defect can be minor, like a
+               missing button, or major, like sleeves of uneven lengths.[0m
+[36m         LONG  In a person, a defect is an imperfection, which can manifest itself mentally or physically. If you are diagnosed with a heart defect, you will have to seek
+               the advice of specialists. A hearing defect might leave your dad deaf in one ear. If you are becoming forgetful, you can joke that you are
+               developing a mental defect, but if it continues, you'll probably want to have your head examined.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the new building, only those mice still developed the brain defect.[0m
+[3m             > The friendly pooch was born with an eye defect and a leg deformity that may someday require surgery.[0m
+[3m             > Holmes pleaded not guilty by reason of mental disease or defect in February.[0m
+[3m             > “We are still investigating the incident to determine if it was caused by a mechanical defect or human error on the part of the driver.”[0m
+[3m             > Another regular North Korea accusation: South Korea abducting or enticing the North’s citizens to defect.[0m
+
+[35mDefect[0m[36m /ˈdiːfɛkt,dɪˈfɛkt/,[0m [91m[3mnoun[0m[0m | noun: defect; plural noun: defects
+          • [37ma shortcoming, imperfection, or lack.[0m
+	   "genetic defects"
+  	   [3msynonyms:[0m fault, flaw, imperfection, deficiency, weakness, weak spot/point, inadequacy, shortcoming, limitation, failing, obstruction ;  snag, kink, deformity,
+                     blemish, taint, crack, break, tear, split, scratch, chip, fracture, spot ;  mistake, error ;  bug, virus ;  glitch, gremlin
+		    "a defect in the software"
+[35mDefect[0m[36m /dɪˈfɛkt/,[0m [91m[3mverb[0m[0m | verb: defect; 3rd person present: defects; past tense: defected; past participle: defected; gerund or present participle: defecting
+          • [37mabandon one's country or cause in favour of an opposing one.[0m
+	   "he defected to the Soviet Union after the war"
+  	   [3msynonyms:[0m desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor, rebel, renege, abscond, go AWOL, quit, escape ;  shift ground, break
+                     faith, be apostate, apostatize ;  abandon, renounce, repudiate, secede from, revolt against ;  rat on ;  forsake ;  tergiversate
+		    "their ruthlessness discouraged army officers from defecting"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mदोष[0m      [31mखराबी[0m  
+   [31mत्रुटि[0m    [31mविकार[0m  
+    [31mकमी[0m         [31m[0m    

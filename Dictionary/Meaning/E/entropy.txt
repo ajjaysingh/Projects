@@ -1,0 +1,25 @@
+[35m                                                                                     ENTROPY                                                                                      [0m
+[91m        SHORT  The idea of entropy comes from a principle of thermodynamics dealing with energy. It usually refers to the idea that everything in the universe eventually
+               moves from order to disorder, and entropy is the measurement of that change.[0m
+[36m         LONG  The word entropy finds its roots in the Greek entropia, which means "a turning toward" or "transformation." The word was used to describe the measurement of
+               disorder by the German physicist Rudolph Clausius and appeared in English in 1868. A common example of entropy is that of ice melting in water.
+               The resulting change from formed to free, from ordered to disordered increases the entropy.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Trump presidency may now be disintegrating, tumbling toward entropy.[0m
+[3m             > Its revelation was that society, left alone, tended toward entropy and extremes, not because people were inherently awful but because they thought locally.[0m
+[3m             > Entropy is already pulling at the Cubs in other ways.[0m
+[3m             > The young field of quantum thermodynamics, which tries to reconcile quantum theory with the 200-year-old science of heat and entropy, is booming.[0m
+[3m             > Many immortalists view aging not as a biological process but as a physical one: entropy demolishing a machine.[0m
+
+[35mEntropy[0m[36m /ˈɛntrəpi/,[0m [91m[3mnoun[0m[0m | noun: entropy; plural noun: entropies; symbol: S
+      [32m1.[0m [37ma thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of
+           disorder or randomness in the system.[0m
+	   "the second law of thermodynamics says that entropy always increases with time"
+
+      [32m2.[0m [37mlack of order or predictability; gradual decline into disorder.[0m
+	   "a marketplace where entropy reigns supreme"
+
+      [32m3.[0m [37m(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language.[0m
+                         [31m[4m[34m[0m[0m[0m                        
+                             [31mएन्ट्रापी[0m                            
+  [31mउस ऊर्जा का परिमाण जो यांत्रिक ऊर्जा में परिवर्तित नहीं हो सकती[0m 

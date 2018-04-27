@@ -1,0 +1,32 @@
+[35m                                                                                     DIVIDEND                                                                                     [0m
+[91m        SHORT  A dividend is a bonus. If you buy a cup of coffee and the shop owner throws in a free muffin, that's a dividend. Your charm and loyal patronage are paying
+               dividends![0m
+[36m         LONG  If you own stock and your company has had a good year, you’ll probably get a dividend — a share of the profit the company pays to shareholders. You've
+               probably also heard the word dividend in math class: if you've got 300 divided by 50, 300 is the dividend (and 50 is the divisor).[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > After Trump’s victory, that list is already paying dividends.[0m
+[3m             > It would also shift the U.S. to a full territorial system by exempting 100% of dividends repatriated from foreign subsidiaries.[0m
+[3m             > In the wake of crude’s fall to under $30 a barrel, Eni slashed its dividend and announced heavy cost cuts to accompany the asset sales.[0m
+[3m             > The deal involves a special dividend to be paid to UniCredit, the source said.[0m
+[3m             > I assumed the impact of dividends was about the same.[0m
+
+[35mDividend[0m[36m /ˈdɪvɪdɛnd/,[0m [91m[3mnoun[0m[0m | noun: dividend; plural noun: dividends
+      [32m1.[0m [37ma sum of money paid regularly (typically annually) by a company to its shareholders out of its profits (or reserves).[0m
+          • [37ma payment divided among a number of people, e.g. winners in a football pool or members of a cooperative.[0m
+          • [37man individual's share of a dividend.[0m
+	   "the shareholder receives a substantial annual dividend"
+	   [3msynonyms:[0m share, portion, percentage, premium, return, 
+		    "the shareholder receives a substantial annual dividend"
+          • [37ma benefit from an action or policy.[0m
+	   "buying a rail pass may still pay dividends"
+	   [3msynonyms:[0m benefit, advantage, gain, bonus, extra, 
+		    "the research will produce dividends for future heart patients"
+	   [3mantonyms:[0m disadvantage
+
+      [32m2.[0m [37ma number to be divided by another number.[0m
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mलाभांश[0m 
+   [31mभाज्य[0m 
+    [31mभाग[0m  
+    [31mअंश[0m  
+    [31mसूद[0m  

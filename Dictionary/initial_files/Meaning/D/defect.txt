@@ -1,0 +1,27 @@
+[35m                                                                                      DEFECT                                                                                      [0m
+[91m        SHORT  A flaw in something is a defect. At certain stores you can buy clothes with slight defects. You have to be careful because the defect can be minor, like a
+               missing button, or major, like sleeves of uneven lengths.[0m
+[36m         LONG  In a person, a defect is an imperfection, which can manifest itself mentally or physically. If you are diagnosed with a heart defect, you will have to seek
+               the advice of specialists. A hearing defect might leave your dad deaf in one ear. If you are becoming forgetful, you can joke that you are
+               developing a mental defect, but if it continues, you'll probably want to have your head examined.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Scattering by phonons and charged defects disrupts the coherent motion of these carriers, leading to diffusive transport when the scattering is strong.[0m
+[3m             > One was transmitted from mother to baby before birth but did not cause microcephaly, the most common birth defect associated with the virus.[0m
+[3m             > Details of the driver’s fate emerged after a Syrian forensic officer defected in September 2013, fleeing the country with more than 50,000 photographs.[0m
+[3m             > The leading cause of infant death was birth defects, some condition that was present before birth.[0m
+[3m             > At another time, Iran asked for the exchange of the defecting general, while Levinson remained held all the while, it said.[0m
+
+[35mDefect[0m[36m /ˈdiːfɛkt,dɪˈfɛkt/,[0m [91m[3mnoun[0m[0m | noun: defect; plural noun: defects
+          • [37ma shortcoming, imperfection, or lack.[0m
+	   "genetic defects"
+	   [3msynonyms:[0m fault, flaw, imperfection, deficiency, weakness, 
+		    "a defect in the software"
+[35mDefect[0m[36m /dɪˈfɛkt/,[0m [91m[3mverb[0m[0m | verb: defect; 3rd person present: defects; past tense: defected; past participle: defected; gerund or present participle: defecting
+          • [37mabandon one's country or cause in favour of an opposing one.[0m
+	   "he defected to the Soviet Union after the war"
+	   [3msynonyms:[0m desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor, rebel, 
+		    "their ruthlessness discouraged army officers from defecting"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mदोष[0m      [31mखराबी[0m  
+   [31mत्रुटि[0m    [31mविकार[0m  
+    [31mकमी[0m         [31m[0m    

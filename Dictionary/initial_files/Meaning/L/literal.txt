@@ -1,0 +1,46 @@
+[35m                                                                                     LITERAL                                                                                      [0m
+[91m        SHORT  To describe something as literal is to say that it is exactly what it seems to be. For example, if you put up a literal barrier to keep the world out, you've
+               actually built a real wall.[0m
+[36m         LONG  The background of literal includes the Latin litterālis, meaning "of letters or writing." This led to the sense of exactness, suggesting something is "to the
+               letter."  Many people misuse this word, as in "Listening to that dull teacher put me in a literal coma." Possible, but highly doubtful.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Also, the draining of literal and figurative swamps is an outdated activity.[0m
+[3m             > “He was, in the very literal meaning of the word, a gentleman.”[0m
+[3m             > It’s a story about finding family, both literal and figurative.[0m
+[3m             > “You think about what is real, what is not, and how we enter spaces both imaginary and literal.”[0m
+[3m             > “A Woman’s Life” — a more literal translation of the French title would just be “A Life” — is the new film by Stéphane Brizé.[0m
+
+[35mLiteral[0m[36m /ˈlɪt(ə)r(ə)l/,[0m [91m[3madjective[0m[0m | adjective: literal; adjective: literal-minded
+      [32m1.[0m [37mtaking words in their usual or most basic sense without metaphor or exaggeration.[0m
+	   "dreadful in its literal sense, full of dread"
+          • [37mfree from exaggeration or distortion.[0m
+	   "you shouldn't take this as a literal record of events"
+	   [3msynonyms:[0m strict, factual, plain, simple, bare, 
+		    "those who believe in the literal truth of the biblical Genesis"
+	   [3mantonyms:[0m metaphorical, figurative, loose, approximate
+          • [37mabsolute (used to emphasize that a strong expression is deliberately chosen to convey one's feelings).[0m
+	   "fifteen years of literal hell"
+
+      [32m2.[0m [37m(of a translation) representing the exact words of the original text.[0m
+	   "a literal translation from the Spanish"
+	   [3msynonyms:[0m word-for-word, verbatim, line-for-line, letter-for-letter;
+		    "a literal translation"
+	   [3mantonyms:[0m loose, liberal, vague
+          • [37m(of a visual representation) exactly copied; realistic as opposed to abstract or impressionistic.[0m
+
+      [32m3.[0m [37m(of a person or performance) lacking imagination; prosaic.[0m
+	   "his interpretation was rather too literal"
+	   [3msynonyms:[0m literal-minded, down-to-earth, factual, matter-of-fact, no-nonsense, 
+		    "his literal, unrhetorical manner"
+	   [3mantonyms:[0m whimsical
+
+      [32m4.[0m [37mof, in, or expressed by a letter or the letters of the alphabet.[0m
+	   "literal mnemonics"
+    [91m[3mnoun Printing British[0m[0m | noun: literal; plural noun: literals
+      [32m1.[0m [37ma misprint of a letter.[0m
+	   "William read through the article, correcting two literals"
+	   [3msynonyms:[0m misprint, error, mistake, slip, slip of the pen, 
+		    "William read through the article, correcting two literals"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+       [31mशाब्दिक[0m          [31mदास्र्स्ती[0m    
+       [31mआक्षरिक[0m           [31mसमयनिष्ठा[0m    

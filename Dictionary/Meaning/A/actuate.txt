@@ -1,0 +1,33 @@
+[35m                                                                                     ACTUATE                                                                                      [0m
+[91m        SHORT  To actuate is to put into motion. The "act" in actuate can remind you of this word's meaning — to put into action. A lever might actuate a pump, or malice
+               might actuate a crime.[0m
+[36m         LONG  Coming to us from the Latin word actus, which means "to act," actuate's meaning is simpler than it sounds — it just means to set in motion or activate some
+               kind of motion. Think of one of those complex Rube Goldberg mouse traps; you know, the one where the boot kicks the ball that drops on the
+               plank that tips over the ladder which rings a bell that cracks an egg that knocks over the cage onto the unsuspecting mouse. The boot actuates
+               the whole shebang.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "My task was to design the means of allowing a customer, and only a genuine customer, to actuate the dispenser mechanism," he said.[0m
+[3m             > There’s a membrane, or diaphragm, inside the Ether Flows that is actuated using magnets to generate sound, though MrSpeakers puts an extra wrinkle on its
+               design, literally.[0m
+[3m             > But technology's actuating force is to destroy such constructs.[0m
+[3m             > In their place, Ara is going with physically connected pogo pins and an electronically actuated latch.[0m
+[3m             > "It is electrically powered and hydraulically actuated," the company explained.[0m
+
+[35mActuate[0m[36m /ˈaktʃʊeɪt/,[0m [91m[3mverb[0m[0m | verb: actuate; 3rd person present: actuates; past tense: actuated; past participle: actuated; gerund or present participle: actuating
+      [32m1.[0m [37mmake (a machine or device) operate.[0m
+	   "the pendulum actuates an electrical switch"
+  	   [3msynonyms:[0m activate, activate operate, operate switch on, turn on, start up, set going, get going, start off, trigger off, trigger, trigger trip, trip set in
+                     motion, initiate, initiate initialize, initialize energize, energize animate animate
+		    "the sprinkler system was actuated by the fire"
+
+      [32m2.[0m [37mmake (someone) act in a particular way; motivate.[0m
+	   "the defendants were actuated by malice"
+  	   [3msynonyms:[0m motivate, motivate stimulate, stimulate move, move drive, drive rouse, rouse stir, stir stir up, fire, fire fire up, arouse arouse ;  prompt, prompt
+                     incite, incite spark off, influence, influence impel, impel spur on, urge, urge goad goad ;  activate activate
+		    "they proved that the defendant was actuated by malice"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mउकसाना[0m        [31mप्रवृत्त करना[0m  
+      [31mगति देना[0m        [31mसक्रिय करना[0m   
+
+      Origin:  late 16th century: from medieval Latin actuat- ‘carried out, caused to operate’, from the verb actuare, from Latin actus (see act). The original sense was
+               ‘carry out in practice’, later ‘stir into activity, enliven’; sense 1 dates from the mid 17th century.

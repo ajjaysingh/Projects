@@ -1,0 +1,37 @@
+[35m                                                                                       BUOY                                                                                       [0m
+[91m        SHORT  A buoy is a floating marker that indicates the presence of underwater hazards, channels, or places for tying up boats. When buoy is a verb, it can mean to
+               float like a buoy, literally or figuratively. Winning an award could buoy your spirits as if you are floating with pride.[0m
+[36m         LONG  The verb buoy can mean "boost or increase." There aren't many things that will buoy your confidence as much as repeated compliments on how great your new
+               haircut looks. Imagine seeing water buoy up an enormous swan, or the wind buoy up a kite. A more figurative meaning of buoy is to cheer or lift
+               someone's spirits. One way to remember buoy's unusual spelling is the phrase, "Boats usually opt to steer around a buoy."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Overall, however, Broadway continued to see record profits, buoyed by blue-chip musicals like “Hamilton,” ”Wicked” and “The Lion King.”[0m
+[3m             > Ballymore is about to launch its next development nearby, at Trinity Buoy Wharf.[0m
+[3m             > A plaque with a description of the tragedy is on a box that holds a remote-controlled buoy.[0m
+[3m             > Yet McManus & Morgan stayed on, buoyed a bit by the arrival of Aardvark, a natural ally and complementary business, in 1988.[0m
+[3m             > Buoyed by his improvement, his wife hoped he might push off the date.[0m
+
+[35mBuoy[0m[36m /bɔɪ/,[0m [91m[3mnoun[0m[0m | noun: buoy; plural noun: buoys
+      [32m1.[0m [37man anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring.[0m
+	   "the channel is marked by red and green buoys"
+  	   [3msynonyms:[0m marker, anchored float, navigation mark, guide, beacon, signal
+		    "the channel is marked by red and green buoys"
+    [91m[3mverb[0m[0m | verb: buoy; 3rd person present: buoys; past tense: buoyed; past participle: buoyed; gerund or present participle: buoying
+      [32m1.[0m [37mkeep (someone or something) afloat.[0m
+	   "the creatures could swim, both buoyed up and cooled by the water"
+          • [37mmake (someone) cheerful and confident.[0m
+	   "she was buoyed up by his praise"
+  	   [3msynonyms:[0m cheer, cheer up, brighten up, ginger up, hearten, rally, animate, invigorate, comfort, uplift, lift, encourage, stimulate, raise someone's spirits, give
+                     a lift to ;  support, sustain, give strength to, be a source of strength to, be a tower of strength to, keep someone going, see
+                     someone through ;  pep up, perk up, buck up ;  inspirit
+		    "the party was buoyed by an election victory"
+  	   [3mantonyms:[0m depress
+          • [37mcause (a price) to rise to or remain at a high level.[0m
+	   "shares were up 4p, buoyed by his cut-and-thrust management style"
+
+      [32m2.[0m [37mmark with an anchored float.[0m
+	   "a buoyed channel"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mबांधना[0m    [31mतरंड[0m  
+
+      Origin:  Middle English: probably from Middle Dutch boye, boeie, from a Germanic base meaning ‘signal’. The verb is from Spanish boyar ‘to float’, from boya ‘buoy’.

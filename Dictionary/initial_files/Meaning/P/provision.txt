@@ -1,0 +1,56 @@
+[35m                                                                                    PROVISION                                                                                     [0m
+[91m        SHORT  A provision is a store or supply of something, like food or clothing. This noun can also describe the planning you do for "when something happens."[0m
+[36m         LONG  We often use this word when we talk about outdoor activities like hiking or camping, or when we talk about outfitting an army in the field, but it basically
+               means "supply." And since provision comes from the Latin word that means to "attend to," you can pretty much guess what the verb form of this
+               word describes: the act of supplying someone else with provisions. In a legal or contractual sense, a provision is a stipulated condition or
+               proviso.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The provision was passed by both the House and the Senate.[0m
+[3m             > Murray says a provision in the bill will start the process for returning the Kennewick Man to his “rightful resting place.”[0m
+[3m             > “It’s a beautiful bill — vote no,” said Boxer, who boasted that the measure included no fewer than 26 provisions to help California.[0m
+[3m             > The Board of Regents voted Friday for a new agreement that doesn’t include a performance bonus provision, as the previous agreement did.[0m
+[3m             > It contains a provision that would turn the wharf over to the town.[0m
+
+[35mProvision[0m[36m /prəˈvɪʒ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: provision
+      [32m1.[0m [37mthe action of providing or supplying something for use.[0m
+	   "new contracts for the provision of services"
+	   [3msynonyms:[0m supplying, supply, providing, purveying, delivery, 
+		    "the President condemned the provision of weapons to guerrillas"
+          • [37mfinancial or other arrangements for future eventualities or requirements.[0m
+	   plural noun: provisions
+	   [3msynonyms:[0m preparations, plans, planning, prearrangement, arrangements, 
+		    "he never made any sort of provision for the future"
+          • [37man amount set aside out of profits in the accounts of an organization for a known liability, especially a bad debt or the diminution in value of an asset.[0m
+
+          • [37mThe act of making preparations for a possible or future event or situation.[0m
+           "The provision for retirement requires planning."
+
+      [32m2.[0m [37man amount or thing supplied or provided.[0m
+	   "changing levels of transport provision"
+	   [3msynonyms:[0m facilities, services, amenities, resource(s), equipment, 
+		    "there has been limited provision for gifted children in the past"
+          • [37msupplies of food, drink, or equipment, especially for a journey.[0m
+	   plural noun: provisions
+	   [3msynonyms:[0m supplies, food and drink, food, stores, stocks, 
+		    "the English troops were tired and running out of provisions"
+
+      [32m3.[0m [37ma condition or requirement in a legal document.[0m
+	   "the first private prosecution under the provisions of the 1989 Water Act"
+	   [3msynonyms:[0m term, clause, requirement, specification, stipulation
+		    "nearly everyone will be covered by the provisions of the Act"
+
+      [32m4.[0m [37man appointment to a benefice, especially directly by the Pope rather than by the patron, and originally before it became vacant.[0m
+    [91m[3mverb[0m[0m | verb: provision; 3rd person present: provisions; past tense: provisioned; past participle: provisioned; gerund or present participle: provisioning
+      [32m1.[0m [37msupply with food, drink, or equipment, especially for a journey.[0m
+	   "civilian contractors were responsible for provisioning these armies"
+
+      [32m2.[0m [37mset aside an amount in an organization's accounts for a known liability.[0m
+	   "financial institutions have to provision against loan losses"
+
+      [32m3.[0m [37mTo take preparatory action or measures.[0m
+     "A bank must provision against losses from bad loans."
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mप्रावधान[0m       [31mव्यवस्था[0m   
+      [31mनियम[0m           [31mउपबंध[0m    
+      [31mभोजन[0m           [31mशर्त[0m     
+

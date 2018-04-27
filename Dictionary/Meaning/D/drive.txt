@@ -1,0 +1,119 @@
+[35m                                                                                      DRIVE                                                                                       [0m
+[91m        SHORT  To drive is to operate or travel in a motor vehicle. You can drive a car, a bus, or a go-kart.[0m
+[36m         LONG  Drive is one of those multi-functioning words with a lot of uses. In a very general sense it relates to pushing, or a push in a direction; drive and go go
+               hand in hand. You could drive across country, drive cattle on a cattle drive, drive a golf ball by hitting it off a tee, drive prey into the
+               open, clean your computer’s hard drive, or drive someone crazy. But do you really have the drive to do all that?[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In his previous start, the left-hander was pulled in the first inning after consecutive batters struck him with line drives.[0m
+[3m             > Fox News ousted Mr. O’Reilly on April 19 after advertisers left his show in droves.[0m
+[3m             > While drunken driving tests mainly test physical skills, drugged driving screening also looks for cognitive changes.[0m
+[3m             > Clearly the sequence was driven by haste, not deliberation.[0m
+[3m             > He was charged with driving under influence, hit-and-run and driving without a licence.[0m
+
+[35mDrive[0m[36m /drʌɪv/,[0m [91m[3mverb[0m[0m | verb: drive; 3rd person present: drives; past tense: drove; gerund or present participle: driving; past participle: driven
+      [32m1.[0m [37moperate and control the direction and speed of a motor vehicle.[0m
+	   "he got into his car and drove off"
+  	   [3msynonyms:[0m operate, pilot, steer, handle, manage ;  guide, direct, navigate  travel by car, go by car, motor ;  travel on wheels, tool along, bowl along, spin
+		    "you can't drive a car without a speedometer"
+  	   [3mantonyms:[0m walk
+          • [37m(of a motor vehicle) travel under the control of a driver.[0m
+	   "a car drives up, and a man gets out"
+          • [37mown or use (a specified type of car).[0m
+	   "Sue drives an estate car"
+          • [37mbe licensed or competent to drive a motor vehicle.[0m
+	   "I take it you can drive?"
+          • [37mconvey (someone) in a vehicle, especially a private car.[0m
+	   "his wife drove him to Regent's Park"
+  	   [3msynonyms:[0m chauffeur, run, give someone a lift, take, bring, ferry, transport, convey, carry
+		    "I'll drive you to the airport"
+
+      [32m2.[0m [37mpropel or carry along by force in a specified direction.[0m
+	   "the wind will drive you onshore"
+  	   [3msynonyms:[0m power, propel, move, push
+		    "a two-litre engine drives the front wheels"
+          • [37m(of wind, rain, or snow) move or fall with great force.[0m
+	   "the snow drove against him"
+          • [37m(of a source of power) provide the energy to set and keep (an engine or piece of machinery) in motion.[0m
+	   "turbines driven by steam"
+          • [37m(of a device) power or operate (another device).[0m
+	   "the interface can be used to drive a printer"
+          • [37mforce (a stake or nail) into place by hitting or pushing it.[0m
+	   "nails are driven through the boards"
+  	   [3msynonyms:[0m hammer, screw, ram, bang, pound, sink, plunge, thrust, stab, propel, knock, send
+		    "he drove a nail into the sole of the boot"
+          • [37mbore (a tunnel).[0m
+	   "an engineer suggested driving a tunnel through the Judean hills"
+          • [37m(in ball games) hit or kick (the ball) hard with a free swing of the bat, racket, or foot.[0m
+	   "from the free kick Owen drove the ball past the keeper"
+          • [37mstrike (a ball) from the tee, typically with a driver.[0m
+	   "I'm driving the ball really well and my irons are good"
+
+      [32m3.[0m [37murge or force (animals or people) to move in a specified direction.[0m
+	   "they drove a flock of sheep through the centre of the city"
+  	   [3msynonyms:[0m impel, urge, press, move, get going ;  herd, round-up, shepherd
+		    "I was allowed to drive cattle to market"
+          • [37mcompel to leave.[0m
+	   "troops drove out the demonstrators"
+
+      [32m4.[0m [37m(of a fact or feeling) compel (someone) to act in a particular way, especially one that is considered undesirable or inappropriate.[0m
+	   "he was driven by ambition"
+  	   [3msynonyms:[0m force, compel, constrain, impel, press, prompt, precipitate, catapult ;  oblige, coerce, make, pressure, goad, spur, prod
+		    "a desperate mother driven to crime"
+          • [37mbring (someone) forcibly into a specified negative state.[0m
+	   "the thought drove him to despair"
+          • [37mforce (someone) to work to an excessive extent.[0m
+	   "you're driving yourself too hard"
+  	   [3msynonyms:[0m work, exert, push, tax ;  overwork, overtax, overburden
+		    "he drove himself and his staff extremely hard"
+          • [37mcause (something abstract) to happen or develop.[0m
+	   "the consumer has been driving the economy for a number of years"
+    [91m[3mnoun[0m[0m | noun: drive; plural noun: drives
+      [32m1.[0m [37ma trip or journey in a car.[0m
+	   "they went for a drive in the country"
+  	   [3msynonyms:[0m excursion, outing, trip, jaunt, tour, turn ;  ride, run, journey ;  hurl ;  spin, joyride
+		    "a family out for a Sunday afternoon drive"
+          • [37ma street or road.[0m
+	   "Hammond Drive"
+          • [37ma short road leading from a public road to a house or other building.[0m
+	   noun: driveway; plural noun: driveways
+  	   [3msynonyms:[0m driveway, approach, access road ;  road, roadway, avenue
+		    "the house is approached by a long drive"
+
+      [32m2.[0m [37man innate, biologically determined urge to attain a goal or satisfy a need.[0m
+	   "her emotional and sexual drives"
+  	   [3msynonyms:[0m urge, appetite, desire, need ;  impulse, instinct
+		    "a low level of sexual drive"
+          • [37mdetermination and ambition to achieve something.[0m
+	   "his drive helped Leeds to four Cup finals"
+  	   [3msynonyms:[0m motivation, ambition, push, single-mindedness, will power, dedication, doggedness, tenacity, enterprise, initiative, enthusiasm, zeal, commitment,
+                     aggression, aggressiveness, forcefulness, spirit ;  energy, vigour, verve, vitality, liveliness, vim, pep ;  get-up-and-go, zip,
+                     pizzazz, punch
+		    "she lacked the drive to start on a new career"
+  	   [3mantonyms:[0m inertia
+
+      [32m3.[0m [37man organized effort by a number of people to achieve a purpose.[0m
+	   "a recruitment drive by the police"
+  	   [3msynonyms:[0m campaign, crusade, movement, effort, push, surge, appeal
+		    "an anti-corruption drive"
+          • [37man organized gathering to play whist or another game, involving many players.[0m
+	   "a whist drive"
+  	   [3msynonyms:[0m tournament, competition, contest, event, match
+		    "a whist drive"
+
+      [32m4.[0m [37mthe transmission of power to machinery or to the wheels of a motor vehicle.[0m
+	   "he experimented with chain drive to run the propeller"
+          • [37m(in a car with automatic transmission) the position of the gear selector in which the car will move forward, changing gears automatically as required.[0m
+	   "he threw the car into drive"
+          • [37mshort for disk drive.[0m
+	   "insert the disk into drive A"
+
+      [32m5.[0m [37m(in ball games) a forceful stroke made with a free swing of the bat, racket, or foot against the ball.[0m
+	   "a hard drive to left field"
+          • [37ma shot from the tee.[0m
+	   "Greg hit a good drive at the 18th"
+
+      [32m6.[0m [37man act of driving a group of animals to a particular destination.[0m
+	   "cattle were no longer taken on long drives, but were delivered by rail"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+         [31mड्राइव[0m                [31mचलाना[0m                 [31mढकेलना[0m       
+         [31mअभियान[0m             [31mगाड़ी चलाना[0m                 [31m[0m          

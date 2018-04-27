@@ -1,0 +1,45 @@
+[35m                                                                                       BIAS                                                                                       [0m
+[91m        SHORT  Use the noun bias to mean a preference for one thing over another, especially an unfair one.[0m
+[36m         LONG  Some biases are completely innocent: "I have a bias toward French wines." But most often, bias is used to describe unfair prejudices: "The authorities
+               investigated a case involving bias against Latinos." It is also a verb meaning "to show prejudice for or against," as in "They claimed the
+               tests were biased against women." (In British English, it takes an extra S in the forms biassed and biassing.) The word goes back at least to
+               Old Provençal, a former language of southern France, in association with the sport of lawn bowling, where it referred to the tendency of a ball
+               to roll in one direction or the other.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And perhaps nowhere is doctors’ default tendency more apparent than in our bias toward aggressive end-of-life care that favors quantity over quality of life.[0m
+[3m             > President Donald Trump's immigration policy, which critics say is biased against Muslims, and about his "America First" mantra on trade and investment.[0m
+[3m             > “Smart People” In Lydia R. Diamond’s comedic drama, four intellectuals struggle with cultural bias.[0m
+[3m             > Town officials cited traffic and environmental concerns, but a lawyer for the Islamic Society suggested that anti-Muslim bias played a role.[0m
+[3m             > The potential biases of weighting by past vote are pretty well established.[0m
+
+[35mBias[0m[36m /ˈbʌɪəs/,[0m [91m[3mnoun[0m[0m | noun: bias; plural noun: biases
+      [32m1.[0m [37minclination or prejudice for or against one person or group, especially in a way considered to be unfair.[0m
+	   "there was evidence of bias against black applicants"
+	   [3msynonyms:[0m prejudice, partiality, partisanship, favouritism, unfairness, 
+		    "the chairman accused the media of bias"
+	   [3mantonyms:[0m objectivity, fairness, impartiality
+          • [37ma concentration on or interest in one particular area or subject.[0m
+	   "his work showed a discernible bias towards philosophy"
+          • [37ma systematic distortion of a statistical result due to a factor not allowed for in its derivation.[0m
+
+      [32m2.[0m [37ma direction diagonal to the weave of a fabric.[0m
+	   "a turquoise silk dress cut on the bias"
+	   [3msynonyms:[0m diagonal, cross, slant, oblique, angle
+		    "a dress cut on the bias"
+
+      [32m3.[0m [37m(in bowls) the irregular shape given to one side of a bowl.[0m
+          • [37mthe oblique course taken by a bowl as a result of its irregular shape.[0m
+
+      [32m4.[0m [37ma steady voltage, magnetic field, or other factor applied to a system or device to cause it to operate over a predetermined range.[0m
+    [91m[3mverb[0m[0m | verb: bias; 3rd person present: biases; past tense: biased; past participle: biased; gerund or present participle: biasing
+      [32m1.[0m [37mcause to feel or show inclination or prejudice for or against someone or something.[0m
+	   "readers said the paper was biased towards the Conservatives"
+	   [3msynonyms:[0m prejudice, influence, colour, sway, weight, 
+		    "witnesses' recollections may be biased by discussions with other people"
+	   [3mantonyms:[0m unbiased, impartial, fair
+
+      [32m2.[0m [37mgive a bias to.[0m
+	   "bias the valve so that the anode current is normally zero or small"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mपूर्वाग्रह[0m             [31mपक्षपात[0m        [31mपक्षपातपूर्ण बनाना[0m 
+         [31mझुकाव[0m                 [31mढाल[0m                [31mझुकाना[0m       

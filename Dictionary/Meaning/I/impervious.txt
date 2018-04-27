@@ -1,0 +1,30 @@
+[35m                                                                                    IMPERVIOUS                                                                                    [0m
+[91m        SHORT  An impervious surface is one that can't be penetrated. The word is often followed by "to," as in "His steely personality made him impervious to jokes about
+               his awful haircut."[0m
+[36m         LONG  Most of the sentences you'll run across using impervious will be followed by the word "to" and a noun. Things are often described as being impervious to
+               physical assaults like heat, water, bullets, weather, and attack, but just as frequently to less tangible things, like reason, criticism, pain,
+               and pressure. The word comes from Latin: in- + pervius, meaning "not letting things through." A common synonym is impermeable.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Colonists in Jamestown taunted the Powhatan in 1607 with a target they believed impervious to an arrow shot.[0m
+[3m             > First, it proves that not even dames of the British empire are impervious to the breathlessly dumb spectacle of a big-budget, boneheaded franchise.[0m
+[3m             > According to many regional experts, runoff from these impervious surfaces is Puget Sound’s greatest source of pollution.[0m
+[3m             > The study authors also analyzed what percentage of the lake was surrounded by an impervious surface.[0m
+[3m             > There is, perhaps, a feeling in some quarters that Dunham is so successful, so seemingly secure in herself that she is impervious to such criticism.[0m
+
+[35mImpervious[0m[36m /ɪmˈpəːvɪəs/,[0m [91m[3madjective[0m[0m | adjective: impervious
+      [32m1.[0m [37mnot allowing fluid to pass through.[0m
+	   "an impervious layer of basaltic clay"
+  	   [3msynonyms:[0m impermeable, impenetrable, impregnable, waterproof, watertight, water-resistant, water-repellent ;  sealed, hermetically sealed ;  imperviable
+		    "an impervious damp-proof course"
+  	   [3mantonyms:[0m permeable
+
+      [32m2.[0m [37munable to be affected by.[0m
+	   "he worked, apparently impervious to the heat"
+  	   [3msynonyms:[0m unaffected by, untouched by, immune to, invulnerable to, insusceptible to, not susceptible to, proof against, unreceptive to, closed to, resistant to,
+                     indifferent to, heedless of, unresponsive to, oblivious to, unmoved by, deaf to
+		    "he seemed impervious to the chill wind"
+  	   [3mantonyms:[0m receptive to, susceptible to
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+      [31mअभेद्य[0m          [31mप्रबल[0m     
+    [31mअप्रवेश्य[0m         [31mनिविड़[0m    
+      [31mअगम्य[0m          [31mअविवेकी[0m    

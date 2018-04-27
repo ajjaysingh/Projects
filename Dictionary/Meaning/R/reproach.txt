@@ -1,0 +1,52 @@
+[35m                                                                                     REPROACH                                                                                     [0m
+[91m        SHORT  Reproach means to mildly criticize. If you show poor manners at your grandmother's dinner table, she will reproach you.[0m
+[36m         LONG  The verb reproach means to express disapproval or criticism of; as a noun it means blame or criticism. If you are beyond reproach that means no one could find
+               anything to criticize about you. Synonyms for reproach are the verbs admonish, reprove, rebuke, reprimand. As a noun, reproach can also be
+               shame. If you are caught lying, it is a reproach that might bother you for a while.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The silent kitchen seemed to hum with the shock of the recent scene and with Ron and Hermione’s unspoken reproaches.[0m
+[3m             > Meggie mopped the rain off her face and looked back at him with equal reproach.[0m
+[3m             > His daughter Luiza, now in her late 30s and living in Spain, reproached him for being absent from her life for the last 20 years.[0m
+[3m             > “I shall fear no challenge. I shall fear no sacrifice. In all my actions, I shall be beyond reproach.”[0m
+[3m             > But this deception nonetheless assumes a form opposite to the one for which robots are usually reproached.[0m
+
+[35mReproach[0m[36m /rɪˈprəʊtʃ/,[0m [91m[3mverb[0m[0m | verb: reproach; 3rd person present: reproaches; past tense: reproached; past participle: reproached; gerund or present participle: reproaching
+      [32m1.[0m [37mexpress to (someone) one's disapproval of or disappointment in their actions.[0m
+	   "her friends reproached her for not thinking enough about her family"
+          • [37maccuse someone of.[0m
+	   "his wife reproached him with cowardice"
+  	   [3msynonyms:[0m rebuke, rebuke reprove, reprove scold, scold chide, chide reprimand, reprimand admonish, admonish chastise, chastise upbraid, upbraid remonstrate with,
+                     berate, berate take to task, pull up, castigate, castigate lambaste, lambaste read someone the Riot Act, give someone a piece of
+                     one's mind, haul over the coals, lecture, lecture criticize, criticize find fault with, censure, censure express disapproval of ;
+                     tell off, give someone a talking-to, give someone a telling-off, dress down, give someone a dressing-down, give someone an earful,
+                     give someone a roasting, give someone a rocket, give someone a rollicking, rap, rap rap someone over the knuckles, slap someone's
+                     wrist ;  tick off, have a go at, carpet, carpet give someone a mouthful, tear someone off a strip, give someone what for, give
+                     someone some stick, wig, wig give someone a wigging, give someone a row, row row ;  call down, rate, rate give someone a rating,
+                     trim trim ;  reprehend, reprehend objurgate, objurgate reprobate reprobate
+		    "Albert reproached him for being late"
+  	   [3mantonyms:[0m praise, praise commend commend
+          • [37mcensure or rebuke (an offence).[0m
+    [91m[3mnoun[0m[0m | noun: reproach; plural noun: reproaches
+      [32m1.[0m [37mthe expression of disapproval or disappointment.[0m
+	   "he gave her a look of reproach"
+  	   [3msynonyms:[0m rebuke, rebuke reproof, reproof reproval, reproval admonishment, admonition, admonition scolding, scolding reprimand, reprimand remonstration, lecture,
+                     lecture upbraiding, castigation, lambasting, lambasting criticism, criticism censure, censure disapproval, disapproval
+                     disapprobation disapprobation ;  telling-off, telling-off rap, rap rap over the knuckles, slap on the wrist, dressing-down,
+                     dressing-down earful, earful roasting, roasting rollicking rollicking ;  ticking off, carpeting, carpeting wigging wigging ;  serve
+                     serve ;  rating rating
+		    "he reddened in acknowledgement of her reproach"
+  	   [3mantonyms:[0m praise, praise commendation commendation
+          • [37ma thing that makes the failings of (someone or something else) more apparent.[0m
+	   "his elegance is a living reproach to our slovenly habits"
+  	   [3msynonyms:[0m disgrace, disgrace discredit, discredit source of shame, outrage outrage ;  blemish on, stain on, blot on, blot on the escutcheon of, slur on ;  scandal,
+                     scandal stigma stigma ;  smirch smirch
+		    "this party is a reproach to the British political system"
+  	   [3mantonyms:[0m credit credit
+          • [37m(in the Roman Catholic Church) a set of antiphons and responses for Good Friday representing the reproaches of Christ to his people.[0m
+	   plural noun: Reproaches
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mनिन्दा[0m       [31mउपालंभ देना[0m    [31mतिरस्कार करना[0m 
+     [31mतिरस्कार[0m      [31mउलाहना देना[0m      [31mगाली देना[0m   
+      [31mपरिवाद[0m      [31mभर्त्सना करना[0m    [31mनिन्दा करना[0m  
+
+      Origin:  Middle English: from Old French reprochier (verb), from a base meaning ‘bring back close’, based on Latin prope ‘near’.

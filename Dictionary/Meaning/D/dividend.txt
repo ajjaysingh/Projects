@@ -1,0 +1,33 @@
+[35m                                                                                     DIVIDEND                                                                                     [0m
+[91m        SHORT  A dividend is a bonus. If you buy a cup of coffee and the shop owner throws in a free muffin, that's a dividend. Your charm and loyal patronage are paying
+               dividends![0m
+[36m         LONG  If you own stock and your company has had a good year, you’ll probably get a dividend — a share of the profit the company pays to shareholders. You've
+               probably also heard the word dividend in math class: if you've got 300 divided by 50, 300 is the dividend (and 50 is the divisor).[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Time Inc lowered its quarterly dividend to 4 cents per share from 19 cents.[0m
+[3m             > Under the current system, pass-through businesses avoid paying corporate taxes, which include taxes on dividends and capital gains.[0m
+[3m             > Real estate investment trusts and other high dividend stocks fell Tuesday as bond yields increased.[0m
+[3m             > That difference in strategy will pay clear dividends for Republicans down the road.[0m
+[3m             > Dear Liz: My brokerage wanted me to start moving from stocks that paid me steady dividends into bonds as I got older.[0m
+
+[35mDividend[0m[36m /ˈdɪvɪdɛnd/,[0m [91m[3mnoun[0m[0m | noun: dividend; plural noun: dividends
+      [32m1.[0m [37ma sum of money paid regularly (typically annually) by a company to its shareholders out of its profits (or reserves).[0m
+          • [37ma payment divided among a number of people, e.g. winners in a football pool or members of a cooperative.[0m
+          • [37man individual's share of a dividend.[0m
+	   "the shareholder receives a substantial annual dividend"
+  	   [3msynonyms:[0m share, portion, percentage, premium, return, payback, gain, surplus, profit ;  cut, take, rake-off, divvy, whack, slice of the cake, piece of the action,
+                     pickings
+		    "the shareholder receives a substantial annual dividend"
+          • [37ma benefit from an action or policy.[0m
+	   "buying a rail pass may still pay dividends"
+  	   [3msynonyms:[0m benefit, advantage, gain, bonus, extra, added extra, plus, fringe benefit, additional benefit ;  perk ;  perquisite
+		    "the research will produce dividends for future heart patients"
+  	   [3mantonyms:[0m disadvantage
+
+      [32m2.[0m [37ma number to be divided by another number.[0m
+  [31m[4m[34mnoun[0m[0m[0m
+  [31mलाभांश[0m 
+   [31mभाज्य[0m 
+    [31mभाग[0m  
+    [31mअंश[0m  
+    [31mसूद[0m  

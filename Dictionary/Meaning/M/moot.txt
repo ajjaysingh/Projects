@@ -1,0 +1,38 @@
+[35m                                                                                       MOOT                                                                                       [0m
+[91m        SHORT  When a point is moot, it's too trivial to think about. If your basketball team loses by 40 points, the bad call by the official in the first quarter is moot:
+               it isn't important.[0m
+[36m         LONG  Though moot can mean to debate endlessly without any clear decision or to think about something carefully, it most often describes ideas and arguments that
+               don't really matter. If your plane is crashing, whether or not your socks match is a moot point. When someone accuses you of making a moot
+               point, he's basically saying, "Come on! Let's talk about what's important." As with so many things, people don't always agree on what's moot
+               and what's not.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Wieters rendered the whole thing moot a few seconds later with a single through the right side.[0m
+[3m             > In Ms. Davis’s case, her so-called conscientious objection was rendered moot by legislation in Kentucky that scrapped the requirement that county clerks sign
+               marriage licenses.[0m
+[3m             > That part of the order may become moot if Congress passes legislation to repeal the healthcare law.[0m
+[3m             > In a separate decree, Turkey banned TV dating shows - a move previously mooted by the government.[0m
+[3m             > McCutcheon wrote that the current scheduling deal was rendered “moot” after Hansen lost an Occidental vote last May and is too basic to proceed further.[0m
+
+[35mMoot[0m[36m /muːt/,[0m [91m[3madjective[0m[0m | adjective: moot
+      [32m1.[0m [37msubject to debate, dispute, or uncertainty.[0m
+	   "whether the temperature rise was mainly due to the greenhouse effect was a moot point"
+  	   [3msynonyms:[0m debatable, open to debate, open to discussion, arguable, questionable, at issue, open to question, open, doubtful, open to doubt, disputable,
+                     contestable, controvertible, problematic, problematical, controversial, contentious, vexed, disputed, unresolved, unsettled, up in
+                     the air, undecided, yet to be decided, undetermined, unconcluded
+		    "whether the temperature rise is due to the greenhouse effect is a moot point"
+
+      [32m2.[0m [37mhaving little or no practical relevance.[0m
+	   "the whole matter is becoming increasingly moot"
+    [91m[3mverb[0m[0m | verb: moot; 3rd person present: moots; past tense: mooted; past participle: mooted; gerund or present participle: mooting
+      [32m1.[0m [37mraise (a question or topic) for discussion; suggest (an idea or possibility).[0m
+	   "the scheme was first mooted last October"
+  	   [3msynonyms:[0m raise, bring up, broach, mention, put forward, introduce, advance, present, propose, suggest, submit, propound, air, ventilate
+		    "the idea was first mooted in the 1930s"
+    [91m[3mnoun[0m[0m | noun: moot; plural noun: moots
+      [32m1.[0m [37man assembly held for debate, especially in Anglo-Saxon and medieval times.[0m
+          • [37ma regular gathering of people having a common interest.[0m
+
+      [32m2.[0m [37ma mock judicial proceeding set up to examine a hypothetical case as an academic exercise.[0m
+	   "the object of a moot is to provide practice in developing an argument"
+  [31m[4m[34madjective[0m[0m[0m    [31m[4m[34mverb[0m[0m[0m       [31m[4m[34mnoun[0m[0m[0m         [31m[4m[34m[0m[0m[0m     
+          [31mविवादास्पद[0m                   [31mबहस करना[0m           [31mकानून के छात्रों की मंडली[0m            [31mविवाद्य[0m          

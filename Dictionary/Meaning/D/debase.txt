@@ -1,0 +1,36 @@
+[35m                                                                                      DEBASE                                                                                      [0m
+[91m        SHORT  To debase something is to make it corrupt or impure. If your lemonade stand sells “pure lemonade,” you’d insist on using real lemons instead of a mix; using a
+               mix would debase your product.[0m
+[36m         LONG  Debase is often used in the context of two things: coins and people. To debase a coin is to replace some of the precious metal in the coin with metal of
+               lesser value. To debase a person is to corrupt them, often by driving them to perform an immoral act like (gasp!) using the lemonade mix. Just
+               promise us you won’t do it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > His name will always be a reminder of the degree to which Republicans debased themselves and their country to maintain control of the Supreme Court.[0m
+[3m             > By narrating her feelings to him in all their volatile, debasing truth, Kraus discovers, starting with her hilarious, declarative double entendre of a title.[0m
+[3m             > "Why does everybody think that women are debasing themselves when we expose the conditions of our own debasement?"[0m
+[3m             > One explanation for our debased civic discourse may be the decline of a sense of community that the old local columnists once helped provide.[0m
+[3m             > As with Rocker’s comments, the framing of a subway tableau as some kind of debased and terrifying dystopia was met with widespread derision.[0m
+
+[35mDebase[0m[36m /dɪˈbeɪs/,[0m [91m[3mverb[0m[0m | verb: debase; 3rd person present: debases; past tense: debased; past participle: debased; gerund or present participle: debasing
+      [32m1.[0m [37mreduce (something) in quality or value; degrade.[0m
+	   "the love episodes debase the dignity of the drama"
+  	   [3msynonyms:[0m degrade, devalue, demean, lower the status of, reduce the status of, cheapen, prostitute, discredit, drag down, drag through the mud, tarnish, blacken,
+                     blemish ;  disgrace, dishonour, shame, bring shame to, humble, humiliate ;  damage, harm, undermine  corrupt, corrupted,
+                     bastardized, adulterated, diluted, polluted, tainted, sullied, spoiled, spoilt ;  vitiated
+		    "the code of chivalry has been debased and sentimentalized"
+  	   [3mantonyms:[0m enhance, original, pure
+          • [37mlower the moral character of (someone).[0m
+	   "war debases people"
+  	   [3msynonyms:[0m immoral, debauched, dissolute, abandoned, perverted, degenerate, profligate, degraded, wicked, sinful, vile, base, iniquitous, corrupt, corrupted,
+                     criminal, vicious, brutal, lewd, licentious, lascivious, lecherous, prurient, obscene, indecent, libertine
+		    "their moral downfall was the result of their debased amusements"
+  	   [3mantonyms:[0m honourable
+
+      [32m2.[0m [37mlower the value of (coinage) by reducing the content of precious metal.[0m
+	   "the King was forced to debase the coinage"
+  	   [3msynonyms:[0m reduce in value, reduce in quality ;  contaminate, adulterate, pollute, taint, defile, spoil, foul, sully, depreciate, corrupt, bastardize ;  dilute,
+                     alloy ;  vitiate
+		    "copper hardens the coin without significantly debasing the silver"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+      [31mमूल्य घटाना[0m       [31mमुद्रा में अपमिश्रण[0m 
+      [31mभ्रष्ट करना[0m          [31mमुद्रा में खोट[0m   

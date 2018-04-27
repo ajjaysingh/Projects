@@ -1,0 +1,27 @@
+[35m                                                                                      ARCANE                                                                                      [0m
+[91m        SHORT  Something arcane is understood or known by only a few people. Almost everyone knows the basics of baseball, but only an elite few possess the arcane knowledge
+               of its history that marks the true fan.[0m
+[36m         LONG  A near synonym is esoteric, as in remote information or knowledge. Experts in academic fields often show off the depth of their knowledge by mentioning some
+               arcane and esoteric fact as if it was common for everyone to know. The origin of arcane is Latin arcānus "secret, closed," from arca "a chest,
+               box." Arcana (singular arcanum) are pieces of mysterious knowledge or information.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In the spring of 2016, when Mr. Trump found himself outmaneuvered in the arcane battle for Republican convention delegates, he turned to Mr. Manafort.[0m
+[3m             > It’s no coincidence that this arcane issue is suddenly salient.[0m
+[3m             > The Monster Hunter series is famously beginner-unfriendly, with arcane menus that are only slightly more forgiving than the complex controls and deliberate,
+               weighty combat system.[0m
+[3m             > “Zoning determines so much, but it’s so boring and so arcane,” says Woo.[0m
+[3m             > And, with Trump’s approval, congressional Republicans used an arcane law to reverse a rule barring states from defunding Planned Parenthood.[0m
+
+[35mArcane[0m[36m /ɑːˈkeɪn/,[0m [91m[3madjective[0m[0m | adjective: arcane
+          • [37munderstood by few; mysterious or secret.[0m
+	   "arcane procedures for electing people"
+  	   [3msynonyms:[0m mysterious, mysterious secret, secret hidden, hidden concealed, concealed covert, covert clandestine, clandestine enigmatic, enigmatic dark dark ;
+                     esoteric, esoteric obscure, obscure abstruse, abstruse recondite, recondite little known, recherché, recherché inscrutable,
+                     inscrutable impenetrable, impenetrable opaque, opaque incomprehensible, incomprehensible cryptic, cryptic occult occult
+		    "the arcane world of the legal profession"
+  	   [3mantonyms:[0m well known, well known open open
+  [31m[4m[34madjective[0m[0m[0m
+  [31mरहस्य का[0m 
+   [31mभेद का[0m  
+
+      Origin:  mid 16th century: from Latin arcanus, from arcere ‘to shut up’, from arca ‘chest’.

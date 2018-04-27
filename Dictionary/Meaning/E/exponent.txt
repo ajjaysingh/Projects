@@ -1,0 +1,30 @@
+[35m                                                                                     EXPONENT                                                                                     [0m
+[91m        SHORT  An exponent is a person who is a big promoter of something. Are you an exponent of the four-day school and work week?[0m
+[36m         LONG  You may already know the mathematical meaning of exponent: a numeric notation showing how many times a number is multiplied by itself. How did exponent come
+               to mean a strong advocate or promoter of something? Well, its Latin ancestor was a verb meaning "to put forth" and it's easy to see how this
+               could be generalized to refer to people. After all, aren't you an exponent of freedom of expression?[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > As a result, such scaling relationships tend to obey power laws: a parameter will increase in proportion to size raised to some exponent.[0m
+[3m             > Exponents of the futuristic tech economy frequently adopt this fifty-year-old perspective.[0m
+[3m             > “I would expect that as foreign policy evolves, Rex Tillerson will become an increasingly prominent exponent of it,” he said.[0m
+[3m             > But he founded and shaped City Ballet as his work’s chief exponent; and so it remains.[0m
+[3m             > In a note to employees, Mr. Baker called Ms. Blumenstein “a peerless exponent and advocate of the very highest quality journalism.”[0m
+
+[35mExponent[0m[36m /ɪkˈspəʊnənt,ɛkˈspəʊnənt/,[0m [91m[3mnoun[0m[0m | noun: exponent; plural noun: exponents
+      [32m1.[0m [37ma person who supports an idea or theory and tries to persuade people of its truth or benefits.[0m
+	   "an early exponent of the teachings of Thomas Aquinas"
+  	   [3msynonyms:[0m advocate, supporter, proponent, upholder, backer, defender, champion ;  promoter, propagandist, spokesperson, spokesman, spokeswoman, speaker ;
+                     campaigner, fighter, battler, crusader, missionary, evangelist, pioneer, apostle ;  enthusiast, apologist, arguer, expounder
+		    "an exponent of free-trade policies"
+  	   [3mantonyms:[0m critic, opponent
+          • [37ma person who demonstrates a particular skill to a high standard.[0m
+	   "he's the world's leading exponent of country rock guitar"
+  	   [3msynonyms:[0m practitioner, performer, player ;  interpreter, presenter ;  executant
+		    "a female karate exponent"
+
+      [32m2.[0m [37ma quantity representing the power to which a given number or expression is to be raised, usually expressed as a raised symbol beside the number or expression (e.g.
+           3 in 23 = 2 × 2 × 2).[0m
+
+      [32m3.[0m [37ma linguistic unit that realizes another, more abstract unit.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mप्रतिपादक[0m    [31mप्रतिपादक[0m     [31mघातांक[0m   

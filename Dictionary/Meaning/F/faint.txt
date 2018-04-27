@@ -1,0 +1,52 @@
+[35m                                                                                      FAINT                                                                                       [0m
+[91m        SHORT  Something faint has no courage or vigor. If you suddenly round the corner and see a gang of bullies staring straight at you, chances are you'll feel faint.[0m
+[36m         LONG  Faint comes from the French feindre, for being cowardly or shirking duties. We usually use it to mean without great strength. If you faint, you pass out, from
+               low blood supply to your brain. If you feel faint, you feel weak. Faint also means dim or vague. If you're staring out to sea, you might see
+               the faint outline of an approaching ship. If you really can't remember the answer to something, say you "haven't the faintest idea."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He placed one of his stocky fingers on my cheek, then pressed it to the back of his own hand, leaving a faint green smear.[0m
+[3m             > My mom’s blood pressure soared and plunged; she fainted often and fell and broke bones and got rushed to the hospital.[0m
+[3m             > There’s a faint tongue-in cheek tone, an old-school formality and an upfront statement that this movie is the story of one man, flaws and all.[0m
+[3m             > There’s a faint tongue-in cheek tone, an old-school formality, and an upfront statement that this movie is the story of one man, flaws and all.[0m
+[3m             > His pulse was faint and he was floppy as a rag doll, a pale bluish grey in colour.[0m
+
+[35mFaint[0m[36m /feɪnt/,[0m [91m[3madjective[0m[0m | adjective: faint; comparative adjective: fainter; superlative adjective: faintest
+      [32m1.[0m [37m(of a sight, smell, or sound) barely perceptible.[0m
+	   "the faint murmur of voices"
+  	   [3msynonyms:[0m indistinct, vague, unclear, indefinite, ill-defined, obscure, imperceptible, hardly noticeable, hardly detectable, unobtrusive ;  pale, light, faded,
+                     bleached  quiet, muted, muffled, stifled, subdued ;  feeble, weak, thin, whispered, murmured, indistinct, scarcely audible, scarcely
+                     perceptible, hard to hear, hard to make out, vague ;  low, soft, gentle
+		    "her skirt had a faint mark or two"
+  	   [3mantonyms:[0m clear, loud
+          • [37m(of a hope or chance) possible but unlikely; slight.[0m
+	   "there is a faint chance that the enemy may flee"
+  	   [3msynonyms:[0m slight, slender, slim, small, tiny, minimal, negligible, remote, distant, vague, unlikely, improbable, doubtful, dubious, far-fetched ;  poor, outside ;
+                     minuscule ;  exiguous
+		    "the faint possibility of his returning"
+  	   [3mantonyms:[0m great
+          • [37mlacking conviction or enthusiasm; feeble.[0m
+	   "she sent him a faint answering smile"
+  	   [3msynonyms:[0m unenthusiastic, half-hearted, weak, feeble, low-key ;  wishy-washy
+		    "only faint praise was offered to the management team"
+  	   [3mantonyms:[0m strong
+
+      [32m2.[0m [37mfeeling weak and dizzy and close to losing consciousness.[0m
+	   "the heat made him feel faint"
+  	   [3msynonyms:[0m dizzy, giddy, light-headed, muzzy, weak, weak at the knees, unsteady, shaky, wobbly, off-balance, reeling ;  woozy, woolly, woolly-headed, dopey,
+                     trembly, all of a quiver ;  vertiginous
+		    "I suddenly felt hot and faint"
+    [91m[3mverb[0m[0m | verb: faint; 3rd person present: faints; past tense: fainted; past participle: fainted; gerund or present participle: fainting
+      [32m1.[0m [37mlose consciousness for a short time because of a temporarily insufficient supply of oxygen to the brain.[0m
+	   "I fainted from loss of blood"
+  	   [3msynonyms:[0m pass out, lose consciousness, fall unconscious, black out, collapse ;  flake out, keel over, conk out, zonk out, drop, go out, go out like a light ;
+                     swoon
+		    "he was so pale she thought he would faint"
+          • [37mgrow weak or feeble; decline.[0m
+	   "the fires were fainting there"
+    [91m[3mnoun[0m[0m | noun: faint; plural noun: faints
+      [32m1.[0m [37ma sudden loss of consciousness.[0m
+	   "she hit the floor in a dead faint"
+  	   [3msynonyms:[0m blackout, fainting fit, loss of consciousness, collapse ;  coma ;  swoon ;  syncope
+		    "she collapsed to the floor in a dead faint"
+    [31m[4m[34m[0m[0m[0m     [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m 
+          [31mहल्का[0m                   [31mधुंधला[0m                [31mशिथिल होना[0m      

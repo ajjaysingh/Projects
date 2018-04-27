@@ -1,0 +1,35 @@
+[35m                                                                                     INGRESS                                                                                      [0m
+[91m        SHORT  The act of entering something — like a building or a highway — is called ingress (antonym "egress"). If you work in a busy restaurant, you have to keep your
+               kitchen ingress and egress straight or you risk a catastrophe with a full tray of dishes.[0m
+[36m         LONG  In astronomy, ingress is also an act of entering, but it is at the beginning of an eclipse when the celestial body first begins to block the sun and cast a
+               shadow. So in a lunar eclipse, ingress is when the Earth begins to pass between the Sun and the Moon, casting its shadow on the Moon. In a
+               solar eclipse, ingress is when the Moon begins to pass across the face of the Sun, blocking it from the sight of observers on Earth.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The device allows millions of Ingress players worldwide to quickly share their whereabouts, receive team updates and unlock secret content.[0m
+[3m             > And then he added that the ingress point was LinkedIn.[0m
+[3m             > Ingress to the third row is snug for large adults, and they won’t want to spend much time there.[0m
+[3m             > The first marks how resistant to dust getting it into the inner workings of the device, the second how resistant to water ingress it is.[0m
+[3m             > There are tons of things in place to handle traffic and ingress and egress.[0m
+
+[35mIngress[0m[36m /ˈɪnɡrɛs/,[0m [91m[3mnoun[0m[0m | noun: ingress; plural noun: ingresses
+      [32m1.[0m [37mthe action or fact of going in or entering; the capacity or right of entrance.[0m
+	   "two large doors offered ingress to the station"
+  	   [3msynonyms:[0m entry, entrance, access, means of entry, admittance, admission ;  way in, approach, means of approach ;  right of entry
+		    "two large doors offered ingress to the station"
+  	   [3mantonyms:[0m egress, exit
+          • [37ma place or means of access; an entrance.[0m
+	   "two large doors offered ingress to the station"
+  	   [3msynonyms:[0m entry, entrance, access, means of entry, admittance, admission ;  way in, approach, means of approach ;  right of entry
+		    "two large doors offered ingress to the station"
+  	   [3mantonyms:[0m egress, exit
+          • [37mthe unwanted introduction of water, foreign bodies, contaminants, etc.[0m
+	   "the joints are sealed against the ingress of water"
+  	   [3msynonyms:[0m seepage, leakage, inundation, inrush, intrusion, incursion, entry, entrance
+		    "the joints are sealed against the ingress of water"
+
+      [32m2.[0m [37mthe arrival of the sun, moon, or a planet in a specified constellation or part of the sky.[0m
+          • [37mthe beginning of a transit.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mप्रवेश[0m           [31mआना[0m     
+      [31mपहुंच[0m          [31mघुसना[0m    
+       [31mदखल[0m        [31mप्रवेश करना[0m 

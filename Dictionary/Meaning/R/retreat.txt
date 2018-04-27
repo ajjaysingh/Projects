@@ -1,0 +1,74 @@
+[35m                                                                                     RETREAT                                                                                      [0m
+[91m        SHORT  The noun retreat means a place you can go to be alone, to get away from it all. A spot under a shady tree might be your favorite retreat from the sun, or your
+               bedroom in the basement may serve as a retreat from your siblings.[0m
+[36m         LONG  In the military sense, the noun retreat means the withdrawal of troops. The British retreat after the Battles of Lexington and Concord gave the American
+               colonists an early taste of victory during the American Revolution. As a verb, retreat means to back out of something — like a lawyer who is
+               forced to retreat from his argument when the opposing evidence is too convincing.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Such a retreat would bring Deutsche closer to its roots as corporate Germany’s house bank.[0m
+[3m             > When I got into the van with a group of strangers on the way to a mysterious psychotherapy retreat in rural New South Wales, there was man wearing a branded
+               T-shirt with an unfamiliar name.[0m
+[3m             > “If the art practice is going to continue to grow, I need time to retreat and so one of the things that I’m excited about is that I get a chance to retreat.”[0m
+[3m             > “Both men retreat from the idea of getting deeply involved in other countries’ civil wars,” said Robert S. Ford, the last American ambassador to Syria.[0m
+[3m             > The new research suggests that nearly 11 percent of the glaciers around Antarctica as a whole are retreating at a faster pace today.[0m
+
+[35mRetreat[0m[36m /rɪˈtriːt/,[0m [91m[3mverb[0m[0m | verb: retreat; 3rd person present: retreats; past tense: retreated; past participle: retreated; gerund or present participle: retreating
+      [32m1.[0m [37m(of an army) withdraw from enemy forces as a result of their superior power or after a defeat.[0m
+	   "the French retreated in disarray"
+  	   [3msynonyms:[0m withdraw, withdraw retire, retire draw back, pull back, pull out, fall back, give way, give ground, recoil, recoil flee, flee take flight, beat a
+                     retreat, beat a hasty retreat, run away, run off, make a run for it, run for it, make off, take off, take to one's heels, make a
+                     break for it, bolt, bolt make a quick exit, clear out, make one's getaway, escape, escape head for the hills ;  beat it, vamoose,
+                     vamoose skedaddle, skedaddle split, split cut and run, leg it, show a clean pair of heels, turn tail, scram, scram hook it, fly the
+                     coop, skip off, do a fade ;  do a runner, scarper, scarper do a bunk ;  light out, bug out, cut out, peel out, take a powder, skidoo
+                     skidoo ;  go through, shoot through ;  fly, fly levant levant
+		    "the army retreated"
+  	   [3mantonyms:[0m advance, advance dig in
+          • [37mmove back or withdraw.[0m
+	   "it becomes so hot that the lizards retreat into the shade"
+  	   [3msynonyms:[0m go out, ebb, ebb recede, recede flow out, fall, fall go down
+		    "the tide was retreating"
+  	   [3mantonyms:[0m come in
+          • [37mwithdraw to a quiet or secluded place.[0m
+	   "after the funeral he retreated to Scotland"
+          • [37mmove (a piece) back from a forward or threatened position on the board.[0m
+
+      [32m2.[0m [37mchange one's mind or plans as a result of criticism or difficulty.[0m
+	   "his proposals were clearly unreasonable and he was forced to retreat"
+  	   [3msynonyms:[0m change one's decision, change one's mind, change one's attitude, change one's plans ;  back down, climb down, do a U-turn, backtrack, backtrack back-
+                     pedal, back-pedal row back, retract, retract reconsider, reconsider eat one's words, eat humble pie, give in, concede defeat, shift
+                     one's ground ;  do an about-turn
+		    "the government had to retreat over the plan"
+
+      [32m3.[0m [37m(of shares) decline in value.[0m
+	   "the company reported healthy figures but the shares retreated"
+    [91m[3mnoun[0m[0m | noun: retreat; plural noun: retreats
+      [32m1.[0m [37man act of moving back or withdrawing.[0m
+	   "a speedy retreat"
+  	   [3msynonyms:[0m withdrawal, withdrawal pulling back, flight flight ;  katabasis
+		    "a counteroffensive caused the retreat of the imperial army"
+  	   [3mantonyms:[0m advance advance
+          • [37man act of changing one's mind or plans as a result of criticism or difficulty.[0m
+	   "the trade unions made a retreat from their earlier position"
+  	   [3msynonyms:[0m climbdown, climbdown backdown, backdown retraction, retraction concession, concession about-face, U-turn, U-turn rowback rowback ;  about-turn about-turn
+		    "Democrats welcomed the President's retreat on the tax issue"
+
+      [32m2.[0m [37ma signal for a military force to withdraw.[0m
+	   "the bugle sounded a retreat"
+          • [37ma military musical ceremony carried out at sunset, originating in the playing of drums and bugles to tell soldiers to return to camp for the night.[0m
+
+      [32m3.[0m [37ma quiet or secluded place in which one can rest and relax.[0m
+	   "their country retreat in Ireland"
+  	   [3msynonyms:[0m refuge, refuge haven, haven resort, resort asylum, asylum sanctuary, sanctuary sanctum sanctorum sanctum sanctorum ;  hideaway, hideaway hideout, hideout
+                     hiding place hiding place ;  cottage, cottage dacha, dacha shelter, shelter cabin, cabin den, den lair, lair nest nest ;  hidey-hole
+                     hidey-hole
+		    "she invited us to her retreat in rural Sweden"
+          • [37ma period or place of seclusion for the purposes of prayer and meditation.[0m
+	   "the bishop is away on his annual retreat"
+  	   [3msynonyms:[0m seclusion, seclusion withdrawal, withdrawal retirement, retirement solitude, solitude isolation, isolation hiding, hiding privacy, privacy sanctuary
+                     sanctuary ;  sequestration, sequestration reclusion
+		    "a period of retreat from the world for spiritual regeneration"
+
+      [32m4.[0m [37ma decline in the value of shares.[0m
+	   "a gloomy stock market forecast sent share prices into a rapid retreat"
+
+      Origin:  late Middle English: from Old French retret (noun), retraiter (verb), from Latin retrahere ‘pull back’ (see retract).

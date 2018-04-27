@@ -1,0 +1,23 @@
+[35m                                                                                     SNIPPET                                                                                      [0m
+[91m        SHORT  A snippet is a tiny piece. You might only have time to read a snippet of "Moby Dick" before your early English class — just enough to know it's a book about a
+               whale.[0m
+[36m         LONG  While a snippet can be a literal fragment of something, like a snippet of hair clipped off the end of your dog's tail, the word is often used to talk about
+               less physical bits. You may get a snippet of information by watching TV news with the sound turned off, or end your writing workshop with just
+               a snippet of an idea for your screenplay. It comes from snip, with its Low German root snippen, "to snip or shred."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Interspersed through Rusickova’s narrative are snippets of music, some of which she plays herself, on an old CD player held together with tape.[0m
+[3m             > There was anger everywhere, enough that my single page of random snippets overheard on the Verizon Center concourse included five profanities in eight lines.[0m
+[3m             > Here’s a telling snippet from Trump’s Economist interview.[0m
+[3m             > Russo’s insight into the differences between Redford’s and Newman’s styles is also one of the best snippets of film criticism you’ll read this year.[0m
+[3m             > Some are passed on to HLAs, special molecules that transport the snippets to the surface of the cell.[0m
+
+[35mSnippet[0m[36m /ˈsnɪpɪt/,[0m [91m[3mnoun[0m[0m | noun: snippet; plural noun: snippets
+          • [37ma small piece or brief extract.[0m
+	   "snippets of information about the war"
+  	   [3msynonyms:[0m piece, bit, scrap, fragment, morsel, particle, shred, snatch, excerpt, extract
+		    "snippets of information"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+         [31mटुकड़ा[0m                 [31mकतरन[0m        
+       [31mछोटा कटाव[0m        [31mछोटा कटा हुआ टुकड़ा[0m 
+
+      Origin:  "snippets of information"

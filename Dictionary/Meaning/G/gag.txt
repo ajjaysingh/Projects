@@ -1,0 +1,55 @@
+[35m                                                                                       GAG                                                                                        [0m
+[91m        SHORT  A gag is a piece of cloth that's tied around a person's face to keep them from speaking or being heard. Cartoon bad guys often tie up their victims and put
+               gags over their mouths.[0m
+[36m         LONG  To use a gag for shutting someone up is to gag them. Both the noun and verb forms of gag can also be figurative: "Her government is trying to gag her by
+               censoring her," or "The lack of a right to free speech in some countries is a gag." Another way to gag is to retch, or begin to vomit. The root
+               of gag is probably the Old Norse gag-hals, "with head thrown back."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The move includes a gag order on ARPA-E program managers, leaving investigators in the dark about the status of their grants.[0m
+[3m             > “I understand that,” he said “It’s like my gag reflex every time I say President Trump.”[0m
+[3m             > Producers send glossy souvenir books, and often compendiums of positive reviews, to remind voters of what they’ve seen, and some send gag gifts as well.[0m
+[3m             > Signs included slogans like “Silence the Hate” showing a gagged Trump.[0m
+[3m             > The scene was not played for laughs in any way, despite being basically a carbon copy of MacGruber’s funniest gag.[0m
+
+[35mGag[0m[36m /ɡaɡ/,[0m [91m[3mnoun[0m[0m | noun: gag; plural noun: gags
+      [32m1.[0m [37ma piece of cloth put in or over a person's mouth to prevent them from speaking.[0m
+	   "they tied him up and put a gag in his mouth"
+  	   [3msynonyms:[0m muzzle, tie, restraint
+		    "his scream was muffled by the gag"
+          • [37ma restriction on dissemination of information.[0m
+	   "every contract contains a self-signed gag"
+
+      [32m2.[0m [37ma device for keeping the patient's mouth open during a dental or surgical operation.[0m
+    [91m[3mverb[0m[0m | verb: gag; 3rd person present: gags; past tense: gagged; past participle: gagged; gerund or present participle: gagging
+      [32m1.[0m [37mput a gag on (someone).[0m
+	   "she was bound and gagged by robbers"
+  	   [3msynonyms:[0m stop up, block, plug, clog, stifle, smother, muffle ;  put a gag on, silence, hush, quiet
+		    "a dirty rag was used to gag her mouth"
+          • [37mprevent (someone) from speaking freely or disseminating information.[0m
+	   "the government is trying to gag its critics"
+  	   [3msynonyms:[0m silence, muzzle, mute, muffle, stifle, smother, strangle, subdue, suppress, repress ;  censor, curb, check, restrain, fetter, shackle, restrict, limit ;
+                     no-platform
+		    "the press is gagged by more and more complex rules"
+  	   [3mantonyms:[0m encourage, give a voice to
+
+      [32m2.[0m [37mchoke or retch.[0m
+	   "he gagged on the wine"
+  	   [3msynonyms:[0m retch, heave, dry-heave, convulse, almost vomit, feel nauseous ;  choke, gasp, struggle for breath, fight for air ;  keck
+		    "the stench grew worse, making her gag"
+
+      [32m3.[0m [37mbe very eager to have or do (something).[0m
+	   "I'm absolutely gagging for a pint"
+[35mGag[0m[36m /ɡaɡ/,[0m [91m[3mnoun[0m[0m | noun: gag; plural noun: gags
+      [32m1.[0m [37ma joke or an amusing story, especially one forming part of a comedian's act or in a film.[0m
+	   "films that goad audiences into laughing at the most tasteless of gags"
+  	   [3msynonyms:[0m joke, jest, witticism, quip, pun, play on words, double entendre, funny remark, witty remark ;  flash of wit, rejoinder, sally ;  bon mot ;  crack,
+                     wisecrack, one-liner, funny, comeback
+		    "even the worst of gags will amuse someone somewhere"
+    [91m[3mverb[0m[0m | verb: gag; 3rd person present: gags; past tense: gagged; past participle: gagged; gerund or present participle: gagging
+      [32m1.[0m [37mtell jokes.[0m
+	   "they gagged about their sexual problems"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mझूठ[0m           [31mझूठ बोलना[0m      [31mगला दबा देना[0m  
+       [31mधोखा[0m         [31mन बोलने देना[0m       [31mप्रतिबन्ध[0m   
+      [31mढकोसला[0m          [31mचुप करना[0m        [31mगला घोंटना[0m   
+    [31mमुख बन्धनी[0m        [31mचुप बनाना[0m        [31mरोक लगाना[0m   

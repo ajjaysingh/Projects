@@ -1,0 +1,38 @@
+[35m                                                                                     IMPLICIT                                                                                     [0m
+[91m        SHORT  Use the adjective implicit when you mean that something is understood but not clearly stated. You might think you and your boyfriend might have an implicit
+               understanding that you are going to get married, but it's probably better to talk it through.[0m
+[36m         LONG  A very near synonym of implicit in this particular meaning is the word implied. But the adjective implicit  also means "complete without any doubt," so we can
+               say that we have implicit trust or confidence in someone. The Latin root implicāre means "to involve or entangle." Another English word with a
+               more obvious connection to the Latin is the verb implicate.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Goma said Mul's "conceptual gesture" was to act as an "implicit critique of what is displayed within museums and galleries".[0m
+[3m             > They discuss it in English; the implicit aim of the class is deriving existential significance from the sentence, not practicing the Spanish language.[0m
+[3m             > There is an implicit sense of martyrdom: “Even I, who abhor this kind of thing, must now be foulmouthed.”[0m
+[3m             > There’s also an implicit contract between writer and reader.[0m
+[3m             > Like the daily news cycle, a Metallica concert is an implicit congratulations on your continued survival.[0m
+
+[35mImplicit[0m[36m /ɪmˈplɪsɪt/,[0m [91m[3madjective[0m[0m | adjective: implicit
+      [32m1.[0m [37msuggested though not directly expressed.[0m
+	   "comments seen as implicit criticism of the policies"
+  	   [3msynonyms:[0m implied, indirect, inferred, understood, hinted, suggested, deducible ;  unspoken, unexpressed, undeclared, unstated, unsaid, tacit, unacknowledged,
+                     silent, taken for granted, taken as read, assumed  inherent, latent, underlying, inbuilt, incorporated ;  fundamental
+		    "the implicit assumptions of much sociological writing on women"
+  	   [3mantonyms:[0m explicit, direct
+
+      [32m2.[0m [37malways to be found in; essentially connected with.[0m
+	   "the values implicit in the school ethos"
+
+      [32m3.[0m [37mwith no qualification or question; absolute.[0m
+	   "an implicit faith in God"
+  	   [3msynonyms:[0m absolute, complete, entire, total, wholehearted, perfect, sheer, utter ;  unqualified, unconditional, unreserved, unadulterated, unalloyed, undiluted,
+                     positive ;  unshaken, unshakeable, unhesitating, unquestioning, firm, steadfast, constant
+		    "an implicit trust in human nature"
+  	   [3mantonyms:[0m limited
+
+      [32m4.[0m [37m(of a function) not expressed directly in terms of independent variables.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mअंतर्निहित[0m     [31mअस्पष्ट[0m  
+     [31mनिहित[0m       [31mअव्यक्त[0m  
+   [31mनिर्विवाद[0m     [31mगर्भित[0m   
+
+      Origin:  late 16th century: from French implicite or Latin implicitus, later form of implicatus ‘entwined’, past participle of implicare (see imply).

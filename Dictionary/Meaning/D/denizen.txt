@@ -1,0 +1,26 @@
+[35m                                                                                     DENIZEN                                                                                      [0m
+[91m        SHORT  A denizen is an inhabitant or frequenter of a particular place: a citizen of a country, a resident in a neighborhood, a maven of a museum, a regular at a bar,
+               or, even, a plant that is naturalized in a region.[0m
+[36m         LONG  The noun denizen comes from words that mean “from” and “within” and is related to “citizen.”  Denizen can be used when talking about any person or group of
+               people that have a specific relationship with a place. It was historically used to refer to foreigners who were either naturalized or becoming
+               citizens but now it is used much more generally, as in: "The denizens of my aunt’s neighborhood all have contracts with the same gardener."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > These swamp denizens are even more delusional than we thought.[0m
+[3m             > Taxidermied and mockup denizens of these parts greet you, including wolves, moose, a brown bear and other creatures of the north.[0m
+[3m             > But it is also very popular among youthful denizens of the Twitterverse.[0m
+[3m             > To behold a film written in Mr. Sheridan’s hand is to enter its universe first, and then to understand its denizens.[0m
+[3m             > But now it’s the competition for the Iron Throne, not the Super Bowl or the World Series, that enthralls your average water-cooler denizen.[0m
+
+[35mDenizen[0m[36m /ˈdɛnɪz(ə)n/,[0m [91m[3mnoun[0m[0m | noun: denizen; plural noun: denizens
+          • [37ma person, animal, or plant that lives or is found in a particular place.[0m
+	   "denizens of field and forest"
+  	   [3msynonyms:[0m inhabitant, inhabitant resident, resident townsman, townsman townswoman, townswoman native, native local local ;  occupier, occupier occupant, occupant
+                     dweller dweller ;  local yokel ;  burgher, burgher burgess burgess ;  habitant, habitant residentiary, residentiary oppidan, oppidan
+                     indweller
+		    "the denizens of Bolton were hungry for answers"
+          • [37ma foreigner allowed certain rights in their adopted country.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+         [31mनिवासी[0m                  [31mबसाना[0m          [31mनागरिकता-प्राप्तवासी[0m 
+
+      Origin:  late Middle English deynseyn, via Anglo-Norman French from Old French deinz ‘within’ (from Latin de ‘from’ + intus ‘within’) + -ein (from Latin -aneus
+               ‘-aneous’). The change in the form of the word was due to association with citizen.

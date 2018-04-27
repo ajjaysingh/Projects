@@ -1,0 +1,24 @@
+[35m                                                                                      GAUCHE                                                                                      [0m
+[91m        SHORT  Use the word gauche when you want to call something tacky, graceless, tactless, rude, boorish, or awkward and foolish. Have you just pointed out someone's
+               misuse of this word? Oh dear, how gauche![0m
+[36m         LONG  Gauche was used for a long time to refer to things that were just so wrong, it almost hurt to talk about them, like publicly asking someone why they don’t
+               like you. That is so gauche, it could induce a cringe! Gauche is almost a gauche word, as it is comes from a French word meaning left (as
+               opposed to right). It would be gauche to call left-handed people tacky![0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Most, like factor XI deficiency, a blood clotting disorder, and Gaucher disease type 1, an organ and tissue illness, and celiac disease are rare.[0m
+[3m             > Thrift was comforting; material goods uninteresting, bordering on gauche.[0m
+[3m             > Dresses with gauche outsize frills look like something a well-meaning but clueless mum would buy for her daughter’s teenage prom.[0m
+[3m             > Sorry to be gauche, but what do you do with the money?[0m
+[3m             > Literally, I’m not trying to be gauche: I do not understand the argument.[0m
+
+[35mGauche[0m[36m /ɡəʊʃ/,[0m [91m[3madjective[0m[0m | adjective: gauche
+          • [37munsophisticated and socially awkward.[0m
+	   "a shy and gauche teenager"
+  	   [3msynonyms:[0m awkward, gawky, inelegant, graceless, ungraceful, ungainly, bumbling, maladroit, inept ;  socially awkward, socially inept, lacking in social grace(s),
+                     unpolished, unsophisticated, uncultured, uncultivated, unrefined, raw, inexperienced, uneducated, unworldly
+		    "she grew from a gauche teenager into a poised young woman"
+  	   [3mantonyms:[0m elegant, sophisticated
+  [31m[4m[34madjective[0m[0m[0m
+    [31mभद्दा[0m  
+    [31mफूहड़[0m  
+  [31mबयंहत्था[0m 

@@ -1,0 +1,25 @@
+[35m                                                                                      CAVEAT                                                                                      [0m
+[91m        SHORT  A caveat is a warning. When someone adds a caveat to something they’re telling you to beware — maybe what they’re telling you comes with certain conditions or
+               maybe there’s something dangerous lurking.[0m
+[36m         LONG  When your new friend gives you directions to her house, and then says, “The caveat is that when it snows the driveway turns into an ice rink,” she's warning
+               you that your travels could be dangerous. Caveat is also a legal term for when a lawyer asks for a break in proceedings. If a lawyer issues a
+               caveat, she's filing a formal notice to suspend a trial until her client gets a hearing.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > As always in such contests, there are a few caveats.[0m
+[3m             > The ratings shifts should be read with several caveats:[0m
+[3m             > The Scotch Whisky Association eventually dropped their complaint, with the caveat that the label must read as the five-word Glen Fargo American Malt Whiskey.[0m
+[3m             > But at the lower budget and indie level, no caveats are necessary.[0m
+[3m             > We hope and expect these caveats won’t be relevant a year from now.[0m
+
+[35mCaveat[0m[36m /ˈkavɪat/,[0m [91m[3mnoun[0m[0m | noun: caveat; plural noun: caveats
+          • [37ma warning or proviso of specific stipulations, conditions, or limitations.[0m
+	   "there are a number of caveats which concern the validity of the assessment results"
+  	   [3msynonyms:[0m warning, caution, admonition, monition, red flag, alarm bells ;  proviso, condition, stipulation, provision, clause, rider, qualification, restriction,
+                     reservation, limitation, strings
+		    "he added the caveat that the results still had to be corroborated"
+          • [37ma notice, especially in a probate, that certain actions may not be taken without informing the person who gave the notice.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mचेतावनी[0m      [31mविराम-पत्र[0m 
+     [31mविरोध[0m      [31mसावधान-पत्र[0m 
+    [31mप्रतिवाद[0m       [31mकेवियट[0m   
+   [31mविरोध-पत्र[0m      [31mवारणी[0m    

@@ -1,0 +1,52 @@
+[35m                                                                                      LATENT                                                                                      [0m
+[91m        SHORT  Latent is an adjective that you use to describe something that is capable of becoming active or at hand, though it is not currently so.[0m
+[36m         LONG  The adjective latent is a tricky word to define because it refers to something there but not there. That is, latent means something that is capable of
+               becoming active or at hand but has not yet achieved that state. The word arrived in Middle English from the Latin word latēre which means "to
+               lie hidden." It can have somewhat negative connotations because it is often used in a medical context, as in a latent illness or infection, but
+               it can also mean good things, such as someone discovering they have latent talents or capabilities.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This type of latent influence adds nuance to official statistics of the Taliban’s geographical strength.[0m
+[3m             > That’s an old fashioned, traditional method that investigators would use to lift latent fingerprints.[0m
+[3m             > But the election rekindled his latent passion for civic engagement.[0m
+[3m             > “A lot of people don’t want to deal with emotionally latent situations,” he said.[0m
+[3m             > The Mid-Atlantic Fishery Management Council wants to reduce latent permits for certain kinds of squid.[0m
+
+[35mLatent[0m[36m /ˈleɪt(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: latent
+          • [37m(of a quality or state) existing but not yet developed or manifest; hidden or concealed.[0m
+	   "they have a huge reserve of latent talent"
+  	   [3msynonyms:[0m dormant, quiescent, inactive, untapped, unused ;  undiscovered, hidden, unrevealed, unexpressed, concealed, unapparent, indiscernible, imperceptible,
+                     invisible, inert, covert, unseen, veiled, masked, lurking, undeveloped, unrealized, unfulfilled, potential, not activated,
+                     inoperative, in abeyance, suppressed, repressed ;  possible, likely, underlying, inherent, innermost, immanent, inchoate,
+                     unacknowledged, subconscious, unconscious, sleeping
+		    "they have a huge reserve of latent talent"
+  	   [3mantonyms:[0m manifest, obvious, active
+          • [37mlying dormant or hidden until circumstances are suitable for development or manifestation.[0m
+	   "axillary buds or eyes in the leaf axils are latent growth buds"
+  	   [3msynonyms:[0m dormant, quiescent, inactive, untapped, unused ;  undiscovered, hidden, unrevealed, unexpressed, concealed, unapparent, indiscernible, imperceptible,
+                     invisible, inert, covert, unseen, veiled, masked, lurking, undeveloped, unrealized, unfulfilled, potential, not activated,
+                     inoperative, in abeyance, suppressed, repressed ;  possible, likely, underlying, inherent, innermost, immanent, inchoate,
+                     unacknowledged, subconscious, unconscious, sleeping
+		    "they have a huge reserve of latent talent"
+  	   [3mantonyms:[0m manifest, obvious, active
+          • [37m(of a disease) not yet manifesting the usual symptoms.[0m
+	   "diabetes may be latent for some years before diagnosis"
+  	   [3msynonyms:[0m dormant, quiescent, inactive, untapped, unused ;  undiscovered, hidden, unrevealed, unexpressed, concealed, unapparent, indiscernible, imperceptible,
+                     invisible, inert, covert, unseen, veiled, masked, lurking, undeveloped, unrealized, unfulfilled, potential, not activated,
+                     inoperative, in abeyance, suppressed, repressed ;  possible, likely, underlying, inherent, innermost, immanent, inchoate,
+                     unacknowledged, subconscious, unconscious, sleeping
+		    "they have a huge reserve of latent talent"
+  	   [3mantonyms:[0m manifest, obvious, active
+          • [37m(of a microorganism, especially a virus) present in the body without causing disease, but capable of doing so at a later stage, or when transmitted to another
+            body.[0m
+	   "they have a huge reserve of latent talent"
+  	   [3msynonyms:[0m dormant, quiescent, inactive, untapped, unused ;  undiscovered, hidden, unrevealed, unexpressed, concealed, unapparent, indiscernible, imperceptible,
+                     invisible, inert, covert, unseen, veiled, masked, lurking, undeveloped, unrealized, unfulfilled, potential, not activated,
+                     inoperative, in abeyance, suppressed, repressed ;  possible, likely, underlying, inherent, innermost, immanent, inchoate,
+                     unacknowledged, subconscious, unconscious, sleeping
+		    "they have a huge reserve of latent talent"
+  	   [3mantonyms:[0m manifest, obvious, active
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mअव्यक्त[0m      [31mअप्रकट[0m   
+     [31mगुप्त[0m       [31mप्रछन्न[0m  
+     [31mसुप्त[0m        [31mअव्यत[0m   
+   [31mप्रच्छन्न[0m    [31mअन्तर्हित[0m 

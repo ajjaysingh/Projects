@@ -1,0 +1,43 @@
+[35m                                                                                     FACTION                                                                                      [0m
+[91m        SHORT  Fractions are smaller parts of whole numbers: one-quarter, one-tenth, one-half, and a faction is a smaller portion of a larger group that breaks away from it.
+               A faction might take a fraction of the people from a large group and start a new group.[0m
+[36m         LONG  The Latin source of the word faction means to "do" or "make," though a faction can seem to be a taking away or un-doing. Politics is one area where faction
+               gets a lot of use, because a political party often starts with a large group but has some members who disagree with a belief or direction.
+               These members separate from the larger party and become a faction of their own, with many of the same beliefs as the original group but with a
+               few new differences, too.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Hamas and other Palestinian factions organizing the demonstrations in Gaza hope to sustain them for more than a month longer, until the anniversary of
+               Israel’s independence in mid-May.[0m
+[3m             > The Israeli authorities named eight of those killed as Hamas fighters or activists and said two more belonged to other militant factions.[0m
+[3m             > The FirstEnergy appeal thus forces the president’s team to choose between these two competing factions of the energy industry.[0m
+[3m             > Backed by Hamas and other militant and political Palestinian factions, larger gatherings are expected every Friday, the holy day for Muslims.[0m
+[3m             > Israel, on the other hand, says eight of the 15 were part of Hamas while two others were militants from other factions.[0m
+
+[35mFaction[0m[36m /ˈfakʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: faction; plural noun: factions
+          • [37ma small organized dissenting group within a larger one, especially in politics.[0m
+	   "the left-wing faction of the party"
+  	   [3msynonyms:[0m clique, clique coterie, coterie caucus, caucus cabal, cabal bloc, bloc camp, camp group, group grouping, grouping side, side sector, sector section,
+                     section wing, wing arm, arm branch, branch division, division contingent, contingent set, set ring, ring lobby lobby ;  ginger
+                     group, ginger group pressure group, pressure group splinter group, splinter group fringe movement, minority group
+		    "he was supported by a faction of the Liberal Party"
+          • [37mdissension within an organization.[0m
+	   "a council increasingly split by faction"
+  	   [3msynonyms:[0m infighting, infighting dissension, dissension dissent, dissent dispute, dispute discord, discord strife, strife contention, contention conflict, conflict
+                     friction, friction argument, argument difference of opinion, disagreement, disagreement controversy, controversy quarrelling,
+                     wrangling, bickering, squabbling, disputation, disputation falling-out, falling-out debate, debate division, division divisiveness,
+                     divisiveness clashing, disharmony, disharmony disunity, disunity variance, variance rupture, rupture tumult, tumult turbulence,
+                     turbulence upheaval, upheaval dissidence, dissidence rebellion, rebellion insurrection, insurrection sedition, sedition mutiny,
+                     mutiny schism schism
+		    "the council was increasingly split by faction"
+  	   [3mantonyms:[0m harmony harmony
+[35mFaction[0m[36m /ˈfakʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: faction
+          • [37ma literary and cinematic genre in which real events are used as a basis for a fictional narrative or dramatization.[0m
+	   "the current vogue for faction seems about to overwhelm narrative history"
+[35m-Faction[0m[36m /ˈfakʃ(ə)n/,[0m [91m[3mcombining form[0m[0m | suffix: -faction
+          • [37min nouns of action derived from verbs ending in -fy (such as liquefaction from liquefy ).[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mगुट[0m      [31mविरोध[0m  
+     [31mदल[0m     [31mदलबन्दी[0m 
+  [31mगुटबंदी[0m     [31mपक्ष[0m  
+
+      Origin:  late 15th century (denoting the action of doing or making something): via French from Latin factio(n- ), from facere ‘do, make’.

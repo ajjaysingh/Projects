@@ -1,0 +1,34 @@
+[35m                                                                                       CIS                                                                                        [0m
+[91m        SHORT  A cistern is an underground tank that holds water.  A long time ago, cistern water was used for drinking, but nowadays developed parts of the world mainly use
+               it for watering plants and flushing toilets.[0m
+[36m         LONG  The oldest cisterns that we know of were built in the Middle East about 12,000 years ago, which is around when farming was invented.  That's no coincidence.
+               It would be tough to collect enough water to grow barley and wheat without storing the water in something, especially in a place as dry as the
+               Middle East.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+
+[35mCis[0m[36m /sɪs/,[0m [91m[3madjective Chemistry[0m[0m | adjective: cis
+          • [37mdenoting or relating to a molecular structure in which two particular atoms or groups lie on the same side of a given plane in the molecule, in particular
+            denoting an isomer in which substituents at opposite ends of a carbon–carbon double bond are on the same side of the bond.[0m
+	   "the cis isomer of stilbene"
+[35mCis[0m[36m /sɪs/,[0m [91m[3madjective[0m[0m | adjective: cis
+          • [37mshort for cisgender.[0m
+	   "we do not make arbitrary distinctions between trans and cis women"
+[35mCis-[0m[36m /sɪs/,[0m [91m[3mprefix[0m[0m | prefix: cis-
+      [32m1.[0m [37mon this side of; on the side nearer to the speaker.[0m
+	   "cisatlantic"
+          • [37mon the side nearer to Rome.[0m
+	   "cisalpine"
+          • [37m(of time) closer to the present.[0m
+	   "cis-Elizabethan"
+
+      [32m2.[0m [37mreferring or relating to people whose sense of personal identity and gender corresponds with their birth sex.[0m
+	   "cisgender"
+
+      [32m3.[0m [37mdenoting molecules with cis arrangements of substituents.[0m
+	   "cis -1,2-dichloroethene"
+[35mCis[0m[36m /ˌsiːʌɪˈɛs/,[0m [91m[3mabbreviation[0m[0m
+          • [37mCommonwealth of Independent States.[0m
+  [31m[4m[34m[0m[0m[0m
+  [31mसिस[0m 
+
+      Origin:  independent usage of cis-.

@@ -1,0 +1,24 @@
+[35m                                                                                   INOCULATION                                                                                    [0m
+[91m        SHORT  That nasty jab the doctor gave you as a kid was an inoculation — that is, a preventative measure against disease. Equally well known as a "vaccination."[0m
+[36m         LONG  Inoculation is a fancy word from the Latin term Inoculationem, meaning "engrafting" or "budding." That is exactly what an inoculation is — the grafting of a
+               milder form of some horrible disease in you that will prevent you from getting a far nastier version. Inoculation and its various forms has
+               also taken on a metaphorical meaning of being protected against something, as in the American politician Alan K. Simpson's quote that "an
+               educated man is thoroughly inoculated against humbug."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Another group of mice received mock inoculations with saline.[0m
+[3m             > Almost 10 million children were vaccinated but a significant population lives in militant-controlled areas like Kunduz where Taliban insurgents last year
+               banned inoculations.[0m
+[3m             > These were acts of political inoculation: Mr. Lamb was sending a message to the district’s conservative-leaning voters that he was his own person.[0m
+[3m             > Suspicions surrounding public inoculation campaigns are not new in this country—years ago the Pakistani Taliban declared vaccination efforts part of a Western
+               conspiracy against Islam.[0m
+[3m             > A short-term cure, if painful, might offer the inoculation that platforms such as Twitter need for long-term survival.[0m
+
+[35mInoculation[0m[36m /ɪˌnɒkjʊˈleɪʃn/,[0m [91m[3mnoun[0m[0m | noun: inoculation; plural noun: inoculations
+          • [37mthe action of inoculating or of being inoculated; vaccination.[0m
+	   "inoculation against flu was readily available"
+  	   [3msynonyms:[0m jab, injection, shot, booster, vaccination, immunization, Moreinformaljab, shot, vaccine,
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mटीका[0m        [31mटीकाकरण[0m  
+    [31mटीखाकरण[0m      [31mसंरोपण[0m   
+
+      Origin:  informaljab, shot

@@ -1,0 +1,31 @@
+[35m                                                                                      DATUM                                                                                       [0m
+[91m        SHORT  One item of information, one fact, one statistic, is on its own a datum, the singular form of the more commonly used "data."  If you can't find one single
+               datum to support your theory, it's time for another theory.[0m
+[36m         LONG  Whereas several bits of information taken together are called data, one is a datum. The word comes from the Latin for "something given."  Datum is also used
+               for a starting point of measurement, often used in surveying or engineering.  The single datum that your experiment provided was that you are
+               tall, dark and handsome.  Now stop looking in the mirror and do some research.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > I showed two facilitators the raw data about my dad and asked them to recommend books based on it.[0m
+[3m             > Data collected by Dr Moss’s team suggest that groups led by young matriarchs are more vulnerable to predation than those with older leaders.[0m
+[3m             > Data from the Swiss National Bank shows a sharp decline in U.S. money in Swiss accounts.[0m
+[3m             > Data on student achievement are collected manually, if at all.[0m
+[3m             > The data for the analysis was collected from transactions using Tendr during last year’s wedding season.[0m
+
+[35mDatum[0m[36m /ˈdeɪtəm/,[0m [91m[3mnoun[0m[0m | noun: datum; plural noun: data
+      [32m1.[0m [37mSee also data.[0m
+
+      [32m2.[0m [37ma piece of information.[0m
+	   "the fact is a datum worth taking into account"
+          • [37man assumption or premise from which inferences may be drawn.[0m
+	   "this is not a permanent and unchangeable datum"
+
+      [32m3.[0m [37ma fixed starting point of a scale or operation.[0m
+	   "an accurate datum is formed by which other machining operations can be carried out"
+   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+         [31mगृहीत[0m               [31mसमाचार[0m       
+         [31mडेटम[0m                 [31mघटना[0m        
+     [31mस्वीकृत तथ्य[0m             [31mतथ्य[0m        
+  [31mनिर्दिष्ट सिद्धांत[0m         [31mहक़ीक़त[0m      
+     [31mआधार-सामग्री[0m             [31mविवरण[0m       
+
+      Origin:  mid 18th century: from Latin, literally ‘something given’, neuter past participle of dare ‘give’.

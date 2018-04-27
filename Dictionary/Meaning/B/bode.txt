@@ -1,0 +1,26 @@
+[35m                                                                                       BODE                                                                                       [0m
+[91m        SHORT  The verb bode suggests forecasting. Something bodes well when the clues or signs imply a favorable outcome. But if something bodes ill, you’d better watch
+               out![0m
+[36m         LONG  Something might bode good fortune, or it could bode disaster. The word, which can be traced back to the Old English bodian "to announce, foretell," is also
+               found in the adjective foreboding, which means "ominous, boding ill."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Even if he didn’t win, his performance is a major reversal that bodes well for Democrats in the dozens of House districts that are less conservative than
+               PA-18.[0m
+[3m             > This development doesn’t bode well for diplomacy with North Korea, either.[0m
+[3m             > This year’s pick is Xavier, which probably bodes well for the Musketeers, who play with fire on an almost nightly basis.[0m
+[3m             > That doesn’t bode well for the Cavaliers, but overall, this Virginia team is much, much, much more efficient overall than that title-winning U-Conn. squad.[0m
+[3m             > For those who opposed Xi and his crackdown on human rights and dissent it boded ill, she said.[0m
+
+[35mBode[0m[36m /bəʊd/,[0m [91m[3mverb[0m[0m | verb: bode; 3rd person present: bodes; past tense: boded; past participle: boded; gerund or present participle: boding
+          • [37mbe a portent of a particular outcome.[0m
+	   "their argument did not bode well for the future"
+  	   [3msynonyms:[0m augur, augur presage, presage portend, portend foretell, foretell prophesy, prophesy predict predict ;  forebode, forebode foreshadow, foreshadow herald,
+                     herald be an omen of, warn of ;  indicate, indicate signify, signify be a sign of, purport, purport point to, threaten, threaten
+                     promise, promise spell, spell mean mean ;  betoken, betoken foretoken, foretoken adumbrate adumbrate
+		    "the look on her face boded ill for anyone who crossed her path"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m 
+     [31mभविष्यव्दाणी[0m       [31mपेशीनगोई करना[0m         [31mशकुन देना[0m     
+       [31mपेशीनगोई[0m       [31mभविष्यव्दाणी करना[0m     [31mपहले से चेताना[0m  
+      [31mभविष्य-कथन[0m       [31mभविष्य-कथन करना[0m         [31mआगम कहना[0m     
+
+      Origin:  Old English bodian ‘proclaim, foretell’, from boda ‘messenger’, of Germanic origin; related to German Bote, also to bid1.

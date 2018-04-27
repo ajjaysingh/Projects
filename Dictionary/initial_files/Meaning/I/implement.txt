@@ -1,0 +1,28 @@
+[35m                                                                                    IMPLEMENT                                                                                     [0m
+[91m        SHORT  Apply the noun implement when you want to use a fancy word for "tool." A knife and fork are implements for handling food.[0m
+[36m         LONG  The noun implement is a very useful word for just about anything you want to describe as a tool or a thing that helps you do something. An implement can be as
+               simple as chimpanzees using a stick to eat ants with or a bulldozer that moves huge amounts of earth in building. The word relates to something
+               that "fills up" a house, as in all sorts of things that allow a house to work properly.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A state law passed in 2008 barred state agencies from spending money to help implement the federal Real ID law.[0m
+[3m             > Coalescence time was estimated using the algorithm implemented in HybridCheck77.[0m
+[3m             > The return of the 3% salary sacrifice is expected to be implemented for employees in June.[0m
+[3m             > British Prime Minister Theresa May said on Wednesday she hoped all countries involved in the Paris Climate Agreement would ensure it is implemented.[0m
+[3m             > A similar policy was implemented under President George W. Bush.[0m
+
+[35mImplement[0m [91m[3mnoun[0m[0m | noun: implement; plural noun: implements    /ˈɪmplɪm(ə)nt/
+      [32m1.[0m [37ma tool, utensil, or other piece of equipment that is used for a particular purpose.[0m
+	   "garden implements"
+	   [3msynonyms:[0m tool, utensil, instrument, device, apparatus, 
+		    "garden implements"
+
+      [32m2.[0m [37mperformance of an obligation.[0m
+    [91m[3mverb[0m[0m | verb: implement; 3rd person present: implements; past tense: implemented; past participle: implemented; gerund or present participle: implementing    /ˈɪmplɪmɛnt/
+      [32m1.[0m [37mput (a decision, plan, agreement, etc.) into effect.[0m
+	   "the scheme to implement student loans"
+	   [3msynonyms:[0m execute, apply, put into effect/action, put into practice, carry out, 
+		    "the cost of implementing the new law"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mउपकरण[0m          [31mअमल में लाना[0m   
+       [31mहथियार[0m        [31mकार्यान्वित करना[0m 
+        [31mऔज़ार[0m          [31mपरिपालन करना[0m   

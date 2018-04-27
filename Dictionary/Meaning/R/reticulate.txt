@@ -1,0 +1,22 @@
+[35m                                                                                    RETICULATE                                                                                    [0m
+[91m        SHORT  To reticulate is to form a type of net or network.[0m
+[36m         LONG  Reticulating is an activity that creates a net or network. Linking a group of computers into a shared network reticulates them. A spider spinning a web is
+               doing a form of reticulating. A businessperson making connections with many colleagues is reticulating by creating a social network with them.
+               The key to any form of reticulating is that it makes connections: it links people or things in a type of net.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Scientists call this “reticulate evolution,” says Kearns, and it’s been seen in only a handful of other species, including finches and two kinds of fish.[0m
+[3m             > The second, a reticulated python, was also dead.[0m
+[3m             > Two reticulated giraffe calves - a male and a female - were born this week at the Jacksonville Zoo and Gardens.[0m
+[3m             > Two reticulated giraffe calves — a male and a female — were born this week at the Jacksonville Zoo and Gardens.[0m
+[3m             > A 15ft reticulated python escaped from her enclosure before turning up in a neighbour's garden.[0m
+
+[35mReticulate[0m [91m[3mverb rare[0m[0m | verb: reticulate; 3rd person present: reticulates; past tense: reticulated; past participle: reticulated; gerund or present participle: reticulating    /rɪˈtɪkjʊleɪt/
+      [32m1.[0m [37mdivide or mark (something) in such a way as to resemble a net or network.[0m
+	   "the numerous canals and branches of the river reticulate the flat alluvial plain"
+    [91m[3madjective Botany Zoology[0m[0m | adjective: reticulate    /rɪˈtɪkjʊlət/
+      [32m1.[0m [37mreticulated.[0m
+            [31m[4m[34mverb[0m[0m[0m                         [31m[4m[34m[0m[0m[0m             
+                 [31mजाल से ढँकना[0m                        [31mजाल में विभाजित करना या होना[0m       
+                [31mजाली से ढँकना[0m                 [31mजाल में विभाजित हुआ दिखाई देना या दिखलाना[0m 
+
+      Origin:  mid 17th century: from Latin reticulatus ‘reticulated’, from reticulum (see reticulum).

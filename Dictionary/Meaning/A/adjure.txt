@@ -1,0 +1,19 @@
+[35m                                                                                      ADJURE                                                                                      [0m
+[91m        SHORT  The verb adjure is a heavy-duty synonym of the word "ask," with more of a demanding tone. For example, you might have to adjure someone to tell the truth.[0m
+[36m         LONG  You get a strong sense of the word adjure when you realize that the jure part is similar to "jury." Both come from the Latin jūrāre "swear," which in turn
+               comes from jūs, jūr- "law" (as in justice and jurist). In 14th-century Middle English, the word suggested someone affirming something by
+               swearing with an oath. So adjure means to command solemnly, as in "She adjured him to present the events precisely as he witnessed them."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Then another surprise: He adjured the name “Pius XIII” in favor of his father’s, John.[0m
+[3m             > On the conclusion of his discourse he adjured them: “Repent, then, all ye who have been contaminated.[0m
+[3m             > Jeremiah, I adjure you, Leave me not again.[0m
+[3m             > She had hoped to band all women together to adjure tyrannic man.[0m
+[3m             > "Do you go on!" the Duchess adjured us.[0m
+
+[35mAdjure[0m[36m /əˈdʒʊə,əˈdʒɔː/,[0m [91m[3mverb formal[0m[0m | verb: adjure; 3rd person present: adjures; past tense: adjured; past participle: adjured; gerund or present participle: adjuring
+          • [37murge or request (someone) solemnly or earnestly to do something.[0m
+	   "I adjure you to tell me the truth"
+                 [31m[4m[34mverb[0m[0m[0m                                   [31m[4m[34m[0m[0m[0m                  
+                     [31mशपथ लेकर कहना[0m                                           [31mशपथ दिलाना[0m                     
+
+      Origin:  late Middle English (in the sense ‘put a person on oath’): from Latin adjurare, from ad- ‘to’ + jurare ‘swear’ (from jus, jur- ‘oath’).

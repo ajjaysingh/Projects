@@ -1,0 +1,27 @@
+[35m                                                                                     DUALITY                                                                                      [0m
+[91m        SHORT  As hinted at by the word "dual" within it, duality refers to having two parts, often with opposite meanings, like the duality of good and evil.[0m
+[36m         LONG  If there are two sides to a coin, metaphorically speaking, there's a duality. Peace and war, love and hate, up and down, and black and white are dualities.
+               Another term for a duality is a dichotomy. Duality has technical meanings in geometry and physics. In geometry, duality refers to how points
+               and planes have interchangeable roles in projective geometry. In physics, duality is the property of matter and electromagnetic radiation to be
+               understood best through wave theory or particle theory.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This team-individual duality is a reason fans identify intensely with individual players and their baseball life stories, not just with the whole team.[0m
+[3m             > Pasantino struggled with this duality long before the passing of the gender identity law.[0m
+[3m             > In Canada, ninth grade disclosed a history of uneasy compromise duality, and the constant search for temporary nonviolent solutions to intractable divides.[0m
+[3m             > That duality is matched by a second one, of cinema versus theatre.[0m
+[3m             > I’ve always been ambivalent about social networks, because they exploit and amplify the duality between public and private selves.[0m
+
+[35mDuality[0m[36m /djuːˈalɪti/,[0m [91m[3mnoun[0m[0m | noun: duality; plural noun: dualities
+      [32m1.[0m [37mthe quality or condition of being dual.[0m
+	   "this duality of purpose was discernible in the appointments"
+          • [37mthe property of two theorems, expressions, etc., of being dual to each other.[0m
+          • [37mthe quantum-mechanical property of being regardable as both a wave and a particle.[0m
+
+      [32m2.[0m [37man instance of opposition or contrast between two concepts or two aspects of something; a dualism.[0m
+	   "his photographs capitalize on the dualities of light and dark, stillness and movement"
+  	   [3msynonyms:[0m doubleness, dualism, duplexity, ambivalence ;  dichotomy, polarity, separation, opposition, difference
+		    "there was a duality in her feelings towards Johnny"
+  [31m[4m[34m[0m[0m[0m
+  [31mद्वंद्व[0m 
+
+      Origin:  late Middle English: from late Latin dualitas, from dualis (see dual).

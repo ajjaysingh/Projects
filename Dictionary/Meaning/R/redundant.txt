@@ -1,0 +1,32 @@
+[35m                                                                                    REDUNDANT                                                                                     [0m
+[91m        SHORT  The word redundant applies to things that are unnecessary or could be left out. Calling a blank sheet of paper empty is redundant.[0m
+[36m         LONG  Teachers often tell students to avoid being redundant — meaning avoid saying something twice or more. Have you ever heard someone tell a story and repeat the
+               same thing over and over? The repeated parts are redundant. Sometimes being redundant can make things clear, but it can also be annoying.
+               Redundant can apply to anything that's overflowing or unnecessary. If a business has two stores on the same street, one is redundant. When you
+               hear redundant, think "Too much!"[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The night sparked memories of playoff basketball in the 1980s, when the term “flagrant foul” was redundant.[0m
+[3m             > The redundant towers will not be replaced with new pylons.[0m
+[3m             > REViGO92, which removes redundant and similar terms from long Gene Ontology lists by semantic clustering, was applied to visualize the enrichment results.[0m
+[3m             > It seems redundant to say that France's decisions reflect the problems of the wider developed world.[0m
+[3m             > A more pressing concern is that just one of four redundant pumps that cool its silicon trackers is working at full strength.[0m
+
+[35mRedundant[0m[36m /rɪˈdʌnd(ə)nt/,[0m [91m[3madjective[0m[0m | adjective: redundant
+          • [37mnot or no longer needed or useful; superfluous.[0m
+	   "an appropriate use for a redundant church"
+  	   [3msynonyms:[0m unnecessary, not required, inessential, unessential, needless, unneeded, uncalled for, dispensable, disposable, expendable, unwanted, useless ;  surplus,
+                     surplus to requirements, superfluous, too much/many, supernumerary, excessive, in excess, extra, additional, spare ;  de trop ;
+                     needed like a hole in the head
+		    "many churches have become redundant over the last twenty years"
+  	   [3mantonyms:[0m essential, necessary
+          • [37mno longer in employment because there is no more work available.[0m
+	   "eight permanent staff were made redundant"
+  	   [3msynonyms:[0m sacked, dismissed, laid off, discharged ;  unemployed, idle, jobless, out of work, out of a job ;  disemployed
+		    "2,000 workers were made redundant"
+  	   [3mantonyms:[0m in work, employed
+          • [37m(of words or data) able to be omitted without loss of meaning or function.[0m
+	   "our peculiar affection for redundant phrases"
+          • [37m(of a component) not strictly necessary to functioning but included in case of failure in another component.[0m
+	   "the modules are linked using a redundant fibre-optic cable"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m
+  [31mअनावश्यक[0m    [31mव्यर्थ[0m  

@@ -1,0 +1,47 @@
+[35m                                                                                      DECREE                                                                                      [0m
+[91m        SHORT  Look carefully! A decree isn't something you get when you graduate. That one little letter change makes it something else altogether: a legally binding
+               command or the announcement of such a thing.[0m
+[36m         LONG  If you go back far enough, a decree referred to a decision handed down by the Roman emperor. In more modern usage, a divorce decree is the document issued by
+               a court that terminates a marriage. And if you want to go out with someone on a date, but things keep preventing you from having the chance to
+               ask, you could say that fate did not decree it to be so.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But, in a surprise, the academy decreed that Gaghan’s script was significantly different from Baer’s work and classified it as an original screenplay.[0m
+[3m             > A September decree by the Italian government aims to recruit leading university professors through an unprecedented and highly questionable procedure.[0m
+[3m             > “Whisky was very important. Every decree required a separate negotiation session.”[0m
+[3m             > The first of numerous decrees was issued, ordering women to don the niqab as well as gloves.[0m
+[3m             > Rome is ready to intervene with an emergency decree to rescue the bank if needed, a government source said on Friday.[0m
+
+  n.
+    1. An authoritative order having the force of law.
+    2. Law
+      a. The judgment of a court of equity.
+      b. The judgment of a court.
+    3. Roman Catholic Church
+        a. A doctrinal or disciplinary act of an ecclesiastical authority.
+        b. An administrative act applying or interpreting articles of canon law.
+  v. de·creed, de·cree·ing, de·crees
+  v.tr.
+      To order, establish, or decide by decree: decreed that the two kingdoms would be united.
+  v.intr.
+      To issue a decree.
+
+[35mDecree[0m[36m /dɪˈkriː/,[0m [91m[3mnoun[0m[0m | noun: decree; plural noun: decrees
+      [32m1.[0m [37man official order that has the force of law.[0m
+	   "the decree guaranteed freedom of assembly"
+	   [3msynonyms:[0m order, edict, command, commandment, mandate, 
+		    "an emergency presidential decree"
+          • [37mthe issuing of a decree.[0m
+	   "the king ruled by decree"
+          • [37ma judgement or decision of certain law courts, especially in matrimonial cases.[0m
+	   "the council succeeded in obtaining a court decree against him"
+	   [3msynonyms:[0m judgement, verdict, adjudication, ruling, rule, 
+		    "the council succeeded in obtaining a court decree against him"
+    [91m[3mverb[0m[0m | verb: decree; 3rd person present: decrees; past tense: decreed; past participle: decreed; gerund or present participle: decreeing
+      [32m1.[0m [37morder (something) by decree.[0m
+	   "the president decreed that the military was to be streamlined"
+	   [3msynonyms:[0m order, command, rule, dictate, lay down, 
+		    "the government decreed that a new national stadium should be built"
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+      [31mडिक्री[0m            [31mआज्ञा[0m        [31mआज्ञप्ति देना[0m 
+      [31mडिग्री[0m           [31mनिर्णय[0m         [31mआज्ञा देना[0m   
+     [31mहुक्मनामा[0m        [31mराजाज्ञा[0m        [31mनिर्णय करना[0m  

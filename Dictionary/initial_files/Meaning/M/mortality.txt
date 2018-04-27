@@ -1,0 +1,32 @@
+[35m                                                                                    MORTALITY                                                                                     [0m
+[91m        SHORT  One of the most difficult things for a child is experiencing the death of a beloved pet; it's a hard lesson in mortality. Mortality is the quality of being
+               mortal, or the reality of death.[0m
+[36m         LONG  It's not easy for most people to come to terms with their own mortality, or the fact that they really will die someday. Mortality can refer to an individual
+               or to a larger group of people, particularly when you're talking about the total number of deaths within a population, using the phrase
+               mortality rate. The words mortality and mortal come from the Latin root mortis, or "death."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > South Dakota, for example, contains counties with both the highest, and the lowest, rates nationally for mortality from liver diseases.[0m
+[3m             > It was a home run: Cervical cancer mortality plummeted.[0m
+[3m             > Rice’s novel is most affecting when it confronts the issues of mortality, human suffering, and religious belief, central concerns throughout her long career.[0m
+[3m             > The album opens ominously, with Cole facing his own mortality on “For Whom the Bell Tolls.”[0m
+[3m             > In the U.S., for example, mortality dropped by 42% in that time.[0m
+
+[35mMortality[0m[36m /mɔːˈtalɪti/,[0m [91m[3mnoun[0m[0m | noun: mortality; plural noun: mortalities
+      [32m1.[0m [37mthe state of being subject to death.[0m
+	   "the work is increasingly haunted by thoughts of mortality"
+	   [3msynonyms:[0m impermanence, temporality, transience, ephemerality, impermanency, 
+		    "her death filled him with a sense of his own mortality"
+	   [3mantonyms:[0m immortality
+
+      [32m2.[0m [37mdeath, especially on a large scale.[0m
+	   "the causes of mortality among infants and young children"
+	   [3msynonyms:[0m death, loss of life, dying 
+		    "the causes of mortality among infants and young children"
+          • [37mthe number of deaths in a given area or period, or from a particular cause.[0m
+	   noun: mortality rate; plural noun: mortality rates
+	   [3msynonyms:[0m impermanence, temporality, transience, ephemerality, impermanency, 
+		    "her death filled him with a sense of his own mortality"
+	   [3mantonyms:[0m immortality
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+      [31mमृत्यु दर[0m          [31mमृत्यु-दर[0m    
+    [31mमृत्यु-संख्या[0m           [31mमरण[0m       

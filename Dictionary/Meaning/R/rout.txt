@@ -1,0 +1,57 @@
+[35m                                                                                       ROUT                                                                                       [0m
+[91m        SHORT  When you think about the thrill of victory and the agony of defeat,  associate a rout with the agonizing defeat. A rout is the kind of humiliating loss that
+               makes you wish you would have been injured in the first quarter so you could have avoided the outcome.[0m
+[36m         LONG  One way to remember the meaning of the word rout is to consider its similarity to the word riot, both suggesting a disastrous mess. One interesting thing
+               about the word rout is that whether it's used as a noun or as a verb, it's spelled the same and implies a similar meaning. "The losing team
+               suffers during a rout while the winning team actually routs them!" Whichever form you use, you're referring to a pretty devastating defeat.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The procession, the exhibition and the rout were underway.[0m
+[3m             > Early on, the Bulldogs followed the same formula they used to rout North Carolina State, relying on McCowan for easy baskets inside.[0m
+[3m             > However, some experienced analysts suggest that the rout in stocks may not point to panic over a full-scale trade war.[0m
+[3m             > Louisville thrived offensively, shooting 52 percent and building a lead that reached 27 points with one minute and 24 seconds remaining to finish their third
+               consecutive N.C.A.A. tournament rout.[0m
+[3m             > Early on, however, a rout looked on as slick France stretched Colombia with flowing moves.[0m
+
+[35mRout[0m[36m /raʊt/,[0m [91m[3mnoun[0m[0m | noun: rout; plural noun: routs
+      [32m1.[0m [37ma disorderly retreat of defeated troops.[0m
+	   "the retreat degenerated into a rout"
+  	   [3msynonyms:[0m disorderly retreat, retreat, retreat flight, flight headlong flight
+		    "the army's offensive turned into an ignominious rout"
+          • [37ma decisive defeat.[0m
+	   "the party lost more than half their seats in the rout"
+  	   [3msynonyms:[0m crushing defeat, overwhelming defeat, defeat, defeat trouncing, annihilation annihilation ;  debacle, debacle fiasco fiasco ;  licking, licking
+                     hammering, hammering clobbering, thrashing, thrashing pasting, pasting drubbing, drubbing hiding, hiding caning, caning demolition,
+                     demolition going-over, going-over pounding, pounding massacre massacre ;  shellacking
+		    "Newcastle scored 13 tries in the 76–4 rout"
+  	   [3mantonyms:[0m victory victory
+
+      [32m2.[0m [37man assembly of people who have made a move towards committing an illegal act which would constitute an offence of riot.[0m
+          • [37ma disorderly or tumultuous crowd of people.[0m
+	   "a rout of strangers ought not to be admitted"
+
+      [32m3.[0m [37ma large evening party or reception.[0m
+
+      [32m4.[0m [37ma pack of wolves.[0m
+	   "a rout of wolves consumed the last of the carcass"
+    [91m[3mverb[0m[0m | verb: rout; 3rd person present: routs; past tense: routed; past participle: routed; gerund or present participle: routing
+      [32m1.[0m [37mdefeat and cause to retreat in disorder.[0m
+	   "in a matter of minutes the attackers were routed"
+  	   [3msynonyms:[0m put to flight, put to rout, drive off, dispel, dispel scatter scatter ;  defeat, defeat beat, beat conquer, conquer vanquish, vanquish crush, crush
+                     overpower, overpower overwhelm, overwhelm overthrow, overthrow subjugate subjugate
+		    "his army was routed at the Battle of Milvian Bridge"
+[35mRout[0m[36m /raʊt/,[0m [91m[3mverb[0m[0m | verb: rout; 3rd person present: routs; past tense: routed; past participle: routed; gerund or present participle: routing
+      [32m1.[0m [37mcut a groove, or any pattern not extending to the edges, in (a wooden or metal surface).[0m
+	   "you routed each plank all along its length"
+
+      [32m2.[0m [37m(of an animal) turn up ground with its snout in search of food.[0m
+          • [37mrummage about.[0m
+
+      [32m3.[0m [37mfind (someone or something), or force them from a place.[0m
+	   "Simon routed him from the stable"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mभगदड़[0m        [31mभगाना[0m   
+     [31mभीड़[0m         [31mहराना[0m   
+   [31mघोर पराजय[0m   [31mभगदड़ करना[0m 
+
+      Origin:  Middle English: ultimately based on Latin ruptus ‘broken’, from the verb rumpere ; sense 1 and the verb (late 16th century) are from obsolete French route,
+               probably from Italian rotta ‘break-up of an army’; the other senses are via Anglo-Norman French rute .

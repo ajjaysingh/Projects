@@ -1,0 +1,39 @@
+[35m                                                                                     PRESUME                                                                                      [0m
+[91m        SHORT  If you presume something, it means you act as though it's true before all the evidence is in. If you are presumed to be the fastest runner, don't get too
+               cocky — that word implies that you haven't actually raced yet.[0m
+[36m         LONG  To presume is to take something for granted. The famous quote “Dr. Livingstone, I presume?” comes from the explorer Henry Morton Stanley, who ran into the
+               explorer David Livingstone in the wilds of Africa in 1871. It’s funny because these were the only two white men known to be in that part of
+               Africa at the time.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But it’s curious that so many people in the president’s orbit – including Trump himself – tend to talk about this controversy in a way that presumes guilt.[0m
+[3m             > In an era when personal branding is presumed, no following is too small to monetize.[0m
+[3m             > Federal authorities say eight survive; “massive loss of life” presumed among remaining cult members; Koresh among those believed dead.[0m
+[3m             > The mice appeared to be healthy, and Dr. Lipkin said he presumes that they are carriers of the bacteria but are not affected by them.[0m
+[3m             > Even though this state’s Freedom of Information Act declares that “all records maintained in public offices or by public employees within the scope of their
+               employment shall be presumed to be public records.”[0m
+
+[35mPresume[0m[36m /prɪˈzjuːm/,[0m [91m[3mverb[0m[0m | verb: presume; 3rd person present: presumes; past tense: presumed; past participle: presumed; gerund or present participle: presuming
+      [32m1.[0m [37msuppose that something is the case on the basis of probability.[0m
+	   "I presumed that the man had been escorted from the building"
+  	   [3msynonyms:[0m assume, take it, conjecture, divine, presuppose, infer, judge, imagine, take as read, conclude, speculate, dare say, think, trust, guess, suppose,
+                     postulate, surmise, take for granted, believe, deduce, hypothesize, posit, expect,
+		    "I presume that it had once been an attic"
+          • [37mtake for granted that something exists or is the case.[0m
+	   "the argument presumes that only one person can do the work"
+
+      [32m2.[0m [37mbe arrogant or impertinent enough to do something.[0m
+	   "kindly don't presume to issue me orders in my own house"
+  	   [3msynonyms:[0m take the liberty of, venture, have the audacity, have the effrontery, make so bold as, go so far as, be so bold as, have the temerity, dare,
+		    "let me presume to give you a word of advice"
+          • [37mmake unjustified demands; take liberties.[0m
+	   "forgive me if I have presumed"
+          • [37munjustifiably regard (something) as entitling one to privileges.[0m
+	   "he was wary of presuming on the close friendship between them"
+  	   [3msynonyms:[0m exploit, take liberties with, take advantage of, place reliance on, depend on, trust, take unfair advantage of, count on, rely on, bank on, reckon on,
+		    "he was wary of presuming on their friendship"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mमानना[0m       [31mअनुमान करना[0m 
+    [31mतर्क करना[0m    [31mउपधारणा करना[0m 
+   [31mसत्य समझना[0m    [31mअनुमान लगाना[0m 
+
+      Origin:  late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), from prae ‘before’ + sumere ‘take’.

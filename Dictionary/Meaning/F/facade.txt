@@ -1,0 +1,26 @@
+[35m                                                                                      FACADE                                                                                      [0m
+[91m        SHORT  A facade is the front of a building, or a kind of front people put up emotionally. If you're mad but acting happy, you're putting up a facade.[0m
+[36m         LONG  This word has to do with the outer layer of something. One sense has to do with the front or outside of a building. The other meaning has to do with people
+               who are hiding something. In both cases, the facade could be deceiving. A building with a gorgeous facade isn't necessarily gorgeous inside. A
+               person putting on a facade is definitely putting on a front: the face they're showing to the world doesn't match how they're feeling.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Across their facades ran enormous plates of polished gold.[0m
+[3m             > Mainstays like the Comedy Store are now part of a splintered universe that includes backyards, rooftops, basements and walk-ups with sketchy facades.[0m
+[3m             > McCauley was also pleased with Mendoza’s decision to leave the facade in the condition he found it.[0m
+[3m             > Ms. McCauley was also pleased with Mr. Mendoza’s decision to leave the facade in the condition he found it.[0m
+[3m             > The city began requiring scaffolding as part of a 1980 city law that established regular inspections of building facades.[0m
+
+[35mFacade[0m[36m /fəˈsɑːd/,[0m [91m[3mnoun[0m[0m | noun: facade; plural noun: facades; noun: façade; plural noun: façades
+      [32m1.[0m [37mthe principal front of a building, that faces on to a street or open space.[0m
+	   "the house has a half-timbered facade"
+  	   [3msynonyms:[0m front, frontage, face, aspect, elevation, exterior, outside
+		    "the house has a half-timbered facade"
+
+      [32m2.[0m [37ma deceptive outward appearance.[0m
+	   "her flawless public facade masked private despair"
+  	   [3msynonyms:[0m show, front, appearance, false display, pretence, simulation, affectation, semblance, illusion, posture, pose, sham, fake, act, masquerade, charade,
+                     guise, mask, cloak, veil, veneer
+		    "a facade of laughing bonhomie"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mमुखौटा[0m       [31mइमारत का मुहार[0m 
+       [31mमोहरा[0m              [31m[0m        

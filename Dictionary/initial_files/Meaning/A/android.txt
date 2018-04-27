@@ -1,0 +1,22 @@
+[35m                                                                                     ANDROID                                                                                      [0m
+[91m        SHORT  An android is a robot that looks and acts like a human being.  Sometimes they have fake skin that looks so real you can’t tell the difference.  For all you
+               know, the person sitting next to you is an android.[0m
+[36m         LONG  Life’s biggest question: What’s the difference between cyborgs and androids? Cyborgs are humans with robot parts added to them, and androids start as robots
+               and then get designed to look like humans. The Latin root androides literally means “resembling a man,” and androids really know how to blend
+               in.  Androids mostly appear in science fiction novels and films, but who knows, maybe you’re friends with an android and you don’t even know
+               it.  Yet.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > That’s a change from the campaign trail, when most of his tweets — and most of his most-Trump-like tweets — were sent from an Android device.[0m
+[3m             > I was able to print without issue from my Mac, a PC, my iPhone, an Android phone and an iPad.[0m
+[3m             > The touch screen interface with Apple CarPlay and Android Auto is well executed.[0m
+[3m             > Verdict: Good balance between running and smartwatch for Android phone users.[0m
+[3m             > Instead, Google more or less copied Apple’s software ideas in early versions of Android, and Samsung essentially copied Apple’s hardware.[0m
+
+[35mAndroid[0m[36m /ˈandrɔɪd/,[0m [91m[3mnoun[0m[0m | noun: android; plural noun: androids; noun: Android
+      [32m1.[0m [37m(in science fiction) a robot with a human appearance.[0m
+	   "there were no android security guards to stop him"
+
+      [32m2.[0m [37man open-source operating system used for smartphones and tablet computers.[0m
+	   "I have an Android phone and I like it a lot"
+  [31m[4m[34m[0m[0m[0m
+  [31mआदमी के समान[0m 

@@ -1,0 +1,36 @@
+[35m                                                                                    EXCHEQUER                                                                                     [0m
+[91m        SHORT  Exchequer is a British term for the guy in the government who is in charge of the money: the treasurer. Sometimes it refers to the office in which all the
+               money is kept, the treasury itself.[0m
+[36m         LONG  If you follow British government, you may have noticed that although they have a democracy much like ours, some things are very different. One of them is that
+               the person in the government who is in charge of the government's finances, the Treasury Secretary, is called the Chancellor of the Exchequer.
+               The word has been around for a long time. There were exchequers in medieval England, back when exchequer offices worked for kings.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Now, George Osborne, the former chancellor of the Exchequer, is set to become prominent in both spheres at once.[0m
+[3m             > She was Exchequer Secretary in the last parliament.[0m
+[3m             > Kenneth Clarke, a veteran Conservative lawmaker and former chancellor of the Exchequer, said he would vote against invoking Article 50.[0m
+[3m             > George Osborne, the former chancellor of the Exchequer, is the latest example.[0m
+[3m             > "The 'breathing space' scheme is a practical way to support those struggling at little or no cost to the Exchequer," he said.[0m
+
+[35mExchequer[0m[36m /ɪksˈtʃɛkə,ɛksˈtʃɛkə/,[0m [91m[3mnoun[0m[0m | noun: exchequer; plural noun: exchequers
+          • [37ma royal or national treasury.[0m
+	   "an important source of revenue to the sultan's exchequer"
+          • [37mthe account at the Bank of England in which is held the Consolidated Fund, into which tax receipts and other public monies are paid.[0m
+	   noun: Exchequer
+          • [37mthe former government office responsible for collecting revenue and making payments on behalf of the sovereign, auditing official accounts, and trying legal
+            cases relating to revenue.[0m
+	   noun: Exchequer
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mराजकोष[0m           [31mकोष[0m     
+  [31mसरकारी खजाना[0m      [31mख़ज़ाना[0m    
+
+
+1 capitalized    :a department or office of state in medieval England charged with the collection and management of the royal revenue and judicial determination of all revenue causes
+2   capitalized  :a former superior court having jurisdiction in England and Wales primarily over revenue matters and now merged with King's Bench
+3   often capitalized  a :the department or office of state in Great Britain and Northern Ireland charged with the receipt and care of the national revenue
+                       b   :the national banking account of this realm
+4   :treasury
+; especially :a national or royal treasury
+5   :pecuniary resources :funds
+
+   chancellor of the exchequerError occurred
+Middle English escheker, from Anglo-French, chessboard, counting table, exchequer checker

@@ -1,0 +1,27 @@
+[35m                                                                                    TAUTOLOGY                                                                                     [0m
+[91m        SHORT  Tautology is useless restatement, or saying the same thing twice using different words. “Speedy sprint" is a tautology because sprint already means "speedy
+               running."[0m
+[36m         LONG  The noun tautology originates from the Greek word tautologos, meaning “repeating what is said.”  "From the public view's perspective" is a tautology in which
+               the words perspective and view repeat the same idea. In the study of logic, a tautology is a statement that is necessarily true under any
+               interpretation. "It will snow tomorrow, or it will not snow tomorrow" is an example. No argument here — it's true any way you look at it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But in the end, football being football, Brexit being Brexit, life being life and tautology being tautology, disappointment is nigh.[0m
+[3m             > This is a diagnosis that verges on mere tautology.[0m
+[3m             > It’s tautology time: if you like this sort of thing, then this is the sort of thing you’ll like.[0m
+[3m             > Why you should read it: At the risk of tautology, this is pretty spiteful and tendentious Breitbart content.[0m
+[3m             > A perfect tautology —  that’s nothing to build an art museum around.[0m
+
+[35mTautology[0m[36m /tɔːˈtɒlədʒi/,[0m [91m[3mnoun[0m[0m | noun: tautology
+          • [37mthe saying of the same thing twice over in different words, generally considered to be a fault of style (e.g. they arrived one after the other in succession
+            ).[0m
+	   "his speeches are notable for tautology, such as ‘safe haven’"
+  	   [3msynonyms:[0m repetition, repetitiveness, repetitiousness, reiteration, redundancy, superfluity, periphrasis, iteration, duplication ;  wordiness, long-windedness,
+                     prolixity, verbiage, verbosity ;  pleonasm, perissology
+		    "his speeches are notable for tautology, such as ‘safe haven’"
+          • [37ma phrase or expression in which the same thing is said twice in different words.[0m
+	   plural noun: tautologies
+          • [37ma statement that is true by necessity or by virtue of its logical form.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+  [31mअपनी दोहराना[0m     [31mपुनरुक्ति[0m  
+
+      Origin:  mid 16th century: via late Latin from Greek, from tautologos ‘repeating what has been said’, from tauto- ‘same’ + -logos (see -logy).

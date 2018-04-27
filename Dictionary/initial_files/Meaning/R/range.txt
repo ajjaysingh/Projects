@@ -1,0 +1,110 @@
+[35m                                                                                      RANGE                                                                                       [0m
+[91m        SHORT  The word range refers to a variety of things or to an area in which something operates. The store offers the living room set in a range of colors. What's the
+               range of that remote-controlled airplane?[0m
+[36m         LONG  As a noun, range can also be used to describe a set of mountains such as the Sierra Nevada or it can mean a grassy plain where cattle graze. As a verb, use
+               range to mean a span or variety of things. Your family conversation at the dinner table probably ranges over a variety of topics. At school,
+               you learn about many subjects ranging from English literature to calculus to European history.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > They were 2 of 9 from 3-point range in the first half.[0m
+[3m             > Paul Watson hit 3 of 6 from long range for 13 points and grabbed seven rebounds.[0m
+[3m             > His haircare product line and electrical range followed the launch of his Mayfair salon, while his face regularly popped up on daytime TV.[0m
+[3m             > Billingsley finished 10 of 17 from the field and 6 of 12 from long range.[0m
+[3m             > Cremo hit 9 of 14 from the field, including 2 of 3 from 3-point range, and all nine of his free throws.[0m
+
+[35mRange[0m[36m /reɪn(d)ʒ/,[0m [91m[3mnoun[0m[0m | noun: range; plural noun: ranges
+      [32m1.[0m [37mthe area of variation between upper and lower limits on a particular scale.[0m
+	   "the cost will be in the range of $1–5 million a day"
+	   [3msynonyms:[0m span, scope, compass, radius, scale, 
+		    "it was beyond his range of vision"
+          • [37mthe scope of a person's knowledge or abilities.[0m
+	   "in this film he gave some indication of his range"
+          • [37mthe compass of a person's voice or a musical instrument.[0m
+	   "she was gifted with an incredible vocal range"
+          • [37mthe period of time covered by something such as a forecast.[0m
+          • [37mthe area covered by or included in something.[0m
+	   "a guide to the range of debate this issue has generated"
+          • [37mthe set of values that a given function can take as its argument varies.[0m
+
+      [32m2.[0m [37ma set of different things of the same general type.[0m
+	   "the area offers a wide range of activities for the tourist"
+	   [3msynonyms:[0m assortment, variety, diversity, mixture, collection, 
+		    "the toucan eats a very wide range of fruits"
+
+      [32m3.[0m [37mthe distance within which a person can see or hear.[0m
+	   "something lurked just beyond her range of vision"
+          • [37mthe maximum distance to which a gun will shoot or over which a missile will travel.[0m
+	   "these rockets have a range of 30 to 40 miles"
+          • [37mthe maximum distance at which a radio transmission can be effectively received.[0m
+	   "planets within radio range of Earth"
+          • [37mthe distance that can be covered by a vehicle or aircraft without refuelling.[0m
+	   "the vans have a range of 125 miles"
+          • [37mthe distance between a camera and the subject to be photographed.[0m
+	   "handheld shots taken at extreme telephoto ranges can be pretty wobbly affairs"
+
+      [32m4.[0m [37ma line or series of mountains or hills.[0m
+	   "a mountain range"
+	   [3msynonyms:[0m row, chain; 
+		    "a range of mountains"
+          • [37mmountainous or hilly country.[0m
+	   "no one would know if he had survived to live out his life in the ranges back from the river country"
+
+      [32m5.[0m [37ma large area of open land for grazing or hunting.[0m
+	   "on dude ranches, tourists put on crisp new western gear to ride the range"
+	   [3msynonyms:[0m pasture, pasturage, pastureland, grass, grassland, 
+		    "cows grazed on open range"
+          • [37man area of land or sea used as a testing ground for military equipment.[0m
+	   "the cost of dealing with unexploded shells and bombs on former military ranges"
+          • [37man open or enclosed area with targets for shooting practice.[0m
+	   "he went down to the ranges to practise shooting"
+          • [37mthe area over which a plant or animal is distributed.[0m
+	   "the chimpanzee extensively overlaps the gorilla in its forest range"
+
+      [32m6.[0m [37ma large cooking stove with burners or hotplates and one or more ovens, all of which are kept continually hot.[0m
+	   "a wood-burning kitchen range"
+	   [3msynonyms:[0m stove, cooking stove, kitchen stove; 
+		    "Bertha put the dish into the range to cook"
+          • [37man electric or gas cooker.[0m
+
+      [32m7.[0m [37ma row of buildings.[0m
+	   "Townesend's Durham quadrangle range at Trinity College"
+          • [37ma continuous stretch of a building.[0m
+
+      [32m8.[0m [37mthe direction or position in which something lies.[0m
+	   "the range of the hills and valleys is nearly from north to south"
+    [91m[3mverb[0m[0m | verb: range; 3rd person present: ranges; past tense: ranged; past participle: ranged; gerund or present participle: ranging; adjective: -ranging
+      [32m1.[0m [37mvary or extend between specified limits.[0m
+	   "prices range from £30 to £100"
+	   [3msynonyms:[0m vary, fluctuate, differ; 
+		    "annual charges range from 0.5% to 1%"
+
+      [32m2.[0m [37mplace or arrange in a row or rows or in a specified manner.[0m
+	   "a table with half a dozen chairs ranged around it"
+	   [3msynonyms:[0m line up, align, draw up, put/set in order, order, 
+		    "on the long stalls are ranged all sorts of fresh farm products"
+          • [37mrun or extend in a line in a particular direction.[0m
+	   "he regularly came to the benches that ranged along the path"
+          • [37m(with reference to type) align or be aligned, especially at the ends of successive lines.[0m
+
+      [32m3.[0m [37mplace oneself or be placed in opposition to (a person or group).[0m
+	   "Japan ranged herself against the European nations"
+
+      [32m4.[0m [37m(of a person or animal) travel or wander over a wide area.[0m
+	   "patrols ranged deep into enemy territory"
+	   [3msynonyms:[0m roam, rove, traverse, travel, journey, 
+		    "herdsmen ranged over the steppes"
+          • [37m(of a person's eyes) pass from one person or thing to another.[0m
+	   "his eyes ranged over them"
+          • [37m(of something written or spoken) cover a wide number of different topics.[0m
+	   "tutorials ranged over a variety of subjects"
+
+      [32m5.[0m [37mobtain the range of a target by adjustment after firing past it or short of it, or by the use of radar or laser equipment.[0m
+	   "radar-type transmissions which appeared to be ranging on our convoys"
+          • [37m(of a projectile) cover a specified distance.[0m
+          • [37m(of a gun) send a projectile over a specified distance.[0m
+[35mRangé[0m[36m /ˈrɒ̃ʒeɪ,rɒ̃ˈʒeɪ/,[0m [91m[3madjective literary[0m[0m | adjective: rangé
+          • [37m(of a person or their lifestyle) orderly; settled.[0m
+	   "it's possible for girls to be too rangé"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34mverb[0m[0m[0m     [31m[4m[34m[0m[0m[0m   
+           [31mरेंज[0m               [31mपंक्ति से रखना[0m         [31mश्रेणीबद्ध करना[0m    
+           [31mसीमा[0m                [31mक्रम से रखना[0m                [31mकतार[0m         
+          [31mश्रेणी[0m               [31mक्रम से करना[0m                [31mमाला[0m         

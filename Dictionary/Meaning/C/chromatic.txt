@@ -1,0 +1,28 @@
+[35m                                                                                    CHROMATIC                                                                                     [0m
+[91m        SHORT  The adjective chromatic is useful for describing things related to color, like the beautiful chromatic variation of the sky at sunset.[0m
+[36m         LONG  You could describe the chromatic intensity of a fireworks display or the excellent chromatic perception of an artist, who is skilled at seeing nuances of
+               color. In physics, the word chromatic has to do with the scientific aspects of color and light. The earliest uses of chromatic, in the 1590s,
+               only referred to music, but by the 1800s it was used to mean "color," which is also the meaning of the Greek root, khroma.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Grotjahn’s geometric abstractions employ disjointed vanishing points, the kind originally invented to create a convincing figurative illusion but here
+               swallowing up visual energy as if some vividly chromatic black hole.[0m
+[3m             > Each floating, aluminum-mounted image presents as a luxurious chromatic soak, the figures mere densities within granular, atmospheric fields.[0m
+[3m             > Consider a chapter titled, “Personal Colors: What Do They Say About You?” which offers a kind of chromatic horoscope that locates truths not in the cosmos but
+               in the spectrum of visible light.[0m
+[3m             > Likewise near the end, the band also ventured into an atmospheric, ballad-like instrumental intro employing a gently descending chromatic chord progression —
+               but not that descending chromatic chord progression.[0m
+[3m             > In the devilishly fast Scherzo, for example, she dazzled with transparent, perfectly articulated finger work, flying upward through chromatic scales as light
+               as a feather.[0m
+
+[35mChromatic[0m[36m /krəˈmatɪk/,[0m [91m[3madjective[0m[0m | adjective: chromatic
+      [32m1.[0m [37mrelating to or using notes not belonging to the diatonic scale of the key in which a passage is written.[0m
+          • [37m(of a scale) ascending or descending by semitones.[0m
+          • [37m(of an instrument) able to play all the notes of the chromatic scale.[0m
+	   "the master of the chromatic harmonica"
+
+      [32m2.[0m [37mrelating to or produced by colour.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mरंगीन[0m       [31mभड़कीले रंग का[0m 
+      [31mचटकीला[0m         [31mरंग से बना[0m   
+
+      Origin:  early 17th century: from French chromatique or Latin chromaticus, from Greek khrōmatikos, from khrōma, khrōmat- ‘colour, chromatic scale’.

@@ -1,0 +1,37 @@
+[35m                                                                                   CONSTITUENT                                                                                    [0m
+[91m        SHORT  Constituent means part of a whole, as in "we'll break this down into its constituent parts." The word comes up often in political contexts: constituents are
+               the people politicians have been elected to represent.[0m
+[36m         LONG  To understand constituent, look at constitute, which means to make up. A politician's electorate is constituted of individual constituent voters. Chex Party
+               Mix is constituted of a delightful mix of constituent parts: Chex cereal, pretzels, cheese doodles and those little orange stick things no one
+               has a name for.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > That bill proved extremely unpopular with constituents after being signed into law.[0m
+[3m             > Some of her constituents’ livelihoods depends on the lake.[0m
+[3m             > Yet the divergence of views between MPs and constituents is most striking for Labour.[0m
+[3m             > “When you’ve got a weak opposition then it’s incumbent on serious backbenchers to ask the questions and scrutinise on behalf of our constituents,” Morgan
+               says.[0m
+[3m             > “The only limitation is how willing they are to tread on the will of their constituents,” said Downing of lawmakers.[0m
+
+[35mConstituent[0m[36m /kənˈstɪtjʊənt/,[0m [91m[3madjective[0m[0m | adjective: constituent
+      [32m1.[0m [37mbeing a part of a whole.[0m
+	   "the constituent minerals of the rock"
+	   [3msynonyms:[0m component, integral; 
+		    "they are independent but constituent parts of their universities"
+
+      [32m2.[0m [37mbeing a voting member of an organization and having the power to appoint or elect.[0m
+	   "the constituent body has a right of veto"
+          • [37mable to make or change a political constitution.[0m
+	   "a constituent assembly"
+    [91m[3mnoun[0m[0m | noun: constituent; plural noun: constituents
+      [32m1.[0m [37ma member of an area which elects a representative to a legislative body.[0m
+	   "the MP is playing on his constituents' sense of regional identity to win votes"
+	   [3msynonyms:[0m voter, elector, member of the electorate, member of a constituency 
+		    "MPs have a duty to listen to the concerns of their constituents"
+
+      [32m2.[0m [37ma component part of something.[0m
+	   "the essential constituents of the human diet"
+	   [3msynonyms:[0m component, component part, ingredient, element;
+		    "the harmful constituents of tobacco smoke"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+         [31mघटक[0m               [31mसंघटक[0m              [31mअवयव[0m       
+       [31mमतदाता[0m             [31mअंशभूत[0m            [31mनिर्वाचक[0m     

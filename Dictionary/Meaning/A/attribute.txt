@@ -1,0 +1,42 @@
+[35m                                                                                    ATTRIBUTE                                                                                     [0m
+[91m        SHORT  An attribute is a quality or characteristic given to a person, group, or some other thing. Your best attribute might be your willingness to help others, like
+               when you stopped traffic so the duck family could cross the street.[0m
+[36m         LONG  Attribute comes from the Latin verb attribuere, which is made up the prefix ad, meaning "to," and tribuere meaning "give or bestow." As a verb, to attribute
+               is to give credit, like if you attribute the A on your test to all that hard studying. In Greek and Roman mythology an attribute will often
+               stand in for a character such as Zeus's lightning bolt or Poseidon's trident.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Dozens of advertisers abandoned Fox News due to the controversies, but the company attributed the lack of growth to its National Geographic brand.[0m
+[3m             > In a New York Times interview last year, Redzepi attributed the high prices to bringing in a full-staff from overseas for seven weeks.[0m
+[3m             > Later writers tended to attribute European success not to European deities but to European technology.[0m
+[3m             > It also attributed losses to a forced reduction in stamp prices last year.[0m
+[3m             > Immigrant advocates attribute the drop to more frequent turnarounds at the border by customs agents and immigrants’ fears of enforcement under the Trump
+               administration.[0m
+
+[35mAttribute[0m [91m[3mverb[0m[0m | verb: attribute; 3rd person present: attributes; past tense: attributed; past participle: attributed; gerund or present participle: attributing    /əˈtrɪbjuːt/
+      [32m1.[0m [37mregard something as being caused by.[0m
+	   "he attributed the firm's success to the efforts of the managing director"
+  	   [3msynonyms:[0m ascribe, assign, accredit, credit, impute, allot, allocate ;  put down to, set down to, chalk up to, lay at the door of, hold responsible for, pin
+                     something on, lay something on, place something on ;  connect with, associate with ;  stick something on
+		    "they attributed the success of the expedition entirely to one man"
+          • [37mascribe a work or remark to (a particular author, artist, or speaker).[0m
+	   "the building was attributed to Inigo Jones"
+          • [37mregard a quality or feature as characteristic of or possessed by.[0m
+	   "ancient peoples attributed magic properties to certain stones"
+    [91m[3mnoun[0m[0m | noun: attribute; plural noun: attributes    /ˈatrɪbjuːt/
+      [32m1.[0m [37ma quality or feature regarded as a characteristic or inherent part of someone or something.[0m
+	   "flexibility and mobility are the key attributes of Britain's army"
+  	   [3msynonyms:[0m quality, feature, characteristic, trait, element, aspect, property, hallmark, mark, distinction, sign, telltale sign, sure sign ;  idiosyncrasy,
+                     peculiarity, quirk
+		    "he has all the attributes of a top midfield player"
+          • [37ma material object recognized as symbolic of a person, especially a conventional object used in art to identify a saint or mythical figure.[0m
+	   "it was not until the end of the fifteenth century that the sandglass was depicted as the attribute of Father Time"
+  	   [3msynonyms:[0m symbol, indicator, mark, sign, hallmark, trademark, status symbol
+		    "the hourglass was depicted as the attribute of Father Time"
+
+      [32m2.[0m [37ma piece of information which determines the properties of a field or tag in a database or a string of characters in a display.[0m
+
+      [32m3.[0m [37man attributive adjective or noun.[0m
+
+      [32m4.[0m [37ma real property which a statistical analysis is attempting to describe.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+    [31mविशेषता[0m         [31mगुण[0m       [31mआरोपित करना[0m 

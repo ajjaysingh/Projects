@@ -1,0 +1,58 @@
+[35m                                                                                      HEDGE                                                                                       [0m
+[91m        SHORT  A hedge is a living fence made of closely planted bushes, which, as they grow and get trimmed and shaped, form a wall of green.[0m
+[36m         LONG  Hedge can also be used as a verb. If you someone asks you a question and you hedge, you're avoiding a straight answer. If you hedge your bets, you're trying
+               to minimize risk or loss — that is, you're trying to cover yourself no matter what happens. If you're not sure, for instance, what your boss's
+               political views are, you can hedge your bets by not revealing yours.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Many other news organizations hedged a bit, attaching a question mark to the smoldering term.[0m
+[3m             > He then hedged by saying he was not sure it would pass and that a bipartisan effort might be a good fallback for Republicans.[0m
+[3m             > The others strapped themselves in below—except for Coach Hedge, who insisted on clinging to the forward rail, yelling, “YEAH! Bring it on, lake!”[0m
+[3m             > She was new to the opaque hedge fund world and considered Shkreli a potential “mentor,” she told jurors.[0m
+[3m             > There’s the laughter that hedges or softens what you might be saying.[0m
+
+[35mHedge[0m[36m /hɛdʒ/,[0m [91m[3mnoun[0m[0m | noun: hedge; plural noun: hedges
+      [32m1.[0m [37ma fence or boundary formed by closely growing bushes or shrubs.[0m
+	   "a privet hedge"
+  	   [3msynonyms:[0m hedgerow, hedgerow row of bushes, fence fence ;  windbreak, windbreak barrier, barrier barricade, barricade boundary boundary ;  quickset quickset
+		    "houses concealed behind high hedges"
+
+      [32m2.[0m [37ma way of protecting oneself against financial loss or other adverse circumstances.[0m
+	   "index-linked gilts are a useful hedge against inflation"
+  	   [3msynonyms:[0m safeguard, safeguard protection, protection shield, shield screen, screen guard, guard buffer, buffer cushion cushion ;  cover, cover insurance,
+                     insurance security, security provision, provision insurance cover
+		    "he sees the new fund as an excellent hedge against a fall in sterling"
+
+      [32m3.[0m [37ma word or phrase used to avoid overprecise commitment, for example etc., often, or sometimes.[0m
+	   "his analysis is full of hedges like ‘probably’ and ‘perhaps’"
+  	   [3msynonyms:[0m equivocation, equivocation evasion, evasion fudge, fudge quibble, quibble qualification, qualification qualifying expression ;  temporizing, uncertainty,
+                     uncertainty prevarication, vagueness vagueness
+		    "his analysis is full of hedges like ‘probably’ and ‘perhaps’"
+  	   [3mantonyms:[0m absolute, absolute certainty certainty
+    [91m[3mverb[0m[0m | verb: hedge; 3rd person present: hedges; past tense: hedged; past participle: hedged; gerund or present participle: hedging
+      [32m1.[0m [37msurround with a hedge.[0m
+	   "a garden hedged with yew"
+  	   [3msynonyms:[0m surround, surround enclose, enclose encircle, encircle circle, circle ring, ring border, border edge, edge bound bound ;  gird, gird girdle, girdle
+                     engird
+		    "the fields were hedged with hawthorn"
+          • [37menclose something.[0m
+	   "the cathedral is closely hedged in by other buildings"
+
+      [32m2.[0m [37mlimit or qualify (something) by conditions or exceptions.[0m
+	   "they hedged their story about with provisos"
+  	   [3msynonyms:[0m confine, confine restrict, restrict limit, limit hinder, hinder obstruct, obstruct impede, impede constrain, constrain trap trap ;  hem in, shut in,
+                     close, close keep within bounds
+		    "she was hedged in by her imperfect education"
+          • [37mavoid making a definite statement or commitment.[0m
+	   "he hedged at every new question"
+
+      [32m3.[0m [37mprotect oneself against loss on (a bet or investment) by making balancing or compensating transactions.[0m
+	   "the company hedged its investment position on the futures market"
+  	   [3msynonyms:[0m safeguard, safeguard protect, protect shield, shield guard, guard cushion, cushion cover, cover insure, insure take out insurance, take out insurance
+                     cover
+		    "the company hedged its investment position on the futures market"
+  	   [3mantonyms:[0m expose to risk
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mबाड़ा[0m            [31mरोकना[0m             [31mहैज[0m      
+       [31mहाता[0m          [31mबाड़ा लगाना[0m         [31mघेरा[0m      
+
+      Origin:  Old English hegg, of Germanic origin; related to Dutch heg and German Hecke .

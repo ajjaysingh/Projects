@@ -1,0 +1,24 @@
+[35m                                                                                      GAMBIT                                                                                      [0m
+[91m        SHORT  A gambit is a strategic move, often in chess but also in politics or business, where a player sacrifices something up front for future gain.[0m
+[36m         LONG  The noun gambit comes from an Italian word, gambetto, which means “tripping up.” When you make an opening move, offer something, or start a conversation with
+               something that seems self-sacrificing but is really a ploy for greater advantage in the long run, that's a gambit. In chess, a gambit is when
+               you sacrifice a pawn early for better positioning. When you offer to drive the morning carpool, that might be a gambit to get the afternoon
+               shift off.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s a political gambit that President Trump seems to think will pay off: Let the federal government grind to a halt.[0m
+[3m             > He’s a big bear of a man, fond of guns, cream liqueurs, pork rinds and flatulence as a conversational gambit.[0m
+[3m             > There are other gambits of this type, bold but unflashy trademarks: monologues that flicker with small cuts, like quick blackouts, or a mini flashback.[0m
+[3m             > It was unclear if her gambit was resonating.[0m
+[3m             > It’s far harder to compromise when every suggestion, every argument, every gambit is public knowledge.[0m
+
+[35mGambit[0m[36m /ˈɡambɪt/,[0m [91m[3mnoun[0m[0m | noun: gambit; plural noun: gambits
+      [32m1.[0m [37man act or remark that is calculated to gain an advantage, especially at the outset of a situation.[0m
+	   "his resignation was a tactical gambit"
+	   [3msynonyms:[0m stratagem, machination, scheme, plan, tactic, 
+		    "the most ambitious financial gambit in history"
+
+      [32m2.[0m [37m(in chess) an opening move in which a player makes a sacrifice, typically of a pawn, for the sake of a compensating advantage.[0m
+	   "he tried the dubious Budapest gambit"
+           [31m[4m[34mnoun[0m[0m[0m                       [31m[4m[34m[0m[0m[0m            
+                 [31mपहला क़दम[0m                                  [31mपहली चाल[0m                
+                  [31mपहला पद[0m                   [31mकिसी काम प्रारंभ या प्रारंभिक कार्यवाही[0m 

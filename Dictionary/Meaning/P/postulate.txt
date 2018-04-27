@@ -1,0 +1,27 @@
+[35m                                                                                    POSTULATE                                                                                     [0m
+[91m        SHORT  Assume something or present it as a fact and you postulate it. Physicists postulate the existence of parallel universes, which is a little mind-blowing.[0m
+[36m         LONG  Anyone who has suffered through geometry class is familiar with some of the greatest hits, like Euclid's postulate and the point-line-plane postulate. Those
+               are propositions that have to be assumed for other mathematical statements to follow logically. As a verb (pronounced "POST-you-late") it
+               describes the act of presenting an idea, theory, belief, or concept.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The second, “democratic transition theory”, postulated a great global momentum towards democracy.[0m
+[3m             > Kant’s key postulate was “the creation of an international community based on commerce and free trade.”[0m
+[3m             > Although scientists have yet to calculate the final depth, they postulate that it is a number that has not been seen in almost a century.[0m
+[3m             > There was and has been no solutions postulated for the consequences of those actions.[0m
+[3m             > Geometry classes could explore the strange new worlds that arise from adopting different versions of Euclid’s infamous parallel postulate.[0m
+
+[35mPostulate[0m [91m[3mverb[0m[0m | verb: postulate; 3rd person present: postulates; past tense: postulated; past participle: postulated; gerund or present participle: postulating    /ˈpɒstjʊleɪt/
+      [32m1.[0m [37msuggest or assume the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief.[0m
+	   "his theory postulated a rotatory movement for hurricanes"
+  	   [3msynonyms:[0m put forward, suggest, suggest advance, advance posit, posit hypothesize, hypothesize take as a hypothesis, propose, propose assume, assume presuppose,
+                     presuppose suppose, suppose presume, presume predicate, predicate take for granted, theorize theorize
+		    "such hypotheses have been postulated by highly reputable geologists"
+
+      [32m2.[0m [37m(in ecclesiastical law) nominate or elect (someone) to an ecclesiastical office subject to the sanction of a higher authority.[0m
+	   "the chapter was then allowed to postulate the bishop of Bath"
+    [91m[3mnoun formal[0m[0m | noun: postulate; plural noun: postulates    /ˈpɒstjʊlət/
+      [32m1.[0m [37ma thing suggested or assumed as true as the basis for reasoning, discussion, or belief.[0m
+	   "perhaps the postulate of Babylonian influence on Greek astronomy is incorrect"
+          • [37man assumption used as a basis for mathematical reasoning.[0m
+
+      Origin:  late Middle English (in sense 2 of the verb): from Latin postulat- ‘asked’, from the verb postulare .

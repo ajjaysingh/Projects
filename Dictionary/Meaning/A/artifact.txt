@@ -1,0 +1,20 @@
+[35m                                                                                     ARTIFACT                                                                                     [0m
+[91m        SHORT  An artifact is a man-made object that has some kind of cultural significance. If you find a 12th-century vase, it's an artifact of that time. Don't drop it![0m
+[36m         LONG  Artifact is a combination of two Latin words, arte, meaning "by skill" and factum which means "to make." Usually when you use the word artifact, you are
+               describing something crafted that was used for a particular purpose during a much earlier time.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > A Massachusetts seminary is under fire for failing to return sacred Native American artifacts collected by 19th-century missionaries, like the fishhook above.[0m
+[3m             > Indeed, he was now claiming that the artifacts were half a million years old.[0m
+[3m             > It is unclear what will happen to the collection then, but the seminary said the artifacts would be safeguarded as it worked to repatriate them.[0m
+[3m             > "One almost hopes that it's not representative—that it's some strange artifact."[0m
+[3m             > Marks: The problems of perception, the benefits of delusion, the trickiness of translation — especially when it addresses autobiographical artifacts.[0m
+
+[35mArtefact[0m[36m /ˈɑːtɪfakt/,[0m [91m[3mnoun[0m[0m
+	noun: artifact
+      [32m1.[0m [37man object made by a human being, typically one of cultural or historical interest.[0m
+	   "gold and silver artefacts"
+
+      [32m2.[0m [37msomething observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure.[0m
+	   "the curvature of the surface is an artefact of the wide-angle view"
+  [31m[4m[34m[0m[0m[0m
+  [31mविरूपण साक्ष्य[0m 

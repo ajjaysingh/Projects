@@ -1,0 +1,35 @@
+[35m                                                                                     STUTTER                                                                                      [0m
+[91m        SHORT  If you've ever heard a young child stammer and trip over his words, you know what it means to stutter.[0m
+[36m         LONG  Use the verb stutter when someone gets stuck on certain word sounds, either because she's speaking too quickly or eagerly, or because she has an actual speech
+               disorder, also called a stutter. The word itself is somewhat onomatopoeic — a word that sounds like what it means — with its repeated t sounds.
+               Stutter is thought to be related to the Middle Low German word stoten, "to knock or strike against," which is the way a stutterer's words
+               sometimes sound.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He recalled his uncle as being an odd man with a stutter, who was almost always called Eddie or the Kid by the people who knew him.[0m
+[3m             > She seems very different to typical previous royal brides who would be blushing, stuttering and looking to their future husbands for help and guidance.[0m
+[3m             > Before a phalanx of cameras, she and another student stuttered through a retelling of their escape.[0m
+[3m             > Kaz’s mind stuttered and reeled, trying to explain what he was seeing as a cluster of mist became a cloak, boots, the pale flash of a face.[0m
+[3m             > Annie Glenn, 98, overcame a debilitating stutter to become a leading advocate for Americans with communicative disorders.[0m
+
+[35mStutter[0m[36m /ˈstʌtə/,[0m [91m[3mverb[0m[0m | verb: stutter; 3rd person present: stutters; past tense: stuttered; past participle: stuttered; gerund or present participle: stuttering
+      [32m1.[0m [37mtalk with continued involuntary repetition of sounds, especially initial consonants.[0m
+	   "the child was stuttering in fright"
+  	   [3msynonyms:[0m flounder, fluff one's lines, blunder, speak haltingly, hesitate, halt, splutter, pause, falter, stammer, stumble, speak falteringly,
+		    "he stuttered over a word"
+          • [37msay something with difficulty, repeating the initial consonants of words.[0m
+	   "he shyly stuttered out an invitation to the cinema"
+          • [37m(of a machine or gun) produce a series of short, sharp sounds.[0m
+	   "she flinched as a machine gun stuttered nearby"
+          • [37mprogress in an irregular way.[0m
+	   "the stuttering economy"
+    [91m[3mnoun[0m[0m | noun: stutter; plural noun: stutters
+      [32m1.[0m [37ma tendency to stutter while speaking.[0m
+	   "‘She's p-perfectly j-justified,’ he said with his intermittent stutter"
+  	   [3msynonyms:[0m speech impediment, hesitancy, faltering, stammer, speech defect,
+		    "the editor had a bad stutter"
+          • [37ma series of short, sharp sounds produced by a machine or gun.[0m
+	   "a machine gun shattered the quiet with its explosive stutter"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+         [31mहकलाना[0m                [31mहकलाहट[0m          [31mअटक या रुककर बोलना[0m 
+
+      Origin:  late 16th century (as a verb): frequentative of dialect stut, of Germanic origin; related to German stossen ‘strike against’.

@@ -1,0 +1,16 @@
+[35m                                                                                   PERCOLATION                                                                                    [0m
+[91m        SHORT  Percolation is the process of a liquid slowly passing through a filter. It's how coffee is usually made.[0m
+[36m         LONG  Percolation comes from the Latin word percolare, which means "to strain through." Percolation happens when liquid is strained through a filter, like when
+               someone makes coffee. Drinking coffee can make you feel perky! Perky comes from the word percolate, too, describing something that bubbles
+               over. Percolation (a noun) is what happens when anything percolates. It’s usually coffee, but chemists use percolation for all kinds of
+               experiments.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The city also needs to haul off wastewater from an overflowing percolation pond, which has been intermittently leaking into the same mangroves since April 7.[0m
+[3m             > "Trees are stressing now. They need deeper percolation."[0m
+[3m             > Testing the rice before and after cooking showed that coffee-pot percolation removed about half the arsenic, and that the lab apparatus removed around 60–70%.[0m
+[3m             > With the sound-enhancing Active Sport Exhaust selected, the engine percolation is thrilling.[0m
+[3m             > There were percolations of it last summer in disagreements over your successor.[0m
+
+	Wiki Definition:
+              	Percolation  is the process of a liquid slowly passing through a filter. It's how coffee is usually made.  Percolation  comes from the Latin word percolare,
+               which means "to strain through."  Percolation  happens when liquid is strained through a filter, like when someone makes coffee.

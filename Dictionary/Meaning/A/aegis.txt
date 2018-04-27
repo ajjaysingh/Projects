@@ -1,0 +1,23 @@
+[35m                                                                                      AEGIS                                                                                       [0m
+[91m        SHORT  To be under the aegis of an organization is to be sponsored or protected by them. For instance, you were under the aegis of the Peace Corps when you were
+               living in Swaziland.[0m
+[36m         LONG  The noun aegis comes from the Greek word Aigis, which was the name of Zeus’s shield. That’s Zeus, the most powerful Greek god, who probably had a pretty tough
+               shield, even though it was made of goatskin. To say that something or someone is under the aegis of another is basically saying that they have
+               the strength of Zeus on their side. Or, at least, whoever is protecting them will be as Zeus-like as possible in their support.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Thalia tapped Aegis, and it shrank into a silver bracelet “Hey, it’s all right” she said.[0m
+[3m             > The Carl Vinson is accompanied by a destroyer ship with an Aegis combat system to track and intercept missiles.[0m
+[3m             > Japanese and South Korean navies all operate Aegis warships designed to intercept shorter and medium-range missiles.[0m
+[3m             > Thaad—Terminal High-Altitude Area Defense—is far more capable than the Patriot and Aegis systems currently deployed around Korea.[0m
+[3m             > Army, may be an easier-to-deploy alternative to the Aegis system.[0m
+
+[35mAegis[0m[36m /ˈiːdʒɪs/,[0m [91m[3mnoun[0m[0m | noun: aegis; plural noun: aegises
+      [32m1.[0m [37mthe protection, backing, or support of a particular person or organization.[0m
+	   "the negotiations were conducted under the aegis of the UN"
+  	   [3msynonyms:[0m patronage, sponsorship, backing, protection, shelter, umbrella, charge, keeping, care, supervision, guidance, guardianship, trusteeship, support, agency,
+                     safeguarding, defence, protectorship, championship, aid, assistance, guaranty ;  auspices ;  ward
+		    "there are many societies run under the aegis of the Students' Union"
+
+      [32m2.[0m [37m(in classical art and mythology) an attribute of Zeus and Athene (or their Roman counterparts Jupiter and Minerva) usually represented as a goatskin shield.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+  [31mसंरक्षण[0m    [31mरक्षा[0m  

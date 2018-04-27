@@ -1,0 +1,33 @@
+[35m                                                                                    HIERARCHY                                                                                     [0m
+[91m        SHORT  Hierarchy describes a system that organizes or ranks things, often according to power or importance. At school the principal is at the top of the staff
+               hierarchy, while the seniors rule the student hierarchy.[0m
+[36m         LONG  Also known as a pecking order or power structure, a hierarchy is a formalized or simply implied understanding of who's on top or what's most important. All
+               that sorting and ranking can be helpful if you're a business administrator, but if you find yourself arranging all the produce in your fridge
+               according to a hierarchy of color, size, and expiration date, you might want to consider visiting a therapist.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But some suggested that a hierarchy of disasters should not be created.[0m
+[3m             > Lewandowski’s journey from obscure New Hampshire political operative to celebrity power broker was emblematic of how Trump’s election scrambled Washington’s
+               hierarchies.[0m
+[3m             > They’re the highest part of the social hierarchy within the black community.[0m
+[3m             > Where Williams eventually falls in Seattle’s wide receiver hierarchy may ultimately depend on health and specific attributes.[0m
+[3m             > “It would be a socialism that retains hierarchy, where classes are determined by God or ‘science’.”[0m
+
+[35mHierarchy[0m[36m /ˈhʌɪərɑːki/,[0m [91m[3mnoun[0m[0m | noun: hierarchy; plural noun: hierarchies
+          • [37ma system in which members of an organization or society are ranked according to relative status or authority.[0m
+	   "the initiative was with those lower down in the hierarchy"
+  	   [3msynonyms:[0m pecking order, pecking order ranking, ranking grading, ladder, ladder social order, social stratum, social scale, social scale class system
+		    "the initiative was with those lower down in the hierarchy"
+          • [37mthe clergy of the Catholic Church or of an episcopal Church.[0m
+	   noun: the hierarchy
+          • [37mthe upper echelons of a hierarchical system.[0m
+	   noun: the hierarchy
+          • [37man arrangement or classification of things according to relative importance or inclusiveness.[0m
+	   "a taxonomic hierarchy of phyla, classes, orders, families, genera, and species"
+          • [37mthe traditional system of orders of angels and other heavenly beings.[0m
+	   "the heavenly hierarchy"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+        [31mअनुक्रम[0m             [31mसोपानिकी[0m      
+        [31mपदक्रम[0m               [31mअधिक्रम[0m      
+
+      Origin:  late Middle English: via Old French and medieval Latin from Greek hierarkhia, from hierarkhēs ‘sacred ruler’ (see hierarch). The earliest sense was ‘system of
+               orders of angels and heavenly beings’; the other senses date from the 17th century.

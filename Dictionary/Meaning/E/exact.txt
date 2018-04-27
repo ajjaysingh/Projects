@@ -1,0 +1,49 @@
+[35m                                                                                      EXACT                                                                                       [0m
+[91m        SHORT  If something's exact, it's precise and completely accurate — as opposed to a guess, an estimate, or an approximation.[0m
+[36m         LONG  Exact also has the meaning of taking something from someone, often money, and generally only given up with reluctance under the threat of force. The Mob might
+               exact a shakedown from unfortunate businessmen, for example. The word comes from the Latin exactus "exact or accurate," a form of the verb
+               exigere — meaning "to force out or demand," like the Mob demanding its money.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The exact circumstances surrounding Dr. Shulkin’s firing, and exactly how much the White House chief of staff, John F. Kelly, was aware of it, remained
+               unclear.[0m
+[3m             > This is why Mr. Putin was determined to exact revenge on Hillary Clinton.[0m
+[3m             > He smiles at me, and I notice that his green eyes are the exact same shade as Emily’s.[0m
+[3m             > Twitter is introducing a feature called Timestamps that will allow anyone to tweet a live video or replay that starts at the exact moment they want it to.[0m
+[3m             > It said it chose to restate prior earnings - a more exacting standard under the new rules - because it will allow investors to compare 2018 results with the
+               prior years on the same basis.[0m
+
+[35mExact[0m[36m /ɪɡˈzakt,ɛɡˈzakt/,[0m [91m[3madjective[0m[0m | adjective: exact
+      [32m1.[0m [37mnot approximated in any way; precise.[0m
+	   "the exact details were still being worked out"
+          • [37maccurate or correct in all details.[0m
+	   "an exact replica, two feet tall, was constructed"
+  	   [3msynonyms:[0m precise, precise accurate, accurate correct, correct faithful, faithful close, close true, true veracious, veracious literal, literal strict, strict
+                     unerring, unerring faultless, faultless errorless, error-free, error-free perfect, perfect impeccable impeccable ;  explicit,
+                     explicit detailed, detailed minute, minute meticulous, meticulous thorough, thorough blow-by-blow blow-by-blow ;  inch-perfect inch-
+                     perfect ;  on the nail, on the mark, on the beam, on the button ;  spot on, spot on bang on ;  on the money
+		    "write an exact description of everything you see"
+  	   [3mantonyms:[0m inexact, inexact inaccurate inaccurate
+          • [37m(of a person) accurate and careful about minor details.[0m
+	   "she was an exact, clever manager"
+  	   [3msynonyms:[0m careful, careful meticulous, meticulous painstaking, painstaking precise, precise punctilious, punctilious conscientious, conscientious rigorous,
+                     rigorous scrupulous, scrupulous exacting exacting ;  methodical, methodical systematic, systematic well organized, well organized
+                     ordered, orderly, orderly controlled
+		    "he didn't approve of sloppiness and liked to be exact"
+  	   [3mantonyms:[0m careless careless
+          • [37m(of a subject of study) permitting precise measurements as a basis for rigorously testable theories.[0m
+	   "psychomedicine isn't an exact science yet"
+    [91m[3mverb[0m[0m | verb: exact; 3rd person present: exacts; past tense: exacted; past participle: exacted; gerund or present participle: exacting
+      [32m1.[0m [37mdemand and obtain (something) from someone.[0m
+	   "he exacted promises that another Watergate would never be allowed to happen"
+  	   [3msynonyms:[0m demand, demand require, require insist on, command, command call for, impose, impose request, request ask for, expect, expect look for ;  extract,
+                     extract compel, compel force, force wring, wring wrest, wrest squeeze, squeeze obtain obtain ;  constrain constrain
+		    "she exacted high standards of cleanliness from them"
+          • [37minflict (revenge) on someone.[0m
+	   "she exacts a cruel revenge for his rejection"
+  	   [3msynonyms:[0m inflict, inflict impose, impose deliver, deliver administer, administer issue, issue apply apply
+		    "they exacted a terrible vengeance on the helpless tribe"
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+          [31mठीक[0m          [31mबलपूर्वक वसूल करना[0m      [31mबलपूर्वक लेना[0m   
+
+      Origin:  late Middle English (as a verb): from Latin exact- ‘completed, ascertained, enforced’, from the verb exigere, from ex- ‘thoroughly’ + agere ‘perform’. The
+               adjective dates from the mid 16th century and reflects the Latin exactus ‘precise’.

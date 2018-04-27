@@ -1,0 +1,30 @@
+[35m                                                                                     INHIBIT                                                                                      [0m
+[91m        SHORT  When you inhibit something, you block it or hold it back. If you put plants in a dark room, you inhibit their growth. A teacher who mocks their students for
+               giving wrong answers inhibits their willingness to speak up in class.[0m
+[36m         LONG  When you look at the word inhibit, think hinder. Though it sounds like it might be a bad thing to inhibit something else, there is no judgment built into the
+               word. A drug that inhibits the growth of cancer cells would generally be considered a very good thing. While you may wish cancer cells to be
+               inhibited, you probably don't wish it upon your friend's sense of humor or your country's economic growth.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > That process requires oxygen; without it, byproducts such as lactate build up that inhibit the first steps of glycolysis, and energy production ceases.[0m
+[3m             > He was already constructing a life apart -- certainly from the public, but also from anyone who inhibited him from the things he wanted to do.[0m
+[3m             > Sarin and these insecticides inhibit enzymes that rapidly break down acetylcholine after it is released from a synapse to terminate the signal.[0m
+[3m             > As with all nerve agents, Sarin inhibits the action of the acetylcholinesterase enzyme, which deactivates signals that cause human nerve cells to fire.[0m
+[3m             > But I just as often find myself recoiling from its inhibiting effects.[0m
+
+[35mInhibit[0m[36m /ɪnˈhɪbɪt/,[0m [91m[3mverb[0m[0m | verb: inhibit; 3rd person present: inhibits; past tense: inhibited; past participle: inhibited; gerund or present participle: inhibiting
+      [32m1.[0m [37mhinder, restrain, or prevent (an action or process).[0m
+	   "cold inhibits plant growth"
+	   [3msynonyms:[0m impede, hinder, hamper, hold back, discourage, 
+		    "the obstacles which inhibit change"
+	   [3mantonyms:[0m assist, encourage, allow
+          • [37mprevent or prohibit (someone) from doing something.[0m
+	   "the earnings rule inhibited some retired people from working"
+          • [37m(of a substance) slow down or prevent (a process, reaction, or function) or reduce the activity of (an enzyme or other agent).[0m
+
+      [32m2.[0m [37mmake (someone) self-conscious and unable to act in a relaxed and natural way.[0m
+	   "they felt inhibited by the presence of healthcare professionals"
+
+      [32m3.[0m [37m(in ecclesiastical law) forbid (a member of the clergy) to exercise clerical functions.[0m
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mरोकना[0m       [31mप्रावरोध करना[0m 
+     [31mमना करना[0m       [31mनिषेध करना[0m  

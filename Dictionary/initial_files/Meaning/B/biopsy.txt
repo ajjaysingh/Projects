@@ -1,0 +1,21 @@
+[35m                                                                                      BIOPSY                                                                                      [0m
+[91m        SHORT  A biopsy is a sample of tissue or liquid from the body that helps determine if you have a disease.  If your doctor finds a lump in part of your body, she will
+               probably do a biopsy to see if it is cancerous or not.[0m
+[36m         LONG  Bios means life and opsis means see, so a biopsy is a way for a doctor to look into your body, so to speak, by taking a sample of it. There are different
+               kinds of biopsies, depending on where the tissue is that your doctor needs to look at. You might have a surgical biopsy or a less invasive
+               biopsy by needle.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But the doctor kept ordering more tests — two biopsies, an MRI, a mammogram.[0m
+[3m             > She was later referred for a hospital scan and a biopsy by her GP.[0m
+[3m             > A biopsy after the operation found a hidden sarcoma, an aggressive type of cancer.[0m
+[3m             > It showed 27% of the men did not need a biopsy at all.[0m
+[3m             > The diagnosis often requires a biopsy of one of the arteries in the scalp to confirm inflammation.[0m
+
+[35mBiopsy[0m[36m /ˈbʌɪɒpsi/,[0m [91m[3mnoun[0m[0m | noun: biopsy; plural noun: biopsies
+      [32m1.[0m [37man examination of tissue removed from a living body to discover the presence, cause, or extent of a disease.[0m
+	   "a bone marrow biopsy"
+    [91m[3mverb[0m[0m | verb: biopsy; 3rd person present: biopsies; past tense: biopsied; past participle: biopsied; gerund or present participle: biopsying
+      [32m1.[0m [37mconduct a biopsy on (tissue removed from a living body).[0m
+	   "the lesions may be malignant and should be biopsied"
+  [31m[4m[34mnoun[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+        [31mबीओप्सी[0m             [31mजीवोति-जांच[0m     

@@ -1,0 +1,39 @@
+[35m                                                                                     THEMATIC                                                                                     [0m
+[91m        SHORT  When you visit a museum and the cat paintings are grouped together in one room, and the fruit paintings in another, you could conclude that the curator favors
+               a thematic arrangement, meaning grouped by topic, rather than chronologically or by artist.[0m
+[36m         LONG  Thematic relationships are everywhere. You could apply a thematic arrangement to your closet, putting the 1970s disco-wear in one section and your motorcycle
+               gear in another. When you're studying the works of Charles Dickens, finding the thematic similarities across all the novels helps you remember
+               them more easily. That song your garage band has been working on has a thematic development, too, starting with a line of melody, changing it a
+               little, taking it in a different direction, then returning to the theme.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This alternation provides the wow factor we expect at Lincoln Center — the house heaves into view like the ship in Mr. Sher’s 2015 production of “The King and
+               I” — but also serves a thematic purpose.[0m
+[3m             > Before, the collection was displayed according to thematic categories, such as the concept of heroism as an aspirational social good or the diverse roles
+               women played in ancient life.[0m
+[3m             > The performance, composed in thematic layers, is itself a kind of bricolage.[0m
+[3m             > Contains mild war action and some mature thematic elements.[0m
+[3m             > "Summer in the Forest" also visits the community in Palestine, and builds a thematic through line of war and conflict as a backdrop to these peaceful
+               communities built on relationship and presence.[0m
+
+[35mThematic[0m[36m /θɪˈmatɪk/,[0m [91m[3madjective[0m[0m | adjective: thematic
+      [32m1.[0m [37mhaving or relating to subjects or a particular subject.[0m
+	   "the book is organized into nine thematic chapters"
+          • [37mrelating to the collecting of postage stamps with designs connected with the same subject.[0m
+	   "for the thematic collector volcanoes represent a treasure trove"
+          • [37mrelating to or containing melodic subjects.[0m
+	   "the concerto relies on the frequent repetition of thematic fragments"
+
+      [32m2.[0m [37mrelating to or denoting the theme of a sentence.[0m
+	   "some languages use special affixes to mark thematic and non-thematic elements"
+          • [37mrelating to the theme of an inflected word.[0m
+          • [37m(of a vowel) connecting the theme of a word to its inflections.[0m
+          • [37m(of a word) having a vowel connecting its theme to its inflections.[0m
+    [91m[3mnoun[0m[0m | plural noun: thematics; noun: thematic
+      [32m1.[0m [37ma body of topics for study or discussion.[0m
+	   "I soon gave up trying to prime him with the thematics of the piece"
+
+      [32m2.[0m [37ma postage stamp forming part of a set with designs connected with the same subject.[0m
+   [31m[4m[34m[0m[0m[0m    [31m[4m[34madjective[0m[0m[0m
+        [31mकथ्यपरक[0m         [31mविषय-क्षेत्र-संबंधी[0m 
+
+      Origin:  late 17th century: from Greek thematikos, from thema (see theme).

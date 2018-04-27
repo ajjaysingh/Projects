@@ -1,0 +1,34 @@
+[35m                                                                                       DUEL                                                                                       [0m
+[91m        SHORT  A duel is a fight between two people, usually using swords or other weapons. If you tend to be a little cowardly, you're probably glad that people aren't
+               expected to defend their honor with a duel these days.[0m
+[36m         LONG  The classic definition of a duel is the kind that happens all the time in Shakespeare plays: two men clanking swords together in a battle to the death over
+               some issue of honor or betrayal. Today, the word duel can be used to talk about any kind of contest or struggle — like a duel between political
+               candidates. The word duel can be traced back to both duo, Latin for "two," and also duellum, which means "war."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Trivia: The duelling films were referenced by an episode of Friends, one of the biggest shows on TV at the time.[0m
+[3m             > On Friday night, game two of the West Coast series was another pitcher's duel, with the teams combining for just two hits through eight innings of a 0-0 tie.[0m
+[3m             > Arguing parents become electrical forces or duelling knights; the bin-chute mouth of a block is fed the stuff of its residents’ lives.[0m
+[3m             > Like most epic duels, this one is scheduled for high noon.[0m
+[3m             > The other duel to keep an eye on: Allen against Kansas guard Devonte Graham.[0m
+
+[35mDuel[0m[36m /ˈdjuːəl/,[0m [91m[3mnoun historical[0m[0m | noun: duel; plural noun: duels
+      [32m1.[0m [37ma prearranged contest with deadly weapons between two people in order to settle a point of honour.[0m
+	   "twice he had seriously wounded men in duels"
+  	   [3msynonyms:[0m affair of honour, mano-a-mano, single combat single combat ;  fight, fight battle, battle clash, clash encounter, encounter confrontation, confrontation
+                     head-to-head head-to-head ;  face-off, face-off shoot-out shoot-out ;  field meeting, duello, duello judicial duel, rencounter,
+                     rencounter meeting, meeting meeting for satisfaction of honour ;  monomachy monomachy
+		    "the Baron was killed in a duel"
+          • [37m(in modern use) a contest between two parties.[0m
+	   "he won by a short head after a great final-furlong duel"
+  	   [3msynonyms:[0m contest, contest competition, competition match, match game, game event, event fixture, fixture meet meet ;  battle, battle fight, fight clash, clash
+                     encounter, encounter engagement engagement
+		    "the snooker duel got under way in earnest"
+    [91m[3mverb[0m[0m | verb: duel; 3rd person present: duels; past tense: duelled; past participle: duelled; gerund or present participle: duelling; past tense: dueled; past participle: dueled; gerund or present participle: dueling
+      [32m1.[0m [37mfight a duel or duels.[0m
+	   "shall we duel over this?"
+  	   [3msynonyms:[0m fight a duel ;  fight, fight clash, clash battle, battle combat, combat contend contend ;  go out
+		    "they duelled with swords"
+
+      Origin:  late 15th century: from Latin duellum, archaic and literary form of bellum ‘war’, used in medieval Latin with the meaning ‘combat between two persons’, partly
+               influenced by dualis ‘of two’. The original sense was ‘single combat used to decide a judicial dispute’; the sense ‘contest to decide a point
+               of honour’ dates from the early 17th century.

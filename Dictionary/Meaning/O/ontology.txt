@@ -1,0 +1,20 @@
+[35m                                                                                     ONTOLOGY                                                                                     [0m
+[91m        SHORT  If you are interested in metaphysics and the meaning of existence (and want to impress your friends),  ontology may be a good field of study for you.[0m
+[36m         LONG  Ontology comes from two Greek words: on, which means "being," and logia, which means "study." So ontology is the study of being alive and existing. Heady
+               stuff, but something we all ponder at one point or another. When you see the word ontology, think of Hamlet agonizing over "To be, or not to
+               be" or Descartes stating "I think, therefore I am."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > This file contains tables of Gene Ontology categories enriched in response to hormones or stress treatments in sunflower roots and leaves.[0m
+[3m             > REViGO92, which removes redundant and similar terms from long Gene Ontology lists by semantic clustering, was applied to visualize the enrichment results.[0m
+[3m             > Why credit them with some kind of genius secret plan when the ontology of the executive order seems plainly apparent?[0m
+[3m             > Genes under significant selection in both comparisons are enriched for ‘pathogenesis’ and ‘entry into/exit from host cell’ Gene Ontology terms.[0m
+[3m             > Additionally, the functional significance of this unequal bi-allelic expression for metabolism was inferred by an individual analysis of both sets of alleles
+               using Gene Ontology.[0m
+
+[35mOntology[0m[36m /ɒnˈtɒlədʒi/,[0m [91m[3mnoun[0m[0m | noun: ontology; plural noun: ontologies
+      [32m1.[0m [37mthe branch of metaphysics dealing with the nature of being.[0m
+
+      [32m2.[0m [37ma set of concepts and categories in a subject area or domain that shows their properties and the relations between them.[0m
+	   "what's new about our ontology is that it is created automatically from large datasets"
+
+      Origin:  early 18th century: from modern Latin ontologia, from Greek ōn, ont- ‘being’ + -logy.

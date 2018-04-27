@@ -1,0 +1,23 @@
+[35m                                                                                    IMPRECISE                                                                                     [0m
+[91m        SHORT  If you’re being imprecise, you’re not being exact. If you try to draw a perfect circle with your eyes closed, your drawing will probably be imprecise.[0m
+[36m         LONG  One field where imprecise measurements can turn out to be troublesome is cooking. If you add an imprecise amount of flour into pizza dough, you will either
+               get a crumbly, floury mess that won't stick together, or a big, gooey glob of dough that you can't roll out into a flat crust. Either way, your
+               pizza will not turn out very well, and you might want to remeasure or order from the local pizza place![0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Today, Larson is trying to calculate exactly how many are still empty, a task complicated by flawed and sometimes imprecise government records.[0m
+[3m             > Calculations of radiation exposure are imprecise at best.[0m
+[3m             > Another factor is the antibody test itself, which Cooke says often was imprecise in the past.[0m
+[3m             > Imprecise, expensive and cruel, their strategic utility diminishes the farther they fall from a politician’s desk.[0m
+[3m             > Mortality rates attributed to diabetes are imprecise largely because death results from both immediate and underlying causes, and not every one of them gets
+               recorded.[0m
+
+[35mImprecise[0m[36m /ɪmprɪˈsʌɪs/,[0m [91m[3madjective[0m[0m | adjective: imprecise
+          • [37mlacking exactness and accuracy of expression or detail.[0m
+	   "the witness could give only vague and imprecise descriptions"
+  	   [3msynonyms:[0m vague, loose, indefinite, inexplicit, indistinct, non-specific, unspecific, coarse-grained, broad, general, sweeping ;  hazy, fuzzy, blurred, unfocused,
+                     woolly, nebulous ;  confused, ambiguous, equivocal, uncertain, non-committal  inexact, approximate, estimated, rough ;  inaccurate,
+                     incorrect, wrong, erroneous, wide of the mark, off target, out ;  ballpark
+		    "this is a rather imprecise definition"
+  	   [3mantonyms:[0m precise, narrow, exact
+  [31m[4m[34m[0m[0m[0m
+  [31mअनिश्चित[0m 

@@ -1,0 +1,33 @@
+[35m                                                                                      SIEVE                                                                                       [0m
+[91m        SHORT  A sieve is a mesh strainer used to separate lumps and clumps from the fine material. Sieves are handy for everything from sifting flour to prospecting for
+               gold — anything where you need to separate the big from the small.[0m
+[36m         LONG  If you’re an archaeologist, you've probably used various sorts of sifters and shakers to sieve through the soil to recover even the tiniest artifacts. If your
+               interests run more to building sandcastles, you’ve probably got a sieve in your beach bag, along with the shovels and pails. If you keep
+               forgetting things, you can describe your "mind as a sieve," since it doesn’t seem to hold much.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The pickaxes and shovels would blister my palms and the sieve would harden or even deaden my fingers, often breaking my fingernails.[0m
+[3m             > She mimes a slow sieving motion: up, down.[0m
+[3m             > Working in batches, she pushed these clumps through a wide-meshed sieve.[0m
+[3m             > The membrane molecular sieving properties were benchmarked using xylene isomer separation performance, which is of both practical and fundamental
+               importance30.[0m
+[3m             > Finally, she poured coffee through a tiny sieve into each cup.[0m
+
+[35mSieve[0m[36m /sɪv/,[0m [91m[3mnoun[0m[0m | noun: sieve; plural noun: sieves
+      [32m1.[0m [37ma utensil consisting of a wire or plastic mesh held in a frame, used for straining solids from liquids, for separating coarser from finer particles, or for
+           reducing soft solids to a pulp.[0m
+	   "puree the potatoes through a sieve"
+  	   [3msynonyms:[0m strainer, sifter, filter, colander, riddle, screen, muslin cloth ;  griddle
+		    "use a sieve to strain the mixture"
+          • [37mused figuratively with reference to the fact that a sieve does not hold all its contents.[0m
+	   "she's forgotten all the details already, she's got a mind like a sieve"
+    [91m[3mverb[0m[0m | verb: sieve; 3rd person present: sieves; past tense: sieved; past participle: sieved; gerund or present participle: sieving
+      [32m1.[0m [37mput (a food substance or other material) through a sieve.[0m
+	   "sieve the flour and sugar together in a bowl"
+  	   [3msynonyms:[0m strain, sift, screen, filter, riddle ;  bolt, griddle
+		    "sieve the mixture into a bowl"
+          • [37mremove (unwanted items).[0m
+	   "filters sieve large particles out of the water to prevent them from harming the pumps"
+          • [37mexamine in detail.[0m
+	   "lawyers had sieved through her contract"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mचलनी[0m           [31mछानना[0m          [31mझरना[0m     

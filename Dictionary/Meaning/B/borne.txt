@@ -1,0 +1,87 @@
+[35m                                                                                      BORNE                                                                                       [0m
+[91m        SHORT  To bear is to carry or endure, whether by physical or mental force. If you can bear to read on, you'll find out all the different ways to use the word bear.[0m
+[36m         LONG  Obviously you know the big hairy mountain-roaming animal, but you might not have heard about a bear on Wall Street — an investor who is pessimistic about the
+               market. In its verb form, bear is rooted in the Old English beran, meaning “to bring forth, sustain, endure” and more. So you can bear (or
+               carry) a grudge. You can bear (or give birth to) children. Or you can bear (or stand) to listen to your great aunt tell the same story for the
+               umpteenth time if you have a kind soul.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > They argue that the costs of increased minimum wages are borne by employers, who may be forced to respond by either increasing prices for consumers or hiring
+               fewer workers overall.[0m
+[3m             > It also would seem to increase their costs and, thus, the cost of care—much of which, thanks to Medicaid, is borne by the state that levies the tax.[0m
+[3m             > A memo outlined the pay and expenses Mr Kinnock was due but warned some costs were "not borne by the office".[0m
+[3m             > This folly borne of ignorance, but unfortunately it does not appear to be "fake news."[0m
+[3m             > This means that the costs of major accidents are sometimes borne not by the negligent railroad, but by its victims.[0m
+
+[35mBorne[0m[36m /bɔːn/,[0m [91m[3m[0m[0m | suffix: -borne; adjective: borne
+      [32m1.[0m [37mpast participle of bear1.[0m
+    [91m[3madjective[0m[0m
+      [32m1.[0m [37mcarried or transported by the thing specified.[0m
+	   "waterborne bacteria"
+[35mBear[0m[36m /bɛː/,[0m [91m[3mverb[0m[0m
+	past participle: borne
+      [32m1.[0m [37m(of a person) carry.[0m
+	   "he was bearing a tray of brimming glasses"
+  	   [3msynonyms:[0m carry, carry bring, bring transport, transport move, move convey, convey take, take fetch, fetch haul, haul lug, lug shift shift ;  deliver deliver ;
+                     tote tote
+		    "Bill arrived, bearing a large picnic hamper"
+          • [37m(of a vehicle or boat) convey (passengers or cargo).[0m
+	   "steamboats bear the traveller out of Kerrerra Sound"
+          • [37mhave or display as a visible mark or feature.[0m
+	   "many of the papers bore his flamboyant signature"
+  	   [3msynonyms:[0m display, display exhibit, exhibit show, show present, present set forth, be marked with, carry, carry have have
+		    "the letter bore the signature of a local councillor"
+          • [37mbe called by (a name or title).[0m
+	   "he bore the surname Tiller"
+          • [37mcarry or conduct oneself in a specified manner.[0m
+	   "she bore herself with dignity"
+  	   [3msynonyms:[0m conduct oneself, carry oneself, acquit oneself, act, act behave, behave perform perform ;  comport oneself, deport oneself
+		    "she bore herself like a queen as she slowly descended the stairs"
+
+      [32m2.[0m [37msupport; carry the weight of.[0m
+	   "walls which cannot bear a stone vault"
+  	   [3msynonyms:[0m support, support carry, carry hold up, prop up, keep up, bolster up ;  brace, brace shore up, underpin, underpin buttress, buttress reinforce reinforce
+		    "the track has horizontal concrete slabs, which bear the weight of the vehicle"
+          • [37mtake responsibility for.[0m
+	   "no one likes to bear the responsibility for such decisions"
+  	   [3msynonyms:[0m sustain, sustain carry, carry support, support shoulder, shoulder uphold, uphold absorb, absorb take on
+		    "ratepayers will have to bear the cost of such a move"
+          • [37mbe able to accept or stand up to.[0m
+	   "it is doubtful whether either of these distinctions would bear scrutiny"
+  	   [3msynonyms:[0m withstand, withstand stand up to, stand, stand put up with, take, take cope with, handle, handle resist, resist sustain, sustain absorb, absorb accept
+                     accept
+		    "such a solution does not bear close scrutiny"
+
+      [32m3.[0m [37mendure (an ordeal or difficulty).[0m
+	   "she bore the pain stoically"
+  	   [3msynonyms:[0m endure, endure tolerate, tolerate put up with, stand, stand suffer, suffer abide, abide submit to, experience, experience undergo, undergo go through,
+                     countenance, countenance brook, brook brave, brave weather, weather support support ;  stick, stick stomach, stomach swallow swallow
+		    "I'm not sure how much longer I can bear the pain"
+          • [37mmanage to tolerate (a situation or experience).[0m
+	   "she could hardly bear his sarcasm"
+  	   [3msynonyms:[0m tolerate, tolerate stand, stand put up with, stomach, stomach swallow, swallow brook, brook undergo, undergo accept, accept approve of, endorse, endorse
+                     allow, allow admit, admit permit permit ;  thole thole ;  stick, stick hack, hack abide abide ;  wear, wear be doing with ;  suffer
+                     suffer
+		    "I can't bear being dependent on other people"
+          • [37mstrongly dislike.[0m
+	   "I can't bear caviar"
+
+      [32m4.[0m [37mgive birth to (a child).[0m
+	   "she bore sixteen daughters"
+  	   [3msynonyms:[0m give birth to, bring forth, deliver, deliver be delivered of, have, have mother, mother create, create produce, produce spawn spawn ;  conceive conceive
+                     ;  breed, breed procreate, procreate reproduce reproduce ;  birth birth ;  drop drop ;  beget beget ;  engender, engender be brought
+                     to bed of
+		    "at seventeen she bore his daughter"
+          • [37m(of a tree or plant) produce (fruit or flowers).[0m
+	   "a squash that bears fruit shaped like cucumbers"
+  	   [3msynonyms:[0m produce, produce yield, yield give forth, give, give provide, provide supply, supply generate, generate afford, afford furnish, furnish bestow bestow
+		    "a squash that bears fruit shaped like cucumbers"
+
+      [32m5.[0m [37mturn and proceed in a specified direction.[0m
+	   "bear left and follow the old drove road"
+  	   [3msynonyms:[0m veer, veer curve, curve swerve, swerve incline, incline turn, turn fork, fork diverge, diverge deviate, deviate bend bend ;  go, go move move ;  tack,
+                     tack sheer sheer
+		    "you drive to the end of the street, bear left, and go into the car park"
+  [31m[4m[34madjective[0m[0m[0m
+  [31mजन्म[0m 
+
+      Origin:  "waterborne bacteria"

@@ -1,0 +1,25 @@
+[35m                                                                                      EDIFY                                                                                       [0m
+[91m        SHORT  To edify is to help someone understand, whether it is books that edify those who want to learn a new language, or the explanations that hang beside paintings
+               at a museum that edify visitors who aren't familiar with the artist.[0m
+[36m         LONG  If you know that the noun edifice is a synonym for building, you may wonder what the related verb edify has to do with understanding. You can think of
+               something that edifies as the building blocks of what might become a lifelong interest, like an elementary school teacher who edifies the
+               student who becomes an Abraham Lincoln scholar, or an activity you eventually master, like the beginners' lessons that edify new ice skaters.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But when I ask myself why I felt that way, even a little, the answers are not edifying.[0m
+[3m             > Besides, the precepts Evans offers are both edifying and entertaining.[0m
+[3m             > And it reveals on this edifying occasion that there are neither any small actors nor small parts.[0m
+[3m             > When he’s not thrashing about in a tub of self-disgust, however, Mr. Brown is charming, thoughtful and edifying company.[0m
+[3m             > And even if audiences don’t find such appearances emotionally edifying, it’s undoubtedly a charge for the real folks involved.[0m
+
+[35mEdify[0m[36m /ˈɛdɪfʌɪ/,[0m [91m[3mverb formal[0m[0m | verb: edify; 3rd person present: edifies; past tense: edified; past participle: edified; gerund or present participle: edifying
+          • [37minstruct or improve (someone) morally or intellectually.[0m
+	   "Rachel had edified their childhood with frequent readings from Belloc"
+  	   [3msynonyms:[0m educate, instruct, teach, school, tutor, coach, train, guide ;  enlighten, inform, cultivate, develop, inculcate, indoctrinate, improve, better, uplift,
+                     elevate
+		    "no doubt Hamish will edify us on the subject"
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mउपदेश देना[0m         [31mउन्नत बनाना[0m   
+       [31mसिखाना[0m           [31mलाभ पहँचाना[0m   
+
+      Origin:  Middle English: from Old French edifier, from Latin aedificare ‘build’, from aedis ‘dwelling’ + facere ‘make’ (compare with edifice). The word originally
+               meant ‘construct a building’, also ‘strengthen’, hence to ‘build up’ morally.

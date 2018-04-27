@@ -1,0 +1,64 @@
+[35m                                                                                       PEG                                                                                        [0m
+[91m        SHORT  A peg is a bolt or pin that holds something in place or marks a location. When you use peg as a verb, it means to identify someone or something: "I pegged you
+               as a word lover, the first time I laid eyes on you."[0m
+[36m         LONG  A coat rack might consist of a line of wooden pegs, and you might also secure a tent by driving metal pegs into the ground to hold it there. When you fasten
+               or pierce something with a peg, you can say you peg it. Informally, if you peg a person, you make a judgment about them: "I'd peg him as a
+               messy housekeeper based on the way his dorm room looks."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Together they peg the time of day as late afternoon.[0m
+[3m             > Monthly rates average between $1,100 and $1,800 and are determined on a sliding scale pegged to the resident’s income.[0m
+[3m             > The timing, no doubt, is pegged to the upcoming legislative session.[0m
+[3m             > Occasionally his scorn is well-placed—he correctly pegs many New Atheist diatribes as humorless—but elsewhere he wastes time shooting at small targets.[0m
+[3m             > Hong Kong stocks are priced in the city’s own currency, which is pegged to the U.S. dollar.[0m
+
+[35mPeg[0m[36m /pɛɡ/,[0m [91m[3mnoun[0m[0m | noun: peg; plural noun: pegs
+      [32m1.[0m [37ma short pin or bolt, typically tapered at one end, that is used for securing something in place, hanging things on, or marking a position.[0m
+	   "she put her mack on a peg in the hall"
+	   [3msynonyms:[0m spike, pin, nail, dowel, skewer, 
+          • [37ma pin or bolt driven into the ground to hold one of the ropes or corners of a tent in position.[0m
+	   noun: tent peg; plural noun: tent pegs
+          • [37mshort for clothes peg.[0m
+          • [37ma bung for stoppering a cask.[0m
+          • [37ma footrest on a motorbike.[0m
+
+      [32m2.[0m [37ma point or limit on a scale, especially of exchange rates.[0m
+	   "the Mexican peso, linked to the dollar by a crawling peg, was distinctly too high"
+
+      [32m3.[0m [37ma measure of spirits.[0m
+	   "have a peg of whisky"
+
+      [32m4.[0m [37ma place marked by a peg and allotted to a competitor to fish or shoot from.[0m
+
+      [32m5.[0m [37ma person's leg.[0m
+	   "I have a good right peg and the ball ended up in the back of the net"
+
+      [32m6.[0m [37ma strong throw.[0m
+    [91m[3mverb[0m[0m | verb: peg; 3rd person present: pegs; past tense: pegged; past participle: pegged; gerund or present participle: pegging
+      [32m1.[0m [37mfix, secure, or mark with a peg or pegs.[0m
+	   "drape plants with nets, pegging down the edges"
+	   [3msynonyms:[0m fix, pin, attach, fasten, secure, 
+		    "the flysheet is draped over and pegged to the ground"
+          • [37mhang (washing) on a line with clothes pegs.[0m
+	   "clothes were pegged out on a line"
+          • [37mallot a specified place to (a competitor) in a fishing or shooting competition by means of a marker.[0m
+	   "we've been pegged next to the winning team"
+
+      [32m2.[0m [37mfix (a price, rate, or amount) at a particular level.[0m
+	   "the dividend was pegged at 23.59p"
+	   [3msynonyms:[0m hold down, keep down, fix, set, hold, 
+		    "we decided to peg our prices"
+          • [37mform a fixed opinion of; categorize.[0m
+	   "the officer probably has us pegged as anarchists"
+
+      [32m3.[0m [37mthrow (a ball) hard and low.[0m
+	   "the catcher pegs the ball to the first baseman"
+[35mPeg[0m [91m[3mabbreviation[0m[0m
+          • [37mpolyethylene glycol.[0m
+[35mPolyethylene Glycol[0m [91m[3mnoun[0m[0m
+          • [37ma synthetic resin made by polymerizing ethylene glycol, in particular any of a series of water-soluble oligomers and polymers used chiefly as solvents or
+            waxes.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m  
+         [31mखूंटी[0m              [31mलगा हुआ होना[0m             [31mसहारा[0m        
+          [31mकील[0m                 [31mलीन होना[0m               [31mखूंटा[0m        
+          [31mपैर[0m            [31mखूंटियों से बांधना[0m          [31mअवलम्ब[0m       
+          [31mशंकु[0m          [31mखूंटे से स्थिर करना[0m           [31mआधार[0m        

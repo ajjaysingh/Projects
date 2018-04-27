@@ -1,0 +1,21 @@
+[35m                                                                                    CONCORDAT                                                                                     [0m
+[91m        SHORT  A concordat is an agreement between parties, especially between nations or between a church and a nation. A concordat is official, written, and signed.[0m
+[36m         LONG  When there is concord, there is agreement. That can help you remember that a concordat is a type of agreement between two or more parties. The earliest
+               concordats were between the Roman Catholic Church and various governments, but a concordat can exist between any two entities, including two
+               nations. When there's a concordat, the parties sign a contract and agree to do something. A treaty is a type of concordat.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In 2012, universities signed up to a concordat to support research integrity.[0m
+[3m             > Informal soundings have taken place and if a concordat is reached, this may be enough to ensure there is a functioning shadow cabinet.[0m
+[3m             > The concordat was a narrow, self-protecting measure, but was seen by some as limiting the effectiveness of the church in fighting Nazism.[0m
+[3m             > Called The Concordat to Support Research Integrity, the guidelines detail good practice and aim to strengthen the mechanisms available for investigating
+               misconduct.[0m
+[3m             > It became clear at the conference that not every university had the same understanding of the concordat’s wording that institutions ‘should’ make their
+               reports public.[0m
+
+[35mConcordat[0m[36m /kənˈkɔːdat/,[0m [91m[3mnoun[0m[0m | noun: concordat; plural noun: concordats
+          • [37man agreement or treaty, especially one between the Vatican and a secular government relating to matters of mutual interest.[0m
+	   "Napoleon I's concordat with the papacy"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mसमझौता[0m    [31mधर्मसन्धि[0m 
+
+      Origin:  early 17th century: from French, or from Latin concordatum ‘something agreed upon’, neuter past participle of concordare ‘be of one mind’ (see concord).

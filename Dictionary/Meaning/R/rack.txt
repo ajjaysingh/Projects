@@ -1,0 +1,81 @@
+[35m                                                                                       RACK                                                                                       [0m
+[91m        SHORT  A rack is a device meant to hold something, or several things. A coat rack has hooks for hanging coats, and a magazine rack has shelves or slots to hold
+               magazines.[0m
+[36m         LONG  In a store, racks hold and display items for sale (like clothes racks and book racks), while in your house you have racks for storing things (a spice rack),
+               or drying them (in the case of a towel rack). If you rack, or wrack, your brain, it means you think extra hard;and when something goes "to rack
+               and ruin," it becomes old and decrepit, or falls apart.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > All of which is easy enough to write off as quirky when he’s racking up titles.[0m
+[3m             > The entire ordeal lasted four months, and we racked up $300,000 in medical costs.[0m
+[3m             > The agency says the individual tried to jump the bike rack at a park near the South Lawn and the Ellipse.[0m
+[3m             > Secret Service said in a tweet that it “detains individual who attempted to jump over bike rack barricade near @WhiteHouse.”[0m
+[3m             > Reef’s post caught the culinary world’s attention, racking up nearly 20,000 views.[0m
+
+[35mRack[0m[36m /rak/,[0m [91m[3mnoun[0m[0m | noun: rack; plural noun: racks; noun: the rack
+      [32m1.[0m [37ma framework, typically with rails, bars, hooks, or pegs, for holding or storing things.[0m
+	   "a spice rack"
+  	   [3msynonyms:[0m framework, frame, stand, holder, shelf, form, trestle, support, bin, box, bunker, container, structure
+		    "turn the cake out on to a wire rack to cool"
+          • [37ma stack of digital effects units for a guitar or other instrument.[0m
+          • [37ma vertically barred frame for holding animal fodder.[0m
+	   "a hay rack"
+
+      [32m2.[0m [37ma cogged or toothed bar or rail engaging with a wheel or pinion, or using pegs to adjust the position of something.[0m
+	   "a steering rack"
+
+      [32m3.[0m [37man instrument of torture consisting of a frame on which the victim was stretched by turning rollers to which the wrists and ankles were tied.[0m
+
+      [32m4.[0m [37ma triangular structure for positioning the balls in pool.[0m
+          • [37ma single game of pool.[0m
+
+      [32m5.[0m [37ma woman's breasts.[0m
+	   "that chick's got a nice rack"
+
+      [32m6.[0m [37ma set of antlers.[0m
+	   "moose have the most impressive racks of all the antlered animals"
+
+      [32m7.[0m [37ma bed.[0m
+    [91m[3mverb[0m[0m | verb: rack; 3rd person present: racks; past tense: racked; past participle: racked; gerund or present participle: racking; verb: wrack; 3rd person present: wracks; past tense: wracked; past participle: wracked; gerund or present participle: wracking
+      [32m1.[0m [37mcause extreme pain, anguish, or distress to.[0m
+	   "he was racked with guilt"
+  	   [3msynonyms:[0m torment, afflict, torture, pain, agonize, cause agony/suffering/pain to, harrow, pierce, stab, wound, crucify ;  plague, bedevil, persecute, harass,
+                     distress, trouble, worry ;  convulse ;  rend
+		    "she was racked with guilt"
+          • [37mtorture (someone) on the rack.[0m
+
+      [32m2.[0m [37mplace in or on a rack.[0m
+	   "the shoes were racked neatly beneath the dresses"
+
+      [32m3.[0m [37mmove by a rack and pinion.[0m
+
+      [32m4.[0m [37mraise (rent) above a fair or normal amount.[0m
+          • [37moppress (a tenant) by exacting excessive rent.[0m
+[35mRack[0m[36m /rak/,[0m [91m[3mnoun[0m[0m | noun: rack
+      [32m1.[0m [37ma horse's gait in which both hoofs on either side in turn are lifted almost simultaneously, and all four hoofs are off the ground together at certain moments.[0m
+    [91m[3mverb[0m[0m | verb: rack; 3rd person present: racks; past tense: racked; past participle: racked; gerund or present participle: racking
+      [32m1.[0m [37m(of a horse) move with a rack gait.[0m
+
+      [32m2.[0m [37mgo away.[0m
+	   "‘Rack off mate, or you're going to cop it,’ he bellowed"
+[35mRack[0m[36m /rak/,[0m [91m[3mnoun[0m[0m | noun: rack; plural noun: racks
+          • [37ma joint of meat, typically lamb, that includes the front ribs.[0m
+[35mRack[0m[36m /rak/,[0m [91m[3mverb[0m[0m | verb: rack; 3rd person present: racks; past tense: racked; past participle: racked; gerund or present participle: racking
+          • [37mdraw off (wine, beer, etc.) from the sediment in the barrel.[0m
+	   "the wine is racked off into large oak casks"
+[35mRack[0m[36m /rak/,[0m [91m[3mnoun[0m[0m | verb: rack; 3rd person present: racks; past tense: racked; past participle: racked; gerund or present participle: racking
+      [32m1.[0m [37mvariant spelling of wrack3.[0m
+    [91m[3mverb archaic[0m[0m
+      [32m1.[0m [37m(of a cloud) be driven before the wind.[0m
+	   "a thin shred of cloud racking across the moon"
+[35mWrack[0m[36m /rak/,[0m [91m[3mnoun[0m[0m
+	noun: rack
+          • [37ma mass of high, thick, fast-moving cloud.[0m
+	   "there was a thin moon, a wrack of cloud"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+          [31mरैक[0m              [31mकसकर फैलाना[0m         [31mयन्त्रणा देना[0m   
+        [31mसचल धन[0m              [31mकष्ट देना[0m           [31mयातना देना[0m     
+    [31mउड़ते हुए बादल[0m          [31mहटया करना[0m              [31mटांड[0m        
+         [31mप्रलय[0m               [31mमरोड़ना[0m                 [31m[0m          
+
+      Origin:  Middle English: from Middle Dutch rec, Middle Low German rek ‘horizontal bar or shelf’, probably from recken ‘to stretch, reach’ (possibly the source of sense
+               1 of the verb).

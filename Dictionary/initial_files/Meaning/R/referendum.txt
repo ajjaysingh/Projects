@@ -1,0 +1,22 @@
+[35m                                                                                    REFERENDUM                                                                                    [0m
+[91m        SHORT  A referendum is an official vote on a specific issue. It's often part of a larger election.[0m
+[36m         LONG  On many issues, our elected representatives argue, negotiate, and make a law, but sometimes there's a referendum — the issue is put directly to the people for
+               a vote as part of an election. Past referendums have been on gay marriage and the legalization of marijuana. Usually, a referendum is a yes or
+               no question. Smaller groups can have referendums too — like a school system deciding whether or not to have school uniforms or a longer school
+               year.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > If the proposed reforms are approved by parliament, Turks would vote in a referendum to determine whether to adopt the new system of government.[0m
+[3m             > The initial peace deal was narrowly rejected by Colombian voters in a shock referendum result just days before the Nobel Peace Prize announcement in October.[0m
+[3m             > The passage of the bill would send these amendments to a national referendum that would likely be held in late spring or summer.[0m
+[3m             > But the initial deal was narrowly rejected by Colombian voters in a shock referendum result just days before the Nobel Peace Prize announcement in October.[0m
+[3m             > The peace deal almost collapsed in October after Colombian voters rejected it in a referendum, reckoning the first version was too lenient on the rebels.[0m
+
+[35mReferendum[0m[36m /ˌrɛfəˈrɛndəm/,[0m [91m[3mnoun[0m[0m | noun: referendum; plural noun: referenda; plural noun: referendums
+          • [37ma general vote by the electorate on a single political question which has been referred to them for a direct decision.[0m
+	   "he called for a referendum on the death penalty"
+	   [3msynonyms:[0m public vote, plebiscite, popular vote, ballot, poll
+		    "he called for a referendum on the death penalty"
+  [31m[4m[34mnoun[0m[0m[0m
+   [31mरिफ़रेंडम[0m  
+    [31mमतसंग्रह[0m  
+  [31mजनमत-संग्रह[0m 

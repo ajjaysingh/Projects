@@ -1,0 +1,26 @@
+[35m                                                                                    ENIGMATIC                                                                                     [0m
+[91m        SHORT  Something that's enigmatic is tough to figure out. It's puzzling and even mysterious, like those weird secret college societies, Mona Lisa's smile, or the New
+               York Times crossword.[0m
+[36m         LONG  It's no mystery where the adjective enigmatic comes from: It's rooted in the Greek word for riddle. Something that's enigmatic is obscure, unclear and not an
+               easy nut to crack. Translating the Rosetta Stone, with its ancient Egyptian hieroglyphs and mysterious foreign writings, was certainly an
+               enigmatic challenge for the archaeologists that found it.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > And there is an enigmatic middle-class woman called S. Tilottama who ferries the abandoned baby to her home.[0m
+[3m             > The strange hero in this chaotic world is Borne, an enigmatic chimera raised by the narrator, Rachel.[0m
+[3m             > Then, just a hint of enigmatic contrition: “Okay, I behaved unethically, for ethical reasons.”[0m
+[3m             > An indifferent box office promises to get a lift from a genuinely novel protagonist as enigmatic as she is compelling.[0m
+[3m             > To the average consumer, 3-D printing might seem like an enigmatic and unfamiliar phenomenon — and perhaps a bit like science fiction.[0m
+
+[35mEnigmatic[0m[36m /ˌɛnɪɡˈmatɪk/,[0m [91m[3madjective[0m[0m | adjective: enigmatic
+          • [37mdifficult to interpret or understand; mysterious.[0m
+	   "he took the money with an enigmatic smile"
+  	   [3msynonyms:[0m mysterious, mysterious puzzling, puzzling hard to understand, mystifying, inexplicable, inexplicable baffling, baffling perplexing, perplexing
+                     bewildering, bewildering confusing, confusing impenetrable, impenetrable inscrutable, inscrutable incomprehensible, incomprehensible
+                     unexplainable, unexplainable unfathomable, unfathomable indecipherable, indecipherable Delphic, Delphic oracular oracular ;
+                     ambiguous, ambiguous equivocal, equivocal paradoxical, paradoxical sibylline, sibylline unaccountable, unaccountable insoluble,
+                     insoluble obscure, obscure elliptical, elliptical oblique oblique ;  arcane, arcane abstruse, abstruse recondite, recondite secret,
+                     secret esoteric, esoteric occult, occult cryptic cryptic ;  as clear as mud
+		    "she smiled that enigmatic smile again"
+  	   [3mantonyms:[0m straightforward straightforward
+
+      Origin:  early 17th century: from French énigmatique or late Latin aenigmaticus, based on Greek ainigma ‘riddle’ (see enigma).

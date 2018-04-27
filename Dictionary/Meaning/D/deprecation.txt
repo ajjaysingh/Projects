@@ -1,0 +1,13 @@
+[35m                                                                                   DEPRECATION                                                                                    [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But he still has the self deprecation, and I was like, 'Oh my God.[0m
+[3m             > But it is his voice that was perhaps the most inimitable thing about him, capable of conveying self-importance and sly, self-puncturing deprecation.[0m
+[3m             > And Clinton hopes to show more humor and self deprecation in an effort to improve her overall popularity, the New York Times reports.[0m
+[3m             > "When a currency depreciates, hard assets tend to appreciate, because people take flight from paper currency deprecation into hard asset."[0m
+[3m             > Dirda originally described the essays, with characteristic deprecation, as “just me, maundering on about this and that, usually with a literary theme lurking
+               somewhere.”[0m
+
+	Wiki Definition:
+              	In general English usage, the infinitive "to  deprecate " means "to express disapproval of (something)". It derives from the Latin verb deprecare,  meaning
+               "to ward off (a disaster) by prayer". In current technical usage, for one to state that a feature is  deprecated  is merely a recommendation
+               against using it.

@@ -1,0 +1,66 @@
+[35m                                                                                      RENDER                                                                                      [0m
+[91m        SHORT  Render is a synonym of make––technically it means "cause to become." An illness might render you unable to walk, or a shocking site might render you
+               speechless.[0m
+[36m         LONG  Another basic meaning of the verb render is to give, present, or perform something: to render assistance. And a specialized sense is to formally declare a
+               verdict in a court case. Render is from Middle English, from Old French rendre "to give back, deliver," an alteration of Latin reddere "to
+               restore," from the prefix red-, re- "back" plus dare "to give."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Trump administration claims Mr Comey's handling of the Clinton email investigation rendered him no longer able to credibly lead the bureau.[0m
+[3m             > Wieters rendered the whole thing moot a few seconds later with a single through the right side.[0m
+[3m             > While he rendered various lyrical turns and harmonic shifts eloquently, he backed away from stormy, dramatic episodes.[0m
+[3m             > Acknowledging the scale of the disaster more quickly will render rescue efforts more effective.[0m
+[3m             > Like most Maya art, the portrait is too stylized to regard as a naturalistic rendering.[0m
+
+[35mRender[0m[36m /ˈrɛndə/,[0m [91m[3mverb[0m[0m | verb: render; 3rd person present: renders; past tense: rendered; past participle: rendered; gerund or present participle: rendering
+      [32m1.[0m [37mprovide or give (a service, help, etc.).[0m
+	   "money serves as a reward for services rendered"
+  	   [3msynonyms:[0m give, provide, supply, furnish, make available, contribute ;  offer, extend, proffer  show, display, exhibit, evince, manifest
+		    "Burcham was quickly surrounded by people anxious to render assistance"
+          • [37msubmit or present for inspection or consideration.[0m
+	   "he would render income tax returns at the end of the year"
+  	   [3msynonyms:[0m send in, present, tender, submit
+		    "the invoices rendered by the accountants amounted to £11,690"
+          • [37mdeliver (a verdict or judgement).[0m
+	   "the jury's finding amounted to the clearest verdict yet rendered upon the scandal"
+  	   [3msynonyms:[0m deliver, return, hand down, bring in, give, announce, pronounce, proclaim
+		    "it was about an hour before the jury rendered their verdict"
+          • [37mgive up; surrender.[0m
+	   "he will render up his immortal soul"
+  	   [3msynonyms:[0m give back, return, restore, pay back, repay, hand over, give up, surrender, relinquish, deliver, turn over, yield, cede
+		    "he was called upon to render up the stolen money"
+
+      [32m2.[0m [37mcause to be or become; make.[0m
+	   "the rains rendered his escape impossible"
+  	   [3msynonyms:[0m make, cause to be/become, leave
+		    "her fury rendered her temporarily speechless"
+
+      [32m3.[0m [37mrepresent or depict artistically.[0m
+	   "the eyes and the cheeks are exceptionally well rendered"
+  	   [3msynonyms:[0m paint, draw, depict, portray, represent, reproduce, execute ;  limn  act, perform, play, depict ;  interpret
+		    "her paintings are rendered in wonderfully vivid colours"
+          • [37mperform (a piece of music).[0m
+	   "a soprano solo reverently rendered by Linda Howie"
+  	   [3msynonyms:[0m perform, play, sing, execute, interpret
+		    "the French songstress had just rendered all three verses of the Marseillaise"
+          • [37mtranslate.[0m
+	   "the phrase was rendered into English"
+  	   [3msynonyms:[0m translate, put, express, transcribe, convert ;  rephrase, reword ;  transliterate ;  construe
+		    "the phrase is almost impossible to render into English"
+          • [37mprocess (an outline image) using colour and shading in order to make it appear solid and three-dimensional.[0m
+	   "he is forced to render images by intermixing pixels of a few basic colours"
+
+      [32m4.[0m [37mcovertly send (a foreign criminal or terrorist suspect) for interrogation abroad; subject to extraordinary rendition.[0m
+
+      [32m5.[0m [37mmelt down (fat) in order to clarify it.[0m
+	   "the fat was being cut up and rendered for lard"
+  	   [3msynonyms:[0m melt down, clarify, purify
+		    "the fat can be rendered and used for cooking"
+          • [37mprocess (the carcass of an animal) in order to extract proteins, fats, and other usable parts.[0m
+	   "the rendered down remains of sheep"
+
+      [32m6.[0m [37mcover (stone or brick) with a coat of plaster.[0m
+	   "external walls will be rendered and tiled"
+    [91m[3mnoun[0m[0m | noun: render; plural noun: renders
+      [32m1.[0m [37ma first coat of plaster applied to a brick or stone surface.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m 
+      [31mसौंपनेवाला[0m          [31mप्रस्तुत करना[0m        [31mसमर्पित करना[0m    

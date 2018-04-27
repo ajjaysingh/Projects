@@ -1,0 +1,88 @@
+[35m                                                                                       HACK                                                                                       [0m
+[91m        SHORT  To hack is to cut or chop something with short strong blows, like if you hack your way through a thick jungle with a machete. To hack is also to illegally
+               break into someone’s computer.[0m
+[36m         LONG  The Old English root word is haccian, which means “to cut into pieces,” but hack also means to cough frequently. A tickle in your throat can make you hack. If
+               you call someone a hack, you mean they’re not great at what they do — especially writing. A mediocre writer is called a hack. Once upon a time
+               hack was short for “an ordinary horse,” and now it’s an insult for writers. No one wants to be a hack![0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Scottish government says it is working closely with health officials following a global cyber hack.[0m
+[3m             > At the time, there was skepticism about whether the group was exaggerating the scale of its hack.[0m
+[3m             > It added that through the hacking, the telephone numbers of the group’s media office were used to send the messages to people around Lebanon.[0m
+[3m             > Blackpool hospitals also confirmed they were involved in the hack:[0m
+[3m             > FBI agents interviewed Mr. Nikulin twice since his arrest, he wrote, and each time asked him to confess to hacking American political targets.[0m
+
+[35mHack[0m[36m /hak/,[0m [91m[3mverb[0m[0m | verb: hack; 3rd person present: hacks; past tense: hacked; past participle: hacked; gerund or present participle: hacking
+      [32m1.[0m [37mcut with rough or heavy blows.[0m
+	   "I watched them hack the branches"
+  	   [3msynonyms:[0m cut, chop, hew, lop, saw ;  slash
+		    "Stuart hacked the padlock off"
+          • [37mkick wildly or roughly.[0m
+	   "he had to race from his line to hack the ball into the stand"
+
+      [32m2.[0m [37mgain unauthorized access to data in a system or computer.[0m
+	   "they hacked into the bank's computer"
+          • [37mprogram quickly and roughly.[0m
+
+      [32m3.[0m [37mcough persistently.[0m
+	   "I was waking up in the middle of the night and coughing and hacking for hours"
+
+      [32m4.[0m [37mmanage; cope.[0m
+	   "lots of people leave because they can't hack it"
+  	   [3msynonyms:[0m cope, manage, get on, get along, get by, carry on, muddle through, muddle along, come through, stand on one's own two feet, weather the storm ;  stand
+                     it, tolerate it, bear it, endure it, put up with it ;  thole it ;  make out, handle it, abide it, stick it ;  rub along, be doing
+                     with it
+		    "Adam moved out because he couldn't hack it"
+    [91m[3mnoun[0m[0m | noun: hack; plural noun: hacks
+      [32m1.[0m [37ma rough cut, blow, or stroke.[0m
+	   "he was sure one of us was going to take a hack at him"
+          • [37m(in sport) a kick or a stroke with a stick inflicted on another player.[0m
+          • [37ma notch cut in the ice, or a peg inserted, to steady the foot when delivering a stone in curling.[0m
+          • [37ma tool for rough striking or cutting, e.g. a mattock or a miner's pick.[0m
+          • [37ma gash or wound.[0m
+
+      [32m2.[0m [37man act of computer hacking.[0m
+	   "the challenge of the hack itself"
+          • [37ma piece of computer code providing a quick or inelegant solution to a particular problem.[0m
+	   "this hack doesn't work on machines that have a firewall"
+          • [37ma strategy or technique for managing one's time or activities more efficiently.[0m
+	   "another hack that will save time is to cover your side mirrors with a plastic bag when freezing rain is forecast"
+[35mHack[0m[36m /hak/,[0m [91m[3mnoun[0m[0m | noun: hack; plural noun: hacks
+      [32m1.[0m [37ma writer or journalist producing dull, unoriginal work.[0m
+	   "Sunday newspaper hacks earn their livings on such gullibilities"
+  	   [3msynonyms:[0m journalist, reporter, correspondent, newspaperman, newspaperwoman, newsman, newswoman, writer, feature writer, contributor, columnist, Grub Street writer
+                     ;  pressman ;  legman, wireman ;  roundsman ;  newshound, journo, scribbler, scribe, hackette, stringer ;  newsy ;  penny-a-liner
+		    "he briefed the media's industry hacks before the party conference"
+          • [37ma person who does dull routine work.[0m
+	   "a hard-working, clerical hack"
+  	   [3msynonyms:[0m drudge, menial, menial worker, factotum, toiler, plodder, doormat, hewer of wood and drawer of water ;  servant, lackey, labourer, slave, galley slave ;
+                     dogsbody, skivvy, running dog, runner ;  peon, gofer ;  scullion, servitor
+		    "a hard-working, clerical hack"
+
+      [32m2.[0m [37ma horse for ordinary riding.[0m
+	   "the average riding-school hack"
+  	   [3msynonyms:[0m nag, inferior horse, tired-out horse, worn-out horse, Rosinante ;  bag of bones, crock ;  plug, crowbait ;  moke ;  screw ;  jade, rip, keffel
+		    "the average riding-school hack"
+          • [37ma good-quality lightweight riding horse, especially one used in the show ring.[0m
+          • [37ma ride on a horse.[0m
+          • [37ma horse let out for hire.[0m
+          • [37man inferior or worn-out horse.[0m
+	   "the average riding-school hack"
+  	   [3msynonyms:[0m nag, inferior horse, tired-out horse, worn-out horse, Rosinante ;  bag of bones, crock ;  plug, crowbait ;  moke ;  screw ;  jade, rip, keffel
+		    "the average riding-school hack"
+
+      [32m3.[0m [37ma taxi.[0m
+	   "they hailed an empty hack"
+  	   [3msynonyms:[0m taxi, cab, taxi cab, minicab, hackney cab ;  hackney carriage ;  fiacre
+		    "they hailed an empty hack"
+    [91m[3mverb[0m[0m | verb: hack; 3rd person present: hacks; past tense: hacked; past participle: hacked; gerund or present participle: hacking
+      [32m1.[0m [37mride a horse for pleasure or exercise.[0m
+	   "some gentle hacking in a scenic setting"
+[35mHack[0m[36m /hak/,[0m [91m[3mnoun[0m[0m | noun: hack; plural noun: hacks
+      [32m1.[0m [37ma board on which a hawk's meat is laid.[0m
+
+      [32m2.[0m [37ma wooden frame for drying bricks, cheeses, etc.[0m
+          • [37ma pile of bricks stacked up to dry before firing.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mकिराये का[0m       [31mकिराये का घोड़ा[0m      [31mटुकड़ा करना[0m     [31mअनाधिकारी प्रवेश[0m 
+     [31mतंख़्वाहदार[0m             [31mघाव[0m               [31mनोचना[0m              [31mकाटना[0m      
+      [31mवेतन-भोगी[0m            [31mकटाव[0m          [31mबेरहमी से काटना[0m    [31mटुकड़े कर देना[0m  

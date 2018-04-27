@@ -1,0 +1,53 @@
+[35m                                                                                     DESCENT                                                                                      [0m
+[91m        SHORT  If you’re on your way down, you’re making a descent, whether that’s as a passenger in an airplane that's landing, or if you’re tumbling down a staircase you
+               just slipped on.[0m
+[36m         LONG  Descent comes from the verb descend — to go down. In the original Latin meaning, descent was used spatially, in reference to physical action, like going
+               downstairs into a creepy basement. Metaphorically, though, we also use it to describe origins, especially in ancestry, when we consider
+               ourselves descendants of our forebears.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Wearing the suit increases lift and allows the skydiver to fly horizontal distances at a slower descent rate, increasing their time in freefall.[0m
+[3m             > Latino population are Mexicans or of Mexican descent, and thus, many grew up watching Televisa in their homeland.[0m
+[3m             > Federal law limited naturalization to “free white persons” and those of African descent.[0m
+[3m             > The White House says Thapar was the first federal judge of South Asian descent.[0m
+[3m             > On his bill of sale, it says that he is a griffe, a person of African and Native American descent.[0m
+
+[35mDescent[0m[36m /dɪˈsɛnt/,[0m [91m[3mnoun[0m[0m | noun: descent; plural noun: descents
+      [32m1.[0m [37man act of moving downwards, dropping, or falling.[0m
+	   "the plane had gone into a steep descent"
+  	   [3msynonyms:[0m going down, coming down ;  drop, fall, sinking, subsiding ;  dive, pitch, slump  downward climb, descending
+		    "the plane began its descent to Brussels"
+  	   [3mantonyms:[0m ascent, climb
+          • [37ma downward slope.[0m
+	   "a steep, badly eroded descent"
+  	   [3msynonyms:[0m slope, incline, dip, drop, gradient, declivity, declination, slant, downslope, hill
+		    "a steep, badly eroded descent"
+          • [37ma moral, social, or psychological decline.[0m
+	   "the ancient empire's slow descent into barbarism"
+  	   [3msynonyms:[0m degeneration, degeneracy, deterioration, decline, sinking, slide, fall, drop, regression, retrogression, debasement, degradation, comedown
+		    "he began his calamitous descent into alcoholism"
+
+      [32m2.[0m [37mthe origin or background of a person in terms of family or nationality.[0m
+	   "the settlers were of Cornish descent"
+  	   [3msynonyms:[0m ancestry, parentage, ancestors, family ;  lineage, line, line of descent ;  extraction, origin, derivation, birth ;  genealogy, heredity, succession ;
+                     stock, pedigree, blood, bloodline, strain ;  roots, origins, forefathers, antecedents ;  filiation, stirps
+		    "his mother was of Italian descent"
+          • [37mthe transmission of qualities, property, or privileges by inheritance.[0m
+	   "the descent of property can sometimes be traced over several generations through archives"
+  	   [3msynonyms:[0m inheritance, passing down/on, succession
+		    "the descent of property can sometimes be traced over several generations through archives"
+
+      [32m3.[0m [37ma sudden violent attack.[0m
+	   "a descent on the Channel ports"
+  	   [3msynonyms:[0m attack, assault, raid, onslaught, charge, thrust, push, drive, incursion, foray, sortie, sally, storming, assailing
+		    "the sudden descent of the cavalry"
+          • [37man unexpected visit.[0m
+	   "his descents on the manager of any shop he took a fancy to visit"
+
+    noun
+     वंश       अवतरण  
+   अवरोहण       ढाल   
+    उद्भव      ढलान   
+    अन्वय      उतार   
+     कुल       पीढ़ी  
+
+      Origin:  Middle English: from Old French descente, from descendre ‘to descend’ (see descend).

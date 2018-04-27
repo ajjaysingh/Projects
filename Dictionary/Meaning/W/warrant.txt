@@ -1,0 +1,48 @@
+[35m                                                                                     WARRANT                                                                                      [0m
+[91m        SHORT  If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge.[0m
+[36m         LONG  It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an
+               investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a
+               certain amount of time). As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing
+               in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The Metropolitan Police Service is obliged to execute that warrant should he leave the Embassy.”[0m
+[3m             > District officials said they are reviewing video from Tuesday to identify attackers and possibly obtain arrest warrants.[0m
+[3m             > Actually, seasoned race observers say there wasn’t enough to warrant a inquiry, although an objection was a possibility.[0m
+[3m             > The European arrest warrant against Assange was formally withdrawn at a London magistrates court on Friday morning.[0m
+[3m             > These transactions involved several firms, including IBM, according to the warrant and the sources.[0m
+
+[35mWarrant[0m[36m /ˈwɒr(ə)nt/,[0m [91m[3mnoun[0m[0m | noun: warrant; plural noun: warrants
+      [32m1.[0m [37ma document issued by a legal or government official authorizing the police or another body to make an arrest, search premises, or carry out some other action
+           relating to the administration of justice.[0m
+	   "magistrates issued a warrant for his arrest"
+  	   [3msynonyms:[0m authorization, written order, licence, permit, official document ;  writ, order, summons, subpoena ;  mandate, decree, fiat, edict ;  papers
+		    "a judge has now issued a warrant for his arrest"
+          • [37ma document that entitles the holder to receive goods, money, or services.[0m
+	   "we'll issue you with a travel warrant"
+  	   [3msynonyms:[0m voucher, chit, slip, paper, ticket, coupon, pass
+		    "a travel warrant"
+          • [37ma negotiable security allowing the holder to buy shares at a specified price at or before a future date.[0m
+	   "warrant bonds"
+
+      [32m2.[0m [37mjustification or authority for an action, belief, or feeling.[0m
+	   "there is no warrant for this assumption"
+  	   [3msynonyms:[0m justification, grounds, cause, rationale, basis, assurance ;  authority, licence, authorization, sanction, vindication
+		    "the legislation gives no warrant for this assumption"
+
+      [32m3.[0m [37man official certificate of appointment issued to an officer of lower rank than a commissioned officer.[0m
+    [91m[3mverb[0m[0m | verb: warrant; 3rd person present: warrants; past tense: warranted; past participle: warranted; gerund or present participle: warranting
+      [32m1.[0m [37mjustify or necessitate (a course of action).[0m
+	   "the employees feel that industrial action is warranted"
+  	   [3msynonyms:[0m justify, vindicate, call for, sanction, validate, be a justification/reason for ;  permit, authorize, entitle, empower ;  uphold, condone, endorse,
+                     deserve, excuse, be a defence of, explain away, account for, offer grounds for, legitimize ;  support, consent to, license, approve
+                     of ;  merit, qualify for, rate, be worthy of, be worth, be entitled to, be deserving of
+		    "the charges warranted a severe sentence"
+
+      [32m2.[0m [37mofficially affirm or guarantee.[0m
+	   "the vendor warrants the accuracy of the report"
+  	   [3msynonyms:[0m guarantee, affirm, swear, promise, vow, pledge, give an undertaking, undertake, state, assert, declare, aver, proclaim, pronounce, profess, attest ;
+                     vouch, testify, bear witness ;  support, endorse, underwrite, back up, stand by
+		    "the authors warrant that their texts do not infringe any copyright"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mवारंट[0m        [31mअधिपत्र[0m     [31mज़मानत देना[0m 
+     [31mअधिकार[0m         [31mसनद[0m       [31mगारंटी देना[0m 

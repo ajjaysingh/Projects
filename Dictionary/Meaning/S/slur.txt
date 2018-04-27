@@ -1,0 +1,48 @@
+[35m                                                                                       SLUR                                                                                       [0m
+[91m        SHORT  A slur is an insulting remark. In a political campaign, it’s not unheard of for a candidate to launch a slur at her opponent, though doing so is usually
+               frowned upon.[0m
+[36m         LONG  Slur can also be used as a verb meaning “to insult,” and it has a number of additional meanings as well. To slur one’s speech is to pronounce words in a
+               clumsy, lazy way. In the context of music, to slur is to slide smoothly from one note to another. The word history of slur is hazy, but some
+               scholars have suggested a relationship with a Dutch word meaning "to drag."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Lin said the lowest point was hearing a racial slur directed at him throughout a game against Cornell.[0m
+[3m             > His white classmates bullied him, sometimes using racial slurs.[0m
+[3m             > Artiles resigned April 21, four days after he used the slur and vulgarities at a private club near the state Capitol.[0m
+[3m             > She told The Associated Press the comment was not intended to be a racial slur.[0m
+[3m             > The Washington Capitals’ Joel Ward was on the receiving end of racial slurs when his team faced the Bruins in the 2012 NHL playoffs.[0m
+
+[35mSlur[0m[36m /sləː/,[0m [91m[3mverb[0m[0m | verb: slur; 3rd person present: slurs; past tense: slurred; past participle: slurred; gerund or present participle: slurring
+      [32m1.[0m [37mspeak (words) indistinctly so that the sounds run into one another.[0m
+	   "he was slurring his words like a drunk"
+  	   [3msynonyms:[0m mumble, speak unclearly, garble, stumble over, stammer ;  misarticulate
+		    "she was slurring her words"
+  	   [3mantonyms:[0m enunciate
+          • [37m(of words or speech) be slurred.[0m
+	   "his speech was beginning to slur"
+          • [37mpass over (a fact or aspect) so as to conceal or minimize it.[0m
+	   "essential attributes are being slurred over or ignored"
+
+      [32m2.[0m [37mperform (a group of two or more notes) legato.[0m
+	   "a group of slurred notes"
+          • [37mmark (notes) with a slur.[0m
+
+      [32m3.[0m [37mmake damaging or insulting insinuations or allegations about.[0m
+	   "try and slur the integrity of the police to secure an acquittal"
+    [91m[3mnoun[0m[0m | noun: slur; plural noun: slurs
+      [32m1.[0m [37man insinuation or allegation about someone that is likely to insult them or damage their reputation.[0m
+	   "the comments were a slur on staff at the hospital"
+  	   [3msynonyms:[0m insult, slight, slander, slanderous statement, libel, libellous statement, misrepresentation, defamation, aspersion, calumny, smear ;  allegation,
+                     imputation, insinuation, innuendo
+		    "it is a gross slur on a highly respected and honest man"
+          • [37ma derogatory or insulting term applied to particular group of people.[0m
+	   "a racial slur"
+
+      [32m2.[0m [37man act of speaking indistinctly so that sounds or words run into one another or a tendency to speak in such a way.[0m
+	   "there was a trace of a slur in his voice"
+
+      [32m3.[0m [37ma curved line used to show that a group of two or more notes are to be sung to one syllable or played or sung legato.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m    [31m[4m[34m[0m[0m[0m  
+          [31mकलंक[0m           [31mअस्पष्ट उच्चारण करना[0m            [31mदाग[0m         
+          [31mधब्बा[0m                 [31mछिपाना[0m                  [31mचिह्न[0m        
+         [31mबदनामी[0m                 [31mकम करना[0m              [31mअप्रतिष्ठा[0m      
+         [31mउपेक्षा[0m              [31mकलंक लगाना[0m             [31mहल्का अपवाद[0m     

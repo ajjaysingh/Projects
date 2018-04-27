@@ -1,0 +1,5 @@
+[35m                                                                                      MUTEX                                                                                       [0m
+
+	Wiki Definition:
+              	In computer programming, a  mutex  is a program object that allows multiple program threads to share the same resource, such as file access, but not
+               simultaneously. When a program is started, a  mutex  is created with a unique name.

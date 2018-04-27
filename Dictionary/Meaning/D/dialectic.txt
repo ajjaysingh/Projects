@@ -1,0 +1,27 @@
+[35m                                                                                    DIALECTIC                                                                                     [0m
+[91m        SHORT  Dialectic is a formal system of reasoning that arrives at the truth through the exchange of logical arguments.[0m
+[36m         LONG  Dialectic is a process of examining an issue using very careful steps. A "thesis," or argument, is offered, followed by the "antithesis," or counterargument.
+               The goal is to extract the best points from each of these to form a "synthesis." This in turn is used as a new argument, followed by
+               counterargument, and the process continues, hopefully getting closer and closer to the truth, or at least something everyone can agree upon.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Zeno put it like this: “Rhetoric is an open palm; dialectic a closed fist.”[0m
+[3m             > Murnane’s sentences are little dialectics of boredom and beauty, flatness and depth.[0m
+[3m             > He suggested that it was “inevitable destiny for this multi racial society to become dialectic in the struggle for survival.”[0m
+[3m             > More even than most science fiction, near-future sci-fi offers a kind of dialectic between what is right now and what might be.[0m
+[3m             > A protracted dialectic on shades of blue ensues.[0m
+
+[35mDialectic[0m[36m /ˌdʌɪəˈlɛktɪk/,[0m [91m[3mnoun[0m[0m | noun: dialectic; noun: dialectics
+      [32m1.[0m [37mthe art of investigating or discussing the truth of opinions.[0m
+	   "feminism has contributed a good deal to this dialectic"
+  	   [3msynonyms:[0m reasoning, argumentation, contention, logic ;  discussion, debate, dialogue, logical argument ;  ratiocination
+		    "feminism has contributed a good deal to this dialectic"
+
+      [32m2.[0m [37menquiry into metaphysical contradictions and their solutions.[0m
+          • [37mthe existence or action of opposing social forces, concepts, etc.[0m
+    [91m[3madjective[0m[0m | adjective: dialectic
+      [32m1.[0m [37mrelating to dialectic or dialectics; dialectical.[0m
+	   "Japanese negotiation is different from the Western dialectic habit"
+  	   [3msynonyms:[0m rational, rationalistic, logical, analytical ;  disputatious, dialectical, argumentative, contentious
+		    "Japanese negotiation is different from the Western dialectic habit"
+  [31m[4m[34m[0m[0m[0m
+  [31mद्वंद्वात्मक[0m 

@@ -1,0 +1,36 @@
+[35m                                                                                     PRELUDE                                                                                      [0m
+[91m        SHORT  The prefix "pre-" means “before,” so it makes sense that a prelude is an introductory action, event or performance that comes before a bigger or more
+               momentous one.[0m
+[36m         LONG  People speaking old school French and Latin understood a prelude to be the "notes sung or played to test the voice or instrument."  Today preludes are more
+               like introductions than practice, but you can still think of them as a small warm up to the main event. Preludes are often used in classical
+               music, as well as in novels, to set the tone for the rest of the orchestral piece or story.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Vine, one of Australia's preeminent composers, dedicated his "Preludes" to Landa, a major Australian arts patron who died in 2002.[0m
+[3m             > So while Trump’s inauguration is not prelude to civil war, it likely portends an epic struggle over the nature of the American government.[0m
+[3m             > Mr. Anselmo called Justice Zavascki’s death “the prelude to the end of an era” before editing and removing parts of the post.[0m
+[3m             > These fights are prelude to a bigger one.[0m
+[3m             > But Mr. Goldin’s comments were merely the prelude to a conversation that was supposed to be about how to pull that off.[0m
+
+[35mPrelude[0m[36m /ˈprɛljuːd/,[0m [91m[3mnoun[0m[0m | noun: prelude; plural noun: preludes
+      [32m1.[0m [37man action or event serving as an introduction to something more important.[0m
+	   "a ceasefire had been agreed as a prelude to full peace negotiations"
+	   [3msynonyms:[0m preliminary, overture, opening, preparation, introduction, 
+		    "a ceasefire was agreed as a prelude to full peace negotiations"
+
+      [32m2.[0m [37man introductory piece of music, most commonly an orchestral opening to an act of an opera, the first movement of a suite, or a piece preceding a fugue.[0m
+	   "the piece begins with an orchestral prelude"
+	   [3msynonyms:[0m overture, introductory movement, introduction, opening, voluntary
+		    "the piece begins with an orchestral prelude"
+          • [37ma short piece of music of a style similar to a prelude, especially for the piano.[0m
+          • [37mthe introductory part of a poem or other literary work.[0m
+	   "the whole passage forms a prelude to Part III"
+	   [3msynonyms:[0m introduction, preface, prologue, foreword, preamble
+		    "the whole passage forms a prelude to Part III"
+	   [3mantonyms:[0m conclusion, postscript
+    [91m[3mverb[0m[0m | verb: prelude; 3rd person present: preludes; past tense: preluded; past participle: preluded; gerund or present participle: preluding
+      [32m1.[0m [37mserve as a prelude or introduction to.[0m
+	   "the bombardment preluded an all-out final attack"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+     [31mप्रस्तावना[0m         [31mपूर्वरंग[0m         [31mआरंभ करना[0m    
+       [31mभूमिका[0m           [31mप्रवेशक[0m          [31mशुरू करना[0m    
+       [31mउपक्रम[0m            [31mनान्दी[0m       [31mप्रस्तावना करना[0m 

@@ -1,0 +1,25 @@
+[35m                                                                                    UTTERANCE                                                                                     [0m
+[91m        SHORT  An utterance is a bit of spoken language. It could be anything from "Ugh!" to a full sentence.[0m
+[36m         LONG  To utter means "to say." So when you're saying something, you're making utterances. Saying "24" in math class is an utterance. A police officer yelling
+               "Stop!" is an utterance. Saying "Good boy!" to your dog is an utterance. Even a long speech by the President is an utterance. If you can't hear
+               it, it's not an utterance.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Trump wants to put on a show, to optimize public utterance for maximum drama.[0m
+[3m             > Their task was to report on “seditious and disloyal utterances,” which could make life especially difficult for anyone unlucky enough to have German ancestry.[0m
+[3m             > He was the most dominant figure in Cuba, and Cuban state media amplified his every public act or utterance.[0m
+[3m             > They say that they hope for the best, that Trump’s most outlandish campaign trail utterances will fade as he moves on to new responsibilities.[0m
+[3m             > It certainly was difficult to find the coherency in Trump’s utterances over the past 18 months.[0m
+
+[35mUtterance[0m[36m /ˈʌt(ə)r(ə)ns/,[0m [91m[3mnoun[0m[0m | noun: utterance; plural noun: utterances
+          • [37ma spoken word, statement, or vocal sound.[0m
+	   "he whispered, as if to lend his utterances an added confidentiality"
+	   [3msynonyms:[0m remark, comment, word, expression, statement, 
+		    "the victory was soured by the jingoistic utterances of the commentators"
+          • [37mthe action of saying or expressing something aloud.[0m
+	   "the simple utterance of a few platitudes"
+	   [3msynonyms:[0m voicing, saying, speaking, expression, delivery, 
+		    "there was a gasp at this public utterance of the forbidden word"
+          • [37man uninterrupted chain of spoken or written language.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+    [31mकथन[0m      [31mबातचीत[0m 
+   [31mउक्ति[0m    [31mउच्चारण[0m 

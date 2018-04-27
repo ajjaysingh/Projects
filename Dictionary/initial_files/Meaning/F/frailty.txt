@@ -1,0 +1,27 @@
+[35m                                                                                     FRAILTY                                                                                      [0m
+[91m        SHORT  Frailty describes a quality that's shared by a sick kitten, an elderly man, and a shoddily built go cart. They all have a delicate weakness or vulnerability
+               and seem to require some kind of care.[0m
+[36m         LONG  The Old French fraileté, or "weakness" is the root of frailty, and it in turn comes from the Latin word for "fragile," fragilis. What's interesting is that
+               "fragility" was used in the 14th century to mean a kind of moral, rather than physical, weakness. Today frailty can be used this way too, to
+               describe a state of having shaky — or fragile — morals.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Analysis is a kind of improvisation, and its conversational exposition of human frailty and fecklessness does lend itself to comedy as easily as to drama.[0m
+[3m             > The frailties in City’s defense were badly exposed on Wednesday when Monaco’s 3-1 victory carried the French leader into the Champions League quarterfinals.[0m
+[3m             > Observers say that, despite his increasingly evident frailty, Mugabe’s authority is intact.[0m
+[3m             > Discussion about “not appropriate” apology should focus on civility, frailty and forgiveness.[0m
+[3m             > His fingers sometimes fumbled on the unfamiliar acoustic guitar, but that only heightened the frailty of his lyrics.[0m
+
+[35mFrailty[0m[36m /ˈfreɪlti/,[0m [91m[3mnoun[0m[0m | noun: frailty
+          • [37mthe condition of being weak and delicate.[0m
+	   "the increasing frailty of old age"
+	   [3msynonyms:[0m infirmity, infirmness, weakness, weakliness, feebleness, 
+		    "I hated my elders for their frailty"
+	   [3mantonyms:[0m strength, healthiness
+          • [37mweakness in character or morals.[0m
+	   plural noun: frailties
+	   [3msynonyms:[0m weakness, susceptibility, impressionability, vulnerability, fallibility
+		    "human beings are full of frailties"
+	   [3mantonyms:[0m strength
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mदोष[0m      [31mचांचल्य[0m 
+  [31mनिर्बलता[0m    [31mभंगुरता[0m 

@@ -1,0 +1,39 @@
+[35m                                                                                    ANTECEDENT                                                                                    [0m
+[91m        SHORT  An antecedent is a thing that comes before something else. You might think rap music has no historical antecedent, but earlier forms of African-American
+               spoken verse go back for centuries.[0m
+[36m         LONG  In logic, mathematics, and grammar, the word antecedent (from Latin ante-, "before" + cedere, "to yield") has the meaning "the first part of a statement."
+               More generally, it means "something that came before, and perhaps caused, something else." The word is also an adjective: a lawyer or judge
+               might talk about the "antecedent events" leading up to someone committing a crime.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Mr. Péninque said the Parisian preoccupation with the National Front’s antecedents meant nothing to the electorate, and was actually helpful to the party.[0m
+[3m             > Such as is more formal than like, but both are legitimate. possessive antecedents.[0m
+[3m             > The music will include zydeco along with its antecedents and influences from Africa, the Caribbean, Europe and Southeast Asia.[0m
+[3m             > To understand these issues, we need to connect them to their historical antecedents.[0m
+[3m             > Its theme was often a pronoun without an antecedent, his admirers explaining their admiration by saying that “he tells it like it is.”[0m
+
+[35mAntecedent[0m[36m /ˌantɪˈsiːd(ə)nt/,[0m [91m[3mnoun[0m[0m | noun: antecedent; plural noun: antecedents
+      [32m1.[0m [37ma thing that existed before or logically precedes another.[0m
+	   "some antecedents to the African novel might exist in Africa's oral traditions"
+  	   [3msynonyms:[0m precursor, forerunner, predecessor
+		    "music composed for vihuela (the guitar's lute-like antecedent)"
+
+      [32m2.[0m [37ma person's ancestors or family and social background.[0m
+	   "her early life and antecedents have been traced"
+  	   [3msynonyms:[0m ancestor, forefather, forebear, predecessor, progenitor ;  family, family tree, stock, ancestry, descent, genealogy, roots, extraction, birth ;  history,
+                     past, background, record ;  filiation, stirps
+		    "her early life and antecedents have been traced"
+  	   [3mantonyms:[0m descendant
+
+      [32m3.[0m [37man earlier word, phrase, or clause to which another word (especially a following relative pronoun) refers back.[0m
+
+      [32m4.[0m [37mthe statement contained in the ‘if’ clause of a conditional proposition.[0m
+    [91m[3madjective[0m[0m | adjective: antecedent
+      [32m1.[0m [37mpreceding in time or order; previous or pre-existing.[0m
+	   "antecedent events"
+  	   [3msynonyms:[0m previous, earlier, prior, foregoing, preceding, precursory ;  pre-existing ;  anterior
+		    "antecedent events"
+  	   [3mantonyms:[0m later, subsequent
+
+      [32m2.[0m [37mdenoting or counting as an antecedent.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mपूर्वपद[0m       [31mपूर्वगामी[0m     [31mपूर्ववृत्त[0m  

@@ -1,0 +1,16 @@
+[35m                                                                                    QUIESCENCE                                                                                    [0m
+[91m        SHORT  If there's a particular time of day when your ten kittens settle down to nap, you can call that their period of quiescence, or the time when they are all
+               quiet and restful.[0m
+[36m         LONG  The noun quiescence looks similar to the word "quiet" for a good reason: quiescence is a quiet spell or state. It's used often to mean "dormancy," or the
+               quieting of a symptom or a disease, such as the quiescence of a child's asthma symptoms during the winter months. The Latin root word is quies,
+               which means "rest or quiet."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > We believe that millions can move from spiritual quiescence to a life rich in prayer, Bible study, philanthropy and simple kindness.[0m
+[3m             > It was 2004, another election year, when Green Day released “American Idiot,” its blast at the quiescence of the George W. Bush years.[0m
+[3m             > Key to the trade has been relative quiescence in currency volatility.[0m
+[3m             > Hours can pass in total quiescence, then a rod suddenly bursts into convulsive life.[0m
+[3m             > The yuan’s quiescence of the past few months has helped remove China from a list of global worries.[0m
+
+	Wiki Definition:
+              	Quiescence  (/kwiˈɛsəns/) is a state of quietness or inactivity. It may refer to:  Quiescence  search, in Game searching (adversarial search) in artificial
+               intelligence, a  quiescent  state is one in which a game is considered stable and unlikely to change drastically the next few plays.

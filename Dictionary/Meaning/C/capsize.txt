@@ -1,0 +1,28 @@
+[35m                                                                                     CAPSIZE                                                                                      [0m
+[91m        SHORT  To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.[0m
+[36m         LONG  When a boat tips over in a lake, it capsizes, and so does a boy who is sitting on an inner tube when it flips suddenly. Anything overturning in a body of
+               water can be said to capsize. Sometimes vessels that capsize can be righted, like a canoe, and other times they sink to the bottom of the sea.
+               The origin of capsize is uncertain, though it may be related to the Spanish word capuzar, "sink by the head."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > "It rose up, pivoting uncontrollably on the wave, leaving it beam on, or sideways, to the wave and thus vulnerable to capsizing."[0m
+[3m             > The New Zealand team capsized during a race on Tuesday, seriously damaging the 50-foot foiling catamaran.[0m
+[3m             > The capsize meant Land Rover BAR won the race, with New Zealand now leading 3-1 in the best-of-nine race series.[0m
+[3m             > A search is underway for two men whose canoe capsized on the Skykomish River east of Gold Bar on Monday morning.[0m
+[3m             > Iverson died at the age of 24 when the USS Oklahoma was hit by torpedoes and capsized while anchored at Pearl Harbor.[0m
+
+[35mCapsize[0m[36m /kapˈsʌɪz/,[0m [91m[3mverb[0m[0m | verb: capsize; 3rd person present: capsizes; past tense: capsized; past participle: capsized; gerund or present participle: capsizing
+      [32m1.[0m [37m(of a boat) be overturned in the water.[0m
+	   "the craft capsized in heavy seas"
+  	   [3msynonyms:[0m overturn, overturn turn over, turn upside down, upset, upset upend, upend knock over, flip over, tip over, topple over, invert, invert keel over, turn
+                     turtle ;  pitchpole pitchpole ;  overset overset
+		    "gale force winds capsized their small craft"
+  	   [3mantonyms:[0m right right
+          • [37mcause (a boat) to overturn.[0m
+	   "gale-force gusts capsized the dinghies"
+    [91m[3mnoun[0m[0m | noun: capsize; plural noun: capsizes
+      [32m1.[0m [37man instance of capsizing.[0m
+	   "do you know what to do in the event of a capsize?"
+  [31m[4m[34mverb[0m[0m[0m   [31m[4m[34m[0m[0m[0m   [31m[4m[34mnoun[0m[0m[0m
+     [31mनाव को उलटना[0m             [31mउलटना[0m          [31mनाव का औंधा करना[0m  
+
+      Origin:  late 18th century: perhaps based on Spanish capuzar ‘sink (a ship) by the head’, from cabo ‘head’ + chapuzar ‘to dive or duck’.

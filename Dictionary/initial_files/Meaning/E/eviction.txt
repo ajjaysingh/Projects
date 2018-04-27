@@ -1,0 +1,20 @@
+[35m                                                                                     EVICTION                                                                                     [0m
+[91m        SHORT  An eviction is when a renter or tenant is forced to move out by a property owner. If you don't pay rent for months, you run the risk of eviction.[0m
+[36m         LONG  It's most often a landlord who brings an eviction against someone who's renting an apartment or house. In most states, an eviction follows some kind of legal
+               action — the landlord usually has to prove that the tenant hasn't paid rent or isn't following the terms of the lease. The Late Latin root of
+               the word eviction is evictionem, "recovery of property by judicial decision."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > After receiving their eviction letters, several families moved into a hostel.[0m
+[3m             > Koretz says the evictions are legal but wrong and he’s looking into ways to stall them.[0m
+[3m             > The law would only extend the notice period for no-cause evictions.[0m
+[3m             > That’s the supposed eviction day from the protest camp.[0m
+[3m             > They are also blasting the government’s handling of the evictions.[0m
+
+[35mEviction[0m[36m /ɪˈvɪkʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: eviction; plural noun: evictions
+          • [37mthe action of expelling someone from a property; expulsion.[0m
+	   "the forced eviction of residents"
+	   [3msynonyms:[0m expulsion, ejection, ousting, throwing out, drumming out, 
+		    "the eviction of workers from company houses"
+	   [3mantonyms:[0m admission
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+   [31mबेदखली[0m    [31mनिष्कासन[0m 

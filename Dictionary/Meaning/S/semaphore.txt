@@ -1,0 +1,25 @@
+[35m                                                                                    SEMAPHORE                                                                                     [0m
+[91m        SHORT  A semaphore is a gadget used for conveying signals. Semaphores have either lights or mechanical arms that move.[0m
+[36m         LONG  The word semaphore is related to a Greek word meaning "signal," and that's exactly the purpose of semaphores: they give signals. The place you're most likely
+               to have seen a semaphore is a railroad crossing: the gadget with moving arms is a semaphore. Some semaphores have mechanical arms, while others
+               just use lights to communicate. A semaphore system can also use flags. In all cases, semaphores give visual signals that communicate something
+               important, especially to people traveling.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > It’s more like a telegram, a verbal semaphore.[0m
+[3m             > The signature diamond design—four triangles meeting at a point near the wearer’s sternum—evokes a semaphore flag.[0m
+[3m             > Meyerowitz, the head of Semaphore Entertainment Group, said he too always wondered which fighting style would reign supreme.[0m
+[3m             > Even taskmaster Guardiola was spied clapping on the touchline at one point instead of being his usual manic semaphoring self.[0m
+[3m             > In her intuitive, freewheeling explorations, her body delivers a kind of semaphore of contradictory feelings.[0m
+
+[35mSemaphore[0m[36m /ˈsɛməfɔː/,[0m [91m[3mnoun[0m[0m | noun: semaphore
+      [32m1.[0m [37ma system of sending messages by holding the arms or two flags or poles in certain positions according to an alphabetic code.[0m
+	   "if you learn semaphore or the Morse code, you'll have a fun way to send messages"
+          • [37man apparatus for sending messages by semaphore, consisting of an upright with movable parts.[0m
+	   plural noun: semaphores
+          • [37ma signal sent by semaphore.[0m
+	   "I saw Edward jumping up and down, performing an elaborate semaphore with his hat"
+    [91m[3mverb[0m[0m | verb: semaphore; 3rd person present: semaphores; past tense: semaphored; past participle: semaphored; gerund or present participle: semaphoring
+      [32m1.[0m [37msend (a message) by semaphore or by signals resembling semaphore.[0m
+	   "Josh stands facing the rear and semaphoring the driver's intentions to frustrated queues of following cars"
+    [31m[4m[34mnoun[0m[0m[0m         [31m[4m[34m[0m[0m[0m         [31m[4m[34mverb[0m[0m[0m   
+           [31mसिकंदरा[0m                     [31mसेमाफोर[0m            [31mसंकेत द्वारा समाचार भेजना[0m 

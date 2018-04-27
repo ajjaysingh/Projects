@@ -1,0 +1,23 @@
+[35m                                                                                   EXTRAPOLATE                                                                                    [0m
+[91m        SHORT  When you extrapolate, you use specific details to make a general conclusion. For example, if you travel to Canada and encounter only friendly, kind natives,
+               you might extrapolate that all Canadians are friendly.[0m
+[36m         LONG  The verb extrapolate can mean "to predict future outcomes based on known facts." For example, looking at your current grade report for math and how you are
+               doing in class now, you could extrapolate that you'll likely earn a solid B for the year. Another meaning of extrapolate is "estimate the value
+               of." You could extrapolate how much your antique watch is worth by finding how much similar watches sold for at recent auctions.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The projections are based on vote counts in selected constituencies, then extrapolated nationwide.[0m
+[3m             > I extrapolated from this that here, in this heady oasis, it was OK to be different.[0m
+[3m             > From speaking to these 4,000 people, the ONS extrapolates the total numbers of people entering or leaving the UK for at least a year.[0m
+[3m             > “Our approach is more based on using historical observations and extrapolating that to the future. It’s a very simple approach.”[0m
+[3m             > Extrapolated, it would lead to a season with 215 walks.[0m
+
+[35mExtrapolate[0m[36m /ɪkˈstrapəleɪt,ɛkˈstrapəleɪt/,[0m [91m[3mverb[0m[0m | verb: extrapolate; 3rd person present: extrapolates; past tense: extrapolated; past participle: extrapolated; gerund or present participle: extrapolating
+          • [37mextend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue or similar methods will be
+            applicable.[0m
+	   "the results cannot be extrapolated to other patient groups"
+          • [37mestimate or conclude (something) by extrapolating.[0m
+	   "the figures were extrapolated from past trends"
+          • [37mextend (a graph, curve, or range of values) by inferring unknown values from trends in the known data.[0m
+	   "the low-temperature results can be extrapolated to room temperature"
+  [31m[4m[34mverb[0m[0m[0m
+  [31mएक्सट्रपलेशन करना[0m 

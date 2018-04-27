@@ -1,0 +1,58 @@
+[35m                                                                                     GENERAL                                                                                      [0m
+[91m        SHORT  If I ask you to give me a general sense of how a car works, I'm looking for you to describe the two or three main principals in a few minutes, not to open the
+               hood, take apart your engine, and tell me everything you know.[0m
+[36m         LONG  General comes from the French word générale, which means "common to all people," but we use it for more than just people. You might inquire about the general
+               habits of schoolchildren, or the general temperature at night in the desert. And when someone's a general in the army or another organization,
+               like the Surgeon General of the United States, for example, that means they oversee everything. So "general" is a high ranking, because
+               generals are in charge of so many.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Newscasters called the letter “bizarre”; one former Republican attorney general called it “totally inappropriate.”[0m
+[3m             > At one point, they chanted the name of Sally Yates, the former acting attorney general, calling her an “American hero.”[0m
+[3m             > In addition to the seven parents, Grosso said, the inspector general reviewed three cases in which Henderson denied transfer requests.[0m
+[3m             > At Friday morning roundtable briefings in the attorney general’s massive conference room, when Webster spoke, everyone leaned in.[0m
+[3m             > Did Rod J. Rosenstein, the heretofore reputable deputy attorney general, knowingly or unwittingly cooperate with such a charade?[0m
+
+[35mGeneral[0m[36m /ˈdʒɛn(ə)r(ə)l/,[0m [91m[3madjective[0m[0m | adjective: general
+      [32m1.[0m [37maffecting or concerning all or most people or things; widespread.[0m
+	   "books of general interest"
+  	   [3msynonyms:[0m widespread, common, extensive, universal, wide, popular, public, mainstream, prevalent, prevailing, rife, established, well established, conventional,
+                     traditional, traditionalist, orthodox, accepted ;  in circulation, in force, in vogue  comprehensive, overall, across the board,
+                     blanket, umbrella, mass, total, complete, wholesale, sweeping, panoramic, broad, broad-ranging, extended, inclusive, all-inclusive,
+                     all-round, generic, outright, encyclopedic, indiscriminate, catholic ;  universal, global, worldwide, international, nationwide,
+                     countrywide, coast-to-coast, company-wide
+		    "they are moderately priced and suitable for general use"
+  	   [3mantonyms:[0m restricted, localized
+          • [37mnot specialized or limited in range of subject, application, activity, etc.[0m
+	   "brush up on your general knowledge"
+  	   [3msynonyms:[0m miscellaneous, mixed, assorted, variegated, diversified, composite, heterogeneous
+		    "a general store"
+  	   [3mantonyms:[0m specialist
+          • [37m(of a rule, principle, etc.) true for all or most cases.[0m
+          • [37mnormal or usual.[0m
+	   "it is not general practice to confirm or deny such reports"
+  	   [3msynonyms:[0m usual, customary, habitual, traditional, normal, conventional, typical, standard, regular ;  familiar, accepted, prevailing, routine, run-of-the-mill,
+                     fixed, set, established, confirmed, everyday, ordinary, common, stock, well worn, time-honoured ;  popular, favourite
+		    "it is the general practice for players to receive all the prize money"
+  	   [3mantonyms:[0m exceptional
+
+      [32m2.[0m [37mconsidering or including only the main features or elements of something; not exact or detailed.[0m
+	   "the arrangements were outlined in very general terms"
+  	   [3msynonyms:[0m broad, imprecise, inexact, rough, sweeping, overall, loose, basic, approximate, non-specific, unspecific, vague, hazy, fuzzy, woolly, ill-defined,
+                     indefinite, unfocused ;  ballpark ;  undetailed
+		    "most guidebooks give only a general description of the island"
+  	   [3mantonyms:[0m detailed
+
+      [32m3.[0m [37mchief or principal.[0m
+	   "the Director General of the BBC"
+    [91m[3mnoun[0m[0m | noun: general; plural noun: generals; noun: the general
+      [32m1.[0m [37ma commander of an army, or an army officer of very high rank.[0m
+          • [37ma high rank of officer in the army and in the US air force, above lieutenant general and below field marshal, general of the army, or general of the air
+            force.[0m
+          • [37mshort for lieutenant general or major general.[0m
+          • [37mthe head of a religious order organized on quasi-military lines, e.g. the Jesuits, the Dominicans, or the Salvation Army.[0m
+
+      [32m2.[0m [37mthe general public.[0m
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+    [31mसामान्य[0m          [31mआम[0m         [31mसेनापति[0m   
+     [31mसाधारण[0m      [31mसार्वजनिक[0m       [31mप्रधान[0m   
+     [31mव्यापक[0m       [31mसार्विक[0m       [31mप्रचलित[0m   

@@ -1,0 +1,70 @@
+[35m                                                                                     DESCEND                                                                                      [0m
+[91m        SHORT  In its simplest sense, descend means to go or move downward, but there are a couple of subtle variations on this theme. Yes, a bird can descend from the sky,
+               but also, humans are descended from prehistoric ancestors.[0m
+[36m         LONG  If you've ever heard a pilot say "prepare for our descent", then you know that only one letter separates the noun descent from the verb descend. They both
+               derive from the same Latin components de, meaning "down," and scandere, "to climb." Similarly, if someone condescends to you, they are said,
+               derogatorily, to be coming down to your level.    All Americans are descended from peoples from other continents, such as Europe, Africa, and
+               Asia. We've all "come down" from our ancestors.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > If, as a result, some branch of the military breaks with the regime, the country will descend into civil war.[0m
+[3m             > Riders will start at the top of the attraction, and descend in two-person carts on both tracks.[0m
+[3m             > The country descended into sectarian conflict in 2013 when Muslim rebels overthrew the nation’s Christian president.[0m
+[3m             > The youth listened: as many as 100,000 young people descended upon the city, from April through the summer, all with flowers in their hair.[0m
+[3m             > So saying, they joined hands as confetti and a “Johnson Hanks 2020” banner descended from above.[0m
+
+[35mDescend[0m[36m /dɪˈsɛnd/,[0m [91m[3mverb[0m[0m | verb: descend; 3rd person present: descends; past tense: descended; past participle: descended; gerund or present participle: descending
+      [32m1.[0m [37mmove or fall downwards.[0m
+	   "the aircraft began to descend"
+  	   [3msynonyms:[0m go down, come down ;  drop, fall, sink, subside ;  dive, plummet, plunge, nosedive, pitch, tumble, slump
+		    "the plane started descending towards the runway"
+  	   [3mantonyms:[0m ascend, climb
+          • [37mmove down (a slope or stairs).[0m
+	   "the vehicle descended a ramp"
+  	   [3msynonyms:[0m climb down, go down, come down, move down, pass down, walk down ;  shin down
+		    "she descended the stairs"
+  	   [3mantonyms:[0m ascend, climb
+          • [37m(of a road, path, or flight of steps) slope or lead downwards.[0m
+	   "a side road descended into the forest"
+  	   [3msynonyms:[0m slope, dip, slant, decline, go down, sink, fall away
+		    "the road descends to a village situated on the shore"
+          • [37mmove down a scale of quality.[0m
+	   "the categories are listed in descending order of usefulness"
+          • [37m(of sound) become lower in pitch.[0m
+	   "a passage of descending chords"
+          • [37mact in a shameful way that is far below one's usual standards.[0m
+	   "he was scrupulous in refusing to descend to misrepresentation"
+  	   [3msynonyms:[0m condescend, stoop, lower oneself, abase oneself, humble oneself, demean oneself, debase oneself, deign ;  resort, be reduced, go as far as ;  come down
+                     from one's high horse
+		    "if they had right on their side they would not need to descend to such mean tricks"
+          • [37m(of a situation or group of people) reach (an undesirable state).[0m
+	   "the army had descended into chaos"
+  	   [3msynonyms:[0m degenerate, deteriorate, decline, sink, slide, fall, drop ;  go downhill, decay, worsen, get/grow worse, take a turn for the worse, go to rack and ruin ;
+                     go to pot, go to the dogs, go to seed, hit the skids, go down the tubes, go down the toilet
+		    "the army had descended into chaos"
+  	   [3mantonyms:[0m improve
+
+      [32m2.[0m [37mmake a sudden attack on.[0m
+	   "the militia descended on Rye"
+          • [37mmake an unexpected visit to.[0m
+	   "groups of visiting supporters descended on a local pub"
+  	   [3msynonyms:[0m come in force, arrive in hordes, attack, assail, assault, storm, invade, pounce on, raid, swoop on, charge
+		    "groups of visiting supporters descended on a local pub"
+          • [37m(of a feeling) develop suddenly and affect a place or person.[0m
+	   "an air of gloom descended on Labour Party headquarters"
+          • [37m(of night or darkness) begin to occur.[0m
+	   "as the winter darkness descended, the fighting ceased"
+
+      [32m3.[0m [37mbe a blood relative of (a specified ancestor).[0m
+	   "John Dalrymple was descended from an ancient Ayrshire family"
+  	   [3msynonyms:[0m be a descendant of, originate from, issue from, spring from, have as an ancestor, derive from
+		    "he is descended from a Flemish family"
+          • [37m(of an asset) pass by inheritance, typically from parent to child.[0m
+	   "his lands descended to his eldest son"
+  	   [3msynonyms:[0m be handed down, be passed down, pass by heredity, be transferred by inheritance ;  be inherited by
+		    "his estates descended to his son"
+  	   [3mantonyms:[0m bequeath to
+  [31m[4m[34mverb[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mउतरना[0m            [31mनीचे जाना[0m    
+     [31mनीचे उतरना[0m            [31mगिरना[0m      
+      [31mउतर जाना[0m        [31mवंशक्रम से आना[0m  
+      [31mनीचे आना[0m               [31m[0m         

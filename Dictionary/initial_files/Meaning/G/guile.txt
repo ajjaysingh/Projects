@@ -1,0 +1,25 @@
+[35m                                                                                      GUILE                                                                                       [0m
+[91m        SHORT  Use the noun guile for cunning, craftiness, and artful duplicity. Acting like you have a job on Wall Street when you're actually unemployed would take a lot
+               of guile.[0m
+[36m         LONG  The noun guile has quite negative connotations, as it refers to the kind of knowledge and skill that can be used by comic book villains for evil and not good!
+               People who have guile are also thought of as being wily (which is also a related word), sneaky, and deceitful. Those who are free of guile are
+               pure and upstanding, and Henry David Thoreau affirms those feelings when he wrote: "It is the work of a brave man surely, in whom there was no
+               guile!"[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > By forty, through his own guile, he was the President.[0m
+[3m             > He saw a message of guile and craftiness, of David’s steadfast approach to a challenge of gigantic proportions, of faith and belief.[0m
+[3m             > Tom’s guile in persuading them to do his work, they said, amounted to fraudulent misrepresentation.[0m
+[3m             > He impressed them as a plain-spoken man “without guile. We found that so intriguing.”[0m
+[3m             > But he kept in touch with his friend, seeing him as a kind of career counsellor and, not without guile, as a potential source.[0m
+
+[35mGuile[0m[36m /ɡʌɪl/,[0m [91m[3mnoun[0m[0m | noun: guile
+          • [37msly or cunning intelligence.[0m
+	   "he used all his guile and guts to free himself from the muddle he was in"
+	   [3msynonyms:[0m cunning, craftiness, craft, artfulness, art, 
+		    "they penetrated the city's defences by guile"
+	   [3mantonyms:[0m honesty, candour
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+     [31mछल[0m       [31mकपट[0m   
+    [31mमाया[0m    [31mमक्कारी[0m 
+    [31mधोखा[0m    [31mधूर्तता[0m 
+   [31mछल-कपट[0m     [31mफरेब[0m  

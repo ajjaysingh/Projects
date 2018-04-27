@@ -1,0 +1,30 @@
+[35m                                                                                    CONSCRIPT                                                                                     [0m
+[91m        SHORT  If you’re ever drafted into the Turkish army, then you could be called a conscript, someone who is forced to join the military.[0m
+[36m         LONG  At the root of conscript is the Latin word conscriptus, meaning “enroll.” Conscript does involve enrollment — but it’s a forced enrollment, used to describe
+               someone who has been forced to join the military, such as someone who has been drafted. As a verb, conscript means "force to join," like a
+               military that conscripts new soldiers. In contrast, those who choose to join are recruited; when they enter the service, they enlist.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > But this is the job that, in his misery when he made Crow, he conscripted himself into.[0m
+[3m             > The East India Company is mistakenly called a free-trade pioneer; it was more like a buccaneer that established control backed by the strongest naval power of
+               the time, and conscripted soldiers drawn from the colonies.[0m
+[3m             > After the German invasion, Kalman’s father was conscripted for a work detail and never seen again.[0m
+[3m             > One image depicted him killing a man with a spray of bullets, something he said he did during three years as a child fighter forcibly conscripted by Islamic
+               State.[0m
+[3m             > After some complicated shenanigans, Willie gets stuck in a remote place and is conscripted to teach Aboriginal children.[0m
+
+[35mConscript[0m [91m[3mverb[0m[0m | verb: conscript; 3rd person present: conscripts; past tense: conscripted; past participle: conscripted; gerund or present participle: conscripting    /kənˈskrɪpt/
+      [32m1.[0m [37menlist (someone) compulsorily, typically into the armed services.[0m
+	   "they were conscripted into the army"
+  	   [3msynonyms:[0m call up, enlist, enlist recruit, recruit mobilize, mobilize raise, raise muster muster ;  draft draft ;  press, press impress impress ;  levy levy
+		    "they were conscripted into the army"
+    [91m[3mnoun[0m[0m | noun: conscript; plural noun: conscripts    /ˈkɒnskrɪpt/
+      [32m1.[0m [37ma person enlisted compulsorily.[0m
+	   "army conscripts"
+  	   [3msynonyms:[0m impressed man, recruit recruit ;  draftee, draftee enlisted man enlisted man
+		    "an army conscript"
+  	   [3mantonyms:[0m volunteer volunteer
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+   [31mभरती होनेवाला[0m   [31mभर्ती किया हुआ[0m 
+
+      Origin:  late 18th century (as a noun): from French conscrit, from Latin conscriptus, past participle of conscribere ‘enrol’. The verb is a back-formation from
+               conscription.

@@ -1,0 +1,28 @@
+[35m                                                                                    DEPRECATE                                                                                     [0m
+[91m        SHORT  To deprecate is to show disapproval or to make someone feel unimportant by speaking to them disrespectfully, like seniors who deprecate younger students just
+               for fun.[0m
+[36m         LONG  To deprecate is to diminish, or to oppose, like when someone deprecates your dream of climbing Mt. Everest by calling it "a little walk up a hill." Some
+               people deprecate themselves, which is called being self-deprecating. People who do are self-deprecating play down their abilities because they
+               are humble — or want to appear that way. So if you do climb Everest and you are self-deprecating, you'll say it wasn't such a big deal, even if
+               it was the proudest moment of your life.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The “disparage” sense is not a malaprop, and it’s accepted in dictionaries, but many writers like to reserve that sense for deprecate.[0m
+[3m             > Conversely, she is deeply interested in how contemporary culture feeds on and deprecates female vulnerability and pain.[0m
+[3m             > The 70-year-old businessman later said his remarks were "about a little deprecating humour which America lost for a long time".[0m
+[3m             > “And yes, it’s about a little deprecating humor which America lost for a long time,” he wrote.[0m
+[3m             > MD5 is strongly deprecated and this points to troubling software development security practices in Yahoo or its suppliers.”[0m
+
+[35mDeprecate[0m[36m /ˈdɛprɪkeɪt/,[0m [91m[3mverb[0m[0m | verb: deprecate; 3rd person present: deprecates; past tense: deprecated; past participle: deprecated; gerund or present participle: deprecating
+      [32m1.[0m [37mexpress disapproval of.[0m
+	   "what I deprecate is persistent indulgence"
+	   [3msynonyms:[0m disapprove of, deplore, abhor, find unacceptable, be against, 
+		    "the school deprecates the social mixing of older and younger boys"
+	   [3mantonyms:[0m praise
+          • [37m(chiefly of a software feature) be usable but regarded as obsolete and best avoided, typically because it has been superseded.[0m
+	   "this feature is deprecated and will be removed in later versions"
+
+      [32m2.[0m [37manother term for depreciate (sense 2).[0m
+	   "he deprecates the value of children's television"
+      [31m[4m[34m[0m[0m[0m         [31m[4m[34mverb[0m[0m[0m   
+          [31mविरोध करना[0m                  [31mबिनती करना[0m        
+       [31mनिरुत्साहित करना[0m       [31mप्रतिकूल इच्छा प्रकट करना[0m 

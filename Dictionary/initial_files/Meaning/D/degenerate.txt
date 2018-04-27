@@ -1,0 +1,46 @@
+[35m                                                                                    DEGENERATE                                                                                    [0m
+[91m        SHORT  If something degenerates, it gets worse, like a food fight that degenerates to an all-out spaghetti-throwing war. Degenerate can also describe an immoral
+               person — or the behavior of such a person.[0m
+[36m         LONG  Whether used as a verb, noun, or adjective, degenerate carries a sense of making worse or decline — not living up to the standards set by your ancestors — or
+               becoming unlike the people of your race or kind. People who are degenerate, or who exhibit degenerate behavior, are often set apart from
+               others, in part out of fear that their influence will degenerate the morals of the impressionable people around them.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > He was critical of much of modern tennis, saying the sport had degenerated into a boring contest of baseline slugging.[0m
+[3m             > It was a delirious, degenerate pantomime of authority seized and undermined.[0m
+[3m             > Toxic politics have degenerated to rank-and-file hatred of the other side.[0m
+[3m             > As spinal motor neurons degenerate, their target muscles become atrophied.[0m
+[3m             > The “elite” political class is degenerating, with vulgar debates and bitter personal attacks.[0m
+
+[35mDegenerate[0m [91m[3madjective[0m[0m | adjective: degenerate    /dɪˈdʒɛn(ə)rət/
+      [32m1.[0m [37mhaving lost the physical, mental, or moral qualities considered normal and desirable; showing evidence of decline.[0m
+	   "a degenerate form of a higher civilization"
+	   [3msynonyms:[0m debased, degraded, corrupt, corrupted, vitiated, 
+		    "a degenerate form of High Renaissance classicism"
+	   [3mantonyms:[0m pure
+
+      [32m2.[0m [37mlacking some usual or expected property or quality, in particular:[0m
+	   "her degenerate brother"
+	   [3msynonyms:[0m corrupt, decadent, dissolute, dissipated, debauched, 
+		    "her degenerate brother"
+	   [3mantonyms:[0m moral
+          • [37m(of a type of equation, curve, etc.) equivalent to a simpler type, especially when a variable or parameter is set to zero.[0m
+          • [37m(of an energy level) corresponding to more than one quantum state.[0m
+          • [37m(of matter) at densities so high that gravitational contraction is counteracted, either by the Pauli exclusion principle or by an analogous quantum effect
+            between closely packed neutrons.[0m
+          • [37mhaving reverted to a simpler form as a result of losing a complex or adaptive structure present in the ancestral form.[0m
+	   "degenerate offshoots from the main line of vertebrate progress"
+    [91m[3mnoun[0m[0m | noun: degenerate; plural noun: degenerates    /dɪˈdʒɛn(ə)rət/
+      [32m1.[0m [37man immoral or corrupt person.[0m
+	   "get out of my house, you degenerate!"
+	   [3msynonyms:[0m reprobate, debauchee, rake, profligate, libertine, 
+		    "a group of drunkards and degenerates"
+    [91m[3mverb[0m[0m | verb: degenerate; 3rd person present: degenerates; past tense: degenerated; past participle: degenerated; gerund or present participle: degenerating    /dɪˈdʒɛnəreɪt/
+      [32m1.[0m [37mdecline or deteriorate physically, mentally, or morally.[0m
+	   "the quality of life had degenerated"
+	   [3msynonyms:[0m deteriorate, decline, sink, slip, slide, 
+		    "certain areas of the city have degenerated into slums"
+	   [3mantonyms:[0m improve
+  [31m[4m[34madjective[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mपतित[0m           [31mबदज़ात[0m          [31mभ्रष्ट[0m    
+    [31mनष्टधर्मी[0m       [31mपतित आदमी[0m        [31mकुलाचार[0m    
+  [31mकुलाचारभ्रष्ट[0m      [31mहीन आदमी[0m        [31mअपकृष्ट[0m    

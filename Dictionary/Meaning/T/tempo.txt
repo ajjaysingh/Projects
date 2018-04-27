@@ -1,0 +1,30 @@
+[35m                                                                                      TEMPO                                                                                       [0m
+[91m        SHORT  If no one is dancing at your party, you probably want to put on some music with a faster tempo — meaning a faster speed.[0m
+[36m         LONG  The word tempo came into English by way of Italian, tracing all the way back to the Latin word tempus, meaning time. It was originally used to describe the
+               timing of music, or the speed at which a piece of music is played. For example, a soothing song would be described as a slow tempo song. Tempo
+               is still used in this way to describe music, but you’ll also hear it used to refer to pace or speed in general, as in — "the increased tempo at
+               the end of a close basketball game" or "the slow tempo of action in a novel."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > In Schubert’s first piano trio, D. 898, these young musicians displayed admirable poise and patience in choosing tempos wisely, so that the first two
+               movements unfolded gracefully.[0m
+[3m             > A 1989 documentary, “High Fidelity,” showed the group arguing over parts and tempos and asking for hotel rooms on different floors.[0m
+[3m             > On occasion he dealt with glitches in the timing of his mechanics and the tempo of his delivery.[0m
+[3m             > Playing at different tempos — though none of them fast — these discrete ensembles are meant to surround the audience.[0m
+[3m             > The girl is singing a cappella and is totally off tempo.[0m
+
+[35mTempo[0m[36m /ˈtɛmpəʊ/,[0m [91m[3mnoun[0m[0m | noun: tempo; plural noun: tempi; plural noun: tempos
+      [32m1.[0m [37mthe speed at which a passage of music is or should be played.[0m
+	   "the tempo of the music quickened"
+  	   [3msynonyms:[0m cadence, cadence speed, speed rhythm, rhythm beat, beat time, time pulse pulse ;  measure, measure metre metre
+		    "the tempo of the music quickened"
+
+      [32m2.[0m [37mthe rate or speed of motion or activity; pace.[0m
+	   "the tempo of life dictated by a heavy workload"
+  	   [3msynonyms:[0m pace, pace rate, rate speed, speed velocity velocity
+		    "the tempo of life in Western society"
+[35mTempo[0m[36m /ˈtɛmpəʊ/,[0m [91m[3mnoun trademark[0m[0m | noun: tempo; plural noun: tempos
+          • [37m(in South Asia) a light three-wheeled delivery van.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mगति[0m      [31mगति टेम्पो[0m 
+
+      Origin:  mid 17th century (as a fencing term denoting the timing of an attack): from Italian, from Latin tempus ‘time’.

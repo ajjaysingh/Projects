@@ -1,0 +1,24 @@
+[35m                                                                                    SYLLOGISM                                                                                     [0m
+[91m        SHORT  A syllogism is a type of logical reasoning where the conclusion is gotten from two linked premises. Here’s an example: An apple is a fruit. All fruit is good.
+               Therefore apples are good.[0m
+[36m         LONG  Used properly, syllogism can be a good way of reasoning, but it’s very easy to make sloppy syllogisms by messing up the middle term that links the premises
+               together, as in: "President Franklin Delano Roosevelt was an Aquarius. President Franklin Delano Roosevelt was great. Therefore all Aquariuses
+               are great." Because so many are made poorly, the syllogism has a bad reputation. Poor, misleading, or tricky reasoning is often called “mere
+               syllogism.”[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The syllogism is a way of combining two premises and drawing a fresh conclusion that follows logically from them.[0m
+[3m             > But the Times is not obliged to make front-page climate propaganda out of a false syllogism.[0m
+[3m             > Watching him complete the syllogism in his head, and watching Juan’s reaction, is heartbreaking.[0m
+[3m             > Complex because intelligence rarely tosses a tight syllogism at a policymaker, a series of incontrovertible “statements” followed by some inevitable
+               “therefore.”[0m
+[3m             > Today, I, like many millennials, cannot swallow the following syllogism: The Republican Party is the party that best represents my beliefs.[0m
+
+[35mSyllogism[0m[36m /ˈsɪlədʒɪz(ə)m/,[0m [91m[3mnoun[0m[0m | noun: syllogism; plural noun: syllogisms
+          • [37man instance of a form of reasoning in which a conclusion is drawn from two given or assumed propositions (premises); a common or middle term is present in the
+            two premises but not in the conclusion, which may be invalid (e.g. all dogs are animals; all animals have four legs; therefore all dogs have four legs
+            ).[0m
+          • [37mdeductive reasoning as distinct from induction.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+       [31mन्याय[0m          [31mयुक्तिवाक्य[0m   
+
+      Origin:  late Middle English: via Old French or Latin from Greek sullogismos, from sullogizesthai, from sun- ‘with’ + logizesthai ‘to reason’ (from logos ‘reasoning’).

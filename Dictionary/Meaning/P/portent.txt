@@ -1,0 +1,34 @@
+[35m                                                                                     PORTENT                                                                                      [0m
+[91m        SHORT  While you might love crows, your father will shudder when he sees them if he superstitiously believes they're a portent — a sign or warning — of death.[0m
+[36m         LONG  A portent is an omen of something momentous, which can be good, but is more often negative.  You can use portent to mean a magical foretelling or symbol, but
+               you can also use it to talk about something real, the way you could describe big, dark storm clouds as a portent of a thunderstorm.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Practically speaking, what viewers are left with is a flat, workmanlike compendium of apocalyptic portents, bloodless killings and highly derivative sci-fi-
+               fantasy-western images.[0m
+[3m             > Last season produced the two portents of a breakout 2017: Steady improvement and close losses to good teams.[0m
+[3m             > The magnitude of the north American crisis may be unrivalled, but there are nevertheless worrying portents for Britain.[0m
+[3m             > "I was that gobsmacked that I just replied 'yes'. I got the job but it was a portent to what the company was like."[0m
+[3m             > Even his cobb salad —boring! disappointing! sad! — reflects a certain grim apocalyptic portent.[0m
+
+[35mPortent[0m[36m /ˈpɔːtɛnt,ˈpɔːt(ə)nt/,[0m [91m[3mnoun[0m[0m | noun: portent; plural noun: portents
+      [32m1.[0m [37ma sign or warning that a momentous or calamitous event is likely to happen.[0m
+	   "many birds are regarded as being portents of death"
+  	   [3msynonyms:[0m omen, omen sign, sign indication, indication presage, presage warning, warning forewarning, forewarning harbinger, harbinger augury, augury signal,
+                     signal promise, promise threat, threat menace, menace ill omen, forecast, forecast prediction, prediction prognostication,
+                     prognostication prophecy, prophecy straw in the wind, writing on the wall, hint, hint auspice auspice ;  premonition, premonition
+                     presentiment, presentiment feeling, feeling vague feeling, funny feeling, feeling in one's bones, foreboding, foreboding misgiving
+                     misgiving ;  foretoken foretoken
+		    "here was a striking portent of things to come"
+          • [37mfuture significance.[0m
+	   "an omen of grave portent for the tribe"
+  	   [3msynonyms:[0m significance, significance importance, importance import, import consequence, consequence meaning, meaning meaningfulness, moment, moment momentousness,
+                     weight, weight weightiness, cruciality
+		    "the word ‘plague’ carries terrifying portent"
+
+      [32m2.[0m [37man exceptional or wonderful person or thing.[0m
+	   "what portent can be greater than a pious notary?"
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+        [31mसगुन[0m             [31mअशगुन[0m      
+       [31mलक्षण[0m        [31mखराब शगुन या फल[0m 
+
+      Origin:  late 16th century: from Latin portentum ‘omen, token’, from the verb portendere (see portend).

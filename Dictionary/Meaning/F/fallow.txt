@@ -1,0 +1,36 @@
+[35m                                                                                      FALLOW                                                                                      [0m
+[91m        SHORT  Something that is fallow is left unused. If you’re smart but lazy, someone might say you have a fallow mind.[0m
+[36m         LONG  We use the word to talk about any unused resource, it started as a work about land. Fallow comes from the old English word for plowing, and refers to the
+               practice of leaving fields unplowed in rotation––when a field lies fallow, the soil regains nutrients that are sucked up by over-planting.[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Elephants are free to roam agricultural land during fallow periods, and farmers only put up the barriers when they plant their crops.[0m
+[3m             > If a property is constantly booked, its prices are too low; frequent fallow periods mean the rate is high.[0m
+[3m             > The city’s stock of fallow property is driving a two-way opportunity, Bales says.[0m
+[3m             > James Fallows, a friend of Beach’s at Harvard, ran the race with him the following year and again in 1970.[0m
+[3m             > Other colors that now lie fallow include maize, raw umber and orange yellow.[0m
+
+[35mFallow[0m[36m /ˈfaləʊ/,[0m [91m[3madjective[0m[0m | adjective: fallow
+      [32m1.[0m [37m(of farmland) ploughed and harrowed but left for a period without being sown in order to restore its fertility or to avoid surplus production.[0m
+	   "incentives for farmers to let land lie fallow"
+  	   [3msynonyms:[0m uncultivated, unploughed, untilled, unplanted, unsown, unseeded, unused, undeveloped, dormant, resting, empty, bare, virgin ;  neglected, untended,
+                     unmaintained, unmanaged
+		    "fallow farmland"
+  	   [3mantonyms:[0m cultivated
+          • [37m(of a period of time) characterized by inaction; unproductive.[0m
+	   "long fallow periods when nothing seems to happen"
+  	   [3msynonyms:[0m inactive, dormant, quiet, slack, slow, slow-moving, flat, idle, inert, static, stagnant, depressed ;  barren, unproductive, unfruitful
+		    "trading is set to emerge from a fallow period"
+  	   [3mantonyms:[0m busy
+
+      [32m2.[0m [37m(of a sow) not pregnant.[0m
+    [91m[3mnoun[0m[0m | noun: fallow; plural noun: fallows
+      [32m1.[0m [37ma piece of fallow land.[0m
+	   "a great estate was usually divided between fallows, grazed stubble, and wheat"
+    [91m[3mverb[0m[0m | verb: fallow; 3rd person present: fallows; past tense: fallowed; past participle: fallowed; gerund or present participle: fallowing
+      [32m1.[0m [37mleave (land) fallow for a period.[0m
+	   "fallow the ground for a week or so after digging"
+[35mFallow[0m[36m /ˈfaləʊ/,[0m [91m[3mnoun[0m[0m | noun: fallow; plural noun: fallows
+          • [37ma pale brown or reddish yellow colour.[0m
+	   "possible feather colours include fallows, pieds, and yellows"
+      [31m[4m[34mnoun[0m[0m[0m       [31m[4m[34madjective[0m[0m[0m          [31m[4m[34m[0m[0m[0m            [31m[4m[34mverb[0m[0m[0m    
+              [31mपरती[0m                           [31mबंजर[0m                           [31mपड़त[0m               [31mबोने के लिये भूमि तैयार करना[0m 

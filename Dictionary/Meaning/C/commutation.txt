@@ -1,0 +1,26 @@
+[35m                                                                                   COMMUTATION                                                                                    [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > Brown granted 56 pardons and 14 commutations on Friday.[0m
+[3m             > He says the governor and his staff spend a great deal of time analyzing each case on its unique facts before deciding whether to support or deny a commutation
+               or pardon.[0m
+[3m             > Ehrlich, a lawyer by training, now provides legal services to people seeking pardons or commutations through a partnership at the Columbus School of Law at
+               Catholic University.[0m
+[3m             > In Texas, the governor granted a rare death row commutation for Thomas Bartlett Whitaker.[0m
+[3m             > The board’s website notes that a recommendation for commutation is rare and must be approved by the governor.[0m
+
+[35mCommutation[0m[36m /kɒmjʊˈteɪʃ(ə)n/,[0m [91m[3mnoun[0m[0m | noun: commutation
+      [32m1.[0m [37mthe action or process of commuting a judicial sentence.[0m
+	   "a commutation of her sentence"
+          • [37mthe conversion of a legal obligation or entitlement into another form, e.g. the replacement of an annuity or series of payments by a single payment.[0m
+	   "the commutation of dues into money rents"
+
+      [32m2.[0m [37mthe process of commutating an electric current.[0m
+
+      [32m3.[0m [37mthe property of having a commutative relation.[0m
+  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34m[0m[0m[0m
+      [31mविनिमय[0m         [31mरूपांतरण[0m   
+    [31mएकराशिदान[0m        [31mबदल देना[0m   
+      [31mभुनाई[0m         [31mकम कर देना[0m  
+
+      Origin:  late Middle English (in the sense ‘exchange, barter’, later ‘alteration’): from Latin commutatio(n- ), from commutare ‘exchange, interchange’ (see commute).
+               Sense 1 dates from the late 16th century.

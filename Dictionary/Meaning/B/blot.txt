@@ -1,0 +1,68 @@
+[35m                                                                                       BLOT                                                                                       [0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > The white marble tomb, an unnecessary blot on the familiar landscape.[0m
+[3m             > This file contains Supplementary Figure 1 which shows the uncropped gel pictures for all the western blot analyses in the article.[0m
+[3m             > The largest blot on Churchill’s record – discussed infrequently in Britain – is the Bengal famine.[0m
+[3m             > She was annoyed with the beverage’s bitter taste and floating grounds, so she began experimenting with sheets of blotting paper.[0m
+[3m             > Source data for the RNA gel and northern blots showing the uncropped images for Extended Data Figure 1d and e.[0m
+
+[35mBlot[0m[36m /blɒt/,[0m [91m[3mnoun[0m[0m | noun: blot; plural noun: blots
+      [32m1.[0m [37ma dark mark or stain made by ink, paint, dirt, etc.[0m
+	   "a blot of ink"
+  	   [3msynonyms:[0m spot, spot dot, dot mark, mark speck, speck fleck, fleck blotch, blotch smudge, smudge patch, patch dab, dab smut, smut splash, splash smear, smear
+                     streak streak ;  splotch, splotch splodge splodge
+		    "an ink blot"
+          • [37ma shameful act or quality that damages an otherwise good character or reputation.[0m
+	   "the only blot on an otherwise clean campaign"
+  	   [3msynonyms:[0m blemish, blemish taint, taint flaw, flaw fault, fault defect, defect stain, stain tarnishing, imperfection, imperfection blight blight ;  disgrace,
+                     disgrace dishonour, dishonour stigma, stigma brand, brand slur slur
+		    "the only blot on an otherwise clean campaign"
+          • [37ma thing that mars the appearance of something.[0m
+	   "wind power turbines are a blot on the landscape"
+  	   [3msynonyms:[0m eyesore, eyesore monstrosity, monstrosity carbuncle, carbuncle atrocity, atrocity horror, horror mess mess ;  sight sight
+		    "a blot on the landscape"
+
+      [32m2.[0m [37ma procedure in which proteins or nucleic acids separated on a gel are transferred directly to an immobilizing medium for identification.[0m
+    [91m[3mverb[0m[0m | verb: blot; 3rd person present: blots; past tense: blotted; past participle: blotted; gerund or present participle: blotting
+      [32m1.[0m [37mdry (a wet surface or substance) using an absorbent material.[0m
+	   "Henry blotted the page"
+  	   [3msynonyms:[0m soak up, absorb, absorb take up, suck up, draw up, sponge up, mop up, sop up ;  dry up, dry out ;  dab, dab pat, pat press press
+		    "he used a towel to blot excess water"
+  	   [3mantonyms:[0m exude, exude moisten moisten
+
+      [32m2.[0m [37mmark or stain (something).[0m
+	   "the writing was messy and blotted"
+  	   [3msynonyms:[0m smudge, smudge smear, smear spot, spot blotch, blotch dot, dot mark, mark speckle, speckle bespatter bespatter  tarnish, tarnish taint, taint stain,
+                     stain blacken, blacken sully, sully smear, smear mar mar ;  dishonour, dishonour disgrace, disgrace bring discredit to, calumniate,
+                     calumniate traduce, traduce drag through the mud/mire ;  besmear, besmear besmirch besmirch ;  spot, spot breathe on
+		    "the writing was messy and blotted"
+  	   [3mantonyms:[0m honour, honour enhance enhance
+          • [37mdamage the good character or reputation of.[0m
+	   "the turmoil blotted his memory of the school"
+  	   [3msynonyms:[0m tarnish, tarnish taint, taint stain, stain blacken, blacken sully, sully smear, smear mar mar ;  dishonour, dishonour disgrace, disgrace bring discredit
+                     to, calumniate, calumniate traduce, traduce drag through the mud/mire ;  besmear, besmear besmirch besmirch ;  spot, spot breathe on
+		    "he had blotted our name forever by this disgraceful behaviour"
+  	   [3mantonyms:[0m honour, honour enhance enhance
+
+      [32m3.[0m [37mcover writing or pictures with ink or paint so that they cannot be seen.[0m
+	   "Mary dug her brush into black paint and blotted out her picture"
+  	   [3msynonyms:[0m erase, erase obliterate, obliterate delete, delete efface, efface rub out, wipe out, blank out, remove all traces of, expunge, expunge eliminate
+                     eliminate ;  cancel, cancel cross out, strike out
+		    "Mary blotted out her picture"
+          • [37mobscure a view.[0m
+	   "a dust shield blotting out the sun"
+  	   [3msynonyms:[0m conceal, conceal hide, hide obscure, obscure exclude, exclude obliterate, obliterate erase erase ;  darken, darken dim, dim shadow, shadow eclipse,
+                     eclipse cast a shadow over
+		    "clouds were starting to blot out the stars"
+  	   [3mantonyms:[0m reveal reveal
+          • [37mobliterate or disregard something painful in one's memory or existence.[0m
+	   "the concentration necessary to her job blotted out all the feelings"
+  	   [3msynonyms:[0m wipe out, erase, erase efface, efface eradicate, eradicate obliterate, obliterate expunge, expunge destroy, destroy exterminate exterminate
+		    "he urged her to blot out the memory of what she had seen"
+
+      [32m4.[0m [37mtransfer by means of a blot.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m  [31m[4m[34mverb[0m[0m[0m
+        [31mदाग[0m             [31mधब्बा[0m         [31mधब्बा लगाना[0m  
+     [31mदाग लगाना[0m          [31mदारा[0m        [31mस्याही आदि आना[0m 
+
+      Origin:  late Middle English: probably of Scandinavian origin and related to Old Norse blettr .

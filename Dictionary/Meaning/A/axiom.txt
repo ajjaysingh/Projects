@@ -1,0 +1,21 @@
+[35m                                                                                      AXIOM                                                                                       [0m
+[91m        SHORT  An axiom is a statement that everyone believes is true, such as "supply equals demand" or "the only constant is change." Mathematicians use axiom to refer to
+               established proofs.[0m
+[36m         LONG  Many axioms are so widely used they become clichés—here's one to help you remember what the word means. Axioms are so widely accepted they're seen almost as
+               facts. A police officer interrogating a witness might just as easily say, "Stick to the axioms," as "Stick to the facts, ma'am."[0m
+                                                                            EXAMPLES FROM VOCABULARY:                                                                             
+[3m             > “Everybody plays well at home,” Bradley Beal said, repeating a sports axiom.[0m
+[3m             > An axiom he uses is, “Fit the exercise to the person, not the person to the exercise.”[0m
+[3m             > “Trade-offs are the essence of tax reform,” said Douglas Holtz-Eakin, repeating an axiom of the trade.[0m
+[3m             > The axiom eliminates the need for investigation of thoughtful evaluation.[0m
+[3m             > You start with a set of axioms, and derive a series of conclusions by a watertight chain of deductions.[0m
+
+[35mAxiom[0m[36m /ˈaksɪəm/,[0m [91m[3mnoun[0m[0m | noun: axiom; plural noun: axioms
+          • [37ma statement or proposition which is regarded as being established, accepted, or self-evidently true.[0m
+	   "the axiom that sport builds character"
+  	   [3msynonyms:[0m accepted truth, general truth, dictum, truism, principle ;  Moreproposition, postulate; maxim, saying, adage, aphorism; rareapophthegm, gnome
+                     proposition, postulate ;  maxim, saying, adage, aphorism ;  apophthegm, gnome
+          • [37ma statement or proposition on which an abstractly defined structure is based.[0m
+  [31m[4m[34m[0m[0m[0m  [31m[4m[34mnoun[0m[0m[0m
+     [31mस्वयंसिद्ध[0m          [31mसिद्धांत[0m     
+      [31mअभिगृहीत[0m         [31mसिद्ध प्रमाण[0m   
