@@ -8,6 +8,12 @@
 
 import  requests, os, sys, json, urllib, shutil, re, pickle, spellcheck
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+
 
 dir = '/Users/chaser/Projects/Dictionary/Meaning/sounds'
 
@@ -31,17 +37,17 @@ def say(word):
         os.system('afplay ' + fileName)
     else:
         try:
-            url = 'https://ssl.gstatic.com/dictionary/static/sounds/de/0/' + fileName
-            response = os.system('wget ' + url) #wget -O will output the downloaded content to specified file
+            url = 'https://www.google.co.in/search?q=define%20' + word + '&expnd=1'
+            response = requests.get(url, headers={"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:49.0) Gecko/20100101 Firefox/49.0"})
             # print("\n\n>>>>",response)
-            if response != 2048:
-                os.system('afplay ' + fileName)
-                # os.system('rm ' + fileName)
-            else:
-                new_url = 'http://ssl.gstatic.com/dictionary/static/sounds/oxford/' + word.lower() + '--_gb_1.mp3'
-                response = os.system('wget ' + new_url)
-                if response != 2048:
-                    os.system('mv ' + word.lower() + '--_gb_1.mp3 ' + fileName)
+            html = response.content
+            sound_soup = BeautifulSoup(html, 'html.parser')
+            sound_url = "http:" + sound_soup.find("audio").get("src") # get the url of the sound from the google search result.
+            if len(sound_url) > 5:
+                sound_response = os.system('wget ' + sound_url)
+                sound_name = sound_soup.find("audio").get("src").split("/")[-1] # name of the file that will be downloaded.
+                if sound_response != 2048:
+                    os.system('mv ' + sound_name + ' ' + fileName)
                     os.system('afplay ' + fileName)
                 else:
                     try:

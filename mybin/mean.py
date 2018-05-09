@@ -241,7 +241,7 @@ def getGoogleResponse(word, driver):
 
 
 def extractHindi(translations):
-    posHeading = translations.find_all("div", {"class":"lr_dct_tg_pos vk_txt"})
+    posHeading = translations.find_all("div", {"class":"lr_dct_tg_pos Uekwlc XpoqFe"})
     transWords = translations.find_all("ol", {"class":"lr_dct_tg_trns"})
     translation_table = []
     translation_heading_subBlock = []
@@ -315,7 +315,7 @@ def extractFromGoogleElement(everyThing):
     print()
     for block in everyThing:
         name = block.find("span", {"data-dobid":"hdw"})
-        subBlock_POS = block.find_all("div", {"class":"lr_dct_sf_h"})
+        subBlock_POS = block.find_all("div", {"class":"lr_dct_sf_h"}) # Part of Speech
         subBlock_pronun = block.find_all("span", {"class":"lr_dct_ph"})  # less than or equal to the no of sub blocks(POS)
         subBlock_lineBelowPOS = block.find_all("div", {"class":"xpdxpnd vk_gy"})
         subBlock_crux = block.find_all("ol", {"class":"lr_dct_sf_sens"})
@@ -340,7 +340,7 @@ def extractFromGoogleElement(everyThing):
             if subBlock_wordForm != None:
                 print("\n\t" + subBlock_wordForm.text, end="")
             # print("\t" + subBlock_crux.text)
-            lines = subBlock_crux[iterator].find_all("div", {"class":"lr_dct_sf_sen vk_txt"})
+            lines = subBlock_crux[iterator].find_all("div", {"class":"lr_dct_sf_sen Uekwlc XpoqFe"})
             iterator = iterator + 1
             # print(iterator)
             for line in lines: # line means the line that has a number assigned to it some lines are a part of the line assigned the number in a bulleted list class="_Jig"
